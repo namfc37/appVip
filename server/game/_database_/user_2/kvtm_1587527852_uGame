@@ -1,0 +1,1366 @@
+{
+  "country": "vn",
+  "displayName": "",
+  "avatar": "",
+  "level": 100,
+  "exp": 15314,
+  "coin": 99122,
+  "gold": 253410,
+  "reputation": 5,
+  "stock": {
+    "T4": 10,
+    "FT1": 2,
+    "HT2": 8,
+    "H1": 5,
+    "M20": 6,
+    "H3": 6,
+    "E3PO": 111511,
+    "B0": 2,
+    "B3": 1,
+    "B4": 1,
+    "B5": 1,
+    "T1": 18,
+    "MG01": 25
+  },
+  "stockLevel": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "floors": [
+    {
+      "id": 0,
+      "machine": {
+        "timeStartUnlock": 0,
+        "isFinishUnlock": true,
+        "level": 1,
+        "numSlot": 2,
+        "durability": 60,
+        "workingTime": 0,
+        "store": [],
+        "timeStart": 0,
+        "timeFinish": 0,
+        "produceItems": []
+      },
+      "slots": [
+        {
+          "id": 0,
+          "pot": "P0",
+          "timeStart": 0,
+          "timeFinish": 0
+        },
+        {
+          "id": 1,
+          "pot": "P0",
+          "timeStart": 0,
+          "timeFinish": 0
+        },
+        {
+          "id": 2,
+          "pot": "P0",
+          "timeStart": 0,
+          "timeFinish": 0
+        },
+        {
+          "id": 3,
+          "pot": "P0",
+          "timeStart": 0,
+          "timeFinish": 0
+        },
+        {
+          "id": 4,
+          "pot": "P0",
+          "timeStart": 0,
+          "timeFinish": 0
+        },
+        {
+          "id": 5,
+          "pot": "P0",
+          "timeStart": 0,
+          "timeFinish": 0
+        }
+      ],
+      "skin": {
+        "id": "",
+        "startTime": -1,
+        "endTime": -1
+      }
+    },
+    {
+      "id": 1,
+      "machine": {
+        "timeStartUnlock": 0,
+        "isFinishUnlock": false,
+        "level": 0,
+        "numSlot": 0,
+        "durability": 0,
+        "workingTime": 0,
+        "store": [],
+        "timeStart": 0,
+        "timeFinish": 0,
+        "produceItems": []
+      },
+      "slots": [
+        {
+          "id": 0,
+          "timeStart": 0,
+          "timeFinish": 0
+        },
+        {
+          "id": 1,
+          "timeStart": 0,
+          "timeFinish": 0
+        },
+        {
+          "id": 2,
+          "timeStart": 0,
+          "timeFinish": 0
+        },
+        {
+          "id": 3,
+          "timeStart": 0,
+          "timeFinish": 0
+        },
+        {
+          "id": 4,
+          "timeStart": 0,
+          "timeFinish": 0
+        },
+        {
+          "id": 5,
+          "timeStart": 0,
+          "timeFinish": 0
+        }
+      ],
+      "skin": {
+        "id": "",
+        "startTime": -1,
+        "endTime": -1
+      }
+    }
+  ],
+  "setting": {
+    "sound": true,
+    "music": true,
+    "notify": true
+  },
+  "order": {
+    "genUid": 14,
+    "numNormal": 0,
+    "numDaily": 1,
+    "dailyOrder": {
+      "id": 14,
+      "subType": 5,
+      "status": 1,
+      "time": 0,
+      "price": 0,
+      "npc": 1,
+      "requireItems": {
+        "T2": 3
+      },
+      "rewardItems": {
+        "GOLD": 72,
+        "EXP": 250,
+        "HT1": 1
+      }
+    },
+    "normalOrders": [
+      {
+        "id": 1000002,
+        "subType": 6,
+        "status": 1,
+        "time": 0,
+        "price": 0,
+        "npc": 10,
+        "requireItems": {
+          "R41": 1,
+          "R55": 1
+        },
+        "rewardItems": {
+          "GOLD": 203,
+          "EXP": 81,
+          "HT2": 2
+        },
+        "bonusItems": {
+          "E1PO": 2
+        }
+      },
+      {
+        "id": 1001003,
+        "subType": 6,
+        "status": 1,
+        "time": 0,
+        "price": 0,
+        "npc": 11,
+        "requireItems": {
+          "R51": 7
+        },
+        "rewardItems": {
+          "GOLD": 1226,
+          "EXP": 283,
+          "HT2": 2
+        },
+        "bonusItems": {
+          "E1PO": 2
+        }
+      },
+      {
+        "id": 1002004,
+        "subType": 6,
+        "status": 1,
+        "time": 0,
+        "price": 0,
+        "npc": 2,
+        "requireItems": {
+          "R4": 5,
+          "R30": 5
+        },
+        "rewardItems": {
+          "GOLD": 614,
+          "EXP": 372,
+          "HT2": 2
+        },
+        "bonusItems": {
+          "E1PO": 2
+        }
+      },
+      {
+        "id": 1003005,
+        "subType": 6,
+        "status": 1,
+        "time": 0,
+        "price": 0,
+        "npc": 3,
+        "requireItems": {
+          "R40": 2,
+          "R53": 2,
+          "T14": 2,
+          "R37": 2
+        },
+        "rewardItems": {
+          "GOLD": 1003,
+          "EXP": 415,
+          "HT2": 2
+        },
+        "bonusItems": {
+          "E1PO": 2
+        }
+      },
+      {
+        "id": 1004006,
+        "subType": 6,
+        "status": 1,
+        "time": 0,
+        "price": 0,
+        "npc": 8,
+        "requireItems": {
+          "R24": 3,
+          "R41": 3,
+          "R37": 3
+        },
+        "rewardItems": {
+          "GOLD": 1247,
+          "EXP": 508,
+          "HT2": 2
+        },
+        "bonusItems": {
+          "E1PO": 2
+        }
+      },
+      {
+        "id": 1005007,
+        "subType": 6,
+        "status": 1,
+        "time": 0,
+        "price": 0,
+        "npc": 8,
+        "requireItems": {
+          "R32": 2,
+          "R14": 2,
+          "T9": 2,
+          "T2": 2
+        },
+        "rewardItems": {
+          "GOLD": 227,
+          "EXP": 95,
+          "HT2": 2
+        },
+        "bonusItems": {
+          "E1PO": 2
+        }
+      },
+      {
+        "id": 1006008,
+        "subType": 6,
+        "status": 1,
+        "time": 0,
+        "price": 0,
+        "npc": 9,
+        "requireItems": {
+          "R3": 6
+        },
+        "rewardItems": {
+          "GOLD": 75,
+          "EXP": 50,
+          "HT2": 2
+        },
+        "bonusItems": {
+          "E1PO": 2
+        }
+      },
+      {
+        "id": 1007009,
+        "subType": 6,
+        "status": 1,
+        "time": 0,
+        "price": 0,
+        "npc": 9,
+        "requireItems": {
+          "T4": 1,
+          "R34": 1,
+          "R57": 1,
+          "R17": 1,
+          "R19": 1,
+          "T1": 1
+        },
+        "rewardItems": {
+          "GOLD": 388,
+          "EXP": 183,
+          "HT2": 2
+        },
+        "bonusItems": {
+          "E1PO": 2
+        }
+      }
+    ]
+  },
+  "timeResetDaily": 1588352400,
+  "ibShopCount": {},
+  "timeNbPrivateShop": 1588145215,
+  "timeNbAirShip": 1588145215,
+  "numAirShip": 0,
+  "tom": {
+    "status": 1,
+    "typeHire": 0,
+    "timeHire": 0,
+    "timeRest": 0,
+    "timeRestDuration": 0
+  },
+  "luckySpin": {
+    "numPay": 0,
+    "isX2": false,
+    "numSpin": 0,
+    "slots": [
+      {
+        "item": "X2",
+        "num": 1
+      },
+      {
+        "item": "M5",
+        "num": 1
+      },
+      {
+        "item": "R44",
+        "num": 6
+      },
+      {
+        "item": "T16",
+        "num": 6
+      },
+      {
+        "item": "M3",
+        "num": 1
+      },
+      {
+        "item": "M4",
+        "num": 1
+      },
+      {
+        "item": "R54",
+        "num": 6
+      },
+      {
+        "item": "P41",
+        "num": 1
+      },
+      {
+        "item": "R57",
+        "num": 6
+      },
+      {
+        "item": "T12",
+        "num": 6
+      },
+      {
+        "item": "COIN",
+        "num": 100
+      },
+      {
+        "item": "T19",
+        "num": 6
+      }
+    ],
+    "incomplete": -1,
+    "timeReset": 1588323459,
+    "nextTimeReset": [
+      1588330800
+    ],
+    "eventItems": {
+      "HT3": 1
+    }
+  },
+  "openBuildingGame": true,
+  "openBuildingGuild": false,
+  "openBuildingGuildDerby": false,
+  "dice": {
+    "timeStart": 1588266000,
+    "isEvent": false,
+    "spentCoin": 200,
+    "numTicket": 3,
+    "numSpin": 0,
+    "point": -1,
+    "incomplete": -1,
+    "isX2": false,
+    "slots": [
+      {
+        "item": "DICE",
+        "num": 1,
+        "rate": 0
+      },
+      {
+        "item": "N1",
+        "num": 5,
+        "rate": 20
+      },
+      {
+        "item": "X2",
+        "num": 1,
+        "rate": 25
+      },
+      {
+        "item": "N2",
+        "num": 5,
+        "rate": 20
+      },
+      {
+        "item": "C3",
+        "num": 1,
+        "rate": 5
+      },
+      {
+        "item": "M23",
+        "num": 1,
+        "rate": 20
+      },
+      {
+        "item": "P35",
+        "num": 1,
+        "rate": 10
+      },
+      {
+        "item": "M19",
+        "num": 1,
+        "rate": 20
+      },
+      {
+        "item": "M3",
+        "num": 3,
+        "rate": 20
+      },
+      {
+        "item": "D18",
+        "num": 1,
+        "rate": 15
+      },
+      {
+        "item": "DICE",
+        "num": 1,
+        "rate": 5
+      },
+      {
+        "item": "M25",
+        "num": 1,
+        "rate": 15
+      },
+      {
+        "item": "P42",
+        "num": 1,
+        "rate": 15
+      },
+      {
+        "item": "M22",
+        "num": 1,
+        "rate": 20
+      },
+      {
+        "item": "REPU",
+        "num": 100,
+        "rate": 20
+      },
+      {
+        "item": "X2",
+        "num": 1,
+        "rate": 10
+      },
+      {
+        "item": "M26",
+        "num": 1,
+        "rate": 15
+      },
+      {
+        "item": "M4",
+        "num": 3,
+        "rate": 20
+      },
+      {
+        "item": "D19",
+        "num": 1,
+        "rate": 5
+      },
+      {
+        "item": "M5",
+        "num": 3,
+        "rate": 20
+      }
+    ],
+    "lastPoint": -1,
+    "eventItems": {
+      "HT2": 1
+    }
+  },
+  "dailyGift": {
+    "isNewUser": true,
+    "timeStart": 1587488400,
+    "max": 6,
+    "cur": 6,
+    "rewards": [
+      {
+        "GOLD": 2000
+      },
+      {
+        "COIN": 10
+      },
+      {
+        "GOLD": 3000
+      },
+      {
+        "COIN": 15
+      },
+      {
+        "GOLD": 6000
+      },
+      {
+        "GOLD": 10000
+      },
+      {
+        "COIN": 20
+      }
+    ],
+    "circleRewards": {},
+    "lastTimeResetDaily": 1588266000
+  },
+  "mine": {
+    "status": 1,
+    "lastUpdate": 1588323467,
+    "finishTime": -1,
+    "requireItems": {
+      "R32": 4,
+      "R33": 4,
+      "R50": 2
+    },
+    "receiveItems": {
+      "GOLD": 1030,
+      "N0": 2,
+      "N1": 1,
+      "M5": 1,
+      "M6": 1,
+      "G0": 2,
+      "M11": 1,
+      "EXP": 494
+    }
+  },
+  "gacha": {
+    "chests": {
+      "C3": {
+        "id": "C3",
+        "status": 1,
+        "turn": 0,
+        "timeStart": 1588323459,
+        "timeFinish": 1588324659,
+        "priceType": "REPU",
+        "priceTurn": 20,
+        "slots": [
+          {
+            "id": "M22",
+            "num": 1,
+            "rate": 8
+          },
+          {
+            "id": "M0",
+            "num": 2,
+            "rate": 20
+          },
+          {
+            "id": "A4",
+            "num": 1,
+            "rate": 25
+          },
+          {
+            "id": "P8",
+            "num": 1,
+            "rate": 2
+          },
+          {
+            "id": "A3",
+            "num": 1,
+            "rate": 25
+          },
+          {
+            "id": "P7",
+            "num": 1,
+            "rate": 3
+          },
+          {
+            "id": "P23",
+            "num": 1,
+            "rate": 0
+          },
+          {
+            "id": "GOLD",
+            "num": 2500,
+            "rate": 9
+          },
+          {
+            "id": "A5",
+            "num": 1,
+            "rate": 8
+          }
+        ],
+        "winSlot": 1,
+        "useStock": false
+      },
+      "C4": {
+        "id": "C4",
+        "status": 1,
+        "turn": 0,
+        "timeStart": 1588323459,
+        "timeFinish": 1588323459,
+        "priceType": "COIN",
+        "priceTurn": 20,
+        "slots": [
+          {
+            "id": "P53",
+            "num": 1,
+            "rate": 3
+          },
+          {
+            "id": "P41",
+            "num": 1,
+            "rate": 8
+          },
+          {
+            "id": "P61",
+            "num": 1,
+            "rate": 0
+          },
+          {
+            "id": "P48",
+            "num": 1,
+            "rate": 2
+          },
+          {
+            "id": "P20",
+            "num": 1,
+            "rate": 25
+          },
+          {
+            "id": "P36",
+            "num": 1,
+            "rate": 8
+          },
+          {
+            "id": "P25",
+            "num": 1,
+            "rate": 25
+          },
+          {
+            "id": "P24",
+            "num": 1,
+            "rate": 20
+          },
+          {
+            "id": "P30",
+            "num": 1,
+            "rate": 9
+          }
+        ],
+        "winSlot": 5,
+        "useStock": false
+      },
+      "C5": {
+        "id": "C5",
+        "status": 1,
+        "turn": 0,
+        "timeStart": 1588323459,
+        "timeFinish": 1588323459,
+        "priceType": "COIN",
+        "priceTurn": 100,
+        "slots": [
+          {
+            "id": "P48",
+            "num": 1,
+            "rate": 8
+          },
+          {
+            "id": "P36",
+            "num": 1,
+            "rate": 25
+          },
+          {
+            "id": "P53",
+            "num": 1,
+            "rate": 3
+          },
+          {
+            "id": "P49",
+            "num": 1,
+            "rate": 2
+          },
+          {
+            "id": "P66",
+            "num": 1,
+            "rate": 0
+          },
+          {
+            "id": "P35",
+            "num": 1,
+            "rate": 25
+          },
+          {
+            "id": "P47",
+            "num": 1,
+            "rate": 9
+          },
+          {
+            "id": "P31",
+            "num": 1,
+            "rate": 20
+          },
+          {
+            "id": "P41",
+            "num": 1,
+            "rate": 8
+          }
+        ],
+        "winSlot": 7,
+        "useStock": false
+      },
+      "C1": {
+        "id": "C1",
+        "status": 1,
+        "turn": 0,
+        "timeStart": 1588323459,
+        "timeFinish": 1588323459,
+        "priceTurn": 0,
+        "slots": [
+          {
+            "id": "GOLD",
+            "num": 200,
+            "rate": 5
+          },
+          {
+            "id": "GOLD",
+            "num": 100,
+            "rate": 15
+          },
+          {
+            "id": "GOLD",
+            "num": 120,
+            "rate": 14
+          },
+          {
+            "id": "EXP",
+            "num": 90,
+            "rate": 15
+          },
+          {
+            "id": "EXP",
+            "num": 200,
+            "rate": 5
+          },
+          {
+            "id": "EXP",
+            "num": 150,
+            "rate": 13
+          },
+          {
+            "id": "GOLD",
+            "num": 150,
+            "rate": 13
+          },
+          {
+            "id": "GOLD",
+            "num": 80,
+            "rate": 15
+          },
+          {
+            "id": "B5",
+            "num": 1,
+            "rate": 5
+          }
+        ],
+        "winSlot": 2,
+        "useStock": false
+      },
+      "C2": {
+        "id": "C2",
+        "status": 1,
+        "turn": 0,
+        "timeStart": 1588323459,
+        "timeFinish": 1588325259,
+        "priceType": "GOLD",
+        "priceTurn": 1500,
+        "slots": [
+          {
+            "id": "M7",
+            "num": 2,
+            "rate": 9
+          },
+          {
+            "id": "P7",
+            "num": 1,
+            "rate": 2
+          },
+          {
+            "id": "A0",
+            "num": 1,
+            "rate": 25
+          },
+          {
+            "id": "M18",
+            "num": 1,
+            "rate": 8
+          },
+          {
+            "id": "P11",
+            "num": 1,
+            "rate": 0
+          },
+          {
+            "id": "P6",
+            "num": 1,
+            "rate": 3
+          },
+          {
+            "id": "M23",
+            "num": 1,
+            "rate": 25
+          },
+          {
+            "id": "M3",
+            "num": 2,
+            "rate": 8
+          },
+          {
+            "id": "M6",
+            "num": 1,
+            "rate": 20
+          }
+        ],
+        "winSlot": 6,
+        "useStock": false
+      }
+    }
+  },
+  "payment": {
+    "map": {},
+    "totalConvert": 0,
+    "lastConvert": {},
+    "levelOfferA": 30,
+    "timeOfferA": 1588350034,
+    "offersA": {
+      "OFFER_SUPER_17": {
+        "id": "OFFER_SUPER_17",
+        "timeStart": 1588323459,
+        "timeFinish": 1588345359
+      }
+    },
+    "repeatOffers": {},
+    "offersExpired": {
+      "OFFER_SUPER_3": {
+        "id": "OFFER_SUPER_3",
+        "timeStart": 1588041634,
+        "timeFinish": 1588063534
+      }
+    },
+    "numTransaction": 0,
+    "activeLocal": false,
+    "purchaseOffers": {},
+    "flowOffer": 0,
+    "dayCheckRareOffer": 33,
+    "useTestPayment": false
+  },
+  "festival": {
+    "action01": {
+      "eventId": "E1ID",
+      "startTime": 1586916000,
+      "nextDay": 1588006800,
+      "featureDropItems": {
+        "AIRSHIP_FRIEND_PACK": {
+          "E1PO": 4
+        },
+        "USER_LOGIN": {
+          "E1PO": 4
+        },
+        "ORDER_GET_REWARD_ORDER_DAILY_FREE": {
+          "E1PO": 2
+        },
+        "LUCKY_SPIN_0": {
+          "E1PO": 1
+        },
+        "DICE_SPIN_0": {
+          "E1PO": 1
+        }
+      },
+      "harvestDropItems": {},
+      "rewardRecieved": {},
+      "rewardPackReceived": {}
+    },
+    "action03": {
+      "eventId": "E3ID",
+      "startTime": 1588039200,
+      "nextDay": 1588352400,
+      "featureDropItems": {
+        "AIRSHIP_FRIEND_PACK": {
+          "HT2": 2
+        },
+        "USER_LOGIN": {
+          "HT2": 4
+        },
+        "ORDER_GET_REWARD_ORDER_DAILY_FREE": {},
+        "LUCKY_SPIN_0": {
+          "HT3": 1
+        },
+        "DICE_SPIN_0": {
+          "HT2": 1
+        }
+      },
+      "harvestDropItems": {},
+      "rewardRecieved": {
+        "2": 1,
+        "19": 1,
+        "4": 1,
+        "6": 1,
+        "23": 1,
+        "8": 1,
+        "12": 1
+      },
+      "rewardPackReceived": {}
+    }
+  },
+  "friendBug": {
+    "status": 1,
+    "id": 0,
+    "numCatch": 0,
+    "timeWait": 0,
+    "bugs": {
+      "B3": 1,
+      "B4": 1,
+      "B5": 1
+    }
+  },
+  "jackShop": {
+    "slots": [
+      {
+        "item": "T19",
+        "num": 1,
+        "price": 20,
+        "isSold": false
+      },
+      {
+        "item": "T11",
+        "num": 1,
+        "price": 12,
+        "isSold": false
+      },
+      {
+        "item": "T2",
+        "num": 1,
+        "price": 3,
+        "isSold": false
+      },
+      {
+        "item": "T12",
+        "num": 1,
+        "price": 13,
+        "isSold": false
+      },
+      {
+        "item": "B6",
+        "num": 1,
+        "price": 45,
+        "isSold": false
+      },
+      {
+        "item": "B6",
+        "num": 1,
+        "price": 45,
+        "isSold": false
+      }
+    ]
+  },
+  "jackMachine": [
+    0,
+    -2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "achievementB": {
+    "tasks": {
+      "0": {
+        "id": 0,
+        "level": 0,
+        "point": 6
+      },
+      "51": {
+        "id": 51,
+        "level": 0,
+        "point": 1
+      },
+      "44": {
+        "id": 44,
+        "level": 0,
+        "point": 2
+      }
+    },
+    "trophy": 0,
+    "reward": 0
+  },
+  "giftCode": {
+    "multiples": {},
+    "singles": {}
+  },
+  "friendReputation": 0,
+  "questBookA": {
+    "quests": {
+      "0": {
+        "ID": 0,
+        "ACTION": "ACTION_MACHINE_HARVEST",
+        "TARGET": "A4",
+        "CURRENT": 0,
+        "REQUIRE": 1,
+        "SKIP_PRICE_TYPE": "COIN",
+        "SKIP_PRICE_NUM": -1,
+        "START_TIME": -1,
+        "REWARD": {
+          "GOLD": 245,
+          "E1PO": 2,
+          "EXP": 306
+        }
+      },
+      "1": {
+        "ID": 1,
+        "ACTION": "ACTION_PLANT_HARVEST",
+        "TARGET": "T16",
+        "CURRENT": 0,
+        "REQUIRE": 12,
+        "SKIP_PRICE_TYPE": "COIN",
+        "SKIP_PRICE_NUM": -18,
+        "START_TIME": -1,
+        "REWARD": {
+          "GOLD": 346,
+          "E1PO": 2,
+          "EXP": 454
+        }
+      },
+      "2": {
+        "ID": 2,
+        "ACTION": "ACTION_MACHINE_PRODUCE",
+        "TARGET": "R35",
+        "CURRENT": 0,
+        "REQUIRE": 2,
+        "SKIP_PRICE_TYPE": "COIN",
+        "SKIP_PRICE_NUM": -2,
+        "START_TIME": -1,
+        "REWARD": {
+          "GOLD": 186,
+          "E1PO": 2,
+          "EXP": 231
+        }
+      },
+      "3": {
+        "ID": 3,
+        "ACTION": "ACTION_GACHA_OPEN",
+        "TARGET": "",
+        "CURRENT": 0,
+        "REQUIRE": 5,
+        "SKIP_PRICE_TYPE": "COIN",
+        "SKIP_PRICE_NUM": -5,
+        "START_TIME": -1,
+        "REWARD": {
+          "GOLD": 960,
+          "E1PO": 2,
+          "EXP": 1188
+        }
+      },
+      "4": {
+        "ID": 4,
+        "ACTION": "ACTION_LUCKY_SPIN",
+        "TARGET": "",
+        "CURRENT": 0,
+        "REQUIRE": 3,
+        "SKIP_PRICE_TYPE": "COIN",
+        "SKIP_PRICE_NUM": -3,
+        "START_TIME": -1,
+        "REWARD": {
+          "GOLD": 144,
+          "E1PO": 3,
+          "EXP": 179
+        }
+      },
+      "5": {
+        "ID": 5,
+        "ACTION": "ACTION_MAKE_POT",
+        "TARGET": "",
+        "CURRENT": 0,
+        "REQUIRE": 1,
+        "SKIP_PRICE_TYPE": "COIN",
+        "SKIP_PRICE_NUM": -1,
+        "START_TIME": -1,
+        "REWARD": {
+          "GOLD": 120000,
+          "E1PO": 5,
+          "EXP": 148500
+        }
+      },
+      "6": {
+        "ID": 6,
+        "ACTION": "ACTION_POT_UPGRADE",
+        "TARGET": "",
+        "CURRENT": 0,
+        "REQUIRE": 2,
+        "SKIP_PRICE_TYPE": "COIN",
+        "SKIP_PRICE_NUM": -2,
+        "START_TIME": -1,
+        "REWARD": {
+          "GOLD": 720,
+          "E1PO": 3,
+          "EXP": 893
+        }
+      },
+      "7": {
+        "ID": 7,
+        "ACTION": "ACTION_TRUCK_PACK",
+        "TARGET": "",
+        "CURRENT": 0,
+        "REQUIRE": 14,
+        "SKIP_PRICE_TYPE": "COIN",
+        "SKIP_PRICE_NUM": -14,
+        "START_TIME": -1,
+        "REWARD": {
+          "EXP": 1336,
+          "GOLD": 1076
+        }
+      },
+      "8": {
+        "ID": 8,
+        "ACTION": "ACTION_DAILY_LOGIN",
+        "TARGET": "",
+        "CURRENT": 1,
+        "REQUIRE": 5,
+        "SKIP_PRICE_TYPE": "COIN",
+        "SKIP_PRICE_NUM": -5,
+        "START_TIME": -1,
+        "REWARD": {
+          "GOLD": 4800,
+          "E1PO": 2,
+          "EXP": 5940
+        }
+      },
+      "9": {
+        "ID": 9,
+        "ACTION": "ACTION_MACHINE_UPGRADE",
+        "TARGET": "",
+        "CURRENT": 0,
+        "REQUIRE": 1,
+        "SKIP_PRICE_TYPE": "COIN",
+        "SKIP_PRICE_NUM": -1,
+        "START_TIME": -1,
+        "REWARD": {
+          "GOLD": 960,
+          "E1PO": 5,
+          "EXP": 1188
+        }
+      }
+    },
+    "dailyFinish": 0
+  },
+  "checkOffer": {},
+  "isRating": false,
+  "rankingPR": {
+    "level": {
+      "id": "TOP_LEVEL",
+      "group": 120,
+      "start": -1,
+      "point": 1000057,
+      "order": 0,
+      "getReward": false,
+      "hasChanged": false
+    },
+    "appraisal": {
+      "id": "TOP_APPRAISAL",
+      "group": 120,
+      "start": -1,
+      "point": 36,
+      "order": -1,
+      "getReward": false,
+      "hasChanged": false
+    },
+    "action": {
+      "id": "TOP_AIRSHIP_DELIVERY",
+      "group": 120,
+      "start": 1588039200,
+      "point": 0,
+      "order": -1,
+      "getReward": false,
+      "hasChanged": true
+    },
+    "event": {
+      "id": "TOP_EVENT_E3ID",
+      "group": 120,
+      "start": 1588039200,
+      "point": 511,
+      "order": 0,
+      "getReward": false,
+      "hasChanged": false
+    }
+  },
+  "pigBank": {
+    "diamond": 0,
+    "timeGetReward": 0
+  },
+  "vip": {
+    "currentActive": "INACTIVE",
+    "timeExpire": 0,
+    "timeActive": 0
+  },
+  "flippingCards": {
+    "ticketLastTime": -1,
+    "points": 0,
+    "checkpoint": [],
+    "gamePlaying": false,
+    "gameLevel": -1
+  },
+  "truck": {
+    "status": 0,
+    "level": 1,
+    "deliveryCount": 0,
+    "timeStart": 0,
+    "timeFinish": 0,
+    "bags": [],
+    "deliveryReward": {}
+  },
+  "consumeEvent": {
+    "timeStart": 0,
+    "listConsume": {}
+  },
+  "gachapon": {
+    "status": 1,
+    "turn": 0,
+    "rewards": {}
+  },
+  "fishing": {
+    "totalFish": 24,
+    "dailyFish": {
+      "F3": 1
+    },
+    "pond": {
+      "status": 1,
+      "turn": 1,
+      "timeReset": 1588352400,
+      "fish": {
+        "F2": 4,
+        "F3": 2
+      }
+    },
+    "minigame": {
+      "status": 1,
+      "hook": "",
+      "fish": "",
+      "reward": {},
+      "type": "BRONZE",
+      "areaMin": 11,
+      "areaMax": 39,
+      "weight": 0
+    },
+    "slots": [
+      {
+        "status": 2,
+        "hook": "",
+        "timeFinish": 0
+      },
+      {
+        "status": 2,
+        "hook": "",
+        "timeFinish": 0
+      },
+      {
+        "status": 2,
+        "hook": "",
+        "timeFinish": 0
+      },
+      {
+        "status": 1,
+        "hook": "",
+        "timeFinish": 0
+      },
+      {
+        "status": 1,
+        "hook": "",
+        "timeFinish": 0
+      },
+      {
+        "status": 1,
+        "hook": "",
+        "timeFinish": 0
+      }
+    ],
+    "hookProduceRequire": {},
+    "featureDropItems": {
+      "ORDER_GET_REWARD_ORDER_DAILY_FREE": {
+        "HT1": 1
+      }
+    },
+    "timeResetDaily": 1588352400
+  },
+  "paymentAccumulate": {
+    "id": "",
+    "coin": 0,
+    "money": 0.0,
+    "tokenGain": 0,
+    "tokenSpent": 0,
+    "history": {},
+    "checkpoints": {}
+  },
+  "posmInfoData": {
+    "mapInfo": {}
+  },
+  "eventItemsFriendPack": {
+    "HT2": 2
+  },
+  "tutorial": "{\"isFinished\":false,\"finishedStepIds\":[10100,10200,10300,10400,10401,10500,10502,10601,10602,10603,10700,10701,10702,10703,10704,10800,10801,10802,10803,10804,10805,10900,10901,10902,10903,11000,11001,11002,11003,11004,11100,11101,11200,11201,11202,11300,11301,3529,3528,3902,4300,4400,4500,4600,4700,4800,4900,5402,5100,5101,5500,5501,5502,5600,5601,5602,5604,5605,5606,5607,5609,11400,11401],\"version\":2,\"flow\":2}",
+  "tutorialFlow": 2,
+  "tutorialUpgradePot": false,
+  "lastLogin": 1588145209,
+  "onlineSecond": 200773,
+  "countPlant": 6
+}

@@ -1,0 +1,104 @@
+
+npc_wolf_event_temp1.png
+size: 126,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_2
+  rotate: false
+  xy: 65, 42
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+back_arm_2
+  rotate: true
+  xy: 52, 20
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 65
+  size: 37, 59
+  orig: 38, 59
+  offset: 0, 0
+  index: -1
+bone
+  rotate: false
+  xy: 2, 2
+  size: 31, 16
+  orig: 31, 16
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: false
+  xy: 39, 42
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: true
+  xy: 22, 36
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+hand_back
+  rotate: true
+  xy: 87, 73
+  size: 25, 30
+  orig: 29, 30
+  offset: 1, 0
+  index: -1
+head
+  rotate: false
+  xy: 41, 84
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+kt
+  rotate: false
+  xy: 87, 100
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+mouth_01
+  rotate: true
+  xy: 72, 13
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 20
+  size: 43, 18
+  orig: 43, 18
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 41, 59
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+wolf_001
+  rotate: true
+  xy: 22, 20
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1
+wolf_003
+  rotate: true
+  xy: 35, 2
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1

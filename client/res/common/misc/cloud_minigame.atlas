@@ -1,0 +1,55 @@
+
+cloud_minigame.png
+size: 327,325
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gift_cloud_000
+  rotate: false
+  xy: 2, 176
+  size: 189, 147
+  orig: 190, 147
+  offset: 1, 0
+  index: -1
+gift_cloud_002
+  rotate: true
+  xy: 144, 29
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+gift_cloud_003
+  rotate: false
+  xy: 193, 163
+  size: 107, 64
+  orig: 107, 69
+  offset: 0, 5
+  index: -1
+gift_cloud_004
+  rotate: false
+  xy: 144, 65
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+gift_cloud_007
+  rotate: false
+  xy: 193, 229
+  size: 132, 94
+  orig: 132, 97
+  offset: 0, 3
+  index: -1
+gift_cloud_009
+  rotate: false
+  xy: 2, 31
+  size: 140, 143
+  orig: 140, 143
+  offset: 0, 0
+  index: -1
+gift_cloud_011
+  rotate: false
+  xy: 234, 65
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1

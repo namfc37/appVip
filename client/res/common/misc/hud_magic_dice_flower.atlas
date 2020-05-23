@@ -1,0 +1,76 @@
+
+hud_magic_dice_flower.png
+size: 362,362
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hud_magic_dice_flower
+  rotate: false
+  xy: 264, 7
+  size: 78, 112
+  orig: 80, 114
+  offset: 1, 1
+  index: -1
+hud_magic_dice_flower_back
+  rotate: false
+  xy: 2, 2
+  size: 81, 53
+  orig: 83, 55
+  offset: 1, 1
+  index: -1
+hud_magic_dice_flower_bg
+  rotate: false
+  xy: 2, 57
+  size: 146, 75
+  orig: 148, 77
+  offset: 1, 1
+  index: -1
+hud_magic_dice_flower_bg_effect
+  rotate: false
+  xy: 2, 134
+  size: 177, 104
+  orig: 179, 106
+  offset: 1, 1
+  index: -1
+hud_magic_dice_flower_effect
+  rotate: true
+  xy: 204, 234
+  size: 126, 156
+  orig: 128, 158
+  offset: 1, 1
+  index: -1
+hud_magic_dice_flower_front
+  rotate: false
+  xy: 264, 121
+  size: 86, 39
+  orig: 88, 41
+  offset: 1, 1
+  index: -1
+light_effect_flare
+  rotate: false
+  xy: 181, 11
+  size: 81, 149
+  orig: 86, 155
+  offset: 2, 4
+  index: -1
+light_effect_line
+  rotate: true
+  xy: 181, 162
+  size: 70, 167
+  orig: 70, 167
+  offset: 0, 0
+  index: -1
+soul_gem
+  rotate: false
+  xy: 85, 11
+  size: 43, 44
+  orig: 45, 46
+  offset: 1, 1
+  index: -1
+white_effect
+  rotate: false
+  xy: 2, 240
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1

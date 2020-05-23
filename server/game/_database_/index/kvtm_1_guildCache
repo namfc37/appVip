@@ -1,0 +1,14 @@
+[
+  {
+    "id": 100001,
+    "name": "acasc",
+    "avatar": "guild/hud_badge_01.png",
+    "description": "1221 ",
+    "level": 1,
+    "timeUpdate": 1588323484,
+    "timeExpire": 1589360284,
+    "numMember": 1,
+    "type": 1,
+    "status": 2
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "brokers": "120.138.65.108:9092",
+  "logTopic": "kvtm_action",
+  "requestTopic": "request",
+  "gameId": "kvtm",
+  "autoRequest": false,
+  "useCache": true,
+  "timeUnit": 60,
+  "serverIndex": 0,
+  "database": {
+    "host": "127.0.0.1",
+    "port": "11240"
+  },
+  "security": {
+    "isSecured": false
+    }
+}

@@ -1,0 +1,303 @@
+{
+  "B0": {
+    "GOLD_BASIC": 10.4,
+    "EXP_BASIC": 62.4,
+    "BUG_TYPE": 0,
+    "GFX": "bug_01_red",
+    "CATCH_EXP": 5,
+    "JACK_PS_GOLD": 15,
+    "ID": "B0",
+    "NAME": "BỌ RÙA",
+    "UID": 396,
+    "TYPE": 2,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 3,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 26,
+    "GOLD_MIN": 10,
+    "GOLD_MAX": 55,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 75.5,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 2,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 3,
+          "MAX_NUM": 4,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 5,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 1
+  },
+  "B1": {
+    "GOLD_BASIC": 10.5,
+    "EXP_BASIC": 63.0,
+    "BUG_TYPE": 0,
+    "GFX": "bug_03_yellow",
+    "CATCH_EXP": 5,
+    "JACK_PS_GOLD": 20,
+    "ID": "B1",
+    "NAME": "ĐOM ĐÓM",
+    "UID": 397,
+    "TYPE": 2,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 3,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 27,
+    "GOLD_MIN": 10,
+    "GOLD_MAX": 57,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 77.7,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 2,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 3,
+          "MAX_NUM": 4,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 5,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 12
+  },
+  "B2": {
+    "GOLD_BASIC": 10.6,
+    "EXP_BASIC": 63.6,
+    "BUG_TYPE": 0,
+    "GFX": "bug_02_blue",
+    "CATCH_EXP": 5,
+    "JACK_PS_GOLD": 25,
+    "ID": "B2",
+    "NAME": "ỐC SÊN",
+    "UID": 398,
+    "TYPE": 2,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 3,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 27,
+    "GOLD_MIN": 10,
+    "GOLD_MAX": 59,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 79.9,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 2,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 3,
+          "MAX_NUM": 4,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 5,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 9
+  },
+  "B3": {
+    "GOLD_BASIC": 10.7,
+    "EXP_BASIC": 64.2,
+    "BUG_TYPE": 1,
+    "GFX": "bug_04_oragne",
+    "CATCH_EXP": 10,
+    "JACK_PS_GOLD": 30,
+    "ID": "B3",
+    "NAME": "CHUỒN CHUỒN",
+    "UID": 399,
+    "TYPE": 2,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 4,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 26,
+    "GOLD_MIN": 10,
+    "GOLD_MAX": 56,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 76.6,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 2,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 3,
+          "MAX_NUM": 4,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 5,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 1
+  },
+  "B4": {
+    "GOLD_BASIC": 10.8,
+    "EXP_BASIC": 64.8,
+    "BUG_TYPE": 1,
+    "GFX": "bug_06_pink",
+    "CATCH_EXP": 10,
+    "JACK_PS_GOLD": 35,
+    "ID": "B4",
+    "NAME": "BƯỚM",
+    "UID": 400,
+    "TYPE": 2,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 4,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 27,
+    "GOLD_MIN": 10,
+    "GOLD_MAX": 58,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 78.8,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 2,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 3,
+          "MAX_NUM": 4,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 5,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 1
+  },
+  "B5": {
+    "GOLD_BASIC": 10.9,
+    "EXP_BASIC": 65.4,
+    "BUG_TYPE": 1,
+    "GFX": "bug_05_violet",
+    "CATCH_EXP": 10,
+    "JACK_PS_GOLD": 40,
+    "ID": "B5",
+    "NAME": "ONG",
+    "UID": 401,
+    "TYPE": 2,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 4,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 25,
+    "GOLD_MIN": 10,
+    "GOLD_MAX": 54,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 74.4,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 2,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 3,
+          "MAX_NUM": 4,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 5,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 1
+  },
+  "B6": {
+    "GOLD_BASIC": 11.1,
+    "EXP_BASIC": 66.6,
+    "BUG_TYPE": 0,
+    "GFX": "bug_07_green",
+    "CATCH_EXP": 5,
+    "JACK_PS_GOLD": 45,
+    "ID": "B6",
+    "NAME": "SÂU XANH",
+    "UID": 402,
+    "TYPE": 2,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 3,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 28,
+    "GOLD_MIN": 10,
+    "GOLD_MAX": 60,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 80.1,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 2,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 3,
+          "MAX_NUM": 4,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 5,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 40
+  }
+}

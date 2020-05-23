@@ -1,0 +1,7 @@
+REM -- NEED TO CORRECT THESE DIRECTORY PATHS--
+if "%JAVA_HOME%"=="" (
+    set JAVA_HOME=c:\Program Files\Java\jdk1.8.0_241
+)
+set PYTHON=C:\Python27\python.exe
+
+call projectConfig.bat

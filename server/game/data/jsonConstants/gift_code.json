@@ -1,0 +1,389 @@
+{
+  "multiples": {
+    "SKYGARDEN": {
+      "code": "SKYGARDEN",
+      "duration": [
+        [
+          1571526000,
+          1573145940
+        ]
+      ],
+      "rewards": {
+        "GOLD": 25000
+      },
+      "title": "TXT_GIFTCODE_CONTENT_1",
+      "content": "TXT_GIFTCODE_CONTENT_1"
+    },
+    "CODETHANG07": {
+      "code": "CODETHANG07",
+      "duration": [
+        [
+          1562194800,
+          1564592340
+        ]
+      ],
+      "rewards": {
+        "GOLD": 1000,
+        "M0": 5,
+        "M1": 5,
+        "M18": 1,
+        "M2": 5,
+        "SK1": 1
+      },
+      "title": "TXT_GIFTCODE_CONTENT_1",
+      "content": "TXT_GIFTCODE_CONTENT_1"
+    },
+    "KVTMZINGPLAY": {
+      "code": "KVTMZINGPLAY",
+      "duration": [
+        [
+          1557702000,
+          1560531540
+        ]
+      ],
+      "rewards": {
+        "GOLD": 1000,
+        "M0": 5,
+        "M1": 5,
+        "M2": 5,
+        "P29": 1,
+        "M3": 5,
+        "M4": 5,
+        "M5": 5
+      },
+      "title": "TXT_GIFTCODE_CONTENT_1",
+      "content": "TXT_GIFTCODE_CONTENT_1"
+    },
+    "KVTM2020": {
+      "code": "KVTM2020",
+      "duration": [
+        [
+          1577833200,
+          1609433940
+        ]
+      ],
+      "rewards": {
+        "GOLD": 5000,
+        "M0": 5,
+        "M1": 5,
+        "M2": 5,
+        "M3": 5,
+        "M4": 5,
+        "M5": 5,
+        "M6": 5,
+        "M7": 5,
+        "M8": 5
+      },
+      "title": "TXT_GIFTCODE_CONTENT_1",
+      "content": "TXT_GIFTCODE_CONTENT_1"
+    },
+    "KVTMZINGPLAYNEW": {
+      "code": "KVTMZINGPLAYNEW",
+      "duration": [
+        [
+          1565737200,
+          1577811540
+        ]
+      ],
+      "rewards": {
+        "GOLD": 2000,
+        "M0": 5,
+        "P4": 1,
+        "M1": 5,
+        "M2": 5,
+        "M3": 5,
+        "M4": 5,
+        "M5": 5
+      },
+      "title": "TXT_GIFTCODE_CONTENT_1",
+      "content": "TXT_GIFTCODE_CONTENT_1"
+    }
+  },
+  "singles": {
+    "11": {
+      "group": "11",
+      "limitPerUser": 1,
+      "duration": [
+        [
+          1583017200,
+          1585673940
+        ]
+      ],
+      "rewards": {
+        "GOLD": 10000,
+        "C4": 1,
+        "SK8": 1,
+        "M6": 10,
+        "M7": 10,
+        "M8": 10,
+        "SK5": 1
+      },
+      "title": "TXT_GIFTCODE_TITLE_2",
+      "content": "TXT_GIFTCODE_CONTENT_2"
+    },
+    "01": {
+      "group": "01",
+      "limitPerUser": 1,
+      "duration": [
+        [
+          1557702000,
+          1560531540
+        ]
+      ],
+      "rewards": {
+        "M15": 2,
+        "GOLD": 2500,
+        "P22": 1,
+        "D1": 1,
+        "REPU": 50
+      },
+      "title": "TXT_GIFTCODE_TITLE_2",
+      "content": "TXT_GIFTCODE_CONTENT_2"
+    },
+    "12": {
+      "group": "12",
+      "limitPerUser": 1,
+      "duration": [
+        [
+          1585695600,
+          1588265940
+        ]
+      ],
+      "rewards": {
+        "SK9": 2,
+        "GOLD": 10000,
+        "C4": 1,
+        "M0": 10,
+        "M1": 10,
+        "M2": 10
+      },
+      "title": "TXT_GIFTCODE_TITLE_2",
+      "content": "TXT_GIFTCODE_CONTENT_2"
+    },
+    "02": {
+      "group": "02",
+      "limitPerUser": 1,
+      "duration": [
+        [
+          1562194800,
+          1564592340
+        ]
+      ],
+      "rewards": {
+        "A1": 5,
+        "GOLD": 2500,
+        "M18": 1,
+        "M3": 5,
+        "M4": 5,
+        "M5": 5,
+        "SK2": 1,
+        "A0": 5
+      },
+      "title": "TXT_GIFTCODE_TITLE_2",
+      "content": "TXT_GIFTCODE_CONTENT_2"
+    },
+    "13": {
+      "group": "13",
+      "limitPerUser": 1,
+      "duration": [
+        [
+          1588287600,
+          1590944340
+        ]
+      ],
+      "rewards": {
+        "GOLD": 10000,
+        "C4": 1,
+        "M3": 5,
+        "M4": 5,
+        "M5": 5,
+        "SK4": 2
+      },
+      "title": "TXT_GIFTCODE_TITLE_2",
+      "content": "TXT_GIFTCODE_CONTENT_2"
+    },
+    "03": {
+      "group": "03",
+      "limitPerUser": 1,
+      "duration": [
+        [
+          1565737200,
+          1567270740
+        ]
+      ],
+      "rewards": {
+        "GOLD": 10000,
+        "C4": 1,
+        "M18": 1,
+        "M3": 5,
+        "M4": 5,
+        "M5": 5,
+        "SK5": 1
+      },
+      "title": "TXT_GIFTCODE_TITLE_2",
+      "content": "TXT_GIFTCODE_CONTENT_2"
+    },
+    "14": {
+      "group": "14",
+      "limitPerUser": 1,
+      "duration": [
+        [
+          1590966000,
+          1593536340
+        ]
+      ],
+      "rewards": {
+        "GOLD": 10000,
+        "C4": 1,
+        "M6": 10,
+        "M7": 10,
+        "M8": 10,
+        "SK6": 2
+      },
+      "title": "TXT_GIFTCODE_TITLE_2",
+      "content": "TXT_GIFTCODE_CONTENT_2"
+    },
+    "04": {
+      "group": "04",
+      "limitPerUser": 1,
+      "duration": [
+        [
+          1567292400,
+          1569862740
+        ]
+      ],
+      "rewards": {
+        "GOLD": 10000,
+        "C4": 1,
+        "M0": 5,
+        "M1": 5,
+        "M18": 1,
+        "M2": 5,
+        "SK7": 1
+      },
+      "title": "TXT_GIFTCODE_TITLE_2",
+      "content": "TXT_GIFTCODE_CONTENT_2"
+    },
+    "05": {
+      "group": "05",
+      "limitPerUser": 1,
+      "duration": [
+        [
+          1569884400,
+          1572541140
+        ]
+      ],
+      "rewards": {
+        "GOLD": 10000,
+        "C4": 1,
+        "M3": 5,
+        "M4": 5,
+        "M5": 5,
+        "D2": 1,
+        "SK6": 1
+      },
+      "title": "TXT_GIFTCODE_TITLE_2",
+      "content": "TXT_GIFTCODE_CONTENT_2"
+    },
+    "06": {
+      "group": "06",
+      "limitPerUser": 1,
+      "duration": [
+        [
+          1572562800,
+          1575133140
+        ]
+      ],
+      "rewards": {
+        "SK9": 1,
+        "GOLD": 10000,
+        "C4": 1,
+        "M3": 5,
+        "M4": 5,
+        "M5": 5
+      },
+      "title": "TXT_GIFTCODE_TITLE_2",
+      "content": "TXT_GIFTCODE_CONTENT_2"
+    },
+    "07": {
+      "group": "07",
+      "limitPerUser": 1,
+      "duration": [
+        [
+          1575154800,
+          1577811540
+        ]
+      ],
+      "rewards": {
+        "GOLD": 10000,
+        "C4": 1,
+        "M0": 5,
+        "M1": 5,
+        "M2": 5,
+        "SK7": 1
+      },
+      "title": "TXT_GIFTCODE_TITLE_2",
+      "content": "TXT_GIFTCODE_CONTENT_2"
+    },
+    "08": {
+      "group": "08",
+      "limitPerUser": 1,
+      "duration": [
+        [
+          1577833200,
+          1580489940
+        ]
+      ],
+      "rewards": {
+        "GOLD": 10000,
+        "C4": 1,
+        "M3": 10,
+        "M4": 10,
+        "M5": 10,
+        "SK11": 2
+      },
+      "title": "TXT_GIFTCODE_TITLE_2",
+      "content": "TXT_GIFTCODE_CONTENT_2"
+    },
+    "09": {
+      "group": "09",
+      "limitPerUser": 1,
+      "duration": [
+        [
+          1580511600,
+          1582995540
+        ]
+      ],
+      "rewards": {
+        "GOLD": 10000,
+        "C4": 1,
+        "M0": 10,
+        "M1": 10,
+        "M2": 10,
+        "SK12": 2
+      },
+      "title": "TXT_GIFTCODE_TITLE_2",
+      "content": "TXT_GIFTCODE_CONTENT_2"
+    },
+    "10": {
+      "group": "10",
+      "limitPerUser": 1,
+      "duration": [
+        [
+          1580511600,
+          1582995540
+        ]
+      ],
+      "rewards": {
+        "GOLD": 10000,
+        "C4": 1,
+        "M0": 10,
+        "M1": 10,
+        "M2": 10,
+        "SK12": 2
+      },
+      "title": "TXT_GIFTCODE_TITLE_2",
+      "content": "TXT_GIFTCODE_CONTENT_2"
+    }
+  }
+}

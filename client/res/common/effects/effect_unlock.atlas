@@ -1,0 +1,69 @@
+
+effect_unlock.png
+size: 353,352
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_chest
+  rotate: true
+  xy: 201, 46
+  size: 67, 63
+  orig: 70, 66
+  offset: 1, 2
+  index: -1
+effect_light_egg
+  rotate: false
+  xy: 2, 8
+  size: 101, 105
+  orig: 103, 105
+  offset: 1, 0
+  index: -1
+effect_light_egg_02
+  rotate: false
+  xy: 105, 16
+  size: 94, 97
+  orig: 95, 97
+  offset: 0, 0
+  index: -1
+effect_pot
+  rotate: false
+  xy: 275, 287
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: -1
+light_01
+  rotate: false
+  xy: 2, 161
+  size: 252, 87
+  orig: 252, 87
+  offset: 0, 0
+  index: -1
+light_02
+  rotate: false
+  xy: 2, 250
+  size: 271, 100
+  orig: 273, 100
+  offset: 1, 0
+  index: -1
+light_03
+  rotate: false
+  xy: 2, 115
+  size: 253, 44
+  orig: 253, 44
+  offset: 0, 0
+  index: -1
+light_04
+  rotate: false
+  xy: 201, 2
+  size: 42, 42
+  orig: 44, 44
+  offset: 1, 1
+  index: -1
+light_05
+  rotate: false
+  xy: 275, 266
+  size: 74, 19
+  orig: 76, 21
+  offset: 1, 1
+  index: -1

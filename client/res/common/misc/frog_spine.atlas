@@ -1,0 +1,139 @@
+
+frog_spine.png
+size: 264,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ech_000
+  rotate: false
+  xy: 46, 2
+  size: 9, 3
+  orig: 9, 3
+  offset: 0, 0
+  index: -1
+ech_001
+  rotate: true
+  xy: 249, 28
+  size: 48, 13
+  orig: 48, 13
+  offset: 0, 0
+  index: -1
+ech_002
+  rotate: false
+  xy: 30, 2
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+ech_003
+  rotate: false
+  xy: 219, 18
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+ech_004
+  rotate: false
+  xy: 46, 7
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+ech_005
+  rotate: true
+  xy: 240, 9
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+ech_006
+  rotate: false
+  xy: 176, 3
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+ech_007
+  rotate: false
+  xy: 63, 7
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+ech_008
+  rotate: false
+  xy: 57, 2
+  size: 7, 3
+  orig: 7, 3
+  offset: 0, 0
+  index: -1
+ech_009
+  rotate: true
+  xy: 66, 2
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+ech_010
+  rotate: false
+  xy: 82, 2
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+ech_011
+  rotate: false
+  xy: 73, 3
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+ech_012
+  rotate: true
+  xy: 90, 3
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+ech_013
+  rotate: false
+  xy: 207, 16
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+ech_014
+  rotate: false
+  xy: 207, 35
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+ech_015
+  rotate: false
+  xy: 207, 56
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+ech_016
+  rotate: false
+  xy: 2, 3
+  size: 26, 8
+  orig: 26, 8
+  offset: 0, 0
+  index: -1
+lake
+  rotate: false
+  xy: 2, 13
+  size: 172, 63
+  orig: 173, 63
+  offset: 1, 0
+  index: -1
+lotus
+  rotate: true
+  xy: 176, 16
+  size: 60, 29
+  orig: 60, 29
+  offset: 0, 0
+  index: -1

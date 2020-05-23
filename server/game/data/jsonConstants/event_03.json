@@ -1,0 +1,1874 @@
+{
+  "E03_TYPE": "action_03",
+  "E03_ID": "E3ID",
+  "E03_POINT": "E3PO",
+  "E03_PLANT": "T21",
+  "E03_DROPITEM": "HT1",
+  "E03_START_TIME": "28/04/2020 09:00",
+  "E03_END_TIME": "07/05/2020 23:00",
+  "E03_UNIX_START_TIME": 1588039200,
+  "E03_UNIX_END_TIME": 1588867200,
+  "E03_PLANT_DROP_LIST": {
+    "drop": {
+      "GOLD": {
+        "rate": 0.0,
+        "min": 5,
+        "max": 10,
+        "userLimit": -1,
+        "serverLimit": -1,
+        "isVietNamOnly": false
+      },
+      "EXP": {
+        "rate": 0.0,
+        "min": 5,
+        "max": 15,
+        "userLimit": -1,
+        "serverLimit": -1,
+        "isVietNamOnly": false
+      }
+    }
+  },
+  "E03_FEATURE_DROP_LIST": {
+    "rules": {
+      "QUEST_BOOK_ADD_1": {
+        "rate": 1.0,
+        "quantity": 2.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT1"
+      },
+      "QUEST_BOOK_ADD_2": {
+        "rate": 1.0,
+        "quantity": 2.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT1"
+      },
+      "QUEST_BOOK_ADD_5": {
+        "rate": 1.0,
+        "quantity": 1.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT2"
+      },
+      "QUEST_BOOK_ADD_6": {
+        "rate": 1.0,
+        "quantity": 1.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT2"
+      },
+      "FRIEND_BUG_CATCH": {
+        "rate": 1.0,
+        "quantity": 1.0,
+        "dailyLimit": 20.0,
+        "dropItemID": "HT2"
+      },
+      "QUEST_BOOK_ADD_49": {
+        "rate": 1.0,
+        "quantity": 1.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT1"
+      },
+      "PLANT_CATCH_BUG": {
+        "rate": 1.0,
+        "quantity": 1.0,
+        "dailyLimit": 20.0,
+        "dropItemID": "HT2"
+      },
+      "LUCKY_SPIN_4": {
+        "rate": 1.0,
+        "quantity": 25.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT3"
+      },
+      "LUCKY_SPIN_5": {
+        "rate": 1.0,
+        "quantity": 1.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT3"
+      },
+      "LUCKY_SPIN_2": {
+        "rate": 1.0,
+        "quantity": 6.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT3"
+      },
+      "LUCKY_SPIN_3": {
+        "rate": 1.0,
+        "quantity": 11.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT3"
+      },
+      "LUCKY_SPIN_0": {
+        "rate": 1.0,
+        "quantity": 1.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT3"
+      },
+      "LUCKY_SPIN_1": {
+        "rate": 1.0,
+        "quantity": 2.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT3"
+      },
+      "ORDER_GET_REWARD_ORDER_DAILY_PAID": {
+        "rate": 0.0,
+        "quantity": 3.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT2"
+      },
+      "QUEST_BOOK_ADD_10": {
+        "rate": 1.0,
+        "quantity": 1.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT1"
+      },
+      "QUEST_BOOK_ADD_11": {
+        "rate": 1.0,
+        "quantity": 5.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT2"
+      },
+      "QUEST_BOOK_ADD_50": {
+        "rate": 1.0,
+        "quantity": 3.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT2"
+      },
+      "USER_LOGIN": {
+        "rate": 1.0,
+        "quantity": 4.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT2"
+      },
+      "QUEST_BOOK_ADD_16": {
+        "rate": 1.0,
+        "quantity": 1.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT1"
+      },
+      "PLANT_HARVEST": {
+        "rate": 0.5,
+        "quantity": 1.0,
+        "dailyLimit": 50.0,
+        "dropItemID": "HT1"
+      },
+      "QUEST_BOOK_ADD_17": {
+        "rate": 1.0,
+        "quantity": 2.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT2"
+      },
+      "QUEST_BOOK_ADD_18": {
+        "rate": 1.0,
+        "quantity": 3.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT3"
+      },
+      "QUEST_BOOK_ADD_19": {
+        "rate": 1.0,
+        "quantity": 2.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT3"
+      },
+      "QUEST_BOOK_ADD_12": {
+        "rate": 1.0,
+        "quantity": 2.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT3"
+      },
+      "QUEST_BOOK_ADD_13": {
+        "rate": 1.0,
+        "quantity": 3.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT3"
+      },
+      "QUEST_BOOK_ADD_14": {
+        "rate": 1.0,
+        "quantity": 1.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT1"
+      },
+      "QUEST_BOOK_ADD_15": {
+        "rate": 1.0,
+        "quantity": 1.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT2"
+      },
+      "MACHINE_HARVEST": {
+        "rate": 0.0,
+        "quantity": 0.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT2"
+      },
+      "PLANT_HARVEST_T21": {
+        "rate": 0.0,
+        "quantity": 3.0,
+        "dailyLimit": 3.0,
+        "dropItemID": "HT1"
+      },
+      "AIRSHIP_PACK": {
+        "rate": 0.0,
+        "quantity": 2.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT1"
+      },
+      "QUEST_BOOK_ADD_27": {
+        "rate": 1.0,
+        "quantity": 2.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT2"
+      },
+      "QUEST_BOOK_ADD_28": {
+        "rate": 1.0,
+        "quantity": 1.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT2"
+      },
+      "TOM_HIRE_40": {
+        "rate": 1.0,
+        "quantity": 5.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT3"
+      },
+      "QUEST_BOOK_ADD_29": {
+        "rate": 1.0,
+        "quantity": 1.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT2"
+      },
+      "AIRSHIP_DELIVERY": {
+        "rate": 0.0,
+        "quantity": 8.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT1"
+      },
+      "QUEST_BOOK_ADD_23": {
+        "rate": 1.0,
+        "quantity": 1.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT1"
+      },
+      "QUEST_BOOK_ADD_24": {
+        "rate": 1.0,
+        "quantity": 2.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT1"
+      },
+      "TRUCK_DELIVERY": {
+        "rate": 0.0,
+        "quantity": 0.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT2"
+      },
+      "QUEST_BOOK_ADD_25": {
+        "rate": 1.0,
+        "quantity": 2.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT2"
+      },
+      "MINE_START": {
+        "rate": 0.0,
+        "quantity": 4.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT3"
+      },
+      "QUEST_BOOK_ADD_26": {
+        "rate": 1.0,
+        "quantity": 2.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT2"
+      },
+      "ORDER_GET_REWARD": {
+        "rate": 0.0,
+        "quantity": 2.0,
+        "dailyLimit": 50.0,
+        "dropItemID": "HT2"
+      },
+      "QUEST_BOOK_ADD_30": {
+        "rate": 1.0,
+        "quantity": 1.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT1"
+      },
+      "QUEST_BOOK_ADD_31": {
+        "rate": 1.0,
+        "quantity": 1.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT1"
+      },
+      "QUEST_BOOK_ADD_32": {
+        "rate": 1.0,
+        "quantity": 1.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT3"
+      },
+      "QUEST_BOOK_ADD_33": {
+        "rate": 1.0,
+        "quantity": 5.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT3"
+      },
+      "DICE_SPIN_3": {
+        "rate": 1.0,
+        "quantity": 5.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT2"
+      },
+      "QUEST_BOOK_ADD_38": {
+        "rate": 1.0,
+        "quantity": 5.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT2"
+      },
+      "DICE_SPIN_4": {
+        "rate": 1.0,
+        "quantity": 8.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT2"
+      },
+      "DICE_SPIN_1": {
+        "rate": 1.0,
+        "quantity": 2.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT2"
+      },
+      "DICE_SPIN_2": {
+        "rate": 1.0,
+        "quantity": 3.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT2"
+      },
+      "TOM_HIRE_400": {
+        "rate": 1.0,
+        "quantity": 50.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT3"
+      },
+      "QUEST_BOOK_ADD_34": {
+        "rate": 1.0,
+        "quantity": 3.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT3"
+      },
+      "DICE_SPIN_0": {
+        "rate": 1.0,
+        "quantity": 1.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT2"
+      },
+      "QUEST_BOOK_ADD_35": {
+        "rate": 1.0,
+        "quantity": 5.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT3"
+      },
+      "FRIEND_REPAIR_MACHINE": {
+        "rate": 1.0,
+        "quantity": 1.0,
+        "dailyLimit": 50.0,
+        "dropItemID": "HT1"
+      },
+      "TOM_HIRE_200": {
+        "rate": 1.0,
+        "quantity": 25.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT3"
+      },
+      "QUEST_BOOK_ADD_36": {
+        "rate": 1.0,
+        "quantity": 5.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT3"
+      },
+      "QUEST_BOOK_ADD_37": {
+        "rate": 1.0,
+        "quantity": 2.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT2"
+      },
+      "DICE_SPIN_7": {
+        "rate": 1.0,
+        "quantity": 27.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT2"
+      },
+      "DICE_SPIN_5": {
+        "rate": 1.0,
+        "quantity": 12.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT2"
+      },
+      "AIRSHIP_FRIEND_PACK": {
+        "rate": 1.0,
+        "quantity": 2.0,
+        "dailyLimit": 20.0,
+        "dropItemID": "HT2"
+      },
+      "DICE_SPIN_6": {
+        "rate": 1.0,
+        "quantity": 18.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT2"
+      },
+      "ORDER_GET_REWARD_ORDER_DAILY_FREE": {
+        "rate": 0.0,
+        "quantity": 1.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT1"
+      },
+      "TRUCK_PACK": {
+        "rate": 0.0,
+        "quantity": 0.0,
+        "dailyLimit": -1.0,
+        "dropItemID": "HT2"
+      }
+    },
+    "dropItemID": "HT1"
+  },
+  "E03_PUZZLE": {
+    "PUZZLES": {}
+  },
+  "E03_SHOP": {
+    "TAB": "event",
+    "NAME": "event",
+    "GFX": "",
+    "ITEMS": []
+  },
+  "E03_REWARDS": {
+    "2000": {
+      "30": {
+        "id": 1,
+        "num": -1,
+        "items": [
+          {
+            "id": "P11",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "M3",
+            "quantity": 10,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 7500,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 4000,
+            "rate": -1
+          }
+        ]
+      },
+      "2147483647": {
+        "id": 2,
+        "num": -1,
+        "items": [
+          {
+            "id": "P29",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "M3",
+            "quantity": 10,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 15000,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 8000,
+            "rate": -1
+          }
+        ]
+      }
+    },
+    "3000": {
+      "30": {
+        "id": 3,
+        "num": -1,
+        "items": [
+          {
+            "id": "P12",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "A0",
+            "quantity": 5,
+            "rate": -1
+          },
+          {
+            "id": "FT1",
+            "quantity": 2,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 5000,
+            "rate": -1
+          }
+        ]
+      },
+      "2147483647": {
+        "id": 4,
+        "num": -1,
+        "items": [
+          {
+            "id": "P30",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "A0",
+            "quantity": 5,
+            "rate": -1
+          },
+          {
+            "id": "FT1",
+            "quantity": 2,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 10000,
+            "rate": -1
+          }
+        ]
+      }
+    },
+    "6000": {
+      "30": {
+        "id": 5,
+        "num": -1,
+        "items": [
+          {
+            "id": "P13",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "M6",
+            "quantity": 10,
+            "rate": -1
+          },
+          {
+            "id": "M16",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 10000,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 6000,
+            "rate": -1
+          }
+        ]
+      },
+      "2147483647": {
+        "id": 6,
+        "num": -1,
+        "items": [
+          {
+            "id": "P31",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "M6",
+            "quantity": 10,
+            "rate": -1
+          },
+          {
+            "id": "M16",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 20000,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 12000,
+            "rate": -1
+          }
+        ]
+      }
+    },
+    "10000": {
+      "30": {
+        "id": 7,
+        "num": -1,
+        "items": [
+          {
+            "id": "P17",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "A1",
+            "quantity": 10,
+            "rate": -1
+          },
+          {
+            "id": "SK4",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 7500,
+            "rate": -1
+          }
+        ]
+      },
+      "2147483647": {
+        "id": 8,
+        "num": -1,
+        "items": [
+          {
+            "id": "P35",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "A1",
+            "quantity": 10,
+            "rate": -1
+          },
+          {
+            "id": "SK4",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 15000,
+            "rate": -1
+          }
+        ]
+      }
+    },
+    "15000": {
+      "30": {
+        "id": 9,
+        "num": -1,
+        "items": [
+          {
+            "id": "P18",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "C5",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "M0",
+            "quantity": 10,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 15000,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 10000,
+            "rate": -1
+          }
+        ]
+      },
+      "2147483647": {
+        "id": 10,
+        "num": -1,
+        "items": [
+          {
+            "id": "P36",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "C5",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "M0",
+            "quantity": 10,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 30000,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 20000,
+            "rate": -1
+          }
+        ]
+      }
+    },
+    "20000": {
+      "30": {
+        "id": 11,
+        "num": -1,
+        "items": [
+          {
+            "id": "P19",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "M4",
+            "quantity": 10,
+            "rate": -1
+          },
+          {
+            "id": "H1",
+            "quantity": 2,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 12500,
+            "rate": -1
+          }
+        ]
+      },
+      "2147483647": {
+        "id": 12,
+        "num": -1,
+        "items": [
+          {
+            "id": "P37",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "M4",
+            "quantity": 10,
+            "rate": -1
+          },
+          {
+            "id": "H1",
+            "quantity": 2,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 25000,
+            "rate": -1
+          }
+        ]
+      }
+    },
+    "25000": {
+      "2147483647": {
+        "id": 13,
+        "num": -1,
+        "items": [
+          {
+            "id": "C5",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "M12",
+            "quantity": 10,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 30000,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 30000,
+            "rate": -1
+          }
+        ]
+      }
+    },
+    "30000": {
+      "30": {
+        "id": 14,
+        "num": -1,
+        "items": [
+          {
+            "id": "P23",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "A2",
+            "quantity": 10,
+            "rate": -1
+          },
+          {
+            "id": "M18",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 17500,
+            "rate": -1
+          }
+        ]
+      },
+      "2147483647": {
+        "id": 15,
+        "num": -1,
+        "items": [
+          {
+            "id": "P41",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "A2",
+            "quantity": 10,
+            "rate": -1
+          },
+          {
+            "id": "M18",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 35000,
+            "rate": -1
+          }
+        ]
+      }
+    },
+    "35000": {
+      "30": {
+        "id": 16,
+        "num": -1,
+        "items": [
+          {
+            "id": "P24",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "M7",
+            "quantity": 10,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 30000,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 20000,
+            "rate": -1
+          }
+        ]
+      },
+      "2147483647": {
+        "id": 17,
+        "num": -1,
+        "items": [
+          {
+            "id": "P42",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "M7",
+            "quantity": 10,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 60000,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 40000,
+            "rate": -1
+          }
+        ]
+      }
+    },
+    "40000": {
+      "30": {
+        "id": 18,
+        "num": -1,
+        "items": [
+          {
+            "id": "P25",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "A3",
+            "quantity": 10,
+            "rate": -1
+          },
+          {
+            "id": "SK5",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 22500,
+            "rate": -1
+          }
+        ]
+      },
+      "2147483647": {
+        "id": 19,
+        "num": -1,
+        "items": [
+          {
+            "id": "P43",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "A3",
+            "quantity": 10,
+            "rate": -1
+          },
+          {
+            "id": "SK5",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 45000,
+            "rate": -1
+          }
+        ]
+      }
+    },
+    "50000": {
+      "30": {
+        "id": 20,
+        "num": -1,
+        "items": [
+          {
+            "id": "P29",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "M1",
+            "quantity": 10,
+            "rate": -1
+          },
+          {
+            "id": "H2",
+            "quantity": 2,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 35000,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 25000,
+            "rate": -1
+          }
+        ]
+      },
+      "2147483647": {
+        "id": 21,
+        "num": -1,
+        "items": [
+          {
+            "id": "P44",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "M1",
+            "quantity": 10,
+            "rate": -1
+          },
+          {
+            "id": "H2",
+            "quantity": 2,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 70000,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 50000,
+            "rate": -1
+          }
+        ]
+      }
+    },
+    "60000": {
+      "30": {
+        "id": 22,
+        "num": -1,
+        "items": [
+          {
+            "id": "P30",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "A4",
+            "quantity": 10,
+            "rate": -1
+          },
+          {
+            "id": "SK12",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 27500,
+            "rate": -1
+          }
+        ]
+      },
+      "2147483647": {
+        "id": 23,
+        "num": -1,
+        "items": [
+          {
+            "id": "P44",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "A4",
+            "quantity": 10,
+            "rate": -1
+          },
+          {
+            "id": "SK12",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 55000,
+            "rate": -1
+          }
+        ]
+      }
+    },
+    "65000": {
+      "30": {
+        "id": 24,
+        "num": -1,
+        "items": [
+          {
+            "id": "P31",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "C5",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 40000,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 30000,
+            "rate": -1
+          }
+        ]
+      },
+      "2147483647": {
+        "id": 25,
+        "num": -1,
+        "items": [
+          {
+            "id": "P47",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "C5",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 80000,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 60000,
+            "rate": -1
+          }
+        ]
+      }
+    },
+    "70000": {
+      "30": {
+        "id": 26,
+        "num": -1,
+        "items": [
+          {
+            "id": "P32",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "M13",
+            "quantity": 10,
+            "rate": -1
+          },
+          {
+            "id": "M19",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 32500,
+            "rate": -1
+          }
+        ]
+      },
+      "2147483647": {
+        "id": 27,
+        "num": -1,
+        "items": [
+          {
+            "id": "P47",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "M13",
+            "quantity": 10,
+            "rate": -1
+          },
+          {
+            "id": "M19",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 65000,
+            "rate": -1
+          }
+        ]
+      }
+    },
+    "80000": {
+      "2147483647": {
+        "id": 28,
+        "num": -1,
+        "items": [
+          {
+            "id": "C5",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "M29",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "A5",
+            "quantity": 10,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 100000,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 70000,
+            "rate": -1
+          }
+        ]
+      }
+    },
+    "85000": {
+      "30": {
+        "id": 29,
+        "num": -1,
+        "items": [
+          {
+            "id": "P35",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "N0",
+            "quantity": 5,
+            "rate": -1
+          },
+          {
+            "id": "SK6",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 40000,
+            "rate": -1
+          }
+        ]
+      },
+      "2147483647": {
+        "id": 30,
+        "num": -1,
+        "items": [
+          {
+            "id": "P47",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "N0",
+            "quantity": 5,
+            "rate": -1
+          },
+          {
+            "id": "SK6",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 80000,
+            "rate": -1
+          }
+        ]
+      }
+    },
+    "90000": {
+      "30": {
+        "id": 31,
+        "num": -1,
+        "items": [
+          {
+            "id": "P36",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "M25",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "A3",
+            "quantity": 10,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 75000,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 45000,
+            "rate": -1
+          }
+        ]
+      },
+      "2147483647": {
+        "id": 32,
+        "num": -1,
+        "items": [
+          {
+            "id": "P48",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "M25",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "A3",
+            "quantity": 10,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 150000,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 90000,
+            "rate": -1
+          }
+        ]
+      }
+    },
+    "100000": {
+      "30": {
+        "id": 33,
+        "num": -1,
+        "items": [
+          {
+            "id": "P37",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "N1",
+            "quantity": 10,
+            "rate": -1
+          },
+          {
+            "id": "SK7",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 50000,
+            "rate": -1
+          }
+        ]
+      },
+      "2147483647": {
+        "id": 34,
+        "num": -1,
+        "items": [
+          {
+            "id": "P48",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "N1",
+            "quantity": 10,
+            "rate": -1
+          },
+          {
+            "id": "SK7",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 100000,
+            "rate": -1
+          }
+        ]
+      }
+    },
+    "110000": {
+      "30": {
+        "id": 35,
+        "num": -1,
+        "items": [
+          {
+            "id": "P41",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "A4",
+            "quantity": 10,
+            "rate": -1
+          },
+          {
+            "id": "SK12",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 100000,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 60000,
+            "rate": -1
+          }
+        ]
+      },
+      "2147483647": {
+        "id": 36,
+        "num": -1,
+        "items": [
+          {
+            "id": "P49",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "A4",
+            "quantity": 10,
+            "rate": -1
+          },
+          {
+            "id": "SK12",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 200000,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 120000,
+            "rate": -1
+          }
+        ]
+      }
+    },
+    "130000": {
+      "30": {
+        "id": 37,
+        "num": -1,
+        "items": [
+          {
+            "id": "P42",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "M30",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "N0",
+            "quantity": 10,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 75000,
+            "rate": -1
+          }
+        ]
+      },
+      "2147483647": {
+        "id": 38,
+        "num": -1,
+        "items": [
+          {
+            "id": "P49",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "M30",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "N0",
+            "quantity": 10,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 150000,
+            "rate": -1
+          }
+        ]
+      }
+    },
+    "160000": {
+      "30": {
+        "id": 39,
+        "num": -1,
+        "items": [
+          {
+            "id": "P43",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "A5",
+            "quantity": 15,
+            "rate": -1
+          },
+          {
+            "id": "SK9",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 125000,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 100000,
+            "rate": -1
+          }
+        ]
+      },
+      "2147483647": {
+        "id": 40,
+        "num": -1,
+        "items": [
+          {
+            "id": "P53",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "A5",
+            "quantity": 15,
+            "rate": -1
+          },
+          {
+            "id": "SK9",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 250000,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 200000,
+            "rate": -1
+          }
+        ]
+      }
+    },
+    "200000": {
+      "30": {
+        "id": 41,
+        "num": -1,
+        "items": [
+          {
+            "id": "P47",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "N1",
+            "quantity": 10,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 150000,
+            "rate": -1
+          }
+        ]
+      },
+      "2147483647": {
+        "id": 42,
+        "num": -1,
+        "items": [
+          {
+            "id": "P53",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "N1",
+            "quantity": 10,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 300000,
+            "rate": -1
+          }
+        ]
+      }
+    },
+    "250000": {
+      "30": {
+        "id": 43,
+        "num": -1,
+        "items": [
+          {
+            "id": "P48",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "M26",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "H3",
+            "quantity": 3,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 150000,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 200000,
+            "rate": -1
+          }
+        ]
+      },
+      "2147483647": {
+        "id": 44,
+        "num": -1,
+        "items": [
+          {
+            "id": "P54",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "M26",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "H3",
+            "quantity": 3,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 300000,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 400000,
+            "rate": -1
+          }
+        ]
+      }
+    },
+    "300000": {
+      "30": {
+        "id": 45,
+        "num": -1,
+        "items": [
+          {
+            "id": "P49",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "N2",
+            "quantity": 10,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 200000,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 250000,
+            "rate": -1
+          }
+        ]
+      },
+      "2147483647": {
+        "id": 46,
+        "num": -1,
+        "items": [
+          {
+            "id": "P54",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "N2",
+            "quantity": 10,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 400000,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 500000,
+            "rate": -1
+          }
+        ]
+      }
+    },
+    "400000": {
+      "30": {
+        "id": 47,
+        "num": -1,
+        "items": [
+          {
+            "id": "P53",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "P49",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "N3",
+            "quantity": 15,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 300000,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 300000,
+            "rate": -1
+          }
+        ]
+      },
+      "2147483647": {
+        "id": 48,
+        "num": -1,
+        "items": [
+          {
+            "id": "P55",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "P53",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "N3",
+            "quantity": 15,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 600000,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 600000,
+            "rate": -1
+          }
+        ]
+      }
+    },
+    "500000": {
+      "30": {
+        "id": 49,
+        "num": -1,
+        "items": [
+          {
+            "id": "P54",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "P53",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "SK12",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 400000,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 400000,
+            "rate": -1
+          }
+        ]
+      },
+      "2147483647": {
+        "id": 50,
+        "num": -1,
+        "items": [
+          {
+            "id": "P55",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "P54",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "SK12",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 800000,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 800000,
+            "rate": -1
+          }
+        ]
+      }
+    }
+  }
+}

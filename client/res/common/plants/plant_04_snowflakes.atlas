@@ -1,0 +1,160 @@
+
+plant_04_snowflakes.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hoa_tuyet_000
+  rotate: false
+  xy: 263, 159
+  size: 85, 92
+  orig: 85, 92
+  offset: 0, 0
+  index: -1
+hoa_tuyet_001
+  rotate: false
+  xy: 161, 85
+  size: 67, 23
+  orig: 67, 23
+  offset: 0, 0
+  index: -1
+hoa_tuyet_002
+  rotate: false
+  xy: 79, 82
+  size: 69, 23
+  orig: 69, 23
+  offset: 0, 0
+  index: -1
+hoa_tuyet_003
+  rotate: true
+  xy: 123, 15
+  size: 65, 27
+  orig: 65, 27
+  offset: 0, 0
+  index: -1
+hoa_tuyet_004
+  rotate: false
+  xy: 343, 120
+  size: 66, 27
+  orig: 66, 27
+  offset: 0, 0
+  index: -1
+hoa_tuyet_005
+  rotate: true
+  xy: 447, 144
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+hoa_tuyet_006
+  rotate: false
+  xy: 445, 102
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+hoa_tuyet_007
+  rotate: false
+  xy: 161, 149
+  size: 100, 102
+  orig: 100, 102
+  offset: 0, 0
+  index: -1
+hoa_tuyet_008
+  rotate: false
+  xy: 245, 65
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+hoa_tuyet_009
+  rotate: true
+  xy: 161, 110
+  size: 37, 116
+  orig: 37, 116
+  offset: 0, 0
+  index: -1
+hoa_tuyet_010
+  rotate: true
+  xy: 411, 106
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+hoa_tuyet_011
+  rotate: true
+  xy: 350, 149
+  size: 29, 88
+  orig: 29, 88
+  offset: 0, 0
+  index: -1
+hoa_tuyet_012
+  rotate: false
+  xy: 2, 16
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+hoa_tuyet_013
+  rotate: true
+  xy: 279, 116
+  size: 41, 62
+  orig: 41, 62
+  offset: 0, 0
+  index: -1
+hoa_tuyet_014
+  rotate: false
+  xy: 152, 30
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+hoa_tuyet_015
+  rotate: false
+  xy: 68, 26
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+hoa_tuyet_017
+  rotate: false
+  xy: 2, 82
+  size: 75, 169
+  orig: 75, 169
+  offset: 0, 0
+  index: -1
+hoa_tuyet_018
+  rotate: false
+  xy: 79, 107
+  size: 80, 144
+  orig: 80, 144
+  offset: 0, 0
+  index: -1
+hoa_tuyet_019
+  rotate: false
+  xy: 447, 191
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+hoa_tuyet_021
+  rotate: true
+  xy: 207, 32
+  size: 51, 36
+  orig: 51, 36
+  offset: 0, 0
+  index: -1
+hoa_tuyet_022
+  rotate: true
+  xy: 350, 180
+  size: 71, 95
+  orig: 71, 95
+  offset: 0, 0
+  index: -1
+marker
+  rotate: false
+  xy: 2, 2
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1

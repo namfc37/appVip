@@ -1,0 +1,195 @@
+
+plant_event_02.png
+size: 204,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flower_015_mat_troi_002
+  rotate: true
+  xy: 93, 77
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+flower_015_mat_troi_003
+  rotate: false
+  xy: 69, 138
+  size: 28, 8
+  orig: 28, 8
+  offset: 0, 0
+  index: -1
+flower_015_mat_troi_004
+  rotate: false
+  xy: 53, 43
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+flower_015_mat_troi_005
+  rotate: false
+  xy: 78, 16
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+flower_015_mat_troi_006
+  rotate: false
+  xy: 99, 137
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+flower_015_mat_troi_007
+  rotate: false
+  xy: 53, 34
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+flower_015_mat_troi_008
+  rotate: false
+  xy: 69, 148
+  size: 41, 54
+  orig: 41, 54
+  offset: 0, 0
+  index: -1
+flower_015_mat_troi_009
+  rotate: false
+  xy: 156, 108
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+flower_015_mat_troi_010
+  rotate: false
+  xy: 118, 49
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+flower_015_mat_troi_011
+  rotate: false
+  xy: 156, 82
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+flower_015_mat_troi_012
+  rotate: false
+  xy: 87, 43
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+flower_015_mat_troi_013
+  rotate: false
+  xy: 161, 132
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+flower_015_mat_troi_014
+  rotate: false
+  xy: 78, 2
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+flower_015_mat_troi_015
+  rotate: true
+  xy: 131, 77
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+flower_015_mat_troi_016
+  rotate: true
+  xy: 55, 86
+  size: 45, 36
+  orig: 45, 36
+  offset: 0, 0
+  index: -1
+flower_015_mat_troi_017
+  rotate: true
+  xy: 140, 106
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+flower_015_mat_troi_018
+  rotate: false
+  xy: 163, 165
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+flower_015_mat_troi_019
+  rotate: false
+  xy: 2, 77
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+flower_015_mat_troi_020
+  rotate: true
+  xy: 193, 119
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+flower_015_mat_troi_021
+  rotate: false
+  xy: 55, 74
+  size: 36, 10
+  orig: 36, 10
+  offset: 0, 0
+  index: -1
+flower_015_mat_troi_022
+  rotate: true
+  xy: 2, 2
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+flower_015_mat_troi_023
+  rotate: true
+  xy: 40, 2
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+flower_015_mat_troi_024
+  rotate: false
+  xy: 2, 31
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+flower_015_mat_troi_026
+  rotate: false
+  xy: 112, 169
+  size: 49, 33
+  orig: 51, 40
+  offset: 0, 2
+  index: -1
+flower_015_mat_troi_027
+  rotate: false
+  xy: 112, 134
+  size: 47, 33
+  orig: 51, 40
+  offset: 0, 3
+  index: -1
+flower_015_mat_troi_028
+  rotate: false
+  xy: 93, 100
+  size: 45, 32
+  orig: 51, 40
+  offset: 0, 2
+  index: -1
+plant_icon_big
+  rotate: false
+  xy: 2, 133
+  size: 65, 69
+  orig: 66, 70
+  offset: 0, 1
+  index: -1

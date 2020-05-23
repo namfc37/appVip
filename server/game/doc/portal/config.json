@@ -1,0 +1,26 @@
+{
+	"is_landscape": false,
+	"name":"iCa",
+	"android":{
+		"package_name":"com.twincorp.bancaonline",
+		"google_license_key":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxRnFBu3mYH0O9Ph8+h4VtUg/+419gL/pQ7vVTHFx9c+DoOLLPy3E8lRj4PdLY8od12SRupvZZWkMWOoDzWymXzStp/PBZGs67iBf+oIGR6HPIcT0IkM/Xr/sMth2eV739ppLxAuvkbGGJYUHAbmA1Dtw+MMKtD9lzKnYRztrWfYmKkqZK/ErhFFBVstDWyApXoUlu6Dh+cUvfs/Lc6Ed+WFVR0Nh0IPsr6eaZg5TIs1t+cqvFB7Wqnofiv+A43HN0nCEqsxEoD+3fPTpxxPeq2j870qJyCJozMM7AYJxS9es85VCoQjVRt3TKbo70Jlx1MPspNvKfxzObhwEECNzVQIDAQAB"
+	},
+	"tracker":{
+		"app_name":"ZPPortal",
+		"partner":"icajs"
+	},
+	"social":{
+		"facebook":{
+			"id":"311021112958733",
+			"use_provider": true
+		},
+		"google": {
+			"id":""
+		}
+	},
+	"country":"vn",
+	"portal":{
+		"game_id":"ica",
+		"portal_dev": false
+	}
+}

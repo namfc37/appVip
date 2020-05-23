@@ -1,0 +1,122 @@
+{
+  "COIN": {
+    "ID": "COIN",
+    "NAME": "KIM CƯƠNG",
+    "UID": 591647,
+    "TYPE": 0,
+    "SUB_TYPE": 0,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 0,
+    "STOCK": -1
+  },
+  "GOLD": {
+    "ID": "GOLD",
+    "NAME": "VÀNG",
+    "UID": 778369,
+    "TYPE": 0,
+    "SUB_TYPE": 0,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 0,
+    "STOCK": -1
+  },
+  "EXP": {
+    "ID": "EXP",
+    "NAME": "KINH NGHIỆM",
+    "UID": 19357,
+    "TYPE": 0,
+    "SUB_TYPE": 0,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 0,
+    "STOCK": -1
+  },
+  "REPU": {
+    "ID": "REPU",
+    "NAME": "DANH TIẾNG",
+    "UID": 1278786,
+    "TYPE": 0,
+    "SUB_TYPE": 0,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 0,
+    "STOCK": -1
+  },
+  "X2": {
+    "ID": "X2",
+    "NAME": "ITEM X2",
+    "UID": 1190,
+    "TYPE": 0,
+    "SUB_TYPE": 0,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 0,
+    "STOCK": -1
+  },
+  "DICE": {
+    "ID": "DICE",
+    "NAME": "XÚC XẮC",
+    "UID": 630302,
+    "TYPE": 0,
+    "SUB_TYPE": 0,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 0,
+    "STOCK": -1
+  },
+  "E1ID": {
+    "ID": "E1ID",
+    "NAME": "EVENT 1",
+    "UID": 655141,
+    "TYPE": 0,
+    "SUB_TYPE": 0,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 0,
+    "STOCK": -1
+  },
+  "PBP": {
+    "ID": "PBP",
+    "NAME": "PIG BANK POINT",
+    "UID": 32821,
+    "TYPE": 0,
+    "SUB_TYPE": 0,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 0,
+    "STOCK": -1
+  },
+  "E2ID": {
+    "ID": "E2ID",
+    "NAME": "EVENT 2",
+    "UID": 656437,
+    "TYPE": 0,
+    "SUB_TYPE": 0,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 0,
+    "STOCK": -1
+  },
+  "E3ID": {
+    "ID": "E3ID",
+    "NAME": "EVENT 3",
+    "UID": 657733,
+    "TYPE": 0,
+    "SUB_TYPE": 0,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 0,
+    "STOCK": -1
+  },
+  "E0ID": {
+    "ID": "E0ID",
+    "NAME": "EVENT 0",
+    "UID": 653845,
+    "TYPE": 0,
+    "SUB_TYPE": 0,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 0,
+    "STOCK": -1
+  },
+  "ACID": {
+    "ID": "ACID",
+    "NAME": "EVENT ACCUMULATE",
+    "UID": 482773,
+    "TYPE": 0,
+    "SUB_TYPE": 0,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 0,
+    "STOCK": -1
+  }
+}

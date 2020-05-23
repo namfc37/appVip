@@ -1,0 +1,683 @@
+{
+  "LEVELS": {
+    "1": {
+      "ID": 1,
+      "DEPUTY": 4,
+      "MEMBERS": 20
+    }
+  },
+  "DONATE_ITEMS": {
+    "A0": {
+      "ITEM_ID": "A0",
+      "QUANTITY": 7,
+      "DONATE_LIMIT": 7
+    },
+    "A1": {
+      "ITEM_ID": "A1",
+      "QUANTITY": 7,
+      "DONATE_LIMIT": 7
+    },
+    "R21": {
+      "ITEM_ID": "R21",
+      "QUANTITY": 7,
+      "DONATE_LIMIT": 7
+    },
+    "A2": {
+      "ITEM_ID": "A2",
+      "QUANTITY": 7,
+      "DONATE_LIMIT": 7
+    },
+    "R20": {
+      "ITEM_ID": "R20",
+      "QUANTITY": 7,
+      "DONATE_LIMIT": 7
+    },
+    "A3": {
+      "ITEM_ID": "A3",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "R23": {
+      "ITEM_ID": "R23",
+      "QUANTITY": 7,
+      "DONATE_LIMIT": 7
+    },
+    "A4": {
+      "ITEM_ID": "A4",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "R22": {
+      "ITEM_ID": "R22",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "R25": {
+      "ITEM_ID": "R25",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "A5": {
+      "ITEM_ID": "A5",
+      "QUANTITY": 5,
+      "DONATE_LIMIT": 5
+    },
+    "R24": {
+      "ITEM_ID": "R24",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "A6": {
+      "ITEM_ID": "A6",
+      "QUANTITY": 5,
+      "DONATE_LIMIT": 5
+    },
+    "R27": {
+      "ITEM_ID": "R27",
+      "QUANTITY": 7,
+      "DONATE_LIMIT": 7
+    },
+    "R26": {
+      "ITEM_ID": "R26",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "R29": {
+      "ITEM_ID": "R29",
+      "QUANTITY": 7,
+      "DONATE_LIMIT": 7
+    },
+    "R28": {
+      "ITEM_ID": "R28",
+      "QUANTITY": 7,
+      "DONATE_LIMIT": 7
+    },
+    "R0": {
+      "ITEM_ID": "R0",
+      "QUANTITY": 8,
+      "DONATE_LIMIT": 8
+    },
+    "R1": {
+      "ITEM_ID": "R1",
+      "QUANTITY": 8,
+      "DONATE_LIMIT": 8
+    },
+    "R2": {
+      "ITEM_ID": "R2",
+      "QUANTITY": 8,
+      "DONATE_LIMIT": 8
+    },
+    "R3": {
+      "ITEM_ID": "R3",
+      "QUANTITY": 7,
+      "DONATE_LIMIT": 7
+    },
+    "R4": {
+      "ITEM_ID": "R4",
+      "QUANTITY": 8,
+      "DONATE_LIMIT": 8
+    },
+    "R5": {
+      "ITEM_ID": "R5",
+      "QUANTITY": 7,
+      "DONATE_LIMIT": 7
+    },
+    "R6": {
+      "ITEM_ID": "R6",
+      "QUANTITY": 8,
+      "DONATE_LIMIT": 8
+    },
+    "R7": {
+      "ITEM_ID": "R7",
+      "QUANTITY": 8,
+      "DONATE_LIMIT": 8
+    },
+    "R8": {
+      "ITEM_ID": "R8",
+      "QUANTITY": 8,
+      "DONATE_LIMIT": 8
+    },
+    "R9": {
+      "ITEM_ID": "R9",
+      "QUANTITY": 7,
+      "DONATE_LIMIT": 7
+    },
+    "R30": {
+      "ITEM_ID": "R30",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "B0": {
+      "ITEM_ID": "B0",
+      "QUANTITY": 4,
+      "DONATE_LIMIT": 4
+    },
+    "B1": {
+      "ITEM_ID": "B1",
+      "QUANTITY": 4,
+      "DONATE_LIMIT": 4
+    },
+    "R32": {
+      "ITEM_ID": "R32",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "B2": {
+      "ITEM_ID": "B2",
+      "QUANTITY": 4,
+      "DONATE_LIMIT": 4
+    },
+    "R31": {
+      "ITEM_ID": "R31",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "B3": {
+      "ITEM_ID": "B3",
+      "QUANTITY": 3,
+      "DONATE_LIMIT": 3
+    },
+    "R34": {
+      "ITEM_ID": "R34",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "B4": {
+      "ITEM_ID": "B4",
+      "QUANTITY": 3,
+      "DONATE_LIMIT": 3
+    },
+    "R33": {
+      "ITEM_ID": "R33",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "B5": {
+      "ITEM_ID": "B5",
+      "QUANTITY": 3,
+      "DONATE_LIMIT": 3
+    },
+    "R36": {
+      "ITEM_ID": "R36",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "B6": {
+      "ITEM_ID": "B6",
+      "QUANTITY": 4,
+      "DONATE_LIMIT": 4
+    },
+    "R35": {
+      "ITEM_ID": "R35",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "R38": {
+      "ITEM_ID": "R38",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "R37": {
+      "ITEM_ID": "R37",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "R39": {
+      "ITEM_ID": "R39",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "R41": {
+      "ITEM_ID": "R41",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "R40": {
+      "ITEM_ID": "R40",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "R43": {
+      "ITEM_ID": "R43",
+      "QUANTITY": 5,
+      "DONATE_LIMIT": 5
+    },
+    "R42": {
+      "ITEM_ID": "R42",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "R45": {
+      "ITEM_ID": "R45",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "R44": {
+      "ITEM_ID": "R44",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "R47": {
+      "ITEM_ID": "R47",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "R46": {
+      "ITEM_ID": "R46",
+      "QUANTITY": 5,
+      "DONATE_LIMIT": 5
+    },
+    "R49": {
+      "ITEM_ID": "R49",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "R48": {
+      "ITEM_ID": "R48",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "T1": {
+      "ITEM_ID": "T1",
+      "QUANTITY": 10,
+      "DONATE_LIMIT": 10
+    },
+    "T2": {
+      "ITEM_ID": "T2",
+      "QUANTITY": 10,
+      "DONATE_LIMIT": 10
+    },
+    "T3": {
+      "ITEM_ID": "T3",
+      "QUANTITY": 10,
+      "DONATE_LIMIT": 10
+    },
+    "T4": {
+      "ITEM_ID": "T4",
+      "QUANTITY": 10,
+      "DONATE_LIMIT": 10
+    },
+    "T5": {
+      "ITEM_ID": "T5",
+      "QUANTITY": 10,
+      "DONATE_LIMIT": 10
+    },
+    "T6": {
+      "ITEM_ID": "T6",
+      "QUANTITY": 10,
+      "DONATE_LIMIT": 10
+    },
+    "T7": {
+      "ITEM_ID": "T7",
+      "QUANTITY": 8,
+      "DONATE_LIMIT": 8
+    },
+    "T8": {
+      "ITEM_ID": "T8",
+      "QUANTITY": 8,
+      "DONATE_LIMIT": 8
+    },
+    "T9": {
+      "ITEM_ID": "T9",
+      "QUANTITY": 8,
+      "DONATE_LIMIT": 8
+    },
+    "R50": {
+      "ITEM_ID": "R50",
+      "QUANTITY": 5,
+      "DONATE_LIMIT": 5
+    },
+    "R52": {
+      "ITEM_ID": "R52",
+      "QUANTITY": 5,
+      "DONATE_LIMIT": 5
+    },
+    "R51": {
+      "ITEM_ID": "R51",
+      "QUANTITY": 5,
+      "DONATE_LIMIT": 5
+    },
+    "R54": {
+      "ITEM_ID": "R54",
+      "QUANTITY": 5,
+      "DONATE_LIMIT": 5
+    },
+    "R53": {
+      "ITEM_ID": "R53",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "T10": {
+      "ITEM_ID": "T10",
+      "QUANTITY": 8,
+      "DONATE_LIMIT": 8
+    },
+    "R56": {
+      "ITEM_ID": "R56",
+      "QUANTITY": 5,
+      "DONATE_LIMIT": 5
+    },
+    "R55": {
+      "ITEM_ID": "R55",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "T12": {
+      "ITEM_ID": "T12",
+      "QUANTITY": 8,
+      "DONATE_LIMIT": 8
+    },
+    "R58": {
+      "ITEM_ID": "R58",
+      "QUANTITY": 5,
+      "DONATE_LIMIT": 5
+    },
+    "T11": {
+      "ITEM_ID": "T11",
+      "QUANTITY": 8,
+      "DONATE_LIMIT": 8
+    },
+    "R57": {
+      "ITEM_ID": "R57",
+      "QUANTITY": 5,
+      "DONATE_LIMIT": 5
+    },
+    "T14": {
+      "ITEM_ID": "T14",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "T13": {
+      "ITEM_ID": "T13",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "R59": {
+      "ITEM_ID": "R59",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "T16": {
+      "ITEM_ID": "T16",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "T15": {
+      "ITEM_ID": "T15",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "T18": {
+      "ITEM_ID": "T18",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "T17": {
+      "ITEM_ID": "T17",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "T19": {
+      "ITEM_ID": "T19",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "R61": {
+      "ITEM_ID": "R61",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "R60": {
+      "ITEM_ID": "R60",
+      "QUANTITY": 5,
+      "DONATE_LIMIT": 5
+    },
+    "R63": {
+      "ITEM_ID": "R63",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "R62": {
+      "ITEM_ID": "R62",
+      "QUANTITY": 5,
+      "DONATE_LIMIT": 5
+    },
+    "R65": {
+      "ITEM_ID": "R65",
+      "QUANTITY": 5,
+      "DONATE_LIMIT": 5
+    },
+    "R64": {
+      "ITEM_ID": "R64",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "R67": {
+      "ITEM_ID": "R67",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "T20": {
+      "ITEM_ID": "T20",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "R66": {
+      "ITEM_ID": "R66",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "R69": {
+      "ITEM_ID": "R69",
+      "QUANTITY": 5,
+      "DONATE_LIMIT": 5
+    },
+    "R68": {
+      "ITEM_ID": "R68",
+      "QUANTITY": 5,
+      "DONATE_LIMIT": 5
+    },
+    "R70": {
+      "ITEM_ID": "R70",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "R72": {
+      "ITEM_ID": "R72",
+      "QUANTITY": 5,
+      "DONATE_LIMIT": 5
+    },
+    "R71": {
+      "ITEM_ID": "R71",
+      "QUANTITY": 5,
+      "DONATE_LIMIT": 5
+    },
+    "R74": {
+      "ITEM_ID": "R74",
+      "QUANTITY": 5,
+      "DONATE_LIMIT": 5
+    },
+    "R73": {
+      "ITEM_ID": "R73",
+      "QUANTITY": 5,
+      "DONATE_LIMIT": 5
+    },
+    "R76": {
+      "ITEM_ID": "R76",
+      "QUANTITY": 5,
+      "DONATE_LIMIT": 5
+    },
+    "R75": {
+      "ITEM_ID": "R75",
+      "QUANTITY": 4,
+      "DONATE_LIMIT": 4
+    },
+    "R77": {
+      "ITEM_ID": "R77",
+      "QUANTITY": 5,
+      "DONATE_LIMIT": 5
+    },
+    "R10": {
+      "ITEM_ID": "R10",
+      "QUANTITY": 8,
+      "DONATE_LIMIT": 8
+    },
+    "R12": {
+      "ITEM_ID": "R12",
+      "QUANTITY": 6,
+      "DONATE_LIMIT": 6
+    },
+    "R11": {
+      "ITEM_ID": "R11",
+      "QUANTITY": 7,
+      "DONATE_LIMIT": 7
+    },
+    "R14": {
+      "ITEM_ID": "R14",
+      "QUANTITY": 7,
+      "DONATE_LIMIT": 7
+    },
+    "R13": {
+      "ITEM_ID": "R13",
+      "QUANTITY": 7,
+      "DONATE_LIMIT": 7
+    },
+    "R16": {
+      "ITEM_ID": "R16",
+      "QUANTITY": 7,
+      "DONATE_LIMIT": 7
+    },
+    "R15": {
+      "ITEM_ID": "R15",
+      "QUANTITY": 7,
+      "DONATE_LIMIT": 7
+    },
+    "R18": {
+      "ITEM_ID": "R18",
+      "QUANTITY": 7,
+      "DONATE_LIMIT": 7
+    },
+    "R17": {
+      "ITEM_ID": "R17",
+      "QUANTITY": 7,
+      "DONATE_LIMIT": 7
+    },
+    "R19": {
+      "ITEM_ID": "R19",
+      "QUANTITY": 7,
+      "DONATE_LIMIT": 7
+    }
+  },
+  "AVATAR": {
+    "1": {
+      "ID": 1,
+      "FILE": "guild/hud_badge_01.png",
+      "PRICE": 0
+    },
+    "2": {
+      "ID": 2,
+      "FILE": "guild/hud_badge_02.png",
+      "PRICE": 0
+    },
+    "3": {
+      "ID": 3,
+      "FILE": "guild/hud_badge_03.png",
+      "PRICE": 0
+    },
+    "4": {
+      "ID": 4,
+      "FILE": "guild/hud_badge_04.png",
+      "PRICE": 0
+    },
+    "5": {
+      "ID": 5,
+      "FILE": "guild/hud_badge_05.png",
+      "PRICE": 0
+    },
+    "6": {
+      "ID": 6,
+      "FILE": "guild/hud_badge_06.png",
+      "PRICE": 0
+    },
+    "7": {
+      "ID": 7,
+      "FILE": "guild/hud_badge_07.png",
+      "PRICE": 0
+    },
+    "8": {
+      "ID": 8,
+      "FILE": "guild/hud_badge_08.png",
+      "PRICE": 0
+    }
+  },
+  "EMOJI": {
+    "1": {
+      "ID": 1,
+      "FILE": "guild/icon_sticker_chat_01.png"
+    },
+    "2": {
+      "ID": 2,
+      "FILE": "guild/icon_sticker_chat_02.png"
+    },
+    "3": {
+      "ID": 3,
+      "FILE": "guild/icon_sticker_chat_03.png"
+    },
+    "4": {
+      "ID": 4,
+      "FILE": "guild/icon_sticker_chat_04.png"
+    },
+    "5": {
+      "ID": 5,
+      "FILE": "guild/icon_sticker_chat_05.png"
+    },
+    "6": {
+      "ID": 6,
+      "FILE": "guild/icon_sticker_chat_06.png"
+    },
+    "7": {
+      "ID": 7,
+      "FILE": "guild/icon_sticker_chat_07.png"
+    },
+    "8": {
+      "ID": 8,
+      "FILE": "guild/icon_sticker_chat_08.png"
+    },
+    "9": {
+      "ID": 9,
+      "FILE": "guild/icon_sticker_chat_09.png"
+    },
+    "10": {
+      "ID": 10,
+      "FILE": "guild/icon_sticker_chat_10.png"
+    },
+    "11": {
+      "ID": 11,
+      "FILE": "guild/icon_sticker_chat_11.png"
+    },
+    "12": {
+      "ID": 12,
+      "FILE": "guild/icon_sticker_chat_12.png"
+    },
+    "13": {
+      "ID": 13,
+      "FILE": "guild/icon_sticker_chat_13.png"
+    },
+    "14": {
+      "ID": 14,
+      "FILE": "guild/icon_sticker_chat_14.png"
+    },
+    "15": {
+      "ID": 15,
+      "FILE": "guild/icon_sticker_chat_15.png"
+    },
+    "16": {
+      "ID": 16,
+      "FILE": "guild/icon_sticker_chat_16.png"
+    },
+    "17": {
+      "ID": 17,
+      "FILE": "guild/icon_sticker_chat_17.png"
+    }
+  }
+}

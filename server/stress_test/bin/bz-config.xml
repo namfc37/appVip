@@ -1,0 +1,23 @@
+<!-- 
+
+	:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+	BZ Client Configuration file
+	:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+-->
+
+
+<BitZeroConfig>
+
+	<!-- Mandatory Settings -->
+	<ip>10.198.48.27</ip>
+	<port>443</port>
+	<zone>Admin</zone>
+	<!-- End Mandatory Settings -->
+	
+	<debug>true</debug>
+	
+	<!-- For generic http port communication -->
+	<httpPort>8080</httpPort>
+	
+</BitZeroConfig>

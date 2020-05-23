@@ -1,0 +1,272 @@
+
+machine_06_oil.png
+size: 348,348
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+level_1/machine_03_002
+  rotate: false
+  xy: 231, 85
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+level_1/machine_03_004
+  rotate: false
+  xy: 265, 26
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+level_1/machine_03_006
+  rotate: true
+  xy: 58, 13
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+level_1/machine_03_009
+  rotate: false
+  xy: 199, 198
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+level_1/machine_03_018
+  rotate: false
+  xy: 100, 18
+  size: 67, 30
+  orig: 67, 30
+  offset: 0, 0
+  index: -1
+level_1/machine_03_021
+  rotate: true
+  xy: 206, 5
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+level_2/machine_03_002
+  rotate: false
+  xy: 270, 85
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+level_2/machine_03_009
+  rotate: false
+  xy: 100, 50
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+level_2/machine_03_018
+  rotate: true
+  xy: 268, 198
+  size: 67, 30
+  orig: 67, 30
+  offset: 0, 0
+  index: -1
+level_3/machine_03_002
+  rotate: false
+  xy: 261, 158
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+level_3/machine_03_004
+  rotate: true
+  xy: 300, 158
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+level_2/machine_03_004
+  rotate: true
+  xy: 300, 158
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+level_3/machine_03_006
+  rotate: false
+  xy: 333, 196
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1
+level_2/machine_03_006
+  rotate: false
+  xy: 333, 196
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1
+level_3/machine_03_009
+  rotate: false
+  xy: 199, 267
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+level_3/machine_03_018
+  rotate: false
+  xy: 102, 177
+  size: 79, 35
+  orig: 79, 35
+  offset: 0, 0
+  index: -1
+level_3/machine_03_021
+  rotate: false
+  xy: 169, 67
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+level_2/machine_03_021
+  rotate: false
+  xy: 169, 67
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+machine_03_000
+  rotate: true
+  xy: 280, 282
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+machine_03_008
+  rotate: true
+  xy: 309, 80
+  size: 43, 29
+  orig: 43, 29
+  offset: 0, 0
+  index: -1
+machine_03_012
+  rotate: true
+  xy: 99, 119
+  size: 56, 64
+  orig: 56, 64
+  offset: 0, 0
+  index: -1
+machine_03_013
+  rotate: true
+  xy: 169, 2
+  size: 63, 35
+  orig: 63, 35
+  offset: 0, 0
+  index: -1
+machine_03_014
+  rotate: false
+  xy: 183, 206
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+machine_03_015
+  rotate: true
+  xy: 300, 182
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+machine_03_016
+  rotate: false
+  xy: 243, 125
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+machine_03_017
+  rotate: false
+  xy: 289, 125
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+machine_03_022
+  rotate: false
+  xy: 102, 281
+  size: 95, 65
+  orig: 95, 65
+  offset: 0, 0
+  index: -1
+machine_03_023
+  rotate: false
+  xy: 183, 162
+  size: 76, 34
+  orig: 76, 34
+  offset: 0, 0
+  index: -1
+machine_03_024
+  rotate: true
+  xy: 300, 228
+  size: 52, 35
+  orig: 52, 35
+  offset: 0, 0
+  index: -1
+machine_03_026
+  rotate: false
+  xy: 165, 126
+  size: 76, 34
+  orig: 76, 34
+  offset: 0, 0
+  index: -1
+machine_03_027
+  rotate: false
+  xy: 2, 118
+  size: 95, 65
+  orig: 95, 65
+  offset: 0, 0
+  index: -1
+machine_03_028
+  rotate: false
+  xy: 2, 252
+  size: 98, 94
+  orig: 98, 94
+  offset: 0, 0
+  index: -1
+machine_03_030
+  rotate: true
+  xy: 58, 27
+  size: 89, 40
+  orig: 89, 40
+  offset: 0, 0
+  index: -1
+machine_03_031
+  rotate: false
+  xy: 102, 214
+  size: 95, 65
+  orig: 95, 65
+  offset: 0, 0
+  index: -1
+machine_03_032
+  rotate: false
+  xy: 265, 54
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+machine_03_033
+  rotate: false
+  xy: 2, 185
+  size: 98, 65
+  orig: 98, 65
+  offset: 0, 0
+  index: -1
+machine_03_034
+  rotate: true
+  xy: 2, 13
+  size: 103, 54
+  orig: 103, 54
+  offset: 0, 0
+  index: -1
+machine_03_036
+  rotate: false
+  xy: 231, 67
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1

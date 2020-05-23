@@ -1,0 +1,51 @@
+{
+  "SHOPS": {
+    "1": {
+      "PLANT_SLOT": 1,
+      "BUG_SLOT": 1,
+      "QUANTITY": 1
+    },
+    "31": {
+      "PLANT_SLOT": 3,
+      "BUG_SLOT": 1,
+      "QUANTITY": 1
+    },
+    "51": {
+      "PLANT_SLOT": 4,
+      "BUG_SLOT": 1,
+      "QUANTITY": 1
+    },
+    "81": {
+      "PLANT_SLOT": 4,
+      "BUG_SLOT": 2,
+      "QUANTITY": 1
+    },
+    "151": {
+      "PLANT_SLOT": 6,
+      "BUG_SLOT": 2,
+      "QUANTITY": 1
+    }
+  },
+  "MACHINES": {
+    "1": {
+      "DURABILITY_MIN": 1,
+      "DURABILITY_MAX": 2
+    },
+    "31": {
+      "DURABILITY_MIN": 3,
+      "DURABILITY_MAX": 4
+    },
+    "51": {
+      "DURABILITY_MIN": 5,
+      "DURABILITY_MAX": 6
+    },
+    "81": {
+      "DURABILITY_MIN": 7,
+      "DURABILITY_MAX": 8
+    },
+    "151": {
+      "DURABILITY_MIN": 9,
+      "DURABILITY_MAX": 10
+    }
+  }
+}

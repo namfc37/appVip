@@ -1,0 +1,18 @@
+{
+  "id": 100005,
+  "role": 1,
+  "time_join": 0,
+  "time_penaty": 0,
+  "donateTotal": 0,
+  "donateRemain": 10,
+  "donateItemRemain": 0,
+  "hasDonate": false,
+  "nextDonate": 1587527987,
+  "milestoneRewards": {
+    "timeEndA": 1587628800,
+    "milestone": -1,
+    "rewards": {},
+    "claim": false,
+    "rewardStatus": 3
+  }
+}

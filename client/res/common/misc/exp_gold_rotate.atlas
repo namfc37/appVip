@@ -1,0 +1,146 @@
+
+exp_gold_rotate.png
+size: 469,469
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin_export_00
+  rotate: false
+  xy: 2, 114
+  size: 103, 103
+  orig: 250, 250
+  offset: 75, 69
+  index: -1
+coin_export_01
+  rotate: true
+  xy: 2, 219
+  size: 98, 103
+  orig: 250, 250
+  offset: 76, 69
+  index: -1
+coin_export_02
+  rotate: true
+  xy: 2, 397
+  size: 70, 103
+  orig: 250, 250
+  offset: 89, 69
+  index: -1
+coin_export_03
+  rotate: true
+  xy: 107, 397
+  size: 70, 103
+  orig: 250, 250
+  offset: 91, 69
+  index: -1
+coin_export_04
+  rotate: true
+  xy: 107, 218
+  size: 98, 103
+  orig: 250, 250
+  offset: 76, 69
+  index: -1
+coin_export_05
+  rotate: false
+  xy: 107, 113
+  size: 103, 103
+  orig: 250, 250
+  offset: 72, 69
+  index: -1
+coin_export_06
+  rotate: true
+  xy: 212, 217
+  size: 98, 103
+  orig: 250, 250
+  offset: 74, 69
+  index: -1
+coin_export_07
+  rotate: true
+  xy: 212, 396
+  size: 71, 103
+  orig: 250, 250
+  offset: 88, 69
+  index: -1
+coin_export_08
+  rotate: true
+  xy: 317, 396
+  size: 71, 103
+  orig: 250, 250
+  offset: 91, 69
+  index: -1
+coin_export_09
+  rotate: true
+  xy: 317, 217
+  size: 98, 103
+  orig: 250, 250
+  offset: 78, 69
+  index: -1
+exp_export_00
+  rotate: false
+  xy: 224, 2
+  size: 110, 108
+  orig: 250, 250
+  offset: 72, 68
+  index: -1
+exp_export_01
+  rotate: true
+  xy: 324, 112
+  size: 103, 108
+  orig: 250, 250
+  offset: 74, 68
+  index: -1
+exp_export_02
+  rotate: true
+  xy: 2, 319
+  size: 76, 108
+  orig: 250, 250
+  offset: 86, 68
+  index: -1
+exp_export_03
+  rotate: true
+  xy: 112, 318
+  size: 76, 108
+  orig: 250, 250
+  offset: 88, 68
+  index: -1
+exp_export_04
+  rotate: true
+  xy: 2, 8
+  size: 103, 108
+  orig: 250, 250
+  offset: 73, 68
+  index: -1
+exp_export_05
+  rotate: false
+  xy: 336, 2
+  size: 110, 108
+  orig: 250, 250
+  offset: 68, 68
+  index: -1
+exp_export_06
+  rotate: true
+  xy: 112, 7
+  size: 103, 110
+  orig: 250, 250
+  offset: 71, 67
+  index: -1
+exp_export_07
+  rotate: true
+  xy: 222, 317
+  size: 77, 110
+  orig: 250, 250
+  offset: 85, 66
+  index: -1
+exp_export_08
+  rotate: true
+  xy: 334, 317
+  size: 77, 110
+  orig: 250, 250
+  offset: 88, 66
+  index: -1
+exp_export_09
+  rotate: true
+  xy: 212, 112
+  size: 103, 110
+  orig: 250, 250
+  offset: 76, 67
+  index: -1

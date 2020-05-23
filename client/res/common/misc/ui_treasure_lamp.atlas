@@ -1,0 +1,433 @@
+
+ui_treasure_lamp.png
+size: 882,882
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_smoke_lamp00
+  rotate: false
+  xy: 148, 396
+  size: 8, 8
+  orig: 284, 160
+  offset: 167, 65
+  index: -1
+effect_smoke_lamp01
+  rotate: false
+  xy: 866, 286
+  size: 14, 14
+  orig: 284, 160
+  offset: 164, 67
+  index: -1
+effect_smoke_lamp02
+  rotate: false
+  xy: 288, 94
+  size: 24, 24
+  orig: 284, 160
+  offset: 159, 67
+  index: -1
+effect_smoke_lamp03
+  rotate: false
+  xy: 670, 2
+  size: 34, 34
+  orig: 284, 160
+  offset: 153, 67
+  index: -1
+effect_smoke_lamp04
+  rotate: false
+  xy: 241, 75
+  size: 45, 43
+  orig: 284, 160
+  offset: 147, 67
+  index: -1
+effect_smoke_lamp05
+  rotate: false
+  xy: 613, 132
+  size: 55, 53
+  orig: 284, 160
+  offset: 141, 67
+  index: -1
+effect_smoke_lamp06
+  rotate: false
+  xy: 739, 92
+  size: 55, 52
+  orig: 284, 160
+  offset: 137, 67
+  index: -1
+effect_smoke_lamp07
+  rotate: false
+  xy: 670, 38
+  size: 57, 52
+  orig: 284, 160
+  offset: 131, 67
+  index: -1
+effect_smoke_lamp08
+  rotate: true
+  xy: 473, 413
+  size: 60, 52
+  orig: 284, 160
+  offset: 124, 67
+  index: -1
+effect_smoke_lamp09
+  rotate: false
+  xy: 670, 92
+  size: 67, 53
+  orig: 284, 160
+  offset: 117, 67
+  index: -1
+effect_smoke_lamp10
+  rotate: false
+  xy: 768, 146
+  size: 78, 57
+  orig: 284, 160
+  offset: 107, 67
+  index: -1
+effect_smoke_lamp11
+  rotate: true
+  xy: 818, 413
+  size: 89, 61
+  orig: 284, 160
+  offset: 97, 67
+  index: -1
+effect_smoke_lamp12
+  rotate: true
+  xy: 473, 475
+  size: 100, 69
+  orig: 284, 160
+  offset: 87, 67
+  index: -1
+effect_smoke_lamp13
+  rotate: false
+  xy: 334, 74
+  size: 96, 68
+  orig: 284, 160
+  offset: 88, 68
+  index: -1
+effect_smoke_lamp14
+  rotate: false
+  xy: 333, 3
+  size: 95, 69
+  orig: 284, 160
+  offset: 89, 67
+  index: -1
+effect_smoke_lamp15
+  rotate: false
+  xy: 575, 277
+  size: 99, 69
+  orig: 284, 160
+  offset: 87, 67
+  index: -1
+effect_smoke_lamp16
+  rotate: false
+  xy: 134, 2
+  size: 103, 70
+  orig: 284, 160
+  offset: 85, 66
+  index: -1
+effect_smoke_lamp17
+  rotate: false
+  xy: 513, 117
+  size: 98, 68
+  orig: 284, 160
+  offset: 88, 67
+  index: -1
+effect_smoke_lamp18
+  rotate: true
+  xy: 805, 302
+  size: 95, 69
+  orig: 284, 160
+  offset: 90, 66
+  index: -1
+effect_smoke_lamp19
+  rotate: true
+  xy: 601, 20
+  size: 95, 67
+  orig: 284, 160
+  offset: 90, 68
+  index: -1
+effect_smoke_lamp20
+  rotate: false
+  xy: 670, 147
+  size: 96, 67
+  orig: 284, 160
+  offset: 89, 67
+  index: -1
+effect_smoke_lamp21
+  rotate: false
+  xy: 430, 2
+  size: 93, 68
+  orig: 284, 160
+  offset: 90, 66
+  index: -1
+effect_smoke_lamp22
+  rotate: false
+  xy: 239, 2
+  size: 92, 70
+  orig: 284, 160
+  offset: 90, 66
+  index: -1
+effect_smoke_lamp23
+  rotate: true
+  xy: 795, 205
+  size: 95, 69
+  orig: 284, 160
+  offset: 89, 67
+  index: -1
+egg_fog_1
+  rotate: false
+  xy: 559, 747
+  size: 140, 133
+  orig: 140, 133
+  offset: 0, 0
+  index: -1
+egg_fog_2
+  rotate: false
+  xy: 267, 553
+  size: 137, 131
+  orig: 137, 131
+  offset: 0, 0
+  index: -1
+hud_gacha_gold
+  rotate: false
+  xy: 2, 686
+  size: 555, 194
+  orig: 557, 196
+  offset: 1, 1
+  index: -1
+hud_gacha_lamp
+  rotate: false
+  xy: 2, 527
+  size: 263, 157
+  orig: 265, 159
+  offset: 1, 1
+  index: -1
+smoke_lamp_10
+  rotate: true
+  xy: 525, 24
+  size: 91, 74
+  orig: 197, 157
+  offset: 88, 45
+  index: -1
+smoke_lamp_11
+  rotate: true
+  xy: 427, 152
+  size: 110, 84
+  orig: 197, 157
+  offset: 69, 35
+  index: -1
+smoke_lamp_12
+  rotate: true
+  xy: 488, 284
+  size: 127, 85
+  orig: 197, 157
+  offset: 51, 31
+  index: -1
+smoke_lamp_13
+  rotate: true
+  xy: 270, 409
+  size: 142, 105
+  orig: 197, 157
+  offset: 34, 33
+  index: -1
+smoke_lamp_14
+  rotate: false
+  xy: 2, 406
+  size: 154, 119
+  orig: 197, 157
+  offset: 23, 28
+  index: -1
+smoke_lamp_15
+  rotate: true
+  xy: 2, 249
+  size: 155, 93
+  orig: 197, 157
+  offset: 18, 43
+  index: -1
+smoke_lamp_16
+  rotate: true
+  xy: 158, 389
+  size: 136, 110
+  orig: 197, 157
+  offset: 33, 38
+  index: -1
+smoke_lamp_17
+  rotate: false
+  xy: 682, 399
+  size: 134, 103
+  orig: 197, 157
+  offset: 52, 33
+  index: -1
+smoke_lamp_18
+  rotate: false
+  xy: 559, 652
+  size: 143, 93
+  orig: 197, 157
+  offset: 38, 30
+  index: -1
+smoke_lamp_19
+  rotate: true
+  xy: 148, 236
+  size: 151, 93
+  orig: 197, 157
+  offset: 22, 23
+  index: -1
+smoke_lamp_20
+  rotate: true
+  xy: 2, 83
+  size: 164, 84
+  orig: 197, 157
+  offset: 17, 22
+  index: -1
+smoke_lamp_21
+  rotate: false
+  xy: 548, 576
+  size: 154, 74
+  orig: 197, 157
+  offset: 22, 22
+  index: -1
+smoke_lamp_22
+  rotate: true
+  xy: 88, 80
+  size: 151, 83
+  orig: 197, 157
+  offset: 23, 17
+  index: -1
+smoke_lamp_23
+  rotate: false
+  xy: 701, 773
+  size: 158, 107
+  orig: 197, 157
+  offset: 12, 16
+  index: -1
+smoke_lamp_24
+  rotate: false
+  xy: 544, 476
+  size: 136, 98
+  orig: 197, 157
+  offset: 19, 22
+  index: -1
+smoke_lamp_25
+  rotate: true
+  xy: 575, 348
+  size: 126, 102
+  orig: 197, 157
+  offset: 11, 34
+  index: -1
+smoke_lamp_26
+  rotate: false
+  xy: 679, 303
+  size: 124, 94
+  orig: 197, 157
+  offset: 13, 33
+  index: -1
+smoke_lamp_27
+  rotate: true
+  xy: 377, 413
+  size: 138, 94
+  orig: 197, 157
+  offset: 17, 36
+  index: -1
+smoke_lamp_28
+  rotate: false
+  xy: 704, 590
+  size: 149, 88
+  orig: 197, 157
+  offset: 27, 41
+  index: -1
+smoke_lamp_29
+  rotate: true
+  xy: 243, 238
+  size: 149, 81
+  orig: 197, 157
+  offset: 29, 50
+  index: -1
+smoke_lamp_30
+  rotate: true
+  xy: 173, 74
+  size: 160, 66
+  orig: 197, 157
+  offset: 19, 55
+  index: -1
+smoke_lamp_31
+  rotate: true
+  xy: 408, 264
+  size: 147, 78
+  orig: 197, 157
+  offset: 28, 42
+  index: -1
+smoke_lamp_32
+  rotate: false
+  xy: 676, 216
+  size: 117, 85
+  orig: 197, 157
+  offset: 46, 45
+  index: -1
+smoke_lamp_33
+  rotate: true
+  xy: 241, 120
+  size: 114, 91
+  orig: 197, 157
+  offset: 66, 48
+  index: -1
+smoke_lamp_34
+  rotate: false
+  xy: 513, 187
+  size: 109, 88
+  orig: 197, 157
+  offset: 60, 48
+  index: -1
+smoke_lamp_35
+  rotate: false
+  xy: 2, 2
+  size: 130, 76
+  orig: 197, 157
+  offset: 37, 50
+  index: -1
+smoke_lamp_36
+  rotate: false
+  xy: 704, 680
+  size: 151, 91
+  orig: 197, 157
+  offset: 24, 48
+  index: -1
+smoke_lamp_37
+  rotate: true
+  xy: 334, 144
+  size: 113, 91
+  orig: 197, 157
+  offset: 59, 49
+  index: -1
+smoke_lamp_38
+  rotate: false
+  xy: 704, 504
+  size: 146, 84
+  orig: 197, 157
+  offset: 23, 42
+  index: -1
+smoke_lamp_39
+  rotate: true
+  xy: 326, 259
+  size: 148, 80
+  orig: 197, 157
+  offset: 33, 50
+  index: -1
+smoke_lamp_40
+  rotate: false
+  xy: 406, 577
+  size: 140, 107
+  orig: 197, 157
+  offset: 17, 30
+  index: -1
+spark
+  rotate: false
+  xy: 432, 72
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+sun_light_2
+  rotate: false
+  xy: 97, 233
+  size: 49, 171
+  orig: 51, 173
+  offset: 1, 1
+  index: -1

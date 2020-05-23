@@ -1,0 +1,13 @@
+
+menu_offer_highlight.png
+size: 54,54
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect_box_flip_IBS
+  rotate: false
+  xy: 2, 2
+  size: 46, 50
+  orig: 64, 64
+  offset: 0, 14
+  index: -1

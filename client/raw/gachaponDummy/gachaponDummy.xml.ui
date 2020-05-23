@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>D:\sgm20182\client\raw\gachaponDummy</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>D:\sgm20182\client\raw\gachaponDummy\Resources</Resources>
+  <Name>gachaponDummy</Name>
+  <JsonFileName>gachaponDummy.json</JsonFileName>
+  <JsonFolder>D:\sgm20182\client\raw\gachaponDummy\Json</JsonFolder>
+  <JsonList>
+    <string>gachaponDummy.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>480</Width>
+    <Height>320</Height>
+  </CanvasSize>
+  <filePath>D:\sgm20182\client\raw\gachaponDummy\gachaponDummy.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList>
+    <string>gachaponDummy0.plist</string>
+  </imageFileList>
+  <imagePngList>
+    <string>gachaponDummy0.png</string>
+  </imagePngList>
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>gachaponDummy.json</CurrentUIJson>
+</UIProject>

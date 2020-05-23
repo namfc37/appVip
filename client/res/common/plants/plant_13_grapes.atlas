@@ -1,0 +1,139 @@
+
+plant_13_grapes.png
+size: 237,237
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cuc_new_021
+  rotate: false
+  xy: 209, 206
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+marker
+  rotate: false
+  xy: 204, 168
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+nho_000
+  rotate: true
+  xy: 195, 75
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+nho_002
+  rotate: false
+  xy: 79, 37
+  size: 58, 70
+  orig: 58, 70
+  offset: 0, 0
+  index: -1
+nho_003
+  rotate: false
+  xy: 154, 72
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+nho_004
+  rotate: false
+  xy: 79, 109
+  size: 71, 126
+  orig: 71, 126
+  offset: 0, 0
+  index: -1
+nho_005
+  rotate: false
+  xy: 152, 141
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+nho_006
+  rotate: false
+  xy: 110, 10
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+nho_007
+  rotate: false
+  xy: 209, 219
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+nho_008
+  rotate: true
+  xy: 139, 67
+  size: 40, 13
+  orig: 40, 13
+  offset: 0, 0
+  index: -1
+nho_009
+  rotate: false
+  xy: 152, 204
+  size: 55, 31
+  orig: 55, 31
+  offset: 0, 0
+  index: -1
+nho_010
+  rotate: true
+  xy: 204, 128
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+nho_011
+  rotate: false
+  xy: 152, 111
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1
+nho_012
+  rotate: false
+  xy: 2, 107
+  size: 75, 128
+  orig: 75, 128
+  offset: 0, 0
+  index: -1
+nho_013
+  rotate: false
+  xy: 152, 172
+  size: 54, 30
+  orig: 54, 30
+  offset: 0, 0
+  index: -1
+nho_014
+  rotate: true
+  xy: 79, 2
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+nho_015
+  rotate: false
+  xy: 154, 36
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+nho_016
+  rotate: true
+  xy: 208, 168
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+nho_017
+  rotate: false
+  xy: 2, 13
+  size: 75, 92
+  orig: 75, 92
+  offset: 0, 0
+  index: -1

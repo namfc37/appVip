@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/libthrift-r917130.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpclient_4.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-3.10.5.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hamcrest-all-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bz_allinone_websocket.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-pool2-2.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kafka-streams-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spymemcached.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gson-2.8.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xstream-1.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/broker.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpcore_4.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-all-4.1.43.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jedis-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-log4j12-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-28.1-jre.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/fb303.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang3-3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scribe.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kafka-clients-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,31 @@
+{
+  "brokers": "kafka1-new.zingplay.com:9092,kafka2-new.zingplay.com:9092,kafka3-new.zingplay.com:9092",
+  "logTopic": "kvtm_action",
+  "requestTopic": "request",
+  "gameId": "kvtm",
+  "autoRequest": false,
+  "useCache": true,
+  "timeUnit": 60,
+  "serverIndex": 0,
+  "database": {
+    "host": "10.50.21.11",
+    "port": "11240"
+  },
+  "security": {
+    "isSecured": false
+  },
+  "mapIndex": {
+    "10.50.21.20": {
+      "1": 0,
+      "2": 1
+    },
+    "10.50.21.21": {
+      "1": 2,
+      "2": 3
+    },
+    "10.50.21.22": {
+      "1": 4,
+      "2": 5
+    }
+  }
+}

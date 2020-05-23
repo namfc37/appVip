@@ -1,0 +1,4 @@
+Built-Version: 3b74741
+Built-Time: Fri 04/24/2020  9:27:04.66
+Built-By: DESKTOP-RKKBTJ8
+Main-Class: bitzero.server.Main

@@ -1,0 +1,97 @@
+
+npc_frog_derby.png
+size: 173,173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ech_000
+  rotate: true
+  xy: 50, 2
+  size: 31, 9
+  orig: 31, 9
+  offset: 0, 0
+  index: -1
+ech_001
+  rotate: false
+  xy: 2, 129
+  size: 155, 42
+  orig: 155, 42
+  offset: 0, 0
+  index: -1
+ech_002
+  rotate: false
+  xy: 2, 5
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+ech_003
+  rotate: false
+  xy: 2, 35
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+ech_004
+  rotate: false
+  xy: 66, 73
+  size: 49, 12
+  orig: 49, 12
+  offset: 0, 0
+  index: -1
+ech_005
+  rotate: false
+  xy: 117, 79
+  size: 54, 48
+  orig: 54, 48
+  offset: 0, 0
+  index: -1
+ech_006
+  rotate: false
+  xy: 2, 87
+  size: 113, 40
+  orig: 113, 40
+  offset: 0, 0
+  index: -1
+ech_007
+  rotate: false
+  xy: 147, 64
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+ech_008
+  rotate: true
+  xy: 159, 150
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+ech_009
+  rotate: false
+  xy: 159, 131
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+ech_010
+  rotate: false
+  xy: 91, 43
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+ech_011
+  rotate: false
+  xy: 66, 44
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+ech_012
+  rotate: false
+  xy: 117, 60
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1

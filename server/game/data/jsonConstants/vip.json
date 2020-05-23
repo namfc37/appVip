@@ -1,0 +1,93 @@
+{
+  "VIP_ITEMS": {
+    "INACTIVE": {
+      "ID": "INACTIVE",
+      "DURATION": 0,
+      "CONVERT_GOLD_BONUS": 0,
+      "DAILY_LOGIN_REWARD": {},
+      "UPGRADE_POT_RATE": 0,
+      "BLACKSMITH_RATE": 0,
+      "AIRSHIP_GOLD_BONUS": 0,
+      "BUG_RATE": 0,
+      "IS_ACTIVE": true
+    },
+    "OFFER_VIP_0": {
+      "ID": "OFFER_VIP_0",
+      "DURATION": 7,
+      "CONVERT_GOLD_BONUS": 5,
+      "DAILY_LOGIN_REWARD": {
+        "GOLD": 10000
+      },
+      "UPGRADE_POT_RATE": 5,
+      "BLACKSMITH_RATE": 10,
+      "AIRSHIP_GOLD_BONUS": 10,
+      "BUG_RATE": 2,
+      "IS_ACTIVE": false
+    },
+    "OFFER_VIP_1": {
+      "ID": "OFFER_VIP_1",
+      "DURATION": 15,
+      "CONVERT_GOLD_BONUS": 10,
+      "DAILY_LOGIN_REWARD": {
+        "GOLD": 12000
+      },
+      "UPGRADE_POT_RATE": 8,
+      "BLACKSMITH_RATE": 15,
+      "AIRSHIP_GOLD_BONUS": 20,
+      "BUG_RATE": 4,
+      "IS_ACTIVE": false
+    },
+    "OFFER_VIP_2": {
+      "ID": "OFFER_VIP_2",
+      "DURATION": 30,
+      "CONVERT_GOLD_BONUS": 15,
+      "DAILY_LOGIN_REWARD": {
+        "GOLD": 15000
+      },
+      "UPGRADE_POT_RATE": 10,
+      "BLACKSMITH_RATE": 20,
+      "AIRSHIP_GOLD_BONUS": 50,
+      "BUG_RATE": 6,
+      "IS_ACTIVE": false
+    },
+    "OFFER_VIP_3": {
+      "ID": "OFFER_VIP_3",
+      "DURATION": 7,
+      "CONVERT_GOLD_BONUS": 3,
+      "DAILY_LOGIN_REWARD": {
+        "GOLD": 2000
+      },
+      "UPGRADE_POT_RATE": 2,
+      "BLACKSMITH_RATE": 2,
+      "AIRSHIP_GOLD_BONUS": 5,
+      "BUG_RATE": 1,
+      "IS_ACTIVE": true
+    },
+    "OFFER_VIP_4": {
+      "ID": "OFFER_VIP_4",
+      "DURATION": 7,
+      "CONVERT_GOLD_BONUS": 5,
+      "DAILY_LOGIN_REWARD": {
+        "GOLD": 2500
+      },
+      "UPGRADE_POT_RATE": 3,
+      "BLACKSMITH_RATE": 3,
+      "AIRSHIP_GOLD_BONUS": 10,
+      "BUG_RATE": 2,
+      "IS_ACTIVE": true
+    },
+    "OFFER_VIP_5": {
+      "ID": "OFFER_VIP_5",
+      "DURATION": 7,
+      "CONVERT_GOLD_BONUS": 10,
+      "DAILY_LOGIN_REWARD": {
+        "GOLD": 3000
+      },
+      "UPGRADE_POT_RATE": 6,
+      "BLACKSMITH_RATE": 5,
+      "AIRSHIP_GOLD_BONUS": 15,
+      "BUG_RATE": 3,
+      "IS_ACTIVE": true
+    }
+  }
+}

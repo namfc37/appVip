@@ -1,0 +1,1480 @@
+{
+"skeleton": { "hash": "bQOqz0PL21p1gFtIyraVP+nbiWQ", "spine": "3.6.53", "width": 3278.2, "height": 1301.27, "images": "./images/" },
+"bones": [
+	{ "name": "root", "x": -572.53, "y": 410.74 },
+	{
+		"name": "effect_light_egg",
+		"parent": "root",
+		"length": 100,
+		"x": 571.2,
+		"y": -319.73,
+		"scaleX": 1.35,
+		"scaleY": 1.35,
+		"color": "1700ffff"
+	},
+	{ "name": "effect_light_egg_02", "parent": "root", "x": 575.2, "y": -324.23, "scaleX": 4, "scaleY": 4 },
+	{ "name": "effect_light_egg_02_L1", "parent": "root", "rotation": 270, "x": 575.2, "y": -324.23, "scaleX": 5, "scaleY": 5 },
+	{ "name": "light_01", "parent": "root", "rotation": 180, "x": 677, "y": -408.5, "scaleX": 4.68, "scaleY": 4.68 },
+	{ "name": "light_02", "parent": "root", "x": 569, "y": -430.5, "scaleX": 6, "scaleY": 6 },
+	{ "name": "light_03", "parent": "root", "x": 573, "y": -412.5, "scaleX": 2.1, "scaleY": 2.1, "color": "13ff00ff" },
+	{ "name": "light_05", "parent": "root", "x": 551, "y": -405.5, "scaleX": 4, "scaleY": 0.64 },
+	{ "name": "light_01_L1", "parent": "root", "rotation": 180, "x": 399, "y": -408.5, "scaleX": 4.68, "scaleY": 4.68 },
+	{ "name": "light_01_L2", "parent": "root", "x": 823, "y": -412.5, "scaleX": 4.68, "scaleY": 4.68 },
+	{ "name": "light_01_L3", "parent": "root", "rotation": 180, "x": 877, "y": -408.5, "scaleX": 3.5, "scaleY": 3.5 },
+	{ "name": "light_01_L4", "parent": "root", "rotation": 180, "x": 259, "y": -408.5, "scaleX": 3, "scaleY": 3 },
+	{ "name": "light_01_L5", "parent": "root", "x": 563, "y": -412.5, "scaleX": 3.7, "scaleY": 3.7 },
+	{ "name": "light_02_L1", "parent": "root", "x": 569, "y": -430.5, "scaleX": 6, "scaleY": 6 },
+	{ "name": "light_02_L2", "parent": "root", "x": 569, "y": -430.5, "scaleX": 6, "scaleY": 6 },
+	{ "name": "light_02_L3", "parent": "root", "x": 577.2, "y": -329.23, "scaleX": 6, "scaleY": 6 },
+	{ "name": "light_02_L4", "parent": "root", "x": 577.2, "y": -329.23, "scaleX": 6, "scaleY": 6 },
+	{ "name": "light_02_L5", "parent": "root", "x": 577.2, "y": -329.23, "scaleX": 6, "scaleY": 6 },
+	{ "name": "light_star", "parent": "root", "rotation": 297, "x": 987, "y": -370.25, "scaleX": 0.5, "scaleY": 0.5 },
+	{ "name": "light_star_L1", "parent": "root", "rotation": 297, "x": 117, "y": -440.25, "scaleX": 0.5, "scaleY": 0.5 },
+	{ "name": "light_star_L2", "parent": "root", "rotation": 297, "x": 578, "y": -423.25, "scaleX": 0.3, "scaleY": 0.3 },
+	{ "name": "light_star_L3", "parent": "root", "rotation": 297, "x": 767, "y": -434.25, "scaleX": 0.3, "scaleY": 0.3 },
+	{ "name": "light_star_L4", "parent": "root", "x": 297, "y": -444.25, "scaleX": 0.7, "scaleY": 0.7 },
+	{ "name": "light_star_L5", "parent": "root", "x": 547, "y": -404.25 },
+	{ "name": "light_star_L6", "parent": "root", "x": 569.2, "y": -311.98 },
+	{ "name": "light_star_L7", "parent": "root", "x": 561.2, "y": -233.98, "scaleX": 0.7, "scaleY": 0.7 },
+	{ "name": "light_star_L8", "parent": "root", "rotation": 297, "x": 636.2, "y": -336.98, "scaleX": 0.5, "scaleY": 0.5 },
+	{ "name": "light_star_L9", "parent": "root", "rotation": 297, "x": 600.2, "y": -330.98, "scaleX": 0.3, "scaleY": 0.3 },
+	{ "name": "light_star_L10", "parent": "root", "rotation": 297, "x": 507.2, "y": -253.98, "scaleX": 0.5, "scaleY": 0.5 },
+	{ "name": "light_star_L11", "parent": "root", "rotation": 297, "x": 525.2, "y": -367.98, "scaleX": 0.5, "scaleY": 0.5 },
+	{ "name": "light_star_L10_light_04_L1", "parent": "light_star_L10", "scaleX": 0.001, "scaleY": 0.001 },
+	{ "name": "light_star_L11_light_04_L1", "parent": "light_star_L11", "scaleX": 0.001, "scaleY": 0.001 },
+	{ "name": "light_star_L1_light_04", "parent": "light_star_L1", "scaleX": 0.001, "scaleY": 0.001 },
+	{ "name": "light_star_L2_light_04", "parent": "light_star_L2", "scaleX": 0.001, "scaleY": 0.001 },
+	{ "name": "light_star_L3_light_04", "parent": "light_star_L3", "scaleX": 0.001, "scaleY": 0.001 },
+	{ "name": "light_star_L4_light_04", "parent": "light_star_L4", "scaleX": 0.001, "scaleY": 0.001 },
+	{ "name": "light_star_L5_light_04", "parent": "light_star_L5", "scaleX": 0.001, "scaleY": 0.001 },
+	{ "name": "light_star_L6_light_04_L1", "parent": "light_star_L6", "scaleX": 0.001, "scaleY": 0.001 },
+	{ "name": "light_star_L7_light_04_L1", "parent": "light_star_L7", "scaleX": 0.001, "scaleY": 0.001 },
+	{ "name": "light_star_L8_light_04_L1", "parent": "light_star_L8", "scaleX": 0.001, "scaleY": 0.001 },
+	{ "name": "light_star_L9_light_04_L1", "parent": "light_star_L9", "scaleX": 0.001, "scaleY": 0.001 },
+	{ "name": "light_star_light_04", "parent": "light_star", "scaleX": 0.001, "scaleY": 0.001 }
+],
+"slots": [
+	{ "name": "light_01_L5", "bone": "light_01_L5", "color": "ffffff00", "attachment": "light_01", "blend": "additive" },
+	{
+		"name": "effect_light_egg",
+		"bone": "effect_light_egg",
+		"color": "ffffff00",
+		"attachment": "effect_light_egg",
+		"blend": "additive"
+	},
+	{ "name": "light_01_L4", "bone": "light_01_L4", "color": "ffffff00", "attachment": "light_01", "blend": "additive" },
+	{ "name": "light_02_L5", "bone": "light_02_L5", "color": "ffffff00", "attachment": "light_02", "blend": "additive" },
+	{ "name": "light_01_L3", "bone": "light_01_L3", "color": "ffffff00", "attachment": "light_01", "blend": "additive" },
+	{ "name": "light_star_L11_light_04_L1", "bone": "light_star_L11_light_04_L1", "attachment": "light_04" },
+	{ "name": "light_01_L2", "bone": "light_01_L2", "color": "ffffff00", "attachment": "light_01", "blend": "additive" },
+	{ "name": "light_star_L10_light_04_L1", "bone": "light_star_L10_light_04_L1", "attachment": "light_04" },
+	{ "name": "light_01_L1", "bone": "light_01_L1", "color": "ffffff00", "attachment": "light_01", "blend": "additive" },
+	{ "name": "light_star_L9_light_04_L1", "bone": "light_star_L9_light_04_L1", "attachment": "light_04" },
+	{ "name": "light_01", "bone": "light_01", "color": "ffffff00", "attachment": "light_01", "blend": "additive" },
+	{ "name": "light_star_L8_light_04_L1", "bone": "light_star_L8_light_04_L1", "attachment": "light_04" },
+	{ "name": "light_02_L2", "bone": "light_02_L2", "color": "ffffff00", "attachment": "light_02", "blend": "additive" },
+	{ "name": "light_star_L7_light_04_L1", "bone": "light_star_L7_light_04_L1", "attachment": "light_04" },
+	{ "name": "light_02_L1", "bone": "light_02_L1", "color": "ffffff00", "blend": "additive" },
+	{ "name": "light_star_L6_light_04_L1", "bone": "light_star_L6_light_04_L1", "attachment": "light_04" },
+	{ "name": "light_02", "bone": "light_02", "color": "ffffff00", "blend": "additive" },
+	{
+		"name": "effect_light_egg_02_L1",
+		"bone": "effect_light_egg_02_L1",
+		"color": "ffffff00",
+		"attachment": "effect_light_egg_02",
+		"blend": "additive"
+	},
+	{ "name": "light_03", "bone": "light_03", "color": "ffffff00", "attachment": "light_03", "blend": "additive" },
+	{ "name": "effect_light_egg_02", "bone": "effect_light_egg_02", "color": "ffffff00", "blend": "additive" },
+	{ "name": "light_05", "bone": "light_05", "blend": "additive" },
+	{ "name": "light_02_L4", "bone": "light_02_L4", "color": "ffffff00", "blend": "additive" },
+	{ "name": "light_star_L5_light_04", "bone": "light_star_L5_light_04", "attachment": "light_04" },
+	{ "name": "light_02_L3", "bone": "light_02_L3", "color": "ffffff00", "blend": "additive" },
+	{ "name": "light_star_L4_light_04", "bone": "light_star_L4_light_04", "attachment": "light_04" },
+	{ "name": "light_star_L3_light_04", "bone": "light_star_L3_light_04", "attachment": "light_04" },
+	{ "name": "light_star_L2_light_04", "bone": "light_star_L2_light_04", "attachment": "light_04" },
+	{ "name": "light_star_L1_light_04", "bone": "light_star_L1_light_04", "attachment": "light_04" },
+	{ "name": "light_star_light_04", "bone": "light_star_light_04", "attachment": "light_04" }
+],
+"skins": {
+	"default": {
+		"effect_light_egg": {
+			"effect_chest": { "x": 2.86, "y": -6.17, "scaleX": 2, "scaleY": 2, "width": 140, "height": 131 },
+			"effect_light_egg": { "width": 205, "height": 210 },
+			"effect_pot": { "x": 0.99, "y": -9.63, "scaleX": 1.5, "scaleY": 1.5, "width": 152, "height": 125 }
+		},
+		"effect_light_egg_02": {
+			"effect_light_egg_02": { "width": 189, "height": 194 }
+		},
+		"effect_light_egg_02_L1": {
+			"effect_light_egg_02": { "width": 189, "height": 194 }
+		},
+		"light_01": {
+			"light_01": { "width": 503, "height": 173 }
+		},
+		"light_01_L1": {
+			"light_01": { "width": 503, "height": 173 }
+		},
+		"light_01_L2": {
+			"light_01": { "width": 503, "height": 173 }
+		},
+		"light_01_L3": {
+			"light_01": { "width": 503, "height": 173 }
+		},
+		"light_01_L4": {
+			"light_01": { "width": 503, "height": 173 }
+		},
+		"light_01_L5": {
+			"light_01": { "width": 503, "height": 173 }
+		},
+		"light_02": {
+			"light_02": { "width": 545, "height": 200 }
+		},
+		"light_02_L1": {
+			"light_02": { "width": 545, "height": 200 }
+		},
+		"light_02_L2": {
+			"light_02": { "width": 545, "height": 200 }
+		},
+		"light_02_L3": {
+			"light_02": { "width": 545, "height": 200 }
+		},
+		"light_02_L4": {
+			"light_02": { "width": 545, "height": 200 }
+		},
+		"light_02_L5": {
+			"light_02": { "width": 545, "height": 200 }
+		},
+		"light_03": {
+			"light_03": { "width": 506, "height": 88 }
+		},
+		"light_05": {
+			"light_05": { "width": 151, "height": 42 }
+		},
+		"light_star_L10_light_04_L1": {
+			"light_04": { "width": 87, "height": 87 }
+		},
+		"light_star_L11_light_04_L1": {
+			"light_04": { "width": 87, "height": 87 }
+		},
+		"light_star_L1_light_04": {
+			"light_04": { "width": 87, "height": 87 }
+		},
+		"light_star_L2_light_04": {
+			"light_04": { "width": 87, "height": 87 }
+		},
+		"light_star_L3_light_04": {
+			"light_04": { "width": 87, "height": 87 }
+		},
+		"light_star_L4_light_04": {
+			"light_04": { "width": 87, "height": 87 }
+		},
+		"light_star_L5_light_04": {
+			"light_04": { "width": 87, "height": 87 }
+		},
+		"light_star_L6_light_04_L1": {
+			"light_04": { "width": 87, "height": 87 }
+		},
+		"light_star_L7_light_04_L1": {
+			"light_04": { "width": 87, "height": 87 }
+		},
+		"light_star_L8_light_04_L1": {
+			"light_04": { "width": 87, "height": 87 }
+		},
+		"light_star_L9_light_04_L1": {
+			"light_04": { "width": 87, "height": 87 }
+		},
+		"light_star_light_04": {
+			"light_04": { "width": 87, "height": 87 }
+		}
+	}
+},
+"animations": {
+	"effect_unlock_chest": {
+		"slots": {
+			"effect_light_egg": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.8333, "color": "ffffffff" },
+					{ "time": 1, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "effect_chest" }
+				]
+			},
+			"effect_light_egg_02": {
+				"color": [
+					{ "time": 0.1667, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.5333, "color": "ffffffff" },
+					{ "time": 0.7333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.1667, "name": "effect_light_egg_02" },
+					{ "time": 1.2, "name": null }
+				]
+			},
+			"effect_light_egg_02_L1": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.5333, "color": "ffffffff" },
+					{ "time": 0.7333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "effect_light_egg_02" },
+					{ "time": 1.0333, "name": null }
+				]
+			},
+			"light_01": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_02": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_03": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_05": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_01_L1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_01_L2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_01_L3": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_01_L4": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_01_L5": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_02_L1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_02_L2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_02_L3": {
+				"color": [
+					{ "time": 0.3667, "color": "ffffff00" },
+					{ "time": 0.7, "color": "ffffffff" },
+					{ "time": 1.0333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.3667, "name": "light_02" },
+					{ "time": 1.0333, "name": null }
+				]
+			},
+			"light_02_L4": {
+				"color": [
+					{ "time": 0.1667, "color": "ffffff00" },
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 0.8333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.1667, "name": "light_02" },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"light_02_L5": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "light_02" },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"light_star_L10_light_04_L1": {
+				"attachment": [
+					{ "time": 0, "name": "light_04" }
+				]
+			},
+			"light_star_L11_light_04_L1": {
+				"attachment": [
+					{ "time": 0, "name": "light_04" }
+				]
+			},
+			"light_star_L1_light_04": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_star_L2_light_04": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_star_L3_light_04": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_star_L4_light_04": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_star_L5_light_04": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_star_L6_light_04_L1": {
+				"attachment": [
+					{ "time": 0, "name": "light_04" }
+				]
+			},
+			"light_star_L7_light_04_L1": {
+				"attachment": [
+					{ "time": 0, "name": "light_04" }
+				]
+			},
+			"light_star_L8_light_04_L1": {
+				"attachment": [
+					{ "time": 0, "name": "light_04" }
+				]
+			},
+			"light_star_L9_light_04_L1": {
+				"attachment": [
+					{ "time": 0, "name": "light_04" }
+				]
+			},
+			"light_star_light_04": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"effect_light_egg": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1, "x": 1.074, "y": 1.074 },
+					{ "time": 0.1917, "x": 1, "y": 1 },
+					{ "time": 0.2833, "x": 1.074, "y": 1.074 },
+					{ "time": 0.375, "x": 1, "y": 1 },
+					{ "time": 0.4667, "x": 1.074, "y": 1.074 },
+					{ "time": 0.5583, "x": 1, "y": 1 },
+					{ "time": 0.65, "x": 1.074, "y": 1.074 },
+					{ "time": 0.7417, "x": 1, "y": 1 },
+					{ "time": 0.8333, "x": 1.074, "y": 1.074 },
+					{ "time": 1, "x": 2.222, "y": 2.222 }
+				]
+			},
+			"light_02_L5": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.6667, "x": 0, "y": 0 }
+				]
+			},
+			"effect_light_egg_02_L1": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 1, "x": 0, "y": 0 }
+				]
+			},
+			"effect_light_egg_02": {
+				"scale": [
+					{ "time": 0.1667, "x": 1, "y": 1 },
+					{ "time": 0.7333, "x": 0, "y": 0 }
+				]
+			},
+			"light_02_L4": {
+				"scale": [
+					{ "time": 0.1667, "x": 1, "y": 1 },
+					{ "time": 0.8333, "x": 0, "y": 0 }
+				]
+			},
+			"light_02_L3": {
+				"scale": [
+					{ "time": 0.3667, "x": 1, "y": 1 },
+					{ "time": 1.0333, "x": 0, "y": 0 }
+				]
+			},
+			"light_star_L10_light_04_L1": {
+				"rotate": [
+					{ "time": 1.1333, "angle": 0 },
+					{ "time": 1.4667, "angle": -120 },
+					{ "time": 1.8, "angle": -240 },
+					{ "time": 2.1333, "angle": 0 }
+				],
+				"scale": [
+					{ "time": 1.1333, "x": 0, "y": 0 },
+					{ "time": 1.6333, "x": 1000, "y": 1000 },
+					{ "time": 2.1333, "x": 0, "y": 0 }
+				]
+			},
+			"light_star_L11_light_04_L1": {
+				"rotate": [
+					{ "time": 1.7, "angle": 0 },
+					{ "time": 2.0333, "angle": -120 },
+					{ "time": 2.3667, "angle": -240 },
+					{ "time": 2.7, "angle": 0 }
+				],
+				"scale": [
+					{ "time": 1.7, "x": 0, "y": 0 },
+					{ "time": 2.2, "x": 1000, "y": 1000 },
+					{ "time": 2.7, "x": 0, "y": 0 }
+				]
+			},
+			"light_star_L6_light_04_L1": {
+				"rotate": [
+					{ "time": 0.9, "angle": 0 },
+					{ "time": 1.2333, "angle": -120 },
+					{ "time": 1.5667, "angle": -240 },
+					{ "time": 1.9, "angle": 0 }
+				],
+				"scale": [
+					{ "time": 0.9, "x": 0, "y": 0 },
+					{ "time": 1.4, "x": 1000, "y": 1000 },
+					{ "time": 1.9, "x": 0, "y": 0 }
+				]
+			},
+			"light_star_L7_light_04_L1": {
+				"rotate": [
+					{ "time": 2.1333, "angle": 0 },
+					{ "time": 2.4667, "angle": -120 },
+					{ "time": 2.8, "angle": -240 },
+					{ "time": 3.1333, "angle": 0 }
+				],
+				"scale": [
+					{ "time": 2.1333, "x": 0, "y": 0 },
+					{ "time": 2.6333, "x": 1000, "y": 1000 },
+					{ "time": 3.1333, "x": 0, "y": 0 }
+				]
+			},
+			"light_star_L8_light_04_L1": {
+				"rotate": [
+					{ "time": 1.3667, "angle": 0 },
+					{ "time": 1.7, "angle": -120 },
+					{ "time": 2.0333, "angle": -240 },
+					{ "time": 2.3667, "angle": 0 }
+				],
+				"scale": [
+					{ "time": 1.3667, "x": 0, "y": 0 },
+					{ "time": 1.8667, "x": 1000, "y": 1000 },
+					{ "time": 2.3667, "x": 0, "y": 0 }
+				]
+			},
+			"light_star_L9_light_04_L1": {
+				"rotate": [
+					{ "time": 2.7, "angle": 0 },
+					{ "time": 3.0333, "angle": -120 },
+					{ "time": 3.3667, "angle": -240 },
+					{ "time": 3.7, "angle": 0 }
+				],
+				"scale": [
+					{ "time": 2.7, "x": 0, "y": 0 },
+					{ "time": 3.2, "x": 1000, "y": 1000 },
+					{ "time": 3.7, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"effect_unlock_cloud": {
+		"slots": {
+			"effect_light_egg": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"effect_light_egg_02": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"effect_light_egg_02_L1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_01": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1667, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "light_01" },
+					{ "time": 1.0333, "name": null }
+				]
+			},
+			"light_02": {
+				"color": [
+					{ "time": 0.3667, "color": "ffffff00" },
+					{ "time": 0.7, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0.3667, "name": "light_02" },
+					{ "time": 1.0333, "name": null }
+				]
+			},
+			"light_03": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.5, "color": "ffffff00" },
+					{ "time": 0.8333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff" },
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "light_03" }
+				]
+			},
+			"light_05": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1, "name": "light_05" }
+				]
+			},
+			"light_01_L1": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1667, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "light_01" },
+					{ "time": 1.0333, "name": null }
+				]
+			},
+			"light_01_L2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1667, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "light_01" },
+					{ "time": 1.0333, "name": null }
+				]
+			},
+			"light_01_L3": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1667, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "light_01" },
+					{ "time": 1.0333, "name": null }
+				]
+			},
+			"light_01_L4": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1667, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "light_01" },
+					{ "time": 1.0333, "name": null }
+				]
+			},
+			"light_01_L5": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1667, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "light_01" },
+					{ "time": 1.0333, "name": null }
+				]
+			},
+			"light_02_L1": {
+				"color": [
+					{ "time": 0.1667, "color": "ffffff00" },
+					{ "time": 0.5, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0.1667, "name": "light_02" },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"light_02_L2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "light_02" },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"light_02_L3": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_02_L4": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_02_L5": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_star_L10_light_04_L1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_star_L11_light_04_L1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_star_L1_light_04": {
+				"attachment": [
+					{ "time": 0, "name": "light_04" }
+				]
+			},
+			"light_star_L2_light_04": {
+				"attachment": [
+					{ "time": 0, "name": "light_04" }
+				]
+			},
+			"light_star_L3_light_04": {
+				"attachment": [
+					{ "time": 0, "name": "light_04" }
+				]
+			},
+			"light_star_L4_light_04": {
+				"attachment": [
+					{ "time": 0, "name": "light_04" }
+				]
+			},
+			"light_star_L5_light_04": {
+				"attachment": [
+					{ "time": 0, "name": "light_04" }
+				]
+			},
+			"light_star_L6_light_04_L1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_star_L7_light_04_L1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_star_L8_light_04_L1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_star_L9_light_04_L1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_star_light_04": {
+				"attachment": [
+					{ "time": 0, "name": "light_04" }
+				]
+			}
+		},
+		"bones": {
+			"light_01_L5": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 1, "x": 0, "y": 0 }
+				]
+			},
+			"light_01_L4": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 1, "x": 0, "y": 0 }
+				]
+			},
+			"light_01_L3": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 1, "x": 0, "y": 0 }
+				]
+			},
+			"light_01_L2": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 1, "x": 0, "y": 0 }
+				]
+			},
+			"light_01_L1": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 1, "x": 0, "y": 0 }
+				]
+			},
+			"light_01": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 1, "x": 0, "y": 0 }
+				]
+			},
+			"light_02_L2": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.6667, "x": 0, "y": 0 }
+				]
+			},
+			"light_02_L1": {
+				"scale": [
+					{ "time": 0.1667, "x": 1, "y": 1 },
+					{ "time": 0.8333, "x": 0, "y": 0 }
+				]
+			},
+			"light_02": {
+				"scale": [
+					{ "time": 0.3667, "x": 1, "y": 1 },
+					{ "time": 1.0333, "x": 0, "y": 0 }
+				]
+			},
+			"light_03": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.5, "x": 1, "y": 1 },
+					{ "time": 1, "x": 1.048, "y": 1.048 },
+					{ "time": 1.3333, "x": 1.905, "y": 1.905 }
+				]
+			},
+			"light_05": {
+				"scale": [
+					{ "time": 1, "x": 1, "y": 1 },
+					{ "time": 1.3333, "x": 0, "y": 0 }
+				]
+			},
+			"light_star_light_04": {
+				"rotate": [
+					{ "time": 2, "angle": 0 },
+					{ "time": 2.3333, "angle": -120 },
+					{ "time": 2.6667, "angle": -240 },
+					{ "time": 3, "angle": 0 }
+				],
+				"scale": [
+					{ "time": 2, "x": 0, "y": 0 },
+					{ "time": 2.5, "x": 1000, "y": 1000 },
+					{ "time": 3, "x": 0, "y": 0 }
+				]
+			},
+			"light_star_L1_light_04": {
+				"rotate": [
+					{ "time": 1.4333, "angle": 0 },
+					{ "time": 1.7667, "angle": -120 },
+					{ "time": 2.1, "angle": -240 },
+					{ "time": 2.4333, "angle": 0 }
+				],
+				"scale": [
+					{ "time": 1.4333, "x": 0, "y": 0 },
+					{ "time": 1.9333, "x": 1000, "y": 1000 },
+					{ "time": 2.4333, "x": 0, "y": 0 }
+				]
+			},
+			"light_star_L2_light_04": {
+				"rotate": [
+					{ "time": 3, "angle": 0 },
+					{ "time": 3.3333, "angle": -120 },
+					{ "time": 3.6667, "angle": -240 },
+					{ "time": 4, "angle": 0 }
+				],
+				"scale": [
+					{ "time": 3, "x": 0, "y": 0 },
+					{ "time": 3.5, "x": 1000, "y": 1000 },
+					{ "time": 4, "x": 0, "y": 0 }
+				]
+			},
+			"light_star_L3_light_04": {
+				"rotate": [
+					{ "time": 1.6667, "angle": 0 },
+					{ "time": 2, "angle": -120 },
+					{ "time": 2.3333, "angle": -240 },
+					{ "time": 2.6667, "angle": 0 }
+				],
+				"scale": [
+					{ "time": 1.6667, "x": 0, "y": 0 },
+					{ "time": 2.1667, "x": 1000, "y": 1000 },
+					{ "time": 2.6667, "x": 0, "y": 0 }
+				]
+			},
+			"light_star_L4_light_04": {
+				"rotate": [
+					{ "time": 2.4333, "angle": 0 },
+					{ "time": 2.7667, "angle": -120 },
+					{ "time": 3.1, "angle": -240 },
+					{ "time": 3.4333, "angle": 0 }
+				],
+				"scale": [
+					{ "time": 2.4333, "x": 0, "y": 0 },
+					{ "time": 2.9333, "x": 1000, "y": 1000 },
+					{ "time": 3.4333, "x": 0, "y": 0 }
+				]
+			},
+			"light_star_L5_light_04": {
+				"rotate": [
+					{ "time": 1.2, "angle": 0 },
+					{ "time": 1.5333, "angle": -120 },
+					{ "time": 1.8667, "angle": -240 },
+					{ "time": 2.2, "angle": 0 }
+				],
+				"scale": [
+					{ "time": 1.2, "x": 0, "y": 0 },
+					{ "time": 1.7, "x": 1000, "y": 1000 },
+					{ "time": 2.2, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"effect_unlock_machine": {
+		"slots": {
+			"effect_light_egg": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.8333, "color": "ffffffff" },
+					{ "time": 1, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "effect_light_egg" }
+				]
+			},
+			"effect_light_egg_02": {
+				"color": [
+					{ "time": 0.1667, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.5333, "color": "ffffffff" },
+					{ "time": 0.7333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.1667, "name": "effect_light_egg_02" },
+					{ "time": 1.2, "name": null }
+				]
+			},
+			"effect_light_egg_02_L1": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.5333, "color": "ffffffff" },
+					{ "time": 0.7333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "effect_light_egg_02" },
+					{ "time": 1.0333, "name": null }
+				]
+			},
+			"light_01": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_02": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_03": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_05": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_01_L1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_01_L2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_01_L3": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_01_L4": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_01_L5": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_02_L1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_02_L2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_02_L3": {
+				"color": [
+					{ "time": 0.3667, "color": "ffffff00" },
+					{ "time": 0.7, "color": "ffffffff" },
+					{ "time": 1.0333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.3667, "name": "light_02" },
+					{ "time": 1.0333, "name": null }
+				]
+			},
+			"light_02_L4": {
+				"color": [
+					{ "time": 0.1667, "color": "ffffff00" },
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 0.8333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.1667, "name": "light_02" },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"light_02_L5": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "light_02" },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"light_star_L10_light_04_L1": {
+				"attachment": [
+					{ "time": 0, "name": "light_04" }
+				]
+			},
+			"light_star_L11_light_04_L1": {
+				"attachment": [
+					{ "time": 0, "name": "light_04" }
+				]
+			},
+			"light_star_L1_light_04": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_star_L2_light_04": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_star_L3_light_04": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_star_L4_light_04": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_star_L5_light_04": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_star_L6_light_04_L1": {
+				"attachment": [
+					{ "time": 0, "name": "light_04" }
+				]
+			},
+			"light_star_L7_light_04_L1": {
+				"attachment": [
+					{ "time": 0, "name": "light_04" }
+				]
+			},
+			"light_star_L8_light_04_L1": {
+				"attachment": [
+					{ "time": 0, "name": "light_04" }
+				]
+			},
+			"light_star_L9_light_04_L1": {
+				"attachment": [
+					{ "time": 0, "name": "light_04" }
+				]
+			},
+			"light_star_light_04": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"effect_light_egg": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1, "x": 1.074, "y": 1.074 },
+					{ "time": 0.1917, "x": 1, "y": 1 },
+					{ "time": 0.2833, "x": 1.074, "y": 1.074 },
+					{ "time": 0.375, "x": 1, "y": 1 },
+					{ "time": 0.4667, "x": 1.074, "y": 1.074 },
+					{ "time": 0.5583, "x": 1, "y": 1 },
+					{ "time": 0.65, "x": 1.074, "y": 1.074 },
+					{ "time": 0.7417, "x": 1, "y": 1 },
+					{ "time": 0.8333, "x": 1.074, "y": 1.074 },
+					{ "time": 1, "x": 2.222, "y": 2.222 }
+				]
+			},
+			"light_02_L5": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.6667, "x": 0, "y": 0 }
+				]
+			},
+			"effect_light_egg_02_L1": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 1, "x": 0, "y": 0 }
+				]
+			},
+			"effect_light_egg_02": {
+				"scale": [
+					{ "time": 0.1667, "x": 1, "y": 1 },
+					{ "time": 0.7333, "x": 0, "y": 0 }
+				]
+			},
+			"light_02_L4": {
+				"scale": [
+					{ "time": 0.1667, "x": 1, "y": 1 },
+					{ "time": 0.8333, "x": 0, "y": 0 }
+				]
+			},
+			"light_02_L3": {
+				"scale": [
+					{ "time": 0.3667, "x": 1, "y": 1 },
+					{ "time": 1.0333, "x": 0, "y": 0 }
+				]
+			},
+			"light_star_L10_light_04_L1": {
+				"rotate": [
+					{ "time": 1.1333, "angle": 0 },
+					{ "time": 1.4667, "angle": -120 },
+					{ "time": 1.8, "angle": -240 },
+					{ "time": 2.1333, "angle": 0 }
+				],
+				"scale": [
+					{ "time": 1.1333, "x": 0, "y": 0 },
+					{ "time": 1.6333, "x": 1000, "y": 1000 },
+					{ "time": 2.1333, "x": 0, "y": 0 }
+				]
+			},
+			"light_star_L11_light_04_L1": {
+				"rotate": [
+					{ "time": 1.7, "angle": 0 },
+					{ "time": 2.0333, "angle": -120 },
+					{ "time": 2.3667, "angle": -240 },
+					{ "time": 2.7, "angle": 0 }
+				],
+				"scale": [
+					{ "time": 1.7, "x": 0, "y": 0 },
+					{ "time": 2.2, "x": 1000, "y": 1000 },
+					{ "time": 2.7, "x": 0, "y": 0 }
+				]
+			},
+			"light_star_L6_light_04_L1": {
+				"rotate": [
+					{ "time": 0.9, "angle": 0 },
+					{ "time": 1.2333, "angle": -120 },
+					{ "time": 1.5667, "angle": -240 },
+					{ "time": 1.9, "angle": 0 }
+				],
+				"scale": [
+					{ "time": 0.9, "x": 0, "y": 0 },
+					{ "time": 1.4, "x": 1000, "y": 1000 },
+					{ "time": 1.9, "x": 0, "y": 0 }
+				]
+			},
+			"light_star_L7_light_04_L1": {
+				"rotate": [
+					{ "time": 2.1333, "angle": 0 },
+					{ "time": 2.4667, "angle": -120 },
+					{ "time": 2.8, "angle": -240 },
+					{ "time": 3.1333, "angle": 0 }
+				],
+				"scale": [
+					{ "time": 2.1333, "x": 0, "y": 0 },
+					{ "time": 2.6333, "x": 1000, "y": 1000 },
+					{ "time": 3.1333, "x": 0, "y": 0 }
+				]
+			},
+			"light_star_L8_light_04_L1": {
+				"rotate": [
+					{ "time": 1.3667, "angle": 0 },
+					{ "time": 1.7, "angle": -120 },
+					{ "time": 2.0333, "angle": -240 },
+					{ "time": 2.3667, "angle": 0 }
+				],
+				"scale": [
+					{ "time": 1.3667, "x": 0, "y": 0 },
+					{ "time": 1.8667, "x": 1000, "y": 1000 },
+					{ "time": 2.3667, "x": 0, "y": 0 }
+				]
+			},
+			"light_star_L9_light_04_L1": {
+				"rotate": [
+					{ "time": 2.7, "angle": 0 },
+					{ "time": 3.0333, "angle": -120 },
+					{ "time": 3.3667, "angle": -240 },
+					{ "time": 3.7, "angle": 0 }
+				],
+				"scale": [
+					{ "time": 2.7, "x": 0, "y": 0 },
+					{ "time": 3.2, "x": 1000, "y": 1000 },
+					{ "time": 3.7, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"effect_unlock_pot_win": {
+		"slots": {
+			"effect_light_egg": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.8333, "color": "ffffffff" },
+					{ "time": 1, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "effect_pot" }
+				]
+			},
+			"effect_light_egg_02": {
+				"color": [
+					{ "time": 0.1667, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.5333, "color": "ffffffff" },
+					{ "time": 0.7333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.1667, "name": "effect_light_egg_02" },
+					{ "time": 1.2, "name": null }
+				]
+			},
+			"effect_light_egg_02_L1": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.5333, "color": "ffffffff" },
+					{ "time": 0.7333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "effect_light_egg_02" },
+					{ "time": 1.0333, "name": null }
+				]
+			},
+			"light_01": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_02": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_03": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_05": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_01_L1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_01_L2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_01_L3": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_01_L4": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_01_L5": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_02_L1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_02_L2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_02_L3": {
+				"color": [
+					{ "time": 0.3667, "color": "ffffff00" },
+					{ "time": 0.7, "color": "ffffffff" },
+					{ "time": 1.0333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.3667, "name": "light_02" },
+					{ "time": 1.0333, "name": null }
+				]
+			},
+			"light_02_L4": {
+				"color": [
+					{ "time": 0.1667, "color": "ffffff00" },
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 0.8333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.1667, "name": "light_02" },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"light_02_L5": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "light_02" },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"light_star_L10_light_04_L1": {
+				"attachment": [
+					{ "time": 0, "name": "light_04" }
+				]
+			},
+			"light_star_L11_light_04_L1": {
+				"attachment": [
+					{ "time": 0, "name": "light_04" }
+				]
+			},
+			"light_star_L1_light_04": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_star_L2_light_04": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_star_L3_light_04": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_star_L4_light_04": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_star_L5_light_04": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_star_L6_light_04_L1": {
+				"attachment": [
+					{ "time": 0, "name": "light_04" }
+				]
+			},
+			"light_star_L7_light_04_L1": {
+				"attachment": [
+					{ "time": 0, "name": "light_04" }
+				]
+			},
+			"light_star_L8_light_04_L1": {
+				"attachment": [
+					{ "time": 0, "name": "light_04" }
+				]
+			},
+			"light_star_L9_light_04_L1": {
+				"attachment": [
+					{ "time": 0, "name": "light_04" }
+				]
+			},
+			"light_star_light_04": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"effect_light_egg": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1, "x": 1.074, "y": 1.074 },
+					{ "time": 0.1917, "x": 1, "y": 1 },
+					{ "time": 0.2833, "x": 1.074, "y": 1.074 },
+					{ "time": 0.375, "x": 1, "y": 1 },
+					{ "time": 0.4667, "x": 1.074, "y": 1.074 },
+					{ "time": 0.5583, "x": 1, "y": 1 },
+					{ "time": 0.65, "x": 1.074, "y": 1.074 },
+					{ "time": 0.7417, "x": 1, "y": 1 },
+					{ "time": 0.8333, "x": 1.074, "y": 1.074 },
+					{ "time": 1, "x": 2.222, "y": 2.222 }
+				]
+			},
+			"light_02_L5": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.6667, "x": 0, "y": 0 }
+				]
+			},
+			"effect_light_egg_02_L1": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 1, "x": 0, "y": 0 }
+				]
+			},
+			"effect_light_egg_02": {
+				"scale": [
+					{ "time": 0.1667, "x": 1, "y": 1 },
+					{ "time": 0.7333, "x": 0, "y": 0 }
+				]
+			},
+			"light_02_L4": {
+				"scale": [
+					{ "time": 0.1667, "x": 1, "y": 1 },
+					{ "time": 0.8333, "x": 0, "y": 0 }
+				]
+			},
+			"light_02_L3": {
+				"scale": [
+					{ "time": 0.3667, "x": 1, "y": 1 },
+					{ "time": 1.0333, "x": 0, "y": 0 }
+				]
+			},
+			"light_star_L10_light_04_L1": {
+				"rotate": [
+					{ "time": 1.1333, "angle": 0 },
+					{ "time": 1.4667, "angle": -120 },
+					{ "time": 1.8, "angle": -240 },
+					{ "time": 2.1333, "angle": 0 }
+				],
+				"scale": [
+					{ "time": 1.1333, "x": 0, "y": 0 },
+					{ "time": 1.6333, "x": 1000, "y": 1000 },
+					{ "time": 2.1333, "x": 0, "y": 0 }
+				]
+			},
+			"light_star_L11_light_04_L1": {
+				"rotate": [
+					{ "time": 1.7, "angle": 0 },
+					{ "time": 2.0333, "angle": -120 },
+					{ "time": 2.3667, "angle": -240 },
+					{ "time": 2.7, "angle": 0 }
+				],
+				"scale": [
+					{ "time": 1.7, "x": 0, "y": 0 },
+					{ "time": 2.2, "x": 1000, "y": 1000 },
+					{ "time": 2.7, "x": 0, "y": 0 }
+				]
+			},
+			"light_star_L6_light_04_L1": {
+				"rotate": [
+					{ "time": 0.9, "angle": 0 },
+					{ "time": 1.2333, "angle": -120 },
+					{ "time": 1.5667, "angle": -240 },
+					{ "time": 1.9, "angle": 0 }
+				],
+				"scale": [
+					{ "time": 0.9, "x": 0, "y": 0 },
+					{ "time": 1.4, "x": 1000, "y": 1000 },
+					{ "time": 1.9, "x": 0, "y": 0 }
+				]
+			},
+			"light_star_L7_light_04_L1": {
+				"rotate": [
+					{ "time": 2.1333, "angle": 0 },
+					{ "time": 2.4667, "angle": -120 },
+					{ "time": 2.8, "angle": -240 },
+					{ "time": 3.1333, "angle": 0 }
+				],
+				"scale": [
+					{ "time": 2.1333, "x": 0, "y": 0 },
+					{ "time": 2.6333, "x": 1000, "y": 1000 },
+					{ "time": 3.1333, "x": 0, "y": 0 }
+				]
+			},
+			"light_star_L8_light_04_L1": {
+				"rotate": [
+					{ "time": 1.3667, "angle": 0 },
+					{ "time": 1.7, "angle": -120 },
+					{ "time": 2.0333, "angle": -240 },
+					{ "time": 2.3667, "angle": 0 }
+				],
+				"scale": [
+					{ "time": 1.3667, "x": 0, "y": 0 },
+					{ "time": 1.8667, "x": 1000, "y": 1000 },
+					{ "time": 2.3667, "x": 0, "y": 0 }
+				]
+			},
+			"light_star_L9_light_04_L1": {
+				"rotate": [
+					{ "time": 2.7, "angle": 0 },
+					{ "time": 3.0333, "angle": -120 },
+					{ "time": 3.3667, "angle": -240 },
+					{ "time": 3.7, "angle": 0 }
+				],
+				"scale": [
+					{ "time": 2.7, "x": 0, "y": 0 },
+					{ "time": 3.2, "x": 1000, "y": 1000 },
+					{ "time": 3.7, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

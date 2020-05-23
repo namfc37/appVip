@@ -1,0 +1,90 @@
+
+plant_10_jackfruit.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 10
+  rotate: true
+  xy: 117, 48
+  size: 58, 35
+  orig: 58, 35
+  offset: 0, 0
+  index: -1
+Layer 10 copy
+  rotate: true
+  xy: 154, 55
+  size: 58, 35
+  orig: 58, 35
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: false
+  xy: 126, 115
+  size: 77, 139
+  orig: 77, 140
+  offset: 0, 1
+  index: -1
+Layer 12
+  rotate: true
+  xy: 83, 32
+  size: 74, 32
+  orig: 74, 32
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 2, 108
+  size: 122, 146
+  orig: 122, 146
+  offset: 0, 0
+  index: -1
+Layer 38
+  rotate: true
+  xy: 454, 168
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 454, 211
+  size: 53, 43
+  orig: 54, 43
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: true
+  xy: 205, 193
+  size: 61, 152
+  orig: 61, 152
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: true
+  xy: 2, 2
+  size: 104, 79
+  orig: 104, 79
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 205, 108
+  size: 122, 83
+  orig: 122, 83
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: true
+  xy: 359, 173
+  size: 81, 93
+  orig: 81, 93
+  offset: 0, 0
+  index: -1
+marker
+  rotate: false
+  xy: 329, 188
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1

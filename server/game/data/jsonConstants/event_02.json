@@ -1,0 +1,1765 @@
+{
+  "E02_TYPE": "action_02",
+  "E02_ID": "E2ID",
+  "E02_POINT": "E2PO",
+  "E02_PLANT": "T21",
+  "E02_DROPITEM": "T21",
+  "E02_START_TIME": "07/04/2020 09:00",
+  "E02_END_TIME": "14/04/2020 23:00",
+  "E02_UNIX_START_TIME": 1586224800,
+  "E02_UNIX_END_TIME": 1586880000,
+  "E02_PLANT_DROP_LIST": {
+    "drop": {
+      "GOLD": {
+        "rate": 0.05,
+        "min": 5,
+        "max": 10,
+        "userLimit": -1,
+        "serverLimit": -1,
+        "isVietNamOnly": false
+      },
+      "E2T1": {
+        "rate": 0.4,
+        "min": 2,
+        "max": 3,
+        "userLimit": -1,
+        "serverLimit": -1,
+        "isVietNamOnly": false
+      },
+      "E2T2": {
+        "rate": 0.3,
+        "min": 2,
+        "max": 3,
+        "userLimit": -1,
+        "serverLimit": -1,
+        "isVietNamOnly": false
+      },
+      "EXP": {
+        "rate": 1.0,
+        "min": 5,
+        "max": 15,
+        "userLimit": -1,
+        "serverLimit": -1,
+        "isVietNamOnly": false
+      },
+      "E2T3": {
+        "rate": 0.2,
+        "min": 1,
+        "max": 2,
+        "userLimit": -1,
+        "serverLimit": -1,
+        "isVietNamOnly": false
+      },
+      "E2T4": {
+        "rate": 0.1,
+        "min": 1,
+        "max": 1,
+        "userLimit": -1,
+        "serverLimit": -1,
+        "isVietNamOnly": false
+      }
+    }
+  },
+  "E02_FEATURE_DROP_LIST": {
+    "rules": {
+      "QUEST_BOOK_ADD_1": {
+        "rate": 1.0,
+        "quantity": 2.0,
+        "dailyLimit": -1.0
+      },
+      "QUEST_BOOK_ADD_2": {
+        "rate": 1.0,
+        "quantity": 2.0,
+        "dailyLimit": -1.0
+      },
+      "LUCKY_SPIN_8": {
+        "rate": 1.0,
+        "quantity": 4.0,
+        "dailyLimit": -1.0
+      },
+      "QUEST_BOOK_ADD_5": {
+        "rate": 1.0,
+        "quantity": 1.0,
+        "dailyLimit": -1.0
+      },
+      "QUEST_BOOK_ADD_6": {
+        "rate": 1.0,
+        "quantity": 1.0,
+        "dailyLimit": -1.0
+      },
+      "FRIEND_BUG_CATCH": {
+        "rate": 1.0,
+        "quantity": 1.0,
+        "dailyLimit": 50.0
+      },
+      "LUCKY_SPIN_6": {
+        "rate": 1.0,
+        "quantity": 45.0,
+        "dailyLimit": -1.0
+      },
+      "LUCKY_SPIN_7": {
+        "rate": 1.0,
+        "quantity": 68.0,
+        "dailyLimit": -1.0
+      },
+      "QUEST_BOOK_ADD_49": {
+        "rate": 1.0,
+        "quantity": 1.0,
+        "dailyLimit": -1.0
+      },
+      "PLANT_CATCH_BUG": {
+        "rate": 1.0,
+        "quantity": 1.0,
+        "dailyLimit": 50.0
+      },
+      "LUCKY_SPIN_4": {
+        "rate": 1.0,
+        "quantity": 24.0,
+        "dailyLimit": -1.0
+      },
+      "LUCKY_SPIN_5": {
+        "rate": 1.0,
+        "quantity": 36.0,
+        "dailyLimit": -1.0
+      },
+      "LUCKY_SPIN_2": {
+        "rate": 1.0,
+        "quantity": 6.0,
+        "dailyLimit": -1.0
+      },
+      "LUCKY_SPIN_3": {
+        "rate": 1.0,
+        "quantity": 12.0,
+        "dailyLimit": -1.0
+      },
+      "LUCKY_SPIN_0": {
+        "rate": 1.0,
+        "quantity": 1.0,
+        "dailyLimit": -1.0
+      },
+      "LUCKY_SPIN_1": {
+        "rate": 1.0,
+        "quantity": 2.0,
+        "dailyLimit": -1.0
+      },
+      "ORDER_GET_REWARD_ORDER_DAILY_PAID": {
+        "rate": 1.0,
+        "quantity": 3.0,
+        "dailyLimit": -1.0
+      },
+      "QUEST_BOOK_ADD_10": {
+        "rate": 1.0,
+        "quantity": 1.0,
+        "dailyLimit": -1.0
+      },
+      "QUEST_BOOK_ADD_11": {
+        "rate": 1.0,
+        "quantity": 5.0,
+        "dailyLimit": -1.0
+      },
+      "QUEST_BOOK_ADD_50": {
+        "rate": 1.0,
+        "quantity": 3.0,
+        "dailyLimit": -1.0
+      },
+      "USER_LOGIN": {
+        "rate": 1.0,
+        "quantity": 4.0,
+        "dailyLimit": -1.0
+      },
+      "QUEST_BOOK_ADD_16": {
+        "rate": 1.0,
+        "quantity": 1.0,
+        "dailyLimit": -1.0
+      },
+      "PLANT_HARVEST": {
+        "rate": 1.0,
+        "quantity": 0.0,
+        "dailyLimit": 0.0
+      },
+      "QUEST_BOOK_ADD_17": {
+        "rate": 1.0,
+        "quantity": 2.0,
+        "dailyLimit": -1.0
+      },
+      "QUEST_BOOK_ADD_18": {
+        "rate": 1.0,
+        "quantity": 3.0,
+        "dailyLimit": -1.0
+      },
+      "QUEST_BOOK_ADD_19": {
+        "rate": 1.0,
+        "quantity": 2.0,
+        "dailyLimit": -1.0
+      },
+      "QUEST_BOOK_ADD_12": {
+        "rate": 1.0,
+        "quantity": 2.0,
+        "dailyLimit": -1.0
+      },
+      "QUEST_BOOK_ADD_13": {
+        "rate": 1.0,
+        "quantity": 3.0,
+        "dailyLimit": -1.0
+      },
+      "QUEST_BOOK_ADD_14": {
+        "rate": 1.0,
+        "quantity": 1.0,
+        "dailyLimit": -1.0
+      },
+      "QUEST_BOOK_ADD_15": {
+        "rate": 1.0,
+        "quantity": 1.0,
+        "dailyLimit": -1.0
+      },
+      "MACHINE_HARVEST": {
+        "rate": 0.0,
+        "quantity": 0.0,
+        "dailyLimit": -1.0
+      },
+      "PLANT_HARVEST_T21": {
+        "rate": 1.0,
+        "quantity": -1.0,
+        "dailyLimit": -1.0
+      },
+      "AIRSHIP_PACK": {
+        "rate": 1.0,
+        "quantity": 2.0,
+        "dailyLimit": -1.0
+      },
+      "QUEST_BOOK_ADD_27": {
+        "rate": 1.0,
+        "quantity": 2.0,
+        "dailyLimit": -1.0
+      },
+      "QUEST_BOOK_ADD_28": {
+        "rate": 1.0,
+        "quantity": 1.0,
+        "dailyLimit": -1.0
+      },
+      "TOM_HIRE_40": {
+        "rate": 1.0,
+        "quantity": 15.0,
+        "dailyLimit": -1.0
+      },
+      "QUEST_BOOK_ADD_29": {
+        "rate": 1.0,
+        "quantity": 1.0,
+        "dailyLimit": -1.0
+      },
+      "AIRSHIP_DELIVERY": {
+        "rate": 1.0,
+        "quantity": 8.0,
+        "dailyLimit": -1.0
+      },
+      "QUEST_BOOK_ADD_23": {
+        "rate": 1.0,
+        "quantity": 1.0,
+        "dailyLimit": -1.0
+      },
+      "QUEST_BOOK_ADD_24": {
+        "rate": 1.0,
+        "quantity": 2.0,
+        "dailyLimit": -1.0
+      },
+      "TRUCK_DELIVERY": {
+        "rate": 1.0,
+        "quantity": 4.0,
+        "dailyLimit": -1.0
+      },
+      "QUEST_BOOK_ADD_25": {
+        "rate": 1.0,
+        "quantity": 2.0,
+        "dailyLimit": -1.0
+      },
+      "MINE_START": {
+        "rate": 1.0,
+        "quantity": 3.0,
+        "dailyLimit": -1.0
+      },
+      "QUEST_BOOK_ADD_26": {
+        "rate": 1.0,
+        "quantity": 2.0,
+        "dailyLimit": -1.0
+      },
+      "ORDER_GET_REWARD": {
+        "rate": 1.0,
+        "quantity": 2.0,
+        "dailyLimit": 50.0
+      },
+      "QUEST_BOOK_ADD_30": {
+        "rate": 1.0,
+        "quantity": 1.0,
+        "dailyLimit": -1.0
+      },
+      "QUEST_BOOK_ADD_31": {
+        "rate": 1.0,
+        "quantity": 1.0,
+        "dailyLimit": -1.0
+      },
+      "QUEST_BOOK_ADD_32": {
+        "rate": 1.0,
+        "quantity": 3.0,
+        "dailyLimit": -1.0
+      },
+      "QUEST_BOOK_ADD_33": {
+        "rate": 1.0,
+        "quantity": 5.0,
+        "dailyLimit": -1.0
+      },
+      "DICE_SPIN_3": {
+        "rate": 1.0,
+        "quantity": 40.0,
+        "dailyLimit": -1.0
+      },
+      "QUEST_BOOK_ADD_38": {
+        "rate": 1.0,
+        "quantity": 10.0,
+        "dailyLimit": -1.0
+      },
+      "DICE_SPIN_4": {
+        "rate": 1.0,
+        "quantity": 75.0,
+        "dailyLimit": -1.0
+      },
+      "DICE_SPIN_1": {
+        "rate": 1.0,
+        "quantity": 2.0,
+        "dailyLimit": -1.0
+      },
+      "DICE_SPIN_2": {
+        "rate": 1.0,
+        "quantity": 8.0,
+        "dailyLimit": -1.0
+      },
+      "TOM_HIRE_400": {
+        "rate": 1.0,
+        "quantity": 75.0,
+        "dailyLimit": -1.0
+      },
+      "QUEST_BOOK_ADD_34": {
+        "rate": 1.0,
+        "quantity": 3.0,
+        "dailyLimit": -1.0
+      },
+      "DICE_SPIN_0": {
+        "rate": 1.0,
+        "quantity": 1.0,
+        "dailyLimit": -1.0
+      },
+      "QUEST_BOOK_ADD_35": {
+        "rate": 1.0,
+        "quantity": 5.0,
+        "dailyLimit": -1.0
+      },
+      "FRIEND_REPAIR_MACHINE": {
+        "rate": 1.0,
+        "quantity": 1.0,
+        "dailyLimit": 50.0
+      },
+      "TOM_HIRE_200": {
+        "rate": 1.0,
+        "quantity": 50.0,
+        "dailyLimit": -1.0
+      },
+      "QUEST_BOOK_ADD_36": {
+        "rate": 1.0,
+        "quantity": 5.0,
+        "dailyLimit": -1.0
+      },
+      "QUEST_BOOK_ADD_37": {
+        "rate": 1.0,
+        "quantity": 2.0,
+        "dailyLimit": -1.0
+      },
+      "DICE_SPIN_7": {
+        "rate": 1.0,
+        "quantity": 300.0,
+        "dailyLimit": -1.0
+      },
+      "DICE_SPIN_5": {
+        "rate": 1.0,
+        "quantity": 150.0,
+        "dailyLimit": -1.0
+      },
+      "AIRSHIP_FRIEND_PACK": {
+        "rate": 1.0,
+        "quantity": 2.0,
+        "dailyLimit": 50.0
+      },
+      "DICE_SPIN_6": {
+        "rate": 1.0,
+        "quantity": 225.0,
+        "dailyLimit": -1.0
+      },
+      "ORDER_GET_REWARD_ORDER_DAILY_FREE": {
+        "rate": 1.0,
+        "quantity": 2.0,
+        "dailyLimit": -1.0
+      },
+      "TRUCK_PACK": {
+        "rate": 1.0,
+        "quantity": 0.0,
+        "dailyLimit": -1.0
+      }
+    },
+    "dropItemID": "T21"
+  },
+  "E02_PUZZLE": {
+    "PUZZLES": {}
+  },
+  "E02_HARVEST_DROP_LIST": {
+    "drop": {
+      "MACHINE_HARVEST": {
+        "0": {
+          "E2T1": {
+            "rate": 0.3,
+            "min": 0,
+            "max": 0,
+            "userDailyLimit": 100
+          },
+          "E2T2": {
+            "rate": 0.25,
+            "min": 0,
+            "max": 0,
+            "userDailyLimit": 80
+          },
+          "E2T3": {
+            "rate": 0.2,
+            "min": 0,
+            "max": 0,
+            "userDailyLimit": 50
+          },
+          "E2T4": {
+            "rate": 0.15,
+            "min": 0,
+            "max": 0,
+            "userDailyLimit": 20
+          }
+        },
+        "600": {
+          "E2T1": {
+            "rate": 0.4,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 100
+          },
+          "E2T2": {
+            "rate": 0.35,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 80
+          },
+          "E2T3": {
+            "rate": 0.3,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 50
+          },
+          "E2T4": {
+            "rate": 0.25,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 20
+          }
+        },
+        "1800": {
+          "E2T1": {
+            "rate": 0.5,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 100
+          },
+          "E2T2": {
+            "rate": 0.45,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 80
+          },
+          "E2T3": {
+            "rate": 0.4,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 50
+          },
+          "E2T4": {
+            "rate": 0.35,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 20
+          }
+        },
+        "3600": {
+          "E2T1": {
+            "rate": 0.6,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 100
+          },
+          "E2T2": {
+            "rate": 0.55,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 80
+          },
+          "E2T3": {
+            "rate": 0.5,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 50
+          },
+          "E2T4": {
+            "rate": 0.45,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 20
+          }
+        },
+        "7200": {
+          "E2T1": {
+            "rate": 0.7,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 100
+          },
+          "E2T2": {
+            "rate": 0.65,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 80
+          },
+          "E2T3": {
+            "rate": 0.6,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 50
+          },
+          "E2T4": {
+            "rate": 0.55,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 20
+          }
+        },
+        "14400": {
+          "E2T1": {
+            "rate": 0.8,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 100
+          },
+          "E2T2": {
+            "rate": 0.7,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 80
+          },
+          "E2T3": {
+            "rate": 0.6,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 50
+          },
+          "E2T4": {
+            "rate": 0.5,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 20
+          }
+        },
+        "28800": {
+          "E2T1": {
+            "rate": 0.9,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 100
+          },
+          "E2T2": {
+            "rate": 0.85,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 80
+          },
+          "E2T3": {
+            "rate": 0.8,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 50
+          },
+          "E2T4": {
+            "rate": 0.75,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 20
+          }
+        }
+      },
+      "PLANT_HARVEST": {
+        "0": {
+          "E2T1": {
+            "rate": 0.3,
+            "min": 0,
+            "max": 0,
+            "userDailyLimit": 100
+          },
+          "E2T2": {
+            "rate": 0.25,
+            "min": 0,
+            "max": 0,
+            "userDailyLimit": 80
+          },
+          "E2T3": {
+            "rate": 0.2,
+            "min": 0,
+            "max": 0,
+            "userDailyLimit": 50
+          },
+          "E2T4": {
+            "rate": 0.15,
+            "min": 0,
+            "max": 0,
+            "userDailyLimit": 20
+          }
+        },
+        "600": {
+          "E2T1": {
+            "rate": 0.4,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 100
+          },
+          "E2T2": {
+            "rate": 0.35,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 80
+          },
+          "E2T3": {
+            "rate": 0.3,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 50
+          },
+          "E2T4": {
+            "rate": 0.25,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 20
+          }
+        },
+        "1800": {
+          "E2T1": {
+            "rate": 0.5,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 100
+          },
+          "E2T2": {
+            "rate": 0.45,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 80
+          },
+          "E2T3": {
+            "rate": 0.4,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 50
+          },
+          "E2T4": {
+            "rate": 0.35,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 20
+          }
+        },
+        "3600": {
+          "E2T1": {
+            "rate": 0.6,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 100
+          },
+          "E2T2": {
+            "rate": 0.55,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 80
+          },
+          "E2T3": {
+            "rate": 0.5,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 50
+          },
+          "E2T4": {
+            "rate": 0.45,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 20
+          }
+        },
+        "7200": {
+          "E2T1": {
+            "rate": 0.7,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 100
+          },
+          "E2T2": {
+            "rate": 0.65,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 80
+          },
+          "E2T3": {
+            "rate": 0.6,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 50
+          },
+          "E2T4": {
+            "rate": 0.55,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 20
+          }
+        },
+        "14400": {
+          "E2T1": {
+            "rate": 0.8,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 100
+          },
+          "E2T2": {
+            "rate": 0.7,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 80
+          },
+          "E2T3": {
+            "rate": 0.6,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 50
+          },
+          "E2T4": {
+            "rate": 0.5,
+            "min": 1,
+            "max": 1,
+            "userDailyLimit": 20
+          }
+        }
+      }
+    }
+  },
+  "E02_SHOP": {
+    "TAB": "event",
+    "NAME": "event",
+    "GFX": "",
+    "ITEMS": []
+  },
+  "E02_REWARDS": {
+    "50": {
+      "30": {
+        "id": 1,
+        "num": -1,
+        "items": [
+          {
+            "id": "P31",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "P32",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "SK11",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "C5",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 150000,
+            "rate": -1
+          }
+        ]
+      },
+      "2147483647": {
+        "id": 2,
+        "num": -1,
+        "items": [
+          {
+            "id": "P37",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "P38",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "SK11",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "C5",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 200000,
+            "rate": -1
+          }
+        ]
+      }
+    },
+    "100": {
+      "30": {
+        "id": 3,
+        "num": -1,
+        "items": [
+          {
+            "id": "P37",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "P38",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "M19",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "SK4",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 150000,
+            "rate": -1
+          }
+        ]
+      },
+      "2147483647": {
+        "id": 4,
+        "num": -1,
+        "items": [
+          {
+            "id": "P43",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "P44",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "M19",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "SK5",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 300000,
+            "rate": -1
+          }
+        ]
+      }
+    },
+    "300": {
+      "30": {
+        "id": 5,
+        "num": -1,
+        "items": [
+          {
+            "id": "P43",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "P44",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "M29",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 200000,
+            "rate": -1
+          }
+        ]
+      },
+      "2147483647": {
+        "id": 6,
+        "num": -1,
+        "items": [
+          {
+            "id": "P47",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "P48",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "M29",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 250000,
+            "rate": -1
+          }
+        ]
+      }
+    },
+    "700": {
+      "30": {
+        "id": 7,
+        "num": -1,
+        "items": [
+          {
+            "id": "P47",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "M26",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "M30",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "SK5",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 300000,
+            "rate": -1
+          }
+        ]
+      },
+      "2147483647": {
+        "id": 8,
+        "num": -1,
+        "items": [
+          {
+            "id": "P48",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "M26",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "M30",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "SK6",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 400000,
+            "rate": -1
+          }
+        ]
+      }
+    },
+    "1000": {
+      "30": {
+        "id": 9,
+        "num": -1,
+        "items": [
+          {
+            "id": "P48",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "SK12",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 500000,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 600000,
+            "rate": -1
+          }
+        ]
+      },
+      "2147483647": {
+        "id": 10,
+        "num": -1,
+        "items": [
+          {
+            "id": "P53",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "P49",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "SK12",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 500000,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 600000,
+            "rate": -1
+          }
+        ]
+      }
+    },
+    "1500": {
+      "30": {
+        "id": 11,
+        "num": -1,
+        "items": [
+          {
+            "id": "P53",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "P49",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "C5",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 600000,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 700000,
+            "rate": -1
+          }
+        ]
+      },
+      "2147483647": {
+        "id": 12,
+        "num": -1,
+        "items": [
+          {
+            "id": "P54",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "C5",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 600000,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 700000,
+            "rate": -1
+          }
+        ]
+      }
+    },
+    "2000": {
+      "30": {
+        "id": 13,
+        "num": -1,
+        "items": [
+          {
+            "id": "P54",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "P53",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "SK12",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 600000,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 700000,
+            "rate": -1
+          }
+        ]
+      },
+      "2147483647": {
+        "id": 14,
+        "num": -1,
+        "items": [
+          {
+            "id": "P55",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "P53",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "SK12",
+            "quantity": 1,
+            "rate": -1
+          },
+          {
+            "id": "GOLD",
+            "quantity": 600000,
+            "rate": -1
+          },
+          {
+            "id": "EXP",
+            "quantity": 700000,
+            "rate": -1
+          }
+        ]
+      }
+    }
+  },
+  "E02_REWARDS_PACK": {
+    "1": {
+      "2147483647": {
+        "REWARD_ID": 1,
+        "GROUP_LV": 2147483647,
+        "GROUP": 1,
+        "REWARD_PACK": {
+          "GOLD": 2000,
+          "P4": 1
+        },
+        "REQUIRE_PACK": {
+          "E2T1": 24,
+          "E2T2": 16,
+          "E2T3": 8,
+          "E2T4": 3
+        },
+        "BONUS": {
+          "E2PO": 1
+        },
+        "EXCHANGE_LIMIT": 6
+      }
+    },
+    "2": {
+      "30": {
+        "REWARD_ID": 2,
+        "GROUP_LV": 30,
+        "GROUP": 2,
+        "REWARD_PACK": {
+          "GOLD": 1000,
+          "EXP": 1500
+        },
+        "REQUIRE_PACK": {
+          "E2T1": 54,
+          "E2T2": 36,
+          "E2T3": 18,
+          "E2T4": 7
+        },
+        "BONUS": {
+          "E2PO": 3
+        },
+        "EXCHANGE_LIMIT": 1500
+      },
+      "2147483647": {
+        "REWARD_ID": 3,
+        "GROUP_LV": 2147483647,
+        "GROUP": 2,
+        "REWARD_PACK": {
+          "GOLD": 2000,
+          "EXP": 3000
+        },
+        "REQUIRE_PACK": {
+          "E2T1": 54,
+          "E2T2": 36,
+          "E2T3": 18,
+          "E2T4": 7
+        },
+        "BONUS": {
+          "E2PO": 3
+        },
+        "EXCHANGE_LIMIT": 1500
+      }
+    },
+    "3": {
+      "2147483647": {
+        "REWARD_ID": 4,
+        "GROUP_LV": 2147483647,
+        "GROUP": 3,
+        "REWARD_PACK": {
+          "M0": 5,
+          "M3": 5,
+          "M6": 5
+        },
+        "REQUIRE_PACK": {
+          "E2T1": 114,
+          "E2T2": 76,
+          "E2T3": 38,
+          "E2T4": 15
+        },
+        "BONUS": {
+          "E2PO": 5
+        },
+        "EXCHANGE_LIMIT": 5
+      }
+    },
+    "4": {
+      "2147483647": {
+        "REWARD_ID": 5,
+        "GROUP_LV": 2147483647,
+        "GROUP": 4,
+        "REWARD_PACK": {
+          "M1": 5,
+          "M4": 5,
+          "M7": 5
+        },
+        "REQUIRE_PACK": {
+          "E2T1": 114,
+          "E2T2": 76,
+          "E2T3": 38,
+          "E2T4": 15
+        },
+        "BONUS": {
+          "E2PO": 5
+        },
+        "EXCHANGE_LIMIT": 5
+      }
+    },
+    "5": {
+      "2147483647": {
+        "REWARD_ID": 6,
+        "GROUP_LV": 2147483647,
+        "GROUP": 5,
+        "REWARD_PACK": {
+          "M2": 5,
+          "M5": 5,
+          "M8": 5
+        },
+        "REQUIRE_PACK": {
+          "E2T1": 114,
+          "E2T2": 76,
+          "E2T3": 38,
+          "E2T4": 15
+        },
+        "BONUS": {
+          "E2PO": 5
+        },
+        "EXCHANGE_LIMIT": 5
+      }
+    },
+    "6": {
+      "2147483647": {
+        "REWARD_ID": 7,
+        "GROUP_LV": 2147483647,
+        "GROUP": 6,
+        "REWARD_PACK": {
+          "GOLD": 10000,
+          "N0": 10,
+          "N1": 10,
+          "EXP": 10000
+        },
+        "REQUIRE_PACK": {
+          "E2T1": 225,
+          "E2T2": 150,
+          "E2T3": 75,
+          "E2T4": 30
+        },
+        "BONUS": {
+          "E2PO": 10
+        },
+        "EXCHANGE_LIMIT": 10
+      }
+    },
+    "7": {
+      "2147483647": {
+        "REWARD_ID": 8,
+        "GROUP_LV": 2147483647,
+        "GROUP": 7,
+        "REWARD_PACK": {
+          "M19": 1,
+          "M13": 10,
+          "M12": 10
+        },
+        "REQUIRE_PACK": {
+          "E2T1": 450,
+          "E2T2": 300,
+          "E2T3": 150,
+          "E2T4": 60
+        },
+        "BONUS": {
+          "E2PO": 20
+        },
+        "EXCHANGE_LIMIT": 5
+      }
+    },
+    "8": {
+      "2147483647": {
+        "REWARD_ID": 9,
+        "GROUP_LV": 2147483647,
+        "GROUP": 8,
+        "REWARD_PACK": {
+          "GOLD": 20000,
+          "N2": 10,
+          "N3": 10,
+          "EXP": 20000
+        },
+        "REQUIRE_PACK": {
+          "E2T1": 525,
+          "E2T2": 350,
+          "E2T3": 175,
+          "E2T4": 70
+        },
+        "BONUS": {
+          "E2PO": 24
+        },
+        "EXCHANGE_LIMIT": 10
+      }
+    },
+    "9": {
+      "2147483647": {
+        "REWARD_ID": 10,
+        "GROUP_LV": 2147483647,
+        "GROUP": 9,
+        "REWARD_PACK": {
+          "A1": 15,
+          "A2": 15,
+          "M17": 1,
+          "A0": 15
+        },
+        "REQUIRE_PACK": {
+          "E2T1": 525,
+          "E2T2": 350,
+          "E2T3": 175,
+          "E2T4": 70
+        },
+        "BONUS": {
+          "E2PO": 24
+        },
+        "EXCHANGE_LIMIT": 10
+      }
+    },
+    "10": {
+      "30": {
+        "REWARD_ID": 11,
+        "GROUP_LV": 30,
+        "GROUP": 10,
+        "REWARD_PACK": {
+          "GOLD": 25000,
+          "P18": 1,
+          "P17": 1
+        },
+        "REQUIRE_PACK": {
+          "E2T1": 600,
+          "E2T2": 400,
+          "E2T3": 200,
+          "E2T4": 80
+        },
+        "BONUS": {
+          "E2PO": 27
+        },
+        "EXCHANGE_LIMIT": 4
+      },
+      "2147483647": {
+        "REWARD_ID": 12,
+        "GROUP_LV": 2147483647,
+        "GROUP": 10,
+        "REWARD_PACK": {
+          "GOLD": 35000,
+          "P29": 1,
+          "P30": 1
+        },
+        "REQUIRE_PACK": {
+          "E2T1": 600,
+          "E2T2": 400,
+          "E2T3": 200,
+          "E2T4": 80
+        },
+        "BONUS": {
+          "E2PO": 27
+        },
+        "EXCHANGE_LIMIT": 4
+      }
+    },
+    "11": {
+      "2147483647": {
+        "REWARD_ID": 13,
+        "GROUP_LV": 2147483647,
+        "GROUP": 11,
+        "REWARD_PACK": {
+          "A3": 10,
+          "A4": 10,
+          "A5": 10,
+          "M18": 1
+        },
+        "REQUIRE_PACK": {
+          "E2T1": 900,
+          "E2T2": 600,
+          "E2T3": 300,
+          "E2T4": 120
+        },
+        "BONUS": {
+          "E2PO": 40
+        },
+        "EXCHANGE_LIMIT": 8
+      }
+    },
+    "12": {
+      "30": {
+        "REWARD_ID": 14,
+        "GROUP_LV": 30,
+        "GROUP": 12,
+        "REWARD_PACK": {
+          "P23": 1,
+          "P24": 1,
+          "EXP": 40000
+        },
+        "REQUIRE_PACK": {
+          "E2T1": 1125,
+          "E2T2": 750,
+          "E2T3": 375,
+          "E2T4": 150
+        },
+        "BONUS": {
+          "E2PO": 50
+        },
+        "EXCHANGE_LIMIT": 3
+      },
+      "2147483647": {
+        "REWARD_ID": 15,
+        "GROUP_LV": 2147483647,
+        "GROUP": 12,
+        "REWARD_PACK": {
+          "P36": 1,
+          "P35": 1,
+          "EXP": 50000
+        },
+        "REQUIRE_PACK": {
+          "E2T1": 1125,
+          "E2T2": 750,
+          "E2T3": 375,
+          "E2T4": 150
+        },
+        "BONUS": {
+          "E2PO": 50
+        },
+        "EXCHANGE_LIMIT": 3
+      }
+    },
+    "13": {
+      "2147483647": {
+        "REWARD_ID": 16,
+        "GROUP_LV": 2147483647,
+        "GROUP": 13,
+        "REWARD_PACK": {
+          "GOLD": 30000,
+          "SK12": 1
+        },
+        "REQUIRE_PACK": {
+          "E2T1": 1500,
+          "E2T2": 1000,
+          "E2T3": 500,
+          "E2T4": 200
+        },
+        "BONUS": {
+          "E2PO": 67
+        },
+        "EXCHANGE_LIMIT": 2
+      }
+    },
+    "14": {
+      "30": {
+        "REWARD_ID": 17,
+        "GROUP_LV": 30,
+        "GROUP": 14,
+        "REWARD_PACK": {
+          "GOLD": 35000,
+          "P29": 1,
+          "P30": 1,
+          "SK7": 1
+        },
+        "REQUIRE_PACK": {
+          "E2T1": 2250,
+          "E2T2": 1500,
+          "E2T3": 750,
+          "E2T4": 300
+        },
+        "BONUS": {
+          "E2PO": 100
+        },
+        "EXCHANGE_LIMIT": 3
+      },
+      "2147483647": {
+        "REWARD_ID": 18,
+        "GROUP_LV": 2147483647,
+        "GROUP": 14,
+        "REWARD_PACK": {
+          "GOLD": 40000,
+          "P41": 1,
+          "SK7": 1,
+          "P42": 1
+        },
+        "REQUIRE_PACK": {
+          "E2T1": 2250,
+          "E2T2": 1500,
+          "E2T3": 750,
+          "E2T4": 300
+        },
+        "BONUS": {
+          "E2PO": 100
+        },
+        "EXCHANGE_LIMIT": 3
+      }
+    },
+    "15": {
+      "30": {
+        "REWARD_ID": 19,
+        "GROUP_LV": 30,
+        "GROUP": 15,
+        "REWARD_PACK": {
+          "SK8": 1,
+          "P36": 1,
+          "P35": 1,
+          "EXP": 50000
+        },
+        "REQUIRE_PACK": {
+          "E2T1": 3375,
+          "E2T2": 2250,
+          "E2T3": 1125,
+          "E2T4": 450
+        },
+        "BONUS": {
+          "E2PO": 150
+        },
+        "EXCHANGE_LIMIT": 3
+      },
+      "2147483647": {
+        "REWARD_ID": 20,
+        "GROUP_LV": 2147483647,
+        "GROUP": 15,
+        "REWARD_PACK": {
+          "GOLD": 45000,
+          "SK8": 1,
+          "P47": 1,
+          "EXP": 60000
+        },
+        "REQUIRE_PACK": {
+          "E2T1": 3375,
+          "E2T2": 2250,
+          "E2T3": 1125,
+          "E2T4": 450
+        },
+        "BONUS": {
+          "E2PO": 150
+        },
+        "EXCHANGE_LIMIT": 3
+      }
+    },
+    "16": {
+      "30": {
+        "REWARD_ID": 21,
+        "GROUP_LV": 30,
+        "GROUP": 16,
+        "REWARD_PACK": {
+          "SK9": 1,
+          "GOLD": 40000,
+          "P41": 1,
+          "EXP": 60000,
+          "P42": 1
+        },
+        "REQUIRE_PACK": {
+          "E2T1": 3750,
+          "E2T2": 2500,
+          "E2T3": 1250,
+          "E2T4": 500
+        },
+        "BONUS": {
+          "E2PO": 167
+        },
+        "EXCHANGE_LIMIT": 3
+      },
+      "2147483647": {
+        "REWARD_ID": 22,
+        "GROUP_LV": 2147483647,
+        "GROUP": 16,
+        "REWARD_PACK": {
+          "SK9": 1,
+          "GOLD": 50000,
+          "P49": 1,
+          "P48": 1,
+          "EXP": 70000
+        },
+        "REQUIRE_PACK": {
+          "E2T1": 3750,
+          "E2T2": 2500,
+          "E2T3": 1250,
+          "E2T4": 500
+        },
+        "BONUS": {
+          "E2PO": 167
+        },
+        "EXCHANGE_LIMIT": 3
+      }
+    },
+    "17": {
+      "30": {
+        "REWARD_ID": 23,
+        "GROUP_LV": 30,
+        "GROUP": 17,
+        "REWARD_PACK": {
+          "GOLD": 50000,
+          "P47": 1,
+          "P43": 1,
+          "SK11": 1
+        },
+        "REQUIRE_PACK": {
+          "E2T1": 6750,
+          "E2T2": 4500,
+          "E2T3": 2250,
+          "E2T4": 900
+        },
+        "BONUS": {
+          "E2PO": 300
+        },
+        "EXCHANGE_LIMIT": 3
+      },
+      "2147483647": {
+        "REWARD_ID": 24,
+        "GROUP_LV": 2147483647,
+        "GROUP": 17,
+        "REWARD_PACK": {
+          "GOLD": 60000,
+          "P49": 1,
+          "SK11": 1,
+          "P53": 1
+        },
+        "REQUIRE_PACK": {
+          "E2T1": 6750,
+          "E2T2": 4500,
+          "E2T3": 2250,
+          "E2T4": 900
+        },
+        "BONUS": {
+          "E2PO": 300
+        },
+        "EXCHANGE_LIMIT": 3
+      }
+    },
+    "18": {
+      "30": {
+        "REWARD_ID": 25,
+        "GROUP_LV": 30,
+        "GROUP": 18,
+        "REWARD_PACK": {
+          "GOLD": 60000,
+          "P47": 1,
+          "P48": 1,
+          "EXP": 70000,
+          "SK5": 1
+        },
+        "REQUIRE_PACK": {
+          "E2T1": 11250,
+          "E2T2": 7500,
+          "E2T3": 3750,
+          "E2T4": 1500
+        },
+        "BONUS": {
+          "E2PO": 500
+        },
+        "EXCHANGE_LIMIT": 3
+      },
+      "2147483647": {
+        "REWARD_ID": 26,
+        "GROUP_LV": 2147483647,
+        "GROUP": 18,
+        "REWARD_PACK": {
+          "GOLD": 70000,
+          "EXP": 80000,
+          "SK5": 1,
+          "P54": 1,
+          "P53": 1
+        },
+        "REQUIRE_PACK": {
+          "E2T1": 11250,
+          "E2T2": 7500,
+          "E2T3": 3750,
+          "E2T4": 1500
+        },
+        "BONUS": {
+          "E2PO": 500
+        },
+        "EXCHANGE_LIMIT": 3
+      }
+    }
+  }
+}

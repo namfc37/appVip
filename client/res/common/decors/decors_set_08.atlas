@@ -1,0 +1,174 @@
+
+decors_set_08.png
+size: 380,378
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+decor_1/body
+  rotate: false
+  xy: 235, 284
+  size: 107, 92
+  orig: 157, 157
+  offset: 26, 30
+  index: -1
+decor_1/body_cover
+  rotate: false
+  xy: 377, 375
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+decor_1/tail
+  rotate: false
+  xy: 377, 375
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+decor_3/body_cover
+  rotate: false
+  xy: 377, 375
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+decor_3/tail
+  rotate: false
+  xy: 377, 375
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+decor_4/body_cover
+  rotate: false
+  xy: 377, 375
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+decor_4/tail
+  rotate: false
+  xy: 377, 375
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+decor_5/body_cover
+  rotate: false
+  xy: 377, 375
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+decor_5/tail
+  rotate: false
+  xy: 377, 375
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+decor_6/body_cover
+  rotate: false
+  xy: 377, 375
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+decor_6/tail
+  rotate: false
+  xy: 377, 375
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+decor_1/icon_big
+  rotate: true
+  xy: 283, 94
+  size: 93, 80
+  orig: 157, 157
+  offset: 33, 34
+  index: -1
+decor_2/body
+  rotate: false
+  xy: 2, 19
+  size: 92, 117
+  orig: 157, 157
+  offset: 30, 25
+  index: -1
+decor_2/body_cover
+  rotate: true
+  xy: 215, 110
+  size: 77, 57
+  orig: 157, 157
+  offset: 38, 42
+  index: -1
+decor_2/icon_big
+  rotate: true
+  xy: 116, 202
+  size: 76, 109
+  orig: 157, 157
+  offset: 33, 21
+  index: -1
+decor_2/tail
+  rotate: false
+  xy: 344, 320
+  size: 31, 56
+  orig: 157, 157
+  offset: 61, 21
+  index: -1
+decor_3/body
+  rotate: true
+  xy: 2, 138
+  size: 121, 102
+  orig: 157, 157
+  offset: 21, 28
+  index: -1
+decor_3/icon_big
+  rotate: false
+  xy: 106, 110
+  size: 107, 90
+  orig: 157, 157
+  offset: 28, 32
+  index: -1
+decor_4/body
+  rotate: false
+  xy: 116, 280
+  size: 117, 96
+  orig: 157, 157
+  offset: 21, 26
+  index: -1
+decor_4/icon_big
+  rotate: true
+  xy: 198, 5
+  size: 103, 83
+  orig: 157, 157
+  offset: 28, 30
+  index: -1
+decor_5/body
+  rotate: false
+  xy: 2, 261
+  size: 112, 115
+  orig: 157, 157
+  offset: 23, 24
+  index: -1
+decor_5/icon_big
+  rotate: true
+  xy: 235, 189
+  size: 93, 100
+  orig: 157, 157
+  offset: 31, 28
+  index: -1
+decor_6/body
+  rotate: false
+  xy: 96, 11
+  size: 100, 97
+  orig: 157, 157
+  offset: 29, 30
+  index: -1
+decor_6/icon_big
+  rotate: true
+  xy: 283, 6
+  size: 86, 84
+  orig: 157, 157
+  offset: 36, 34
+  index: -1

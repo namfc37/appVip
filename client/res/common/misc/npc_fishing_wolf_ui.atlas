@@ -1,0 +1,265 @@
+
+npc_fishing_wolf_ui.png
+size: 364,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ca1
+  rotate: false
+  xy: 194, 33
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+ca2
+  rotate: true
+  xy: 280, 100
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+can cau 1
+  rotate: false
+  xy: 273, 230
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+can cau 2
+  rotate: true
+  xy: 71, 2
+  size: 31, 40
+  orig: 31, 43
+  offset: 0, 3
+  index: -1
+can cau 3
+  rotate: true
+  xy: 193, 100
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+can cau 4
+  rotate: true
+  xy: 321, 181
+  size: 45, 36
+  orig: 45, 36
+  offset: 0, 0
+  index: -1
+can cau 5
+  rotate: false
+  xy: 252, 266
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+chan phai
+  rotate: false
+  xy: 132, 39
+  size: 60, 39
+  orig: 60, 39
+  offset: 0, 0
+  index: -1
+chan trai
+  rotate: true
+  xy: 321, 228
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+co
+  rotate: false
+  xy: 308, 97
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 88, 136
+  size: 87, 82
+  orig: 87, 82
+  offset: 0, 0
+  index: -1
+duoi
+  rotate: true
+  xy: 177, 159
+  size: 59, 52
+  orig: 59, 52
+  offset: 0, 0
+  index: -1
+line_1
+  rotate: true
+  xy: 88, 80
+  size: 18, 141
+  orig: 18, 141
+  offset: 0, 0
+  index: -1
+line_2
+  rotate: true
+  xy: 207, 2
+  size: 1, 16
+  orig: 1, 16
+  offset: 0, 0
+  index: -1
+mat 1
+  rotate: false
+  xy: 179, 2
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+mat 2
+  rotate: true
+  xy: 207, 5
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+mieng 1
+  rotate: true
+  xy: 231, 169
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+mieng 2
+  rotate: false
+  xy: 276, 182
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+mieng 3
+  rotate: true
+  xy: 226, 220
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+moi01
+  rotate: true
+  xy: 316, 160
+  size: 19, 43
+  orig: 72, 93
+  offset: 25, 41
+  index: -1
+moi02
+  rotate: true
+  xy: 316, 139
+  size: 19, 43
+  orig: 72, 93
+  offset: 25, 41
+  index: -1
+moi03
+  rotate: true
+  xy: 308, 118
+  size: 19, 43
+  orig: 72, 93
+  offset: 25, 41
+  index: -1
+nuoc1
+  rotate: false
+  xy: 2, 90
+  size: 84, 128
+  orig: 84, 128
+  offset: 0, 0
+  index: -1
+nuoc2
+  rotate: false
+  xy: 252, 280
+  size: 96, 82
+  orig: 96, 82
+  offset: 0, 0
+  index: -1
+nuoc3
+  rotate: false
+  xy: 88, 100
+  size: 103, 34
+  orig: 103, 34
+  offset: 0, 0
+  index: -1
+tay phai duoi
+  rotate: false
+  xy: 132, 2
+  size: 45, 35
+  orig: 45, 35
+  offset: 0, 0
+  index: -1
+tay phai tren
+  rotate: false
+  xy: 235, 103
+  size: 43, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1
+tay trai ban
+  rotate: true
+  xy: 113, 17
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+tay trai duoi
+  rotate: false
+  xy: 233, 141
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+tay trai tren
+  rotate: false
+  xy: 280, 140
+  size: 34, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 2, 11
+  size: 67, 77
+  orig: 68, 77
+  offset: 1, 0
+  index: -1
+thuyen sau
+  rotate: false
+  xy: 2, 220
+  size: 222, 44
+  orig: 222, 44
+  offset: 0, 0
+  index: -1
+thuyen_truoc
+  rotate: false
+  xy: 2, 266
+  size: 248, 96
+  orig: 248, 96
+  offset: 0, 0
+  index: -1
+trong mat 2
+  rotate: false
+  xy: 71, 80
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+trong mat 3
+  rotate: false
+  xy: 2, 4
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+xo1
+  rotate: false
+  xy: 71, 35
+  size: 59, 43
+  orig: 59, 43
+  offset: 0, 0
+  index: -1
+xo2
+  rotate: false
+  xy: 177, 139
+  size: 54, 18
+  orig: 54, 18
+  offset: 0, 0
+  index: -1

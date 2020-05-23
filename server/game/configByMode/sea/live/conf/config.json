@@ -1,0 +1,88 @@
+{
+  "zone": "sea",
+  "environment": "SERVER_LIVE",
+  "extendMemcached": "conf/couchbase.json",
+  "extendRedis": "conf/redis.json",
+  "logAddNewLine": false,
+  "minClientCode": 812,
+  "user": {
+    "portRange": 8000,
+    "portWebSocketRange": 8300,
+    "portAdminRange": 9000,
+    "useLoginPortal": true,
+    "useJsonPretty": false,
+    "periodSave": 120,
+    "groups": [
+      1,
+      2
+    ]
+  },
+  "udp": {
+    "portRange": 8200,
+    "sndBuf": 8388608,
+    "rcvBuf": 8388608
+  },
+  "admin": {
+    "portRange": 8100,
+    "group": 11
+  },
+  "newsBoard": {
+    "host": "10.148.9.2",
+    "group": 12,
+    "periodSave": 20,
+    "itemPerKey": 5000
+  },
+  "friend": {
+    "host": "10.148.9.2",
+    "group": 13,
+    "periodSave": 300,
+    "itemPerKey": 5000,
+    "itemPerLevel": 5000
+  },
+  "balance": {
+    "host": "10.148.9.2",
+    "group": 0,
+    "period": 1000,
+    "timeout": 1500
+  },
+  "chat": {
+    "host": "10.148.9.2",
+    "group": 3,
+    "useLoginPortal": false,
+    "periodSave": 120
+  },
+  "payment": {
+    "useServiceCheckLocalPayment": false,
+    "iap": {
+      "urlValidate": "https://zplogin.g6.zing.vn",
+      "serviceName": "verify_receipt_google",
+      "expireDay": 7,
+      "connectTimeout": 5,
+      "idleTime": 30
+    },
+    "sea": {
+      "productId": 50020,
+      "key": "GsnPokerSea\u0026$1",
+      "urlGetPhone": "http://118.102.3.28:10099/payment/getphonenumberlist",
+      "urlCreate": "http://118.102.3.28:10099/payment/getTransaction",
+      "urlProcess": "http://118.102.3.28:10099/payment/verifyOtp",
+      "connectTimeout": 5,
+      "idleTime": 30,
+      "percentNetGross": 70
+    }
+  },
+  "mapIP": {
+    "10.148.9.2": {
+      "ip": "35.240.220.235",
+      "domain": "35.240.220.235"
+    },
+    "10.148.9.3": {
+      "ip": "35.187.253.43",
+      "domain": "35.187.253.43"
+    },
+    "10.148.9.4": {
+      "ip": "34.87.44.132",
+      "domain": "34.87.44.132"
+    }
+  }
+}

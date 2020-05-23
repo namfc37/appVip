@@ -1,0 +1,20 @@
+
+effect_pot_set.png
+size: 79,79
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spark
+  rotate: false
+  xy: 2, 34
+  size: 39, 43
+  orig: 41, 45
+  offset: 1, 1
+  index: -1
+white_spark
+  rotate: true
+  xy: 2, 2
+  size: 30, 33
+  orig: 32, 35
+  offset: 1, 1
+  index: -1

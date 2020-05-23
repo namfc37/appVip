@@ -1,0 +1,28 @@
+19/4/2019 12:00 Reset database live, log search, database billing Khoa
+19/4/2019 14:55 Phát hiện lỗi lệch giờ của các log ghi bởi PHP. Log ghi giờ UTC+0 
+
+3/5/2019 19:00 Public game trên store version 1.6.4b320
+	Sử dụng service check local payment 	
+	  
+4/5/2019 11:00 build 321: tắt cây event trong shop
+
+8/5/2019 14:50 build 3.2.7
+	Bật tính năng Friend, Offer, GiftCode, First pay bonus item
+	Rev 172748
+	
+9/5/2019 14:45 build 3.3.0
+	Sửa lỗi
+	
+15/5/2019 9h25 build 3.3.6
+	Sửa lỗi
+	Đổi offer, level info 
+	up billing có log level
+
+27/5/2019 9h25 build 3.4.9
+	Event
+	Sửa cơ chế offer
+
+28/5/2019 build 3.5.2
+
+31/5/2019 14h30 build 3.5.2
+	Sửa lỗi offer add repeat offer

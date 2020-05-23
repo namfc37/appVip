@@ -1,0 +1,20 @@
+
+effect_sunlight.png
+size: 169,506
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light_1
+  rotate: false
+  xy: 2, 2
+  size: 64, 502
+  orig: 81, 504
+  offset: 9, 2
+  index: -1
+light_2
+  rotate: false
+  xy: 68, 215
+  size: 99, 289
+  orig: 200, 365
+  offset: 49, 74
+  index: -1

@@ -1,0 +1,62 @@
+
+hud_tutorial_new.png
+size: 228,304
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow_light
+  rotate: true
+  xy: 2, 15
+  size: 71, 123
+  orig: 73, 125
+  offset: 1, 1
+  index: -1
+hand_01
+  rotate: false
+  xy: 2, 211
+  size: 114, 91
+  orig: 114, 91
+  offset: 0, 0
+  index: -1
+hand_02
+  rotate: true
+  xy: 2, 88
+  size: 121, 83
+  orig: 121, 83
+  offset: 0, 0
+  index: -1
+icon_harvest
+  rotate: false
+  xy: 118, 219
+  size: 87, 83
+  orig: 89, 85
+  offset: 1, 1
+  index: -1
+item_bug_net_gold
+  rotate: true
+  xy: 154, 141
+  size: 76, 71
+  orig: 78, 73
+  offset: 1, 1
+  index: -1
+item_dryer_rose
+  rotate: true
+  xy: 127, 2
+  size: 65, 67
+  orig: 67, 69
+  offset: 1, 1
+  index: -1
+pot_normal
+  rotate: true
+  xy: 87, 128
+  size: 81, 65
+  orig: 83, 67
+  offset: 1, 1
+  index: -1
+rose_icon
+  rotate: true
+  xy: 154, 69
+  size: 70, 72
+  orig: 72, 74
+  offset: 1, 1
+  index: -1

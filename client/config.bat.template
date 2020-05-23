@@ -1,0 +1,15 @@
+@echo off
+if "%JAVA_HOME%"=="" (
+    set JAVA_HOME=c:\Program Files\Java\jdk1.8.0_171
+)
+
+set PRJ_HOME=%cd%
+set JAVA="%JAVA_HOME%\bin\java"
+set JAVAC="%JAVA_HOME%\bin\javac"
+set JAR="%JAVA_HOME%\bin\jar"
+
+set DIR_EXCEL_DATA=%PRJ_HOME%\..\design\db
+set DIR_JSON_DATA=%PRJ_HOME%\res\game_constants
+
+set EXPORT_EXCEL_HOME=%PRJ_HOME%\..\tools\ExportExcel\_release_
+set EXPORT_EXCEL_JAR=ExportExcel.jar

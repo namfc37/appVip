@@ -1,0 +1,19 @@
+{
+    "defaultLanguageCode": "vn",
+    "list": [
+        {
+            "code": [
+                "vn"
+            ],
+            "name": "Vietnamese",
+            "folder": "vn"
+        },
+        {
+            "code": [
+                "br"
+            ],
+            "name": "Brazil",
+            "folder": "br"
+        }
+    ]
+}

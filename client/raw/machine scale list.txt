@@ -1,0 +1,22 @@
+
+machine_01_egg		: 	40%
+
+machine_02_dryer	:	23%
+
+machine_03_juice	:	30%
+
+machine_04_looms	:	21%
+
+machine_05_gems		:	23%
+
+machine_06_oil		:	23%
+
+machine_07_tea		:	35%
+
+machine_08_flowers	:	32%
+
+machine_09_perfume	:	23%
+
+machine_10_aromatic	:	38%
+
+machine_11_sewing	:	20%

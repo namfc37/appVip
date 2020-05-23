@@ -1,0 +1,6 @@
+{
+    "ranking": {
+        "serverIp": "10.50.21.11",
+        "serverPort": 6379
+    }
+}

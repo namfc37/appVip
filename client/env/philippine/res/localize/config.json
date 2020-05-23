@@ -1,0 +1,19 @@
+{
+    "defaultLanguageCode": "ph",
+    "list": [
+        {
+            "code": [
+                "go"
+            ],
+            "name": "English",
+            "folder": "go"
+        },
+        {
+            "code": [
+                "ph"
+            ],
+            "name": "Philippine",
+            "folder": "ph"
+        }
+    ]
+}

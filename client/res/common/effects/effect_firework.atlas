@@ -1,0 +1,69 @@
+
+effect_firework.png
+size: 407,407
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+as1
+  rotate: false
+  xy: 324, 329
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 218
+  size: 187, 187
+  orig: 444, 444
+  offset: 128, 128
+  index: -1
+star1
+  rotate: false
+  xy: 135, 101
+  size: 113, 115
+  orig: 444, 444
+  offset: 164, 164
+  index: -1
+star2
+  rotate: false
+  xy: 2, 84
+  size: 131, 132
+  orig: 444, 444
+  offset: 155, 156
+  index: -1
+star3
+  rotate: true
+  xy: 250, 48
+  size: 106, 107
+  orig: 444, 444
+  offset: 167, 169
+  index: -1
+star4
+  rotate: false
+  xy: 191, 273
+  size: 131, 132
+  orig: 444, 444
+  offset: 155, 156
+  index: -1
+star5
+  rotate: false
+  xy: 135, 2
+  size: 97, 97
+  orig: 444, 444
+  offset: 172, 174
+  index: -1
+star6
+  rotate: false
+  xy: 250, 156
+  size: 113, 115
+  orig: 444, 444
+  offset: 164, 164
+  index: -1
+star7_small
+  rotate: false
+  xy: 2, 43
+  size: 39, 39
+  orig: 47, 47
+  offset: 4, 4
+  index: -1

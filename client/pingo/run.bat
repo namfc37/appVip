@@ -1,0 +1,1 @@
+pingo -s4 ../res

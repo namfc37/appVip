@@ -1,0 +1,42 @@
+{
+    "assets": [
+        {
+            "from": "src",
+            "to": "src"
+        },
+        {
+            "from": "res",
+            "to": "res"
+        },
+	   {
+            "from": "simulator/win32/script",
+            "to": "script"
+        },
+        {
+            "from": "main.js",
+            "to": ""
+        },
+        {
+            "from": "project.json",
+            "to": ""
+        },
+        {
+            "from": "config.json",
+            "to": ""
+        },
+        {
+            "from": "env/myanmar/res",
+            "to": "res"
+        },
+        {
+            "from": "env/myanmar/src",
+            "to": "src"
+        },
+		{
+            "from": "build/myanmar/release/environment.json",
+            "to": "res"
+        }
+    ],
+    "key":["0x11111111", "0x11111111", "0x11111111", "0x11111111"],
+    "remote":"https://kvtm-static.mto.zing.vn/client/sea/myanmar/high"
+}

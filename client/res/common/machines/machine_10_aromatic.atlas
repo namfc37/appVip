@@ -1,0 +1,622 @@
+
+machine_10_aromatic.png
+size: 380,380
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_glass_broken
+  rotate: false
+  xy: 210, 27
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+event_machine_000
+  rotate: true
+  xy: 209, 3
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+event_machine_002
+  rotate: true
+  xy: 92, 217
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+event_machine_005
+  rotate: false
+  xy: 184, 308
+  size: 92, 70
+  orig: 92, 70
+  offset: 0, 0
+  index: -1
+event_machine_006
+  rotate: true
+  xy: 273, 124
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+event_machine_008
+  rotate: false
+  xy: 210, 92
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+event_machine_015
+  rotate: true
+  xy: 349, 95
+  size: 27, 29
+  orig: 35, 35
+  offset: 4, 3
+  index: -1
+event_machine_016
+  rotate: false
+  xy: 259, 93
+  size: 21, 25
+  orig: 35, 35
+  offset: 6, 6
+  index: -1
+event_machine_017
+  rotate: true
+  xy: 357, 147
+  size: 29, 21
+  orig: 35, 35
+  offset: 3, 7
+  index: -1
+event_machine_018
+  rotate: false
+  xy: 320, 147
+  size: 35, 29
+  orig: 35, 35
+  offset: 0, 3
+  index: -1
+event_machine_019
+  rotate: true
+  xy: 293, 64
+  size: 27, 25
+  orig: 35, 35
+  offset: 4, 5
+  index: -1
+event_machine_025
+  rotate: true
+  xy: 191, 30
+  size: 44, 17
+  orig: 44, 17
+  offset: 0, 0
+  index: -1
+event_machine_026
+  rotate: false
+  xy: 96, 30
+  size: 17, 6
+  orig: 17, 6
+  offset: 0, 0
+  index: -1
+event_machine_031
+  rotate: false
+  xy: 290, 7
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+event_machine_033
+  rotate: false
+  xy: 2, 286
+  size: 90, 92
+  orig: 90, 92
+  offset: 0, 0
+  index: -1
+event_machine_036
+  rotate: false
+  xy: 2, 119
+  size: 87, 81
+  orig: 87, 81
+  offset: 0, 0
+  index: -1
+event_machine_037
+  rotate: true
+  xy: 92, 232
+  size: 52, 28
+  orig: 52, 28
+  offset: 0, 0
+  index: -1
+event_machine_040
+  rotate: true
+  xy: 301, 127
+  size: 44, 17
+  orig: 44, 17
+  offset: 0, 0
+  index: -1
+level_1/event_machine_001
+  rotate: false
+  xy: 355, 124
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+level_2/event_machine_001
+  rotate: false
+  xy: 355, 124
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+level_3/event_machine_001
+  rotate: false
+  xy: 355, 124
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+level_1/event_machine_003
+  rotate: false
+  xy: 358, 178
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+level_2/event_machine_003
+  rotate: false
+  xy: 358, 178
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+level_3/event_machine_003
+  rotate: false
+  xy: 358, 178
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+level_1/event_machine_004
+  rotate: true
+  xy: 191, 76
+  size: 44, 17
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+level_1/event_machine_007
+  rotate: false
+  xy: 181, 249
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+level_1/event_machine_010
+  rotate: false
+  xy: 181, 249
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+level_1/event_machine_009
+  rotate: false
+  xy: 210, 59
+  size: 35, 31
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+level_1/event_machine_011
+  rotate: true
+  xy: 182, 2
+  size: 23, 25
+  orig: 79, 84
+  offset: 51, 19
+  index: -1
+level_1/event_machine_012
+  rotate: true
+  xy: 267, 58
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+level_1/event_machine_013
+  rotate: true
+  xy: 355, 285
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+level_1/event_machine_014
+  rotate: true
+  xy: 247, 179
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+level_1/event_machine_020
+  rotate: true
+  xy: 267, 5
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+level_2/event_machine_020
+  rotate: true
+  xy: 267, 5
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+level_1/event_machine_021
+  rotate: false
+  xy: 92, 195
+  size: 18, 20
+  orig: 48, 48
+  offset: 26, 22
+  index: -1
+level_1/event_machine_022
+  rotate: false
+  xy: 366, 363
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+level_2/event_machine_022
+  rotate: false
+  xy: 366, 363
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+level_1/event_machine_023
+  rotate: true
+  xy: 263, 285
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+level_1/event_machine_024
+  rotate: true
+  xy: 184, 245
+  size: 61, 77
+  orig: 62, 86
+  offset: 0, 0
+  index: -1
+level_1/event_machine_027
+  rotate: false
+  xy: 2, 202
+  size: 88, 82
+  orig: 88, 82
+  offset: 0, 0
+  index: -1
+level_2/event_machine_027
+  rotate: false
+  xy: 2, 202
+  size: 88, 82
+  orig: 88, 82
+  offset: 0, 0
+  index: -1
+level_1/event_machine_029
+  rotate: false
+  xy: 122, 76
+  size: 30, 51
+  orig: 30, 51
+  offset: 0, 0
+  index: -1
+level_2/event_machine_029
+  rotate: false
+  xy: 122, 76
+  size: 30, 51
+  orig: 30, 51
+  offset: 0, 0
+  index: -1
+level_3/event_machine_029
+  rotate: false
+  xy: 122, 76
+  size: 30, 51
+  orig: 30, 51
+  offset: 0, 0
+  index: -1
+level_1/event_machine_030
+  rotate: true
+  xy: 329, 252
+  size: 25, 49
+  orig: 25, 49
+  offset: 0, 0
+  index: -1
+level_1/event_machine_032
+  rotate: true
+  xy: 61, 2
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+level_2/event_machine_032
+  rotate: true
+  xy: 61, 2
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+level_1/event_machine_034
+  rotate: false
+  xy: 263, 213
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+level_1/event_machine_035
+  rotate: true
+  xy: 122, 195
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+level_1/event_machine_038
+  rotate: false
+  xy: 247, 47
+  size: 18, 43
+  orig: 25, 49
+  offset: 7, 2
+  index: -1
+level_1/event_machine_039
+  rotate: true
+  xy: 366, 327
+  size: 17, 11
+  orig: 21, 13
+  offset: 4, 0
+  index: -1
+level_2/event_machine_004
+  rotate: true
+  xy: 161, 32
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+level_3/event_machine_004
+  rotate: true
+  xy: 161, 32
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+level_2/event_machine_007
+  rotate: false
+  xy: 122, 252
+  size: 60, 42
+  orig: 156, 173
+  offset: 71, 57
+  index: -1
+level_2/event_machine_009
+  rotate: false
+  xy: 154, 78
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+level_2/event_machine_010
+  rotate: false
+  xy: 2, 2
+  size: 57, 27
+  orig: 75, 35
+  offset: 14, 6
+  index: -1
+level_2/event_machine_011
+  rotate: true
+  xy: 282, 93
+  size: 29, 30
+  orig: 79, 84
+  offset: 46, 18
+  index: -1
+level_2/event_machine_012
+  rotate: true
+  xy: 267, 23
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+level_3/event_machine_012
+  rotate: true
+  xy: 267, 23
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+level_2/event_machine_013
+  rotate: false
+  xy: 151, 2
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+level_3/event_machine_013
+  rotate: false
+  xy: 151, 2
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+level_2/event_machine_014
+  rotate: true
+  xy: 125, 2
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+level_3/event_machine_014
+  rotate: true
+  xy: 125, 2
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+level_2/event_machine_021
+  rotate: false
+  xy: 293, 40
+  size: 21, 22
+  orig: 48, 48
+  offset: 23, 20
+  index: -1
+level_2/event_machine_023
+  rotate: false
+  xy: 157, 180
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+level_2/event_machine_024
+  rotate: false
+  xy: 2, 31
+  size: 62, 86
+  orig: 62, 86
+  offset: 0, 0
+  index: -1
+level_2/event_machine_030
+  rotate: true
+  xy: 329, 225
+  size: 25, 49
+  orig: 25, 49
+  offset: 0, 0
+  index: -1
+level_2/event_machine_034
+  rotate: false
+  xy: 181, 179
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+level_2/event_machine_035
+  rotate: true
+  xy: 157, 122
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+level_2/event_machine_038
+  rotate: false
+  xy: 247, 2
+  size: 18, 43
+  orig: 25, 49
+  offset: 7, 2
+  index: -1
+level_2/event_machine_039
+  rotate: false
+  xy: 320, 85
+  size: 17, 11
+  orig: 21, 13
+  offset: 4, 0
+  index: -1
+level_3/event_machine_007
+  rotate: true
+  xy: 66, 38
+  size: 79, 54
+  orig: 156, 173
+  offset: 57, 51
+  index: -1
+level_3/event_machine_009
+  rotate: false
+  xy: 320, 127
+  size: 33, 18
+  orig: 35, 42
+  offset: 2, 24
+  index: -1
+level_3/event_machine_010
+  rotate: false
+  xy: 278, 279
+  size: 75, 35
+  orig: 75, 35
+  offset: 0, 0
+  index: -1
+level_3/event_machine_011
+  rotate: false
+  xy: 122, 36
+  size: 37, 38
+  orig: 79, 84
+  offset: 38, 18
+  index: -1
+level_3/event_machine_020
+  rotate: true
+  xy: 293, 22
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+level_3/event_machine_021
+  rotate: true
+  xy: 96, 2
+  size: 26, 27
+  orig: 48, 48
+  offset: 18, 15
+  index: -1
+level_3/event_machine_022
+  rotate: false
+  xy: 366, 346
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+level_3/event_machine_023
+  rotate: true
+  xy: 247, 222
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+level_3/event_machine_024
+  rotate: true
+  xy: 278, 316
+  size: 62, 86
+  orig: 62, 86
+  offset: 0, 0
+  index: -1
+level_3/event_machine_027
+  rotate: false
+  xy: 94, 296
+  size: 88, 82
+  orig: 88, 82
+  offset: 0, 0
+  index: -1
+level_3/event_machine_030
+  rotate: true
+  xy: 329, 198
+  size: 25, 49
+  orig: 25, 49
+  offset: 0, 0
+  index: -1
+level_3/event_machine_032
+  rotate: true
+  xy: 314, 98
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+level_3/event_machine_034
+  rotate: false
+  xy: 91, 129
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+level_3/event_machine_035
+  rotate: false
+  xy: 216, 120
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+level_3/event_machine_038
+  rotate: true
+  xy: 313, 178
+  size: 18, 43
+  orig: 25, 49
+  offset: 7, 2
+  index: -1
+level_3/event_machine_039
+  rotate: false
+  xy: 320, 72
+  size: 17, 11
+  orig: 21, 13
+  offset: 4, 0
+  index: -1
+machine_01_000
+  rotate: false
+  xy: 273, 173
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1

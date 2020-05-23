@@ -1,0 +1,13 @@
+
+effect_load_in_game.png
+size: 137,135
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flying_clouds
+  rotate: false
+  xy: 2, 69
+  size: 133, 64
+  orig: 133, 64
+  offset: 0, 0
+  index: -1

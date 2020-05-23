@@ -1,0 +1,19 @@
+{
+	"name": "Khu Vườn Trên Mây",
+	"orientation": 0,
+	"width": 1136,
+	"height": 640,
+	"networkGame": 1,
+	"service": 0,
+	"encryptKeyPart": [-1467855766, -1146784613, -858456460, -572345307],
+	"remoteUrl": "https://kvtm-static.mto.zing.vn/client/high",
+	"sizeGame": 66,
+	"typeGame": 4,
+	"searchPaths": ["res", "res/common", "res/sound"],
+	"gameCode": 999,
+	"appname": "kvtmjs",
+	"googleIAP": true,
+	"social": {
+		"list_social": ["facebook", "google", "zingme"]
+	}
+}

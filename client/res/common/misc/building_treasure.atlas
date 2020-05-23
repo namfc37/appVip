@@ -1,0 +1,111 @@
+
+building_treasure.png
+size: 252,252
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 38
+  rotate: false
+  xy: 229, 232
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+flag_01
+  rotate: false
+  xy: 112, 6
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+flag_02
+  rotate: false
+  xy: 31, 2
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+flag_03
+  rotate: true
+  xy: 229, 193
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+hook
+  rotate: false
+  xy: 62, 2
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+rope
+  rotate: true
+  xy: 229, 222
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+sail_01_1
+  rotate: true
+  xy: 31, 18
+  size: 81, 79
+  orig: 81, 79
+  offset: 0, 0
+  index: -1
+sail_01_2
+  rotate: false
+  xy: 229, 101
+  size: 16, 90
+  orig: 16, 90
+  offset: 0, 0
+  index: -1
+sail_02_1
+  rotate: false
+  xy: 2, 135
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+sail_02_2
+  rotate: false
+  xy: 198, 135
+  size: 29, 115
+  orig: 29, 115
+  offset: 0, 0
+  index: -1
+sail_03_1
+  rotate: false
+  xy: 91, 161
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: -1
+ship_body
+  rotate: false
+  xy: 112, 24
+  size: 137, 75
+  orig: 137, 75
+  offset: 0, 0
+  index: -1
+wave
+  rotate: true
+  xy: 2, 9
+  size: 124, 27
+  orig: 126, 27
+  offset: 0, 0
+  index: -1
+wave_move1
+  rotate: false
+  xy: 31, 108
+  size: 177, 25
+  orig: 177, 25
+  offset: 0, 0
+  index: -1
+wave_move2
+  rotate: false
+  xy: 2, 224
+  size: 194, 26
+  orig: 194, 26
+  offset: 0, 0
+  index: -1

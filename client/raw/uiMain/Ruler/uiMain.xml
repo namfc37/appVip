@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGuidesProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GuidesProject>
+    <Project>uiWheelReward</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiEmptyStockWarning</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiSetting</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiEvent</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiIBShopContainer</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiIBShopTab</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiIBShopItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiMachineInfo</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiEventMilestone</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiChest</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiChestItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiChestOpen</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiDailyGift</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiPaymentChooseChannel</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiPaymentItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiCloudFloor</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiCloudFloorTop</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiConfirmUseDiamond</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiFlyingIcon</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiHome</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiHomeButton</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiItemNoBg</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiItemNoBg2</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiOrder</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiOrderDetail</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiOrderItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiOrderRequestItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiOrderRewardItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiPlantMenu</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiPopup</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiPotMenu</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiPrivateShop</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiPrivateShopItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiPrivateShopItemInfo</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiPrivateShopSelectItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiQuickBuy</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiSkipTime</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiTime</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiUnlockFloor</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiUnlockFloorItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiAirshipUnlock</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiAirshipRepair</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiAirshipRepairSkipTime</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiAirship</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiAirshipItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiAirshipNextTime</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiAirshipPack</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiNewsBoard</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiNewsBoardItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiPotUpgrade</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiPotInfo</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiPotInfoItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiPlantItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiCloudNum</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiCloudBuff</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiMailBox</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiMailBoxReceive</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiMailBoxReceiveItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiMailBoxItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiMailBoxMessage</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiMining</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiMiningItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiMiningRequireItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiDecorPut</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiDecorMenu</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiDecorInfo</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiZLoading</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiZLogin</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiPayment</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiDailyGiftItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiDailyGiftReward</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiDice</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiDiceItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiHint</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiHintItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiHintItemTitle</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiHintItemTitleSimple</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiHintStat</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiHintToast</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiMachineProduce</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiMachineSlot</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiMachineStar</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiMachineUnlock</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiMachineUnlockInfo</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiMachineUpgrade</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiGameHouse</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiGameHouseItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiReward</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiRewardCollect</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiRewardItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiRewardItemSimple</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiStorage</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiSmithyForge</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiSmithyMain</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiSmithyMaterialPot</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiSmithyMaterialProduct</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiSmithyPot</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiSmithySelector</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiTomHint</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiTomHire</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiTomHirePackage</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiTomItemSlot</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiTomItemSlotPrice</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiTomSearch</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiTomSearchDone</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiTomSleepy</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiTomUnlock</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiWheelMain</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiEventMilestoneGift</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiEventPuzzle</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiEventNews</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiEventNewsItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiFirefly</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiSuccessCharge</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiQuitGame</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiLevelUp</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiTutorial</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiUtilContainer</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiUtilSetting</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiInfoUser</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiUtilLibrary</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiUtilLibraryPot</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiUtilLibraryDecor</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiUtilLibraryMachine</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiGiftCode</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiUtilLibraryInfo</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiUtilCommunity</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiWaiting</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiUpgradeVersion</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiQuitGame_0</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiFriendItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiFriendPanel</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiMachineRepair</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiLevelUp_new</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiLevelUp_reward</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiLevelUp_unlock</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiOfferPage</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiFeaturePresent</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiFriendInvite</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiAchievement</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiAchievementItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiQuestBook</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiQuestBookItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiCloudSkinSelect</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiPaymentBRSMS</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiRanking</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiRankingItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiPaymentChooseChannelATM</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiItemNoBg3</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiVipInfo</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiPigBank</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiPigBankMileStone</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiVipItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiBetaVip</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiPaymentInput</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiPaymentGuide</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiMGMExit</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiTruckItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiTruck</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiTruckPack</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiMGMIntro</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiMGMMain</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiMGMHelp</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiTruckUpgrade</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiTruckSkipTime</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiTutorialProgress</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiTutorialProgressStep</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiMGMHelp</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiMGMMain</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiMGMIntro</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiHintProductMachine</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiHintPotDicorate</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiHintItemStats</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiHintBugs</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiHintDesc</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiHintPlant</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiHintSkinCloud</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiCloudBuffNew</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiQuestMission</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiQuestMissionItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiHintAchievement</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiPaymentChooseChannel_SEA</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiConsumeEvent</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiBalloon</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiConsumeEventInfo</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiGuild2Statistics</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiGuildContextMenu</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiGuildSendMessage</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiGuildInboxItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiGuild</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiGuild2StatisticsItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiGuild2PickedTaskItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiGuild2</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiGuildAvatarSelection</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiGuildAvatarItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiGuild2Confirm</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiEvent2Index</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiEvent2Item</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiEvent2Combo</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiEvent2Tree</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiEvent2Main</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiCardPayment</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiProcessing</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiChatbox</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiChatItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiEmojiChoose_Item</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiChatEmoji</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiChatEmoji_me</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiChatItem_me</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiGuildSearchItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiEvent3Fish</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiEvent3ResultFishing</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiHintHook</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiEvent3ItemShop</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiEvent3Main</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiCommonHint</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiEvent3ItemEvent</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiGuild2RewardSubItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiGuild2RewardItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiGuild2LeagueItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiGuild2League</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiGuild2RankingItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiGuild2DerbyMilestone</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiGuild2DerbyMilestoneFrog</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiGuild2Derby</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiCircleDailyItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiCircleDailyRewards</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiEvent3Item</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiGuild2TaskItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiDonateStart</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiDonateItemGroup</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiGuildPrivilege</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiGuildMemberListItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiChatNotify</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiEmojiChoose</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiDonateItem_me</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiDonateItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiAccumulateStore</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiAccumulateStoreItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiAccumulateStoreConfirm</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiAccumulateInfoUser</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiAccumulateInfoUserConfirm</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiAccumulateMileStone</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>uiEvent3RankingItem</Project>
+    <GuidesList />
+  </GuidesProject>
+</ArrayOfGuidesProject>

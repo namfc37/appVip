@@ -1,0 +1,111 @@
+
+plant_03_cotton.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bong_000
+  rotate: true
+  xy: 93, 71
+  size: 74, 39
+  orig: 74, 39
+  offset: 0, 0
+  index: -1
+bong_001
+  rotate: false
+  xy: 2, 147
+  size: 109, 107
+  orig: 109, 107
+  offset: 0, 0
+  index: -1
+bong_002
+  rotate: false
+  xy: 113, 164
+  size: 67, 59
+  orig: 67, 59
+  offset: 0, 0
+  index: -1
+bong_004
+  rotate: false
+  xy: 180, 60
+  size: 51, 33
+  orig: 51, 33
+  offset: 0, 0
+  index: -1
+bong_005
+  rotate: false
+  xy: 182, 130
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+bong_006
+  rotate: false
+  xy: 180, 95
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+bong_007
+  rotate: true
+  xy: 2, 24
+  size: 35, 87
+  orig: 35, 87
+  offset: 0, 0
+  index: -1
+bong_008
+  rotate: true
+  xy: 182, 170
+  size: 53, 72
+  orig: 53, 72
+  offset: 0, 0
+  index: -1
+bong_009
+  rotate: false
+  xy: 134, 97
+  size: 44, 65
+  orig: 44, 65
+  offset: 0, 0
+  index: -1
+bong_010
+  rotate: false
+  xy: 2, 61
+  size: 89, 84
+  orig: 89, 84
+  offset: 0, 0
+  index: -1
+bong_011
+  rotate: true
+  xy: 113, 225
+  size: 29, 136
+  orig: 29, 136
+  offset: 0, 0
+  index: -1
+bong_012
+  rotate: false
+  xy: 93, 28
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+bong_013
+  rotate: true
+  xy: 134, 55
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+cuc_new_021
+  rotate: true
+  xy: 2, 2
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+marker
+  rotate: false
+  xy: 113, 149
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1

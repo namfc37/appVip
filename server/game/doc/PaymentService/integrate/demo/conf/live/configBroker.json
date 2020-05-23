@@ -1,0 +1,17 @@
+{
+  "brokers": "kafka1.zingplay.com:9092",
+  "logTopic": "logGame",
+  "requestTopic": "request",
+  "autoRequest": false,
+  "useCache": true,
+  "gameId": "demo",
+  "timeUnit": 60,
+  "serverIndex": 0,
+  "database": {
+    "host": "127.0.0.1",
+    "port": "11222"
+  },
+  "security": {
+    "isSecured": false
+  }
+}

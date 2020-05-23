@@ -1,0 +1,34 @@
+
+gift_box_event_02.png
+size: 381,379
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g1
+  rotate: false
+  xy: 2, 176
+  size: 198, 201
+  orig: 198, 201
+  offset: 0, 0
+  index: -1
+gift_box
+  rotate: false
+  xy: 202, 191
+  size: 177, 186
+  orig: 177, 186
+  offset: 0, 0
+  index: -1
+shadown
+  rotate: false
+  xy: 2, 89
+  size: 169, 85
+  orig: 169, 85
+  offset: 0, 0
+  index: -1
+shadown_1
+  rotate: false
+  xy: 2, 18
+  size: 146, 69
+  orig: 146, 69
+  offset: 0, 0
+  index: -1

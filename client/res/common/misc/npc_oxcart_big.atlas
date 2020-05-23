@@ -1,0 +1,174 @@
+
+npc_oxcart_big.png
+size: 624,624
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cow_body
+  rotate: false
+  xy: 259, 427
+  size: 264, 195
+  orig: 266, 197
+  offset: 1, 1
+  index: -1
+cow_ear
+  rotate: false
+  xy: 525, 553
+  size: 97, 69
+  orig: 99, 71
+  offset: 1, 1
+  index: -1
+cow_eye_1
+  rotate: false
+  xy: 509, 43
+  size: 40, 40
+  orig: 42, 42
+  offset: 1, 1
+  index: -1
+cow_eye_2
+  rotate: false
+  xy: 258, 2
+  size: 22, 25
+  orig: 24, 27
+  offset: 1, 1
+  index: -1
+cow_eye_close
+  rotate: true
+  xy: 418, 256
+  size: 169, 54
+  orig: 171, 56
+  offset: 1, 1
+  index: -1
+cow_head
+  rotate: false
+  xy: 2, 343
+  size: 255, 279
+  orig: 258, 281
+  offset: 1, 1
+  index: -1
+cow_mouth
+  rotate: false
+  xy: 2, 8
+  size: 164, 120
+  orig: 166, 122
+  offset: 1, 1
+  index: -1
+cow_mouth_bot
+  rotate: false
+  xy: 259, 153
+  size: 125, 89
+  orig: 127, 91
+  offset: 1, 1
+  index: -1
+eye_bg
+  rotate: true
+  xy: 474, 273
+  size: 152, 54
+  orig: 154, 56
+  offset: 1, 1
+  index: -1
+grass_1
+  rotate: false
+  xy: 495, 147
+  size: 95, 67
+  orig: 97, 69
+  offset: 1, 1
+  index: -1
+grass_2
+  rotate: false
+  xy: 393, 55
+  size: 100, 106
+  orig: 102, 108
+  offset: 1, 1
+  index: -1
+level_1/cow_ear_ring_1
+  rotate: false
+  xy: 495, 85
+  size: 55, 60
+  orig: 57, 62
+  offset: 1, 1
+  index: -1
+level_1/cow_ear_ring_2
+  rotate: false
+  xy: 552, 85
+  size: 33, 60
+  orig: 35, 62
+  offset: 1, 1
+  index: -1
+man_arm_22
+  rotate: false
+  xy: 259, 91
+  size: 132, 60
+  orig: 134, 62
+  offset: 1, 1
+  index: -1
+man_arm_23
+  rotate: false
+  xy: 258, 29
+  size: 128, 60
+  orig: 130, 62
+  offset: 1, 1
+  index: -1
+man_arm_4
+  rotate: false
+  xy: 530, 392
+  size: 92, 54
+  orig: 155, 56
+  offset: 1, 1
+  index: -1
+man_body
+  rotate: false
+  xy: 259, 244
+  size: 157, 181
+  orig: 159, 183
+  offset: 1, 1
+  index: -1
+man_eye
+  rotate: false
+  xy: 474, 216
+  size: 122, 53
+  orig: 124, 55
+  offset: 1, 1
+  index: -1
+man_eye_close
+  rotate: false
+  xy: 388, 23
+  size: 119, 30
+  orig: 121, 32
+  offset: 1, 1
+  index: -1
+man_head
+  rotate: false
+  xy: 2, 130
+  size: 255, 211
+  orig: 257, 213
+  offset: 1, 1
+  index: -1
+man_leg_1
+  rotate: false
+  xy: 525, 448
+  size: 92, 103
+  orig: 94, 105
+  offset: 1, 1
+  index: -1
+man_leg_2
+  rotate: true
+  xy: 386, 163
+  size: 79, 77
+  orig: 81, 79
+  offset: 1, 1
+  index: -1
+man_mouth
+  rotate: true
+  xy: 168, 9
+  size: 119, 88
+  orig: 121, 90
+  offset: 1, 1
+  index: -1
+man_mouth2
+  rotate: true
+  xy: 530, 271
+  size: 119, 71
+  orig: 121, 73
+  offset: 1, 1
+  index: -1

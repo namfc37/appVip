@@ -1,0 +1,76 @@
+{
+    "zone": "br",
+    "environment": "SERVER_TEST",
+    "extendMemcached": "conf/couchbase.json",
+    "extendRedis": "conf/redis.json",
+    "logAddNewLine": true,
+    "minClientCode": 586,
+    "user": {
+		"portRange": 8000,
+		"portWebSocketRange": 8300,
+		"portAdminRange": 9000,
+        "useLoginPortal": true,
+        "useJsonPretty": false,
+        "periodSave": 120,
+        "groups": [1, 2]
+    },
+    "udp": {
+        "portRange": 8200,
+        "sndBuf": 8388608,
+        "rcvBuf": 8388608
+    },
+    "admin": {
+        "portRange": 8100,
+        "group": 11
+    },
+    "newsBoard": {
+        "host": "10.11.91.3",
+        "group": 12,
+        "periodSave": 20,
+        "itemPerKey": 5000
+    },
+	"friend": {
+        "host": "10.11.91.3",
+        "group": 13,
+        "periodSave": 300,
+        "itemPerKey": 5000,
+        "itemPerLevel": 5000
+    },
+	"balance": {
+        "host": "10.11.91.3",
+        "group": 0,
+        "period": 1000,
+        "timeout": 1500
+    },
+    "chat": {
+        "host": "10.11.91.3",
+        "group": 3,
+        "useLoginPortal": false,
+        "periodSave": 120
+    },
+    "payment": {
+		"useServiceCheckLocalPayment": false,        
+        "iap": {		
+            "urlValidate": "https://brazil-login.zingplay.com/",
+            "serviceName": "verify_receipt",
+            "expireDay": 7,
+            "connectTimeout": 5,
+            "idleTime": 30
+        },
+        "brazil": {
+			"productId": 50048,
+			"key": "GsnPokerSea&$123",
+			"urlCreate": "http://35.247.248.165:8080/payment/createpwtransaction",
+			"urlProcess": "http://35.247.248.165:8080/payment/processpwpayment/",
+			"connectTimeout": 5,
+            "idleTime": 30,
+			"percentNetGross": 70
+		}
+    },
+    "mapIP": {
+        "10.11.91.3": {
+            "ip": "45.127.252.147",
+            "domain": "kvtm-dev01-vn-game.service.zingplay.com"        
+        }
+    }
+}

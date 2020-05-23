@@ -1,0 +1,15 @@
+{
+    "index": {
+        "serverIp": "10.50.21.11",
+        "serverPort": 11220
+    },
+    "cache": {
+        "serverIp": "10.50.21.11",
+        "serverPort": 11240
+    },
+    "user_1": {
+        "serverIp": "10.50.21.12",
+        "serverPort": 11230,
+        "isUserBucket": true
+    }
+}

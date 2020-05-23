@@ -1,0 +1,181 @@
+
+fish_jump.png
+size: 94,92
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fish_01
+  rotate: false
+  xy: 2, 4
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+fish_body
+  rotate: true
+  xy: 54, 33
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+fish_eye_close
+  rotate: true
+  xy: 85, 65
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+fish_eye_open
+  rotate: false
+  xy: 81, 57
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+fish_mouth_01
+  rotate: false
+  xy: 85, 76
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+fish_tail
+  rotate: false
+  xy: 87, 44
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+wave_01
+  rotate: false
+  xy: 81, 51
+  size: 6, 4
+  orig: 31, 18
+  offset: 12, 4
+  index: -1
+wave_02
+  rotate: false
+  xy: 38, 4
+  size: 9, 6
+  orig: 31, 18
+  offset: 11, 4
+  index: -1
+wave_03
+  rotate: false
+  xy: 21, 3
+  size: 15, 9
+  orig: 31, 18
+  offset: 8, 4
+  index: -1
+wave_04
+  rotate: true
+  xy: 41, 12
+  size: 15, 10
+  orig: 31, 18
+  offset: 8, 4
+  index: -1
+wave_05
+  rotate: true
+  xy: 73, 33
+  size: 16, 12
+  orig: 31, 18
+  offset: 7, 4
+  index: -1
+wave_06
+  rotate: false
+  xy: 22, 14
+  size: 17, 13
+  orig: 31, 18
+  offset: 7, 4
+  index: -1
+wave_07
+  rotate: false
+  xy: 60, 51
+  size: 19, 13
+  orig: 31, 18
+  offset: 6, 4
+  index: -1
+wave_08
+  rotate: false
+  xy: 63, 66
+  size: 20, 15
+  orig: 31, 18
+  offset: 5, 3
+  index: -1
+wave_09
+  rotate: false
+  xy: 2, 59
+  size: 24, 16
+  orig: 31, 18
+  offset: 3, 2
+  index: -1
+wave_10
+  rotate: false
+  xy: 34, 77
+  size: 27, 13
+  orig: 31, 18
+  offset: 2, 0
+  index: -1
+wave_11
+  rotate: false
+  xy: 2, 77
+  size: 30, 13
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+wave_12
+  rotate: false
+  xy: 22, 29
+  size: 27, 6
+  orig: 31, 18
+  offset: 2, 1
+  index: -1
+wave_13
+  rotate: false
+  xy: 63, 83
+  size: 28, 7
+  orig: 31, 18
+  offset: 1, 1
+  index: -1
+wave_14
+  rotate: true
+  xy: 12, 27
+  size: 30, 8
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+wave_15
+  rotate: false
+  xy: 28, 57
+  size: 30, 8
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+wave_16
+  rotate: false
+  xy: 22, 47
+  size: 30, 8
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+wave_17
+  rotate: true
+  xy: 2, 26
+  size: 31, 8
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+wave_18
+  rotate: false
+  xy: 28, 67
+  size: 31, 8
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+wave_19
+  rotate: false
+  xy: 22, 37
+  size: 30, 8
+  orig: 31, 18
+  offset: 1, 0
+  index: -1

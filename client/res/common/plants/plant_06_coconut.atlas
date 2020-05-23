@@ -1,0 +1,160 @@
+
+plant_06_coconut.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 10
+  rotate: true
+  xy: 384, 190
+  size: 61, 66
+  orig: 61, 67
+  offset: 0, 1
+  index: -1
+Layer 10 copy 2
+  rotate: false
+  xy: 220, 152
+  size: 74, 42
+  orig: 74, 42
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: false
+  xy: 59, 2
+  size: 56, 47
+  orig: 57, 47
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: false
+  xy: 2, 181
+  size: 126, 70
+  orig: 126, 71
+  offset: 0, 1
+  index: -1
+Layer 13
+  rotate: false
+  xy: 2, 44
+  size: 52, 135
+  orig: 60, 137
+  offset: 7, 2
+  index: -1
+Layer 14
+  rotate: true
+  xy: 311, 193
+  size: 58, 71
+  orig: 58, 71
+  offset: 0, 0
+  index: -1
+Layer 15
+  rotate: false
+  xy: 296, 159
+  size: 53, 32
+  orig: 53, 32
+  offset: 0, 0
+  index: -1
+Layer 15 copy
+  rotate: false
+  xy: 219, 93
+  size: 51, 32
+  orig: 51, 32
+  offset: 0, 0
+  index: -1
+Layer 16
+  rotate: false
+  xy: 146, 99
+  size: 71, 47
+  orig: 71, 47
+  offset: 0, 0
+  index: -1
+Layer 17
+  rotate: true
+  xy: 56, 51
+  size: 28, 92
+  orig: 28, 92
+  offset: 0, 0
+  index: -1
+Layer 18
+  rotate: true
+  xy: 166, 13
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: -1
+Layer 19
+  rotate: false
+  xy: 220, 127
+  size: 61, 23
+  orig: 61, 23
+  offset: 0, 0
+  index: -1
+Layer 19 copy
+  rotate: false
+  xy: 2, 3
+  size: 55, 39
+  orig: 55, 40
+  offset: 0, 1
+  index: -1
+Layer 20
+  rotate: false
+  xy: 117, 7
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+Layer 20 copy
+  rotate: false
+  xy: 218, 56
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 56, 81
+  size: 88, 98
+  orig: 88, 98
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 146, 148
+  size: 72, 46
+  orig: 72, 46
+  offset: 0, 0
+  index: -1
+Layer 6 copy
+  rotate: false
+  xy: 150, 51
+  size: 66, 46
+  orig: 66, 46
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 130, 196
+  size: 90, 55
+  orig: 90, 56
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 222, 196
+  size: 87, 55
+  orig: 87, 55
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: true
+  xy: 452, 186
+  size: 65, 53
+  orig: 65, 53
+  offset: 0, 0
+  index: -1
+marker
+  rotate: false
+  xy: 507, 248
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1

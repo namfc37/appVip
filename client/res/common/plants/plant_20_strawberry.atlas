@@ -1,0 +1,181 @@
+
+plant_20_strawberry.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dau_000
+  rotate: false
+  xy: 2, 29
+  size: 89, 97
+  orig: 89, 97
+  offset: 0, 0
+  index: -1
+dau_001
+  rotate: true
+  xy: 300, 3
+  size: 58, 36
+  orig: 58, 36
+  offset: 0, 0
+  index: -1
+dau_002
+  rotate: true
+  xy: 338, 4
+  size: 58, 36
+  orig: 58, 36
+  offset: 0, 0
+  index: -1
+dau_004
+  rotate: true
+  xy: 353, 70
+  size: 56, 32
+  orig: 56, 32
+  offset: 0, 0
+  index: -1
+dau_005
+  rotate: true
+  xy: 224, 4
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+dau_006
+  rotate: true
+  xy: 376, 12
+  size: 56, 32
+  orig: 56, 32
+  offset: 0, 0
+  index: -1
+dau_007
+  rotate: true
+  xy: 229, 56
+  size: 70, 46
+  orig: 70, 46
+  offset: 0, 0
+  index: -1
+dau_008
+  rotate: false
+  xy: 169, 54
+  size: 58, 72
+  orig: 58, 72
+  offset: 0, 0
+  index: -1
+dau_009
+  rotate: true
+  xy: 93, 2
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+dau_010
+  rotate: true
+  xy: 416, 80
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+dau_011
+  rotate: true
+  xy: 277, 63
+  size: 63, 36
+  orig: 63, 36
+  offset: 0, 0
+  index: -1
+dau_012
+  rotate: false
+  xy: 93, 49
+  size: 74, 77
+  orig: 74, 77
+  offset: 0, 0
+  index: -1
+dau_013
+  rotate: true
+  xy: 410, 21
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+dau_014
+  rotate: true
+  xy: 315, 64
+  size: 62, 36
+  orig: 62, 36
+  offset: 0, 0
+  index: -1
+dau_015
+  rotate: false
+  xy: 452, 93
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+dau_016
+  rotate: true
+  xy: 442, 20
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+dau_017
+  rotate: true
+  xy: 387, 71
+  size: 55, 27
+  orig: 55, 27
+  offset: 0, 0
+  index: -1
+dau_018
+  rotate: true
+  xy: 478, 23
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+dau_019
+  rotate: true
+  xy: 2, 3
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+dau_020
+  rotate: true
+  xy: 156, 5
+  size: 42, 66
+  orig: 42, 66
+  offset: 0, 0
+  index: -1
+dau_021
+  rotate: true
+  xy: 265, 6
+  size: 48, 33
+  orig: 48, 33
+  offset: 0, 0
+  index: -1
+dau_022
+  rotate: true
+  xy: 452, 58
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+dau_023
+  rotate: true
+  xy: 127, 4
+  size: 43, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+flower_001_hoa_hong_013
+  rotate: true
+  xy: 46, 12
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+marker
+  rotate: false
+  xy: 46, 7
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1

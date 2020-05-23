@@ -1,0 +1,55 @@
+
+bug_02_blue.png
+size: 62,62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bo_xanh_000
+  rotate: false
+  xy: 33, 37
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+bo_xanh_001
+  rotate: false
+  xy: 48, 50
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+bo_xanh_002
+  rotate: false
+  xy: 33, 50
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+bo_xanh_003
+  rotate: false
+  xy: 2, 30
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+bo_xanh_004
+  rotate: false
+  xy: 2, 10
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+bo_xanh_005
+  rotate: false
+  xy: 42, 41
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+bo_xanh_006
+  rotate: false
+  xy: 2, 2
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1

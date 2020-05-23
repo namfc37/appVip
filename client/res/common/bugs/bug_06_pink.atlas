@@ -1,0 +1,48 @@
+
+bug_06_pink.png
+size: 77,75
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+canh
+  rotate: false
+  xy: 2, 29
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+canh1
+  rotate: false
+  xy: 30, 52
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 30, 33
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+duoi
+  rotate: true
+  xy: 63, 52
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+rau
+  rotate: false
+  xy: 49, 35
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 2, 5
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1

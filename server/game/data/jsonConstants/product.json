@@ -1,0 +1,4004 @@
+{
+  "R0": {
+    "MACHINE_ID": "MA0",
+    "REQUIRE_ITEM": {
+      "T1": 3
+    },
+    "PRODUCTION_TIME": 120,
+    "EXP_RECEIVE": 3,
+    "GOLD_BASIC": 2.772,
+    "EXP_BASIC": 9.85635,
+    "GFX": "item_dryer_rose.png",
+    "ID": "R0",
+    "NAME": "HỒNG SẤY",
+    "UID": 972,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 4,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 6,
+    "GOLD_MIN": 3,
+    "GOLD_MAX": 13,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 6.006,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 2
+  },
+  "R1": {
+    "MACHINE_ID": "MA1",
+    "REQUIRE_ITEM": {
+      "T2": 4
+    },
+    "PRODUCTION_TIME": 180,
+    "EXP_RECEIVE": 3,
+    "GOLD_BASIC": 4.536,
+    "EXP_BASIC": 16.6698,
+    "GFX": "item_juice_apple.png",
+    "ID": "R1",
+    "NAME": "NƯỚC TÁO",
+    "UID": 973,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 5,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 10,
+    "GOLD_MIN": 4,
+    "GOLD_MAX": 21,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 15.1,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 6
+  },
+  "R2": {
+    "MACHINE_ID": "MA0",
+    "REQUIRE_ITEM": {
+      "T2": 3
+    },
+    "PRODUCTION_TIME": 600,
+    "EXP_RECEIVE": 5,
+    "GOLD_BASIC": 4.41,
+    "EXP_BASIC": 16.28235,
+    "GFX": "item_dryer_apple.png",
+    "ID": "R2",
+    "NAME": "TÁO SẤY",
+    "UID": 974,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 4,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 8,
+    "GOLD_MIN": 4,
+    "GOLD_MAX": 17,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 9.6,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 8
+  },
+  "R3": {
+    "MACHINE_ID": "MA2",
+    "REQUIRE_ITEM": {
+      "R0": 1,
+      "T3": 3
+    },
+    "PRODUCTION_TIME": 600,
+    "EXP_RECEIVE": 8,
+    "GOLD_BASIC": 7.4844,
+    "EXP_BASIC": 29.2572,
+    "GFX": "item_looms_red.png",
+    "ID": "R3",
+    "NAME": "VẢI ĐỎ",
+    "UID": 975,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 8,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 19,
+    "GOLD_MIN": 8,
+    "GOLD_MAX": 39,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 41.6,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 9
+  },
+  "R4": {
+    "MACHINE_ID": "MA1",
+    "REQUIRE_ITEM": {
+      "T4": 4
+    },
+    "PRODUCTION_TIME": 720,
+    "EXP_RECEIVE": 8,
+    "GOLD_BASIC": 9.648,
+    "EXP_BASIC": 35.1918,
+    "GFX": "item_juice_water.png",
+    "ID": "R4",
+    "NAME": "NƯỚC TINH KHIẾT",
+    "UID": 976,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 5,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 23,
+    "GOLD_MIN": 10,
+    "GOLD_MAX": 48,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 32.2,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 13
+  },
+  "R5": {
+    "MACHINE_ID": "MA2",
+    "REQUIRE_ITEM": {
+      "R1": 1,
+      "T3": 3
+    },
+    "PRODUCTION_TIME": 900,
+    "EXP_RECEIVE": 12,
+    "GOLD_BASIC": 9.9792,
+    "EXP_BASIC": 40.79565,
+    "GFX": "item_looms_yellow.png",
+    "ID": "R5",
+    "NAME": "VẢI VÀNG",
+    "UID": 977,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 9,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 24,
+    "GOLD_MIN": 10,
+    "GOLD_MAX": 51,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 55.4,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 14
+  },
+  "R6": {
+    "MACHINE_ID": "MA0",
+    "REQUIRE_ITEM": {
+      "T5": 3
+    },
+    "PRODUCTION_TIME": 900,
+    "EXP_RECEIVE": 8,
+    "GOLD_BASIC": 7.56,
+    "EXP_BASIC": 28.94535,
+    "GFX": "item_dryer_lavender.png",
+    "ID": "R6",
+    "NAME": "OẢI HƯƠNG SẤY",
+    "UID": 978,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 7,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 19,
+    "GOLD_MIN": 7,
+    "GOLD_MAX": 40,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 16.4,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 16
+  },
+  "R7": {
+    "MACHINE_ID": "MA1",
+    "REQUIRE_ITEM": {
+      "T6": 4
+    },
+    "PRODUCTION_TIME": 900,
+    "EXP_RECEIVE": 10,
+    "GOLD_BASIC": 10.584,
+    "EXP_BASIC": 37.0818,
+    "GFX": "item_juice_coconut.png",
+    "ID": "R7",
+    "NAME": "NƯỚC DỪA",
+    "UID": 979,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 9,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 28,
+    "GOLD_MIN": 10,
+    "GOLD_MAX": 60,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 35.3,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 18
+  },
+  "R8": {
+    "MACHINE_ID": "MA0",
+    "REQUIRE_ITEM": {
+      "T6": 3
+    },
+    "PRODUCTION_TIME": 720,
+    "EXP_RECEIVE": 6,
+    "GOLD_BASIC": 9.45,
+    "EXP_BASIC": 31.78035,
+    "GFX": "item_dryer_coconut.png",
+    "ID": "R8",
+    "NAME": "DỪA SẤY",
+    "UID": 980,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 7,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 23,
+    "GOLD_MIN": 10,
+    "GOLD_MAX": 48,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 20.5,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 19
+  },
+  "R9": {
+    "MACHINE_ID": "MA2",
+    "REQUIRE_ITEM": {
+      "R6": 1,
+      "T3": 3
+    },
+    "PRODUCTION_TIME": 1500,
+    "EXP_RECEIVE": 20,
+    "GOLD_BASIC": 15.939,
+    "EXP_BASIC": 65.3562,
+    "GFX": "item_looms_violet.png",
+    "ID": "R9",
+    "NAME": "VẢI TÍM",
+    "UID": 981,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 12,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 37,
+    "GOLD_MIN": 16,
+    "GOLD_MAX": 77,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 88.6,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 20
+  },
+  "R10": {
+    "MACHINE_ID": "MA1",
+    "REQUIRE_ITEM": {
+      "T7": 4
+    },
+    "PRODUCTION_TIME": 1380,
+    "EXP_RECEIVE": 15,
+    "GOLD_BASIC": 15.894,
+    "EXP_BASIC": 44.0748,
+    "GFX": "item_juice_lemon.png",
+    "ID": "R10",
+    "NAME": "NƯỚC CHANH",
+    "UID": 35028,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 14,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 38,
+    "GOLD_MIN": 20,
+    "GOLD_MAX": 76,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 53.0,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 24
+  },
+  "R11": {
+    "MACHINE_ID": "MA1",
+    "REQUIRE_ITEM": {
+      "T8": 4
+    },
+    "PRODUCTION_TIME": 1680,
+    "EXP_RECEIVE": 18,
+    "GOLD_BASIC": 18.648,
+    "EXP_BASIC": 56.3598,
+    "GFX": "item_juice_water_melon.png",
+    "ID": "R11",
+    "NAME": "NƯỚC DƯA HẤU",
+    "UID": 35029,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 18,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 47,
+    "GOLD_MIN": 20,
+    "GOLD_MAX": 98,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 62.2,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 28
+  },
+  "R12": {
+    "MACHINE_ID": "MA2",
+    "REQUIRE_ITEM": {
+      "R10": 1,
+      "T3": 3
+    },
+    "PRODUCTION_TIME": 4500,
+    "EXP_RECEIVE": 25,
+    "GOLD_BASIC": 34.9776,
+    "EXP_BASIC": 94.66065,
+    "GFX": "item_looms_green.png",
+    "ID": "R12",
+    "NAME": "VẢI XANH LÁ",
+    "UID": 35030,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 22,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 74,
+    "GOLD_MIN": 50,
+    "GOLD_MAX": 136,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 194.3,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 29
+  },
+  "R13": {
+    "MACHINE_ID": "MA0",
+    "REQUIRE_ITEM": {
+      "T8": 3
+    },
+    "PRODUCTION_TIME": 1200,
+    "EXP_RECEIVE": 12,
+    "GOLD_BASIC": 13.482,
+    "EXP_BASIC": 33.67035,
+    "GFX": "item_dryer_water_melon.png",
+    "ID": "R13",
+    "NAME": "HẠT DƯA SẤY",
+    "UID": 35031,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 14,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 30,
+    "GOLD_MIN": 15,
+    "GOLD_MAX": 60,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 29.2,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 30
+  },
+  "R14": {
+    "MACHINE_ID": "MA0",
+    "REQUIRE_ITEM": {
+      "T9": 3
+    },
+    "PRODUCTION_TIME": 1500,
+    "EXP_RECEIVE": 14,
+    "GOLD_BASIC": 19.854,
+    "EXP_BASIC": 36.50535,
+    "GFX": "item_dryer_tea.png",
+    "ID": "R14",
+    "NAME": "TRÀ SẤY",
+    "UID": 35032,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 14,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 40,
+    "GOLD_MIN": 20,
+    "GOLD_MAX": 81,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 43.0,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 34
+  },
+  "R15": {
+    "MACHINE_ID": "MA0",
+    "REQUIRE_ITEM": {
+      "T10": 3
+    },
+    "PRODUCTION_TIME": 1620,
+    "EXP_RECEIVE": 17,
+    "GOLD_BASIC": 25.164,
+    "EXP_BASIC": 56.133,
+    "GFX": "item_dryer_jackfruit.png",
+    "ID": "R15",
+    "NAME": "MÍT SẤY",
+    "UID": 35033,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 17,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 65,
+    "GOLD_MIN": 23,
+    "GOLD_MAX": 141,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 54.5,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 35
+  },
+  "R16": {
+    "MACHINE_ID": "MA1",
+    "REQUIRE_ITEM": {
+      "T10": 4
+    },
+    "PRODUCTION_TIME": 1800,
+    "EXP_RECEIVE": 20,
+    "GOLD_BASIC": 26.442,
+    "EXP_BASIC": 57.3048,
+    "GFX": "item_juice_jackfruit.png",
+    "ID": "R16",
+    "NAME": "SINH TỐ MÍT",
+    "UID": 35034,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 22,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 77,
+    "GOLD_MIN": 32,
+    "GOLD_MAX": 162,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 88.1,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 35
+  },
+  "R17": {
+    "MACHINE_ID": "MA4",
+    "REQUIRE_ITEM": {
+      "T4": 4,
+      "T1": 5
+    },
+    "PRODUCTION_TIME": 1380,
+    "EXP_RECEIVE": 10,
+    "GOLD_BASIC": 14.364,
+    "EXP_BASIC": 48.46905,
+    "GFX": "item_oil_rose.png",
+    "ID": "R17",
+    "NAME": "TINH DẦU HOA HỒNG",
+    "UID": 35035,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 11,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 35,
+    "GOLD_MIN": 15,
+    "GOLD_MAX": 72,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 39.9,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 38
+  },
+  "R18": {
+    "MACHINE_ID": "MA0",
+    "REQUIRE_ITEM": {
+      "T11": 3
+    },
+    "PRODUCTION_TIME": 1800,
+    "EXP_RECEIVE": 18,
+    "GOLD_BASIC": 26.46,
+    "EXP_BASIC": 57.078,
+    "GFX": "item_dryer_pineapple.png",
+    "ID": "R18",
+    "NAME": "DỨA SẤY",
+    "UID": 35036,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 17,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 82,
+    "GOLD_MIN": 35,
+    "GOLD_MAX": 171,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 57.3,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 37
+  },
+  "R19": {
+    "MACHINE_ID": "MA1",
+    "REQUIRE_ITEM": {
+      "T11": 4
+    },
+    "PRODUCTION_TIME": 1980,
+    "EXP_RECEIVE": 22,
+    "GOLD_BASIC": 31.644,
+    "EXP_BASIC": 76.2048,
+    "GFX": "item_juice_pineapple.png",
+    "ID": "R19",
+    "NAME": "NƯỚC DỨA",
+    "UID": 35037,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 22,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 84,
+    "GOLD_MIN": 30,
+    "GOLD_MAX": 181,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 105.5,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 38
+  },
+  "R20": {
+    "MACHINE_ID": "MA4",
+    "REQUIRE_ITEM": {
+      "T4": 4,
+      "T2": 5
+    },
+    "PRODUCTION_TIME": 1980,
+    "EXP_RECEIVE": 12,
+    "GOLD_BASIC": 17.514,
+    "EXP_BASIC": 60.75405,
+    "GFX": "item_oil_apple.png",
+    "ID": "R20",
+    "NAME": "TINH DẦU TÁO",
+    "UID": 35064,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 11,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 38,
+    "GOLD_MIN": 16,
+    "GOLD_MAX": 79,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 48.7,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 40
+  },
+  "R21": {
+    "MACHINE_ID": "MA4",
+    "REQUIRE_ITEM": {
+      "T4": 4,
+      "T5": 5
+    },
+    "PRODUCTION_TIME": 2580,
+    "EXP_RECEIVE": 20,
+    "GOLD_BASIC": 26.334,
+    "EXP_BASIC": 88.15905,
+    "GFX": "item_oil_lavender.png",
+    "ID": "R21",
+    "NAME": "TINH DẦU OẢI HƯƠNG",
+    "UID": 35065,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 17,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 63,
+    "GOLD_MIN": 26,
+    "GOLD_MAX": 131,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 73.2,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 42
+  },
+  "R22": {
+    "MACHINE_ID": "MA0",
+    "REQUIRE_ITEM": {
+      "T12": 3
+    },
+    "PRODUCTION_TIME": 1980,
+    "EXP_RECEIVE": 19,
+    "GOLD_BASIC": 30.096,
+    "EXP_BASIC": 58.968,
+    "GFX": "item_dryer_mango.png",
+    "ID": "R22",
+    "NAME": "XOÀI SẤY",
+    "UID": 35066,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 17,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 96,
+    "GOLD_MIN": 40,
+    "GOLD_MAX": 201,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 65.2,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 43
+  },
+  "R23": {
+    "MACHINE_ID": "MA1",
+    "REQUIRE_ITEM": {
+      "T12": 4
+    },
+    "PRODUCTION_TIME": 2220,
+    "EXP_RECEIVE": 25,
+    "GOLD_BASIC": 33.282,
+    "EXP_BASIC": 90.342,
+    "GFX": "item_juice_mango.png",
+    "ID": "R23",
+    "NAME": "SINH TỐ XOÀI",
+    "UID": 35067,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 23,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 110,
+    "GOLD_MIN": 54,
+    "GOLD_MAX": 221,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 110.9,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 44
+  },
+  "R24": {
+    "MACHINE_ID": "MA1",
+    "REQUIRE_ITEM": {
+      "T13": 4
+    },
+    "PRODUCTION_TIME": 2400,
+    "EXP_RECEIVE": 28,
+    "GOLD_BASIC": 42.84,
+    "EXP_BASIC": 92.232,
+    "GFX": "item_juice_grapes.png",
+    "ID": "R24",
+    "NAME": "NƯỚC NHO",
+    "UID": 35068,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 23,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 129,
+    "GOLD_MIN": 54,
+    "GOLD_MAX": 268,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 142.8,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 48
+  },
+  "R25": {
+    "MACHINE_ID": "MA4",
+    "REQUIRE_ITEM": {
+      "T4": 4,
+      "T6": 5
+    },
+    "PRODUCTION_TIME": 2280,
+    "EXP_RECEIVE": 16,
+    "GOLD_BASIC": 18.54,
+    "EXP_BASIC": 66.70755,
+    "GFX": "item_oil_coconut.png",
+    "ID": "R25",
+    "NAME": "TINH DẦU DỪA",
+    "UID": 35069,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 17,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 48,
+    "GOLD_MIN": 30,
+    "GOLD_MAX": 90,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 51.5,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 49
+  },
+  "R26": {
+    "MACHINE_ID": "MA0",
+    "REQUIRE_ITEM": {
+      "T14": 3
+    },
+    "PRODUCTION_TIME": 2100,
+    "EXP_RECEIVE": 20,
+    "GOLD_BASIC": 36.144,
+    "EXP_BASIC": 85.07835,
+    "GFX": "item_dryer_jasmine.png",
+    "ID": "R26",
+    "NAME": "LÀI SẤY",
+    "UID": 35070,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 18,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 110,
+    "GOLD_MIN": 45,
+    "GOLD_MAX": 230,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 78.3,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 50
+  },
+  "R27": {
+    "MACHINE_ID": "MA5",
+    "REQUIRE_ITEM": {
+      "R4": 1,
+      "R0": 2
+    },
+    "PRODUCTION_TIME": 1800,
+    "EXP_RECEIVE": 10,
+    "GOLD_BASIC": 11.4408,
+    "EXP_BASIC": 48.0627,
+    "GFX": "item_tea_rose.png",
+    "ID": "R27",
+    "NAME": "TRÀ HOA HỒNG",
+    "UID": 35071,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 15,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 30,
+    "GOLD_MIN": 10,
+    "GOLD_MAX": 66,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 33.1,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 50
+  },
+  "R28": {
+    "MACHINE_ID": "MA5",
+    "REQUIRE_ITEM": {
+      "T4": 4,
+      "R14": 1
+    },
+    "PRODUCTION_TIME": 2400,
+    "EXP_RECEIVE": 28,
+    "GOLD_BASIC": 34.65,
+    "EXP_BASIC": 112.1148,
+    "GFX": "item_tea_tea.png",
+    "ID": "R28",
+    "NAME": "TRÀ ĐÁ",
+    "UID": 35072,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 21,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 107,
+    "GOLD_MIN": 50,
+    "GOLD_MAX": 217,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 100.1,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 52
+  },
+  "R29": {
+    "MACHINE_ID": "MA5",
+    "REQUIRE_ITEM": {
+      "T4": 4,
+      "R14": 1,
+      "R1": 1
+    },
+    "PRODUCTION_TIME": 3600,
+    "EXP_RECEIVE": 32,
+    "GOLD_BASIC": 42.8652,
+    "EXP_BASIC": 147.6846,
+    "GFX": "item_tea_apple.png",
+    "ID": "R29",
+    "NAME": "TRÀ TÁO",
+    "UID": 35073,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 27,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 121,
+    "GOLD_MIN": 60,
+    "GOLD_MAX": 243,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 123.8,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 54
+  },
+  "R30": {
+    "MACHINE_ID": "MA5",
+    "REQUIRE_ITEM": {
+      "R10": 1,
+      "T4": 4,
+      "R14": 1
+    },
+    "PRODUCTION_TIME": 6300,
+    "EXP_RECEIVE": 54,
+    "GOLD_BASIC": 64.0836,
+    "EXP_BASIC": 229.8996,
+    "GFX": "item_tea_lemon.png",
+    "ID": "R30",
+    "NAME": "TRÀ CHANH",
+    "UID": 35100,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 37,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 171,
+    "GOLD_MIN": 100,
+    "GOLD_MAX": 328,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 185.1,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 56
+  },
+  "R31": {
+    "MACHINE_ID": "MA5",
+    "REQUIRE_ITEM": {
+      "T4": 4,
+      "R14": 1,
+      "R24": 1
+    },
+    "PRODUCTION_TIME": 7200,
+    "EXP_RECEIVE": 61,
+    "GOLD_BASIC": 84.798,
+    "EXP_BASIC": 279.9468,
+    "GFX": "item_tea_grapes.png",
+    "ID": "R31",
+    "NAME": "TRÀ NHO",
+    "UID": 35101,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 47,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 261,
+    "GOLD_MIN": 150,
+    "GOLD_MAX": 502,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 245.0,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 59
+  },
+  "R32": {
+    "MACHINE_ID": "MA4",
+    "REQUIRE_ITEM": {
+      "T4": 4,
+      "T7": 5
+    },
+    "PRODUCTION_TIME": 3180,
+    "EXP_RECEIVE": 29,
+    "GOLD_BASIC": 33.894,
+    "EXP_BASIC": 105.64155,
+    "GFX": "item_oil_lemon.png",
+    "ID": "R32",
+    "NAME": "TINH DẦU CHANH",
+    "UID": 35102,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 23,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 83,
+    "GOLD_MIN": 35,
+    "GOLD_MAX": 173,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 94.2,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 60
+  },
+  "R33": {
+    "MACHINE_ID": "MA0",
+    "REQUIRE_ITEM": {
+      "T15": 3
+    },
+    "PRODUCTION_TIME": 2280,
+    "EXP_RECEIVE": 21,
+    "GOLD_BASIC": 38.682,
+    "EXP_BASIC": 86.96835,
+    "GFX": "item_dryer_daisy.png",
+    "ID": "R33",
+    "NAME": "CÚC SẤY",
+    "UID": 35103,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 21,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 114,
+    "GOLD_MIN": 48,
+    "GOLD_MAX": 238,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 82.8,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 61
+  },
+  "R34": {
+    "MACHINE_ID": "MA6",
+    "REQUIRE_ITEM": {
+      "R3": 1,
+      "T16": 3,
+      "T1": 6
+    },
+    "PRODUCTION_TIME": 3600,
+    "EXP_RECEIVE": 36,
+    "GOLD_BASIC": 55.51308,
+    "EXP_BASIC": 157.4559,
+    "GFX": "item_flower_rose.png",
+    "ID": "R34",
+    "NAME": "BÓ HỒNG",
+    "UID": 35104,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 39,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 158,
+    "GOLD_MIN": 66,
+    "GOLD_MAX": 330,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 185.0,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 63
+  },
+  "R35": {
+    "MACHINE_ID": "MA2",
+    "REQUIRE_ITEM": {
+      "R33": 1,
+      "T3": 3
+    },
+    "PRODUCTION_TIME": 6000,
+    "EXP_RECEIVE": 28,
+    "GOLD_BASIC": 55.3014,
+    "EXP_BASIC": 121.4703,
+    "GFX": "item_looms_white.png",
+    "ID": "R35",
+    "NAME": "VẢI TRẮNG",
+    "UID": 35105,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 29,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 145,
+    "GOLD_MIN": 80,
+    "GOLD_MAX": 282,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 307.2,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 65
+  },
+  "R36": {
+    "MACHINE_ID": "MA6",
+    "REQUIRE_ITEM": {
+      "T5": 6,
+      "R9": 1,
+      "T16": 3
+    },
+    "PRODUCTION_TIME": 5400,
+    "EXP_RECEIVE": 60,
+    "GOLD_BASIC": 77.3073,
+    "EXP_BASIC": 446.52194,
+    "GFX": "item_flower_lavender.png",
+    "ID": "R36",
+    "NAME": "BÓ OẢI HƯƠNG",
+    "UID": 35106,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 50,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 211,
+    "GOLD_MIN": 88,
+    "GOLD_MAX": 440,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 257.7,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 66
+  },
+  "R37": {
+    "MACHINE_ID": "MA6",
+    "REQUIRE_ITEM": {
+      "R35": 1,
+      "T16": 3,
+      "T15": 6
+    },
+    "PRODUCTION_TIME": 7200,
+    "EXP_RECEIVE": 104,
+    "GOLD_BASIC": 159.29298,
+    "EXP_BASIC": 398.223,
+    "GFX": "item_flower_daisy.png",
+    "ID": "R37",
+    "NAME": "BÓ CÚC",
+    "UID": 35107,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 92,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 491,
+    "GOLD_MIN": 205,
+    "GOLD_MAX": 1023,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 531.0,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 69
+  },
+  "R38": {
+    "MACHINE_ID": "MA5",
+    "REQUIRE_ITEM": {
+      "R4": 1,
+      "R33": 2
+    },
+    "PRODUCTION_TIME": 8100,
+    "EXP_RECEIVE": 66,
+    "GOLD_BASIC": 88.1748,
+    "EXP_BASIC": 301.5117,
+    "GFX": "item_tea_jasmine.png",
+    "ID": "R38",
+    "NAME": "TRÀ HOA CÚC",
+    "UID": 35108,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 53,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 299,
+    "GOLD_MIN": 200,
+    "GOLD_MAX": 548,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 254.7,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 70
+  },
+  "R39": {
+    "MACHINE_ID": "MA7",
+    "REQUIRE_ITEM": {
+      "R17": 1,
+      "T1": 4
+    },
+    "PRODUCTION_TIME": 2700,
+    "EXP_RECEIVE": 18,
+    "GOLD_BASIC": 29.1564,
+    "EXP_BASIC": 130.41945,
+    "GFX": "item_perfume_rose.png",
+    "ID": "R39",
+    "NAME": "NƯỚC HOA HỒNG",
+    "UID": 35109,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 19,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 65,
+    "GOLD_MIN": 27,
+    "GOLD_MAX": 136,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 72.9,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 73
+  },
+  "R40": {
+    "MACHINE_ID": "MA4",
+    "REQUIRE_ITEM": {
+      "T4": 4,
+      "T17": 5
+    },
+    "PRODUCTION_TIME": 4500,
+    "EXP_RECEIVE": 42,
+    "GOLD_BASIC": 46.26,
+    "EXP_BASIC": 178.794,
+    "GFX": "item_oil_lotus.png",
+    "ID": "R40",
+    "NAME": "TINH DẦU SEN",
+    "UID": 35136,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 44,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 244,
+    "GOLD_MIN": 70,
+    "GOLD_MAX": 540,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 128.5,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 74
+  },
+  "R41": {
+    "MACHINE_ID": "MA0",
+    "REQUIRE_ITEM": {
+      "T17": 3
+    },
+    "PRODUCTION_TIME": 2700,
+    "EXP_RECEIVE": 28,
+    "GOLD_BASIC": 47.628,
+    "EXP_BASIC": 113.967,
+    "GFX": "item_dryer_lotus_seed.png",
+    "ID": "R41",
+    "NAME": "HẠT SEN",
+    "UID": 35137,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 25,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 143,
+    "GOLD_MIN": 60,
+    "GOLD_MAX": 297,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 103.2,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 76
+  },
+  "R42": {
+    "MACHINE_ID": "MA7",
+    "REQUIRE_ITEM": {
+      "R20": 1,
+      "R1": 1
+    },
+    "PRODUCTION_TIME": 3600,
+    "EXP_RECEIVE": 25,
+    "GOLD_BASIC": 35.955,
+    "EXP_BASIC": 134.12386,
+    "GFX": "item_perfume_apple.png",
+    "ID": "R42",
+    "NAME": "NƯỚC HOA HƯƠNG TÁO",
+    "UID": 35138,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 20,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 78,
+    "GOLD_MIN": 33,
+    "GOLD_MAX": 163,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 89.9,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 77
+  },
+  "R43": {
+    "MACHINE_ID": "MA5",
+    "REQUIRE_ITEM": {
+      "R11": 1,
+      "R14": 1,
+      "R19": 1
+    },
+    "PRODUCTION_TIME": 8400,
+    "EXP_RECEIVE": 70,
+    "GOLD_BASIC": 91.44,
+    "EXP_BASIC": 312.606,
+    "GFX": "item_tea_fruit.png",
+    "ID": "R43",
+    "NAME": "TRÀ TRÁI CÂY",
+    "UID": 35139,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 60,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 310,
+    "GOLD_MIN": 208,
+    "GOLD_MAX": 569,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 364.2,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 80
+  },
+  "R44": {
+    "MACHINE_ID": "MA7",
+    "REQUIRE_ITEM": {
+      "R21": 1,
+      "T5": 4
+    },
+    "PRODUCTION_TIME": 5100,
+    "EXP_RECEIVE": 38,
+    "GOLD_BASIC": 47.4138,
+    "EXP_BASIC": 191.95786,
+    "GFX": "item_perfume_lavender.png",
+    "ID": "R44",
+    "NAME": "NƯỚC HOA OẢI HƯƠNG",
+    "UID": 35140,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 30,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 100,
+    "GOLD_MIN": 42,
+    "GOLD_MAX": 208,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 118.5,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 81
+  },
+  "R45": {
+    "MACHINE_ID": "MA0",
+    "REQUIRE_ITEM": {
+      "T13": 3
+    },
+    "PRODUCTION_TIME": 3000,
+    "EXP_RECEIVE": 32,
+    "GOLD_BASIC": 60.228,
+    "EXP_BASIC": 120.582,
+    "GFX": "item_dryer_grapes.png",
+    "ID": "R45",
+    "NAME": "NHO SẤY",
+    "UID": 35141,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 19,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 148,
+    "GOLD_MIN": 67,
+    "GOLD_MAX": 304,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 130.5,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 82
+  },
+  "R46": {
+    "MACHINE_ID": "MA6",
+    "REQUIRE_ITEM": {
+      "R5": 1,
+      "T16": 3,
+      "T18": 6
+    },
+    "PRODUCTION_TIME": 9900,
+    "EXP_RECEIVE": 106,
+    "GOLD_BASIC": 162.34344,
+    "EXP_BASIC": 421.25266,
+    "GFX": "item_flower_sunflower.png",
+    "ID": "R46",
+    "NAME": "BÓ HƯỚNG DƯƠNG",
+    "UID": 35142,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 79,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 520,
+    "GOLD_MIN": 217,
+    "GOLD_MAX": 1084,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 541.1,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 84
+  },
+  "R47": {
+    "MACHINE_ID": "MA8",
+    "REQUIRE_ITEM": {
+      "R3": 3,
+      "R39": 3,
+      "T1": 3,
+      "R0": 3
+    },
+    "PRODUCTION_TIME": 7200,
+    "EXP_RECEIVE": 88,
+    "GOLD_BASIC": 114.51888,
+    "EXP_BASIC": 627.1304,
+    "GFX": "item_aromatic_rose.png",
+    "ID": "R47",
+    "NAME": "TÚI HOA HỒNG",
+    "UID": 35143,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 102,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 387,
+    "GOLD_MIN": 161,
+    "GOLD_MAX": 806,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 413.5,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 85
+  },
+  "R48": {
+    "MACHINE_ID": "MA8",
+    "REQUIRE_ITEM": {
+      "R2": 3,
+      "R42": 3,
+      "R5": 3,
+      "T2": 3
+    },
+    "PRODUCTION_TIME": 8400,
+    "EXP_RECEIVE": 104,
+    "GOLD_BASIC": 131.55283,
+    "EXP_BASIC": 712.7379,
+    "GFX": "item_aromatic_apple.png",
+    "ID": "R48",
+    "NAME": "TÚI HƯƠNG TÁO",
+    "UID": 35144,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 108,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 496,
+    "GOLD_MIN": 207,
+    "GOLD_MAX": 1033,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 475.1,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 87
+  },
+  "R49": {
+    "MACHINE_ID": "MA2",
+    "REQUIRE_ITEM": {
+      "T17": 3,
+      "T3": 3
+    },
+    "PRODUCTION_TIME": 6600,
+    "EXP_RECEIVE": 39,
+    "GOLD_BASIC": 67.032,
+    "EXP_BASIC": 185.34285,
+    "GFX": "item_looms_pink.png",
+    "ID": "R49",
+    "NAME": "VẢI HỒNG",
+    "UID": 35145,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 29,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 173,
+    "GOLD_MIN": 100,
+    "GOLD_MAX": 334,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 372.4,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 88
+  },
+  "R50": {
+    "MACHINE_ID": "MA6",
+    "REQUIRE_ITEM": {
+      "R49": 1,
+      "T17": 6
+    },
+    "PRODUCTION_TIME": 11100,
+    "EXP_RECEIVE": 110,
+    "GOLD_BASIC": 164.8584,
+    "EXP_BASIC": 498.32684,
+    "GFX": "item_flower_lotus.png",
+    "ID": "R50",
+    "NAME": "BÓ SEN",
+    "UID": 35172,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 78,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 550,
+    "GOLD_MIN": 229,
+    "GOLD_MAX": 1146,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 549.5,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 89
+  },
+  "R51": {
+    "MACHINE_ID": "MA2",
+    "REQUIRE_ITEM": {
+      "R45": 3,
+      "T3": 3
+    },
+    "PRODUCTION_TIME": 7500,
+    "EXP_RECEIVE": 45,
+    "GOLD_BASIC": 105.228,
+    "EXP_BASIC": 144.207,
+    "GFX": "item_looms_black.png",
+    "ID": "R51",
+    "NAME": "VẢI ĐEN",
+    "UID": 35173,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 112,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 238,
+    "GOLD_MIN": 145,
+    "GOLD_MAX": 450,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 584.6,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 90
+  },
+  "R52": {
+    "MACHINE_ID": "MA5",
+    "REQUIRE_ITEM": {
+      "R55": 1,
+      "R14": 2
+    },
+    "PRODUCTION_TIME": 10500,
+    "EXP_RECEIVE": 75,
+    "GOLD_BASIC": 109.44,
+    "EXP_BASIC": 322.056,
+    "GFX": "item_tea_blueberry.png",
+    "ID": "R52",
+    "NAME": "TRÀ VIỆT QUẤT",
+    "UID": 35174,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 71,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 318,
+    "GOLD_MIN": 218,
+    "GOLD_MAX": 579,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 316.2,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 96
+  },
+  "R53": {
+    "MACHINE_ID": "MA0",
+    "REQUIRE_ITEM": {
+      "T18": 3
+    },
+    "PRODUCTION_TIME": 3900,
+    "EXP_RECEIVE": 40,
+    "GOLD_BASIC": 78.228,
+    "EXP_BASIC": 130.032,
+    "GFX": "item_dryer_sunflower.png",
+    "ID": "R53",
+    "NAME": "HẠT HƯỚNG DƯƠNG",
+    "UID": 35175,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 25,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 156,
+    "GOLD_MIN": 77,
+    "GOLD_MAX": 314,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 169.5,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 91
+  },
+  "R54": {
+    "MACHINE_ID": "MA7",
+    "REQUIRE_ITEM": {
+      "R10": 1,
+      "R32": 1
+    },
+    "PRODUCTION_TIME": 6000,
+    "EXP_RECEIVE": 62,
+    "GOLD_BASIC": 61.9794,
+    "EXP_BASIC": 256.50134,
+    "GFX": "item_perfume_lemon.png",
+    "ID": "R54",
+    "NAME": "NƯỚC HOA HƯƠNG CHANH",
+    "UID": 35176,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 42,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 139,
+    "GOLD_MIN": 58,
+    "GOLD_MAX": 291,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 154.9,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 94
+  },
+  "R55": {
+    "MACHINE_ID": "MA1",
+    "REQUIRE_ITEM": {
+      "T19": 4
+    },
+    "PRODUCTION_TIME": 3300,
+    "EXP_RECEIVE": 30,
+    "GOLD_BASIC": 73.836,
+    "EXP_BASIC": 174.447,
+    "GFX": "item_juice_blueberry.png",
+    "ID": "R55",
+    "NAME": "NƯỚC VIỆT QUẤT",
+    "UID": 35177,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 36,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 234,
+    "GOLD_MIN": 98,
+    "GOLD_MAX": 487,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 246.1,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 97
+  },
+  "R56": {
+    "MACHINE_ID": "MA4",
+    "REQUIRE_ITEM": {
+      "T4": 4,
+      "T19": 5
+    },
+    "PRODUCTION_TIME": 6300,
+    "EXP_RECEIVE": 61,
+    "GOLD_BASIC": 99.918,
+    "EXP_BASIC": 242.1468,
+    "GFX": "item_oil_blueberry.png",
+    "ID": "R56",
+    "NAME": "TINH DẦU VIỆT QUẤT",
+    "UID": 35178,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 49,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 316,
+    "GOLD_MIN": 132,
+    "GOLD_MAX": 658,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 277.6,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 98
+  },
+  "R57": {
+    "MACHINE_ID": "MA2",
+    "REQUIRE_ITEM": {
+      "R55": 1,
+      "T3": 3
+    },
+    "PRODUCTION_TIME": 9600,
+    "EXP_RECEIVE": 61,
+    "GOLD_BASIC": 127.44,
+    "EXP_BASIC": 355.131,
+    "GFX": "item_looms_navy.png",
+    "ID": "R57",
+    "NAME": "VẢI XANH BIỂN",
+    "UID": 35179,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 46,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 346,
+    "GOLD_MIN": 253,
+    "GOLD_MAX": 614,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 708.0,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 98
+  },
+  "R58": {
+    "MACHINE_ID": "MA5",
+    "REQUIRE_ITEM": {
+      "R4": 2,
+      "R41": 2
+    },
+    "PRODUCTION_TIME": 12600,
+    "EXP_RECEIVE": 80,
+    "GOLD_BASIC": 127.44,
+    "EXP_BASIC": 355.131,
+    "GFX": "item_tea_lotus.png",
+    "ID": "R58",
+    "NAME": "TRÀ SEN",
+    "UID": 35180,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 67,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 346,
+    "GOLD_MIN": 253,
+    "GOLD_MAX": 614,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 368.2,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 100
+  },
+  "R59": {
+    "MACHINE_ID": "MA8",
+    "REQUIRE_ITEM": {
+      "T5": 3,
+      "R44": 3,
+      "R6": 3,
+      "R9": 3
+    },
+    "PRODUCTION_TIME": 10080,
+    "EXP_RECEIVE": 130,
+    "GOLD_BASIC": 181.09187,
+    "EXP_BASIC": 945.3685,
+    "GFX": "item_aromatic_lavender.png",
+    "ID": "R59",
+    "NAME": "TÚI OẢI HƯƠNG",
+    "UID": 35181,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 160,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 713,
+    "GOLD_MIN": 297,
+    "GOLD_MAX": 1485,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 653.9,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 101
+  },
+  "R60": {
+    "MACHINE_ID": "MA7",
+    "REQUIRE_ITEM": {
+      "R56": 1,
+      "R55": 1
+    },
+    "PRODUCTION_TIME": 10620,
+    "EXP_RECEIVE": 126,
+    "GOLD_BASIC": 165.7278,
+    "EXP_BASIC": 581.9688,
+    "GFX": "item_perfume_blueberry.png",
+    "ID": "R60",
+    "NAME": "NƯỚC HOA VIỆT QUẤT",
+    "UID": 35208,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 92,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 567,
+    "GOLD_MIN": 236,
+    "GOLD_MAX": 1181,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 414.3,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 102
+  },
+  "R61": {
+    "MACHINE_ID": "MA0",
+    "REQUIRE_ITEM": {
+      "T19": 3
+    },
+    "PRODUCTION_TIME": 5400,
+    "EXP_RECEIVE": 45,
+    "GOLD_BASIC": 105.228,
+    "EXP_BASIC": 144.207,
+    "GFX": "item_dryer_blueberry.png",
+    "ID": "R61",
+    "NAME": "VIỆT QUẤT SẤY",
+    "UID": 35209,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 29,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 168,
+    "GOLD_MIN": 92,
+    "GOLD_MAX": 329,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 228.0,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 103
+  },
+  "R62": {
+    "MACHINE_ID": "MA8",
+    "REQUIRE_ITEM": {
+      "R54": 3,
+      "R12": 3,
+      "T7": 12
+    },
+    "PRODUCTION_TIME": 11700,
+    "EXP_RECEIVE": 136,
+    "GOLD_BASIC": 207.32976,
+    "EXP_BASIC": 1138.1107,
+    "GFX": "item_aromatic_lemon.png",
+    "ID": "R62",
+    "NAME": "TÚI HƯƠNG CHANH",
+    "UID": 35210,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 235,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 777,
+    "GOLD_MIN": 324,
+    "GOLD_MAX": 1619,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 748.7,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 104
+  },
+  "R63": {
+    "MACHINE_ID": "MA9",
+    "REQUIRE_ITEM": {
+      "R3": 2,
+      "R39": 2,
+      "A0": 3
+    },
+    "PRODUCTION_TIME": 7500,
+    "EXP_RECEIVE": 100,
+    "GOLD_BASIC": 118.296,
+    "EXP_BASIC": 629.1054,
+    "GFX": "item_sewing_silk.png",
+    "ID": "R63",
+    "NAME": "KHĂN ĐỎ",
+    "UID": 35211,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 87,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 408,
+    "GOLD_MIN": 170,
+    "GOLD_MAX": 850,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 394.3,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 105
+  },
+  "R64": {
+    "MACHINE_ID": "MA1",
+    "REQUIRE_ITEM": {
+      "T20": 4
+    },
+    "PRODUCTION_TIME": 5400,
+    "EXP_RECEIVE": 32,
+    "GOLD_BASIC": 90.216,
+    "EXP_BASIC": 221.1678,
+    "GFX": "item_juice_strawberry.png",
+    "ID": "R64",
+    "NAME": "NƯỚC DÂU",
+    "UID": 35212,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 41,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 266,
+    "GOLD_MIN": 111,
+    "GOLD_MAX": 554,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 300.7,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 106
+  },
+  "R65": {
+    "MACHINE_ID": "MA8",
+    "REQUIRE_ITEM": {
+      "R57": 3,
+      "R60": 3,
+      "T19": 6
+    },
+    "PRODUCTION_TIME": 12300,
+    "EXP_RECEIVE": 140,
+    "GOLD_BASIC": 261.32977,
+    "EXP_BASIC": 1166.4607,
+    "GFX": "item_aromatic_blueberry.png",
+    "ID": "R65",
+    "NAME": "TÚI VIỆT QUẤT",
+    "UID": 35213,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 469,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 801,
+    "GOLD_MIN": 354,
+    "GOLD_MAX": 1649,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 1268.7,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 107
+  },
+  "R66": {
+    "MACHINE_ID": "MA9",
+    "REQUIRE_ITEM": {
+      "R42": 2,
+      "A2": 3,
+      "R5": 2
+    },
+    "PRODUCTION_TIME": 7800,
+    "EXP_RECEIVE": 110,
+    "GOLD_BASIC": 351.32977,
+    "EXP_BASIC": 1213.7107,
+    "GFX": "item_sewing_dress.png",
+    "ID": "R66",
+    "NAME": "ĐẦM BẠCH TUYẾT",
+    "UID": 35214,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 115,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 841,
+    "GOLD_MIN": 404,
+    "GOLD_MAX": 1699,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 1171.1,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 109
+  },
+  "R67": {
+    "MACHINE_ID": "MA9",
+    "REQUIRE_ITEM": {
+      "R54": 2,
+      "A1": 3,
+      "R9": 2
+    },
+    "PRODUCTION_TIME": 9300,
+    "EXP_RECEIVE": 120,
+    "GOLD_BASIC": 163.638,
+    "EXP_BASIC": 936.41,
+    "GFX": "item_sewing_carpet.png",
+    "ID": "R67",
+    "NAME": "THẢM BAY",
+    "UID": 35215,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 157,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 570,
+    "GOLD_MIN": 270,
+    "GOLD_MAX": 1156,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 545.5,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 111
+  },
+  "R68": {
+    "MACHINE_ID": "MA4",
+    "REQUIRE_ITEM": {
+      "T4": 4,
+      "T20": 5
+    },
+    "PRODUCTION_TIME": 5700,
+    "EXP_RECEIVE": 85,
+    "GOLD_BASIC": 144.27,
+    "EXP_BASIC": 326.26126,
+    "GFX": "item_oil_strawberry.png",
+    "ID": "R68",
+    "NAME": "TINH DẦU DÂU",
+    "UID": 35216,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 54,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 537,
+    "GOLD_MIN": 384,
+    "GOLD_MAX": 960,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 400.8,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 113
+  },
+  "R69": {
+    "MACHINE_ID": "MA7",
+    "REQUIRE_ITEM": {
+      "T17": 4,
+      "R40": 1
+    },
+    "PRODUCTION_TIME": 12000,
+    "EXP_RECEIVE": 130,
+    "GOLD_BASIC": 201.7278,
+    "EXP_BASIC": 600.8688,
+    "GFX": "item_perfume_lotus.png",
+    "ID": "R69",
+    "NAME": "NƯỚC HOA HƯƠNG SEN",
+    "UID": 35217,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 79,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 583,
+    "GOLD_MIN": 256,
+    "GOLD_MAX": 1201,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 504.3,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 114
+  },
+  "R70": {
+    "MACHINE_ID": "MA9",
+    "REQUIRE_ITEM": {
+      "R12": 2,
+      "A3": 3,
+      "R44": 2
+    },
+    "PRODUCTION_TIME": 10200,
+    "EXP_RECEIVE": 130,
+    "GOLD_BASIC": 198.198,
+    "EXP_BASIC": 1049.054,
+    "GFX": "item_sewing_hat.png",
+    "ID": "R70",
+    "NAME": "NÓN BÁ TƯỚC",
+    "UID": 35244,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 225,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 766,
+    "GOLD_MIN": 300,
+    "GOLD_MAX": 1615,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 660.7,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 115
+  },
+  "R71": {
+    "MACHINE_ID": "MA8",
+    "REQUIRE_ITEM": {
+      "R69": 3,
+      "R49": 3,
+      "T17": 6
+    },
+    "PRODUCTION_TIME": 14100,
+    "EXP_RECEIVE": 150,
+    "GOLD_BASIC": 351.32977,
+    "EXP_BASIC": 1213.7107,
+    "GFX": "item_aromatic_lotus.png",
+    "ID": "R71",
+    "NAME": "TÚI HƯƠNG SEN",
+    "UID": 35245,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 373,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 841,
+    "GOLD_MIN": 404,
+    "GOLD_MAX": 1699,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 943.7,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 117
+  },
+  "R72": {
+    "MACHINE_ID": "MA9",
+    "REQUIRE_ITEM": {
+      "R69": 2,
+      "A6": 3,
+      "R49": 2
+    },
+    "PRODUCTION_TIME": 12900,
+    "EXP_RECEIVE": 150,
+    "GOLD_BASIC": 270.918,
+    "EXP_BASIC": 1427.432,
+    "GFX": "item_sewing_hairpin.png",
+    "ID": "R72",
+    "NAME": "NƠ CÔNG CHÚA",
+    "UID": 35246,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 985,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 833,
+    "GOLD_MIN": 350,
+    "GOLD_MAX": 1734,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 903.1,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 120
+  },
+  "R73": {
+    "MACHINE_ID": "MA6",
+    "REQUIRE_ITEM": {
+      "R57": 1,
+      "T14": 6
+    },
+    "PRODUCTION_TIME": 13600,
+    "EXP_RECEIVE": 120,
+    "GOLD_BASIC": 200.8584,
+    "EXP_BASIC": 517.22687,
+    "GFX": "item_flower_jasmine.png",
+    "ID": "R73",
+    "NAME": "BÓ LÀI",
+    "UID": 35247,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 83,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 566,
+    "GOLD_MIN": 249,
+    "GOLD_MAX": 1166,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 669.5,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 122
+  },
+  "R74": {
+    "MACHINE_ID": "MA9",
+    "REQUIRE_ITEM": {
+      "A4": 3,
+      "R35": 2,
+      "R60": 2
+    },
+    "PRODUCTION_TIME": 11400,
+    "EXP_RECEIVE": 140,
+    "GOLD_BASIC": 234.558,
+    "EXP_BASIC": 1068.143,
+    "GFX": "item_sewing_bag.png",
+    "ID": "R74",
+    "NAME": "TÚI VẢI",
+    "UID": 35248,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 402,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 797,
+    "GOLD_MIN": 310,
+    "GOLD_MAX": 1683,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 781.9,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 124
+  },
+  "R75": {
+    "MACHINE_ID": "MA7",
+    "REQUIRE_ITEM": {
+      "R64": 1,
+      "R68": 1
+    },
+    "PRODUCTION_TIME": 14400,
+    "EXP_RECEIVE": 145,
+    "GOLD_BASIC": 255.7278,
+    "EXP_BASIC": 629.2188,
+    "GFX": "item_perfume_strawberry.png",
+    "ID": "R75",
+    "NAME": "NƯỚC HOA HƯƠNG DÂU",
+    "UID": 35249,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 103,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 607,
+    "GOLD_MIN": 286,
+    "GOLD_MAX": 1231,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 639.3,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 126
+  },
+  "R76": {
+    "MACHINE_ID": "MA9",
+    "REQUIRE_ITEM": {
+      "A5": 3,
+      "R57": 2,
+      "R39": 2
+    },
+    "PRODUCTION_TIME": 13200,
+    "EXP_RECEIVE": 160,
+    "GOLD_BASIC": 315.918,
+    "EXP_BASIC": 1451.057,
+    "GFX": "item_sewing_coat.png",
+    "ID": "R76",
+    "NAME": "ÁO CHOÀNG",
+    "UID": 35250,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 323,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 853,
+    "GOLD_MIN": 375,
+    "GOLD_MAX": 1759,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 1053.1,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 128
+  },
+  "R77": {
+    "MACHINE_ID": "MA9",
+    "REQUIRE_ITEM": {
+      "R75": 2,
+      "A6": 3,
+      "R51": 2
+    },
+    "PRODUCTION_TIME": 15000,
+    "EXP_RECEIVE": 170,
+    "GOLD_BASIC": 405.918,
+    "EXP_BASIC": 1498.307,
+    "GFX": "item_sewing_shoes.png",
+    "ID": "R77",
+    "NAME": "GIÀY ĐI HIA",
+    "UID": 35251,
+    "TYPE": 4,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 1200,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 893,
+    "GOLD_MIN": 425,
+    "GOLD_MAX": 1809,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 1353.1,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 135
+  },
+  "A0": {
+    "MACHINE_ID": "MA3",
+    "REQUIRE_ITEM": {
+      "T4": 1,
+      "B0": 2
+    },
+    "PRODUCTION_TIME": 1800,
+    "EXP_RECEIVE": 47,
+    "GOLD_BASIC": 19.6,
+    "EXP_BASIC": 147.0,
+    "GFX": "item_gems_red.png",
+    "ID": "A0",
+    "NAME": "NGỌC ĐỎ",
+    "UID": 360,
+    "TYPE": 9,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 9,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 101,
+    "GOLD_MIN": 44,
+    "GOLD_MAX": 209,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 186.2,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 1,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 2,
+          "MAX_NUM": 2,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 3,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 23
+  },
+  "A1": {
+    "MACHINE_ID": "MA3",
+    "REQUIRE_ITEM": {
+      "T4": 1,
+      "B2": 3
+    },
+    "PRODUCTION_TIME": 2700,
+    "EXP_RECEIVE": 60,
+    "GOLD_BASIC": 29.4,
+    "EXP_BASIC": 220.5,
+    "GFX": "item_gems_navy.png",
+    "ID": "A1",
+    "NAME": "NGỌC XANH BIỂN",
+    "UID": 361,
+    "TYPE": 9,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 14,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 109,
+    "GOLD_MIN": 64,
+    "GOLD_MAX": 209,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 279.3,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 1,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 2,
+          "MAX_NUM": 2,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 3,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 25
+  },
+  "A2": {
+    "MACHINE_ID": "MA3",
+    "REQUIRE_ITEM": {
+      "T4": 1,
+      "B1": 4
+    },
+    "PRODUCTION_TIME": 3600,
+    "EXP_RECEIVE": 80,
+    "GOLD_BASIC": 38.64,
+    "EXP_BASIC": 289.8,
+    "GFX": "item_gems_yellow.png",
+    "ID": "A2",
+    "NAME": "NGỌC VÀNG",
+    "UID": 362,
+    "TYPE": 9,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 17,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 137,
+    "GOLD_MIN": 85,
+    "GOLD_MAX": 259,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 367.1,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 1,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 2,
+          "MAX_NUM": 2,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 3,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 27
+  },
+  "A3": {
+    "MACHINE_ID": "MA3",
+    "REQUIRE_ITEM": {
+      "A1": 1,
+      "T4": 2,
+      "B5": 2,
+      "A0": 1
+    },
+    "PRODUCTION_TIME": 5400,
+    "EXP_RECEIVE": 203,
+    "GOLD_BASIC": 56.21,
+    "EXP_BASIC": 421.575,
+    "GFX": "item_gems_violet.png",
+    "ID": "A3",
+    "NAME": "NGỌC TÍM",
+    "UID": 363,
+    "TYPE": 9,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 38,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 326,
+    "GOLD_MIN": 136,
+    "GOLD_MAX": 680,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 534.0,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 1,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 2,
+          "MAX_NUM": 2,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 3,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 33
+  },
+  "A4": {
+    "MACHINE_ID": "MA3",
+    "REQUIRE_ITEM": {
+      "T4": 2,
+      "A2": 1,
+      "B3": 2,
+      "A0": 2
+    },
+    "PRODUCTION_TIME": 7200,
+    "EXP_RECEIVE": 208,
+    "GOLD_BASIC": 80.458,
+    "EXP_BASIC": 603.435,
+    "GFX": "item_gems_orange.png",
+    "ID": "A4",
+    "NAME": "NGỌC CAM",
+    "UID": 364,
+    "TYPE": 9,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 51,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 483,
+    "GOLD_MIN": 202,
+    "GOLD_MAX": 1007,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 764.4,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 1,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 2,
+          "MAX_NUM": 2,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 3,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 41
+  },
+  "A5": {
+    "MACHINE_ID": "MA3",
+    "REQUIRE_ITEM": {
+      "A1": 2,
+      "T4": 2,
+      "A2": 1,
+      "B4": 2
+    },
+    "PRODUCTION_TIME": 9000,
+    "EXP_RECEIVE": 211,
+    "GOLD_BASIC": 98.448,
+    "EXP_BASIC": 738.36,
+    "GFX": "item_gems_green.png",
+    "ID": "A5",
+    "NAME": "NGỌC XANH LÁ",
+    "UID": 365,
+    "TYPE": 9,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 62,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 585,
+    "GOLD_MIN": 244,
+    "GOLD_MAX": 1218,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 935.3,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 1,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 2,
+          "MAX_NUM": 2,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 3,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 53
+  },
+  "A6": {
+    "MACHINE_ID": "MA3",
+    "REQUIRE_ITEM": {
+      "A5": 3,
+      "B6": 2,
+      "T14": 2,
+      "A0": 5
+    },
+    "PRODUCTION_TIME": 10800,
+    "EXP_RECEIVE": 300,
+    "GOLD_BASIC": 118.13,
+    "EXP_BASIC": 885.975,
+    "GFX": "item_gems_rainbow.png",
+    "ID": "A6",
+    "NAME": "NGỌC CẦU VỒNG",
+    "UID": 366,
+    "TYPE": 9,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 254,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 700,
+    "GOLD_MIN": 292,
+    "GOLD_MAX": 1458,
+    "STOCK": 1,
+    "TOM": {
+      "GOLD_BASIC": 1122.2,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 1,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 2,
+          "MAX_NUM": 2,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 3,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 55
+  }
+}

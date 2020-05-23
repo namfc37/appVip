@@ -1,0 +1,27 @@
+
+hud_pshop_slot_gold_anim.png
+size: 156,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hud_pshop_slot_gold
+  rotate: false
+  xy: 2, 61
+  size: 112, 93
+  orig: 114, 95
+  offset: 1, 1
+  index: -1
+light_gold
+  rotate: false
+  xy: 116, 86
+  size: 19, 68
+  orig: 21, 70
+  offset: 1, 1
+  index: -1
+light_star
+  rotate: false
+  xy: 2, 2
+  size: 61, 57
+  orig: 63, 59
+  offset: 1, 1
+  index: -1

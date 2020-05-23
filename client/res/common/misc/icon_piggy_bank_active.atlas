@@ -1,0 +1,13 @@
+
+icon_piggy_bank_active.png
+size: 84,82
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gift_box
+  rotate: false
+  xy: 2, 12
+  size: 80, 68
+  orig: 80, 80
+  offset: 0, 6
+  index: -1

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>d:\sgm20182\client\raw\guild2Dummy</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>d:\sgm20182\client\raw\guild2Dummy\Resources</Resources>
+  <Name>guild2Dummy</Name>
+  <JsonFileName>guild2Dummy.json</JsonFileName>
+  <JsonFolder>d:\sgm20182\client\raw\guild2Dummy\Json</JsonFolder>
+  <JsonList>
+    <string>guild2Dummy.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>0</Width>
+    <Height>0</Height>
+  </CanvasSize>
+  <filePath>d:\sgm20182\client\raw\guild2Dummy\guild2Dummy.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList>
+    <string>guild2Dummy0.plist</string>
+  </imageFileList>
+  <imagePngList>
+    <string>guild2Dummy0.png</string>
+  </imagePngList>
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>guild2Dummy.json</CurrentUIJson>
+</UIProject>

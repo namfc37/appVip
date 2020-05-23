@@ -1,0 +1,34 @@
+
+building_guild_frog.png
+size: 222,222
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/flag
+  rotate: false
+  xy: 117, 52
+  size: 16, 34
+  orig: 18, 36
+  offset: 1, 1
+  index: -1
+images/guild_frog
+  rotate: true
+  xy: 2, 2
+  size: 120, 113
+  orig: 122, 115
+  offset: 1, 1
+  index: -1
+images/guild_frog_01
+  rotate: false
+  xy: 2, 124
+  size: 207, 96
+  orig: 209, 98
+  offset: 1, 1
+  index: -1
+images/rank
+  rotate: false
+  xy: 117, 88
+  size: 66, 34
+  orig: 68, 36
+  offset: 1, 1
+  index: -1

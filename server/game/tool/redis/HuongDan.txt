@@ -1,0 +1,2 @@
+1. Nếu dùng bản cài đặt thì lấy ở https://github.com/MicrosoftArchive/redis/releases
+2. Hoặc có thể dùng bản chạy từ command

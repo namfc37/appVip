@@ -1,0 +1,97 @@
+
+npc_mission_red.png
+size: 345,345
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tutorial_NPC_000
+  rotate: false
+  xy: 2, 91
+  size: 205, 252
+  orig: 205, 252
+  offset: 0, 0
+  index: -1
+tutorial_NPC_016
+  rotate: true
+  xy: 209, 126
+  size: 54, 91
+  orig: 54, 91
+  offset: 0, 0
+  index: -1
+tutorial_NPC_019
+  rotate: false
+  xy: 209, 182
+  size: 130, 161
+  orig: 130, 161
+  offset: 0, 0
+  index: -1
+tutorial_NPC_020
+  rotate: false
+  xy: 158, 7
+  size: 22, 7
+  orig: 22, 7
+  offset: 0, 0
+  index: -1
+tutorial_NPC_021
+  rotate: false
+  xy: 300, 92
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+tutorial_NPC_022
+  rotate: false
+  xy: 318, 100
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+tutorial_NPC_023
+  rotate: false
+  xy: 209, 76
+  size: 89, 48
+  orig: 89, 48
+  offset: 0, 0
+  index: -1
+tutorial_NPC_025
+  rotate: false
+  xy: 70, 4
+  size: 86, 44
+  orig: 86, 44
+  offset: 0, 0
+  index: -1
+tutorial_NPC_030
+  rotate: true
+  xy: 2, 2
+  size: 46, 66
+  orig: 46, 66
+  offset: 0, 0
+  index: -1
+tutorial_NPC_031
+  rotate: false
+  xy: 302, 115
+  size: 41, 65
+  orig: 41, 65
+  offset: 0, 0
+  index: -1
+tutorial_NPC_037
+  rotate: false
+  xy: 2, 50
+  size: 198, 39
+  orig: 198, 39
+  offset: 0, 0
+  index: -1
+tutorial_NPC_067
+  rotate: false
+  xy: 158, 16
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+walking_npc_002
+  rotate: false
+  xy: 300, 79
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1

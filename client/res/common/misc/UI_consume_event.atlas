@@ -1,0 +1,167 @@
+
+UI_consume_event.png
+size: 665,665
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 280, 295
+  size: 134, 133
+  orig: 134, 133
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 416, 295
+  size: 134, 133
+  orig: 134, 133
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 334, 160
+  size: 134, 133
+  orig: 134, 133
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 334, 25
+  size: 134, 133
+  orig: 134, 133
+  offset: 0, 0
+  index: -1
+arrow_pink/arrow_point
+  rotate: false
+  xy: 484, 17
+  size: 83, 71
+  orig: 83, 71
+  offset: 0, 0
+  index: -1
+arrow_red/arrow_point
+  rotate: false
+  xy: 552, 390
+  size: 83, 71
+  orig: 83, 71
+  offset: 0, 0
+  index: -1
+arrow_yellow/arrow_point
+  rotate: false
+  xy: 552, 317
+  size: 83, 71
+  orig: 83, 71
+  offset: 0, 0
+  index: -1
+bantay1
+  rotate: true
+  xy: 470, 192
+  size: 101, 92
+  orig: 101, 92
+  offset: 0, 0
+  index: -1
+bong
+  rotate: false
+  xy: 2, 535
+  size: 298, 128
+  orig: 298, 128
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 97, 218
+  size: 181, 150
+  orig: 181, 150
+  offset: 0, 0
+  index: -1
+button1
+  rotate: true
+  xy: 238, 62
+  size: 154, 94
+  orig: 154, 94
+  offset: 0, 0
+  index: -1
+button2
+  rotate: true
+  xy: 2, 49
+  size: 163, 103
+  orig: 163, 103
+  offset: 0, 0
+  index: -1
+canhtay1
+  rotate: false
+  xy: 107, 61
+  size: 129, 155
+  orig: 129, 155
+  offset: 0, 0
+  index: -1
+canhtay2
+  rotate: false
+  xy: 97, 370
+  size: 177, 163
+  orig: 177, 163
+  offset: 0, 0
+  index: -1
+caycung
+  rotate: true
+  xy: 302, 544
+  size: 119, 224
+  orig: 119, 224
+  offset: 0, 0
+  index: -1
+day_cung
+  rotate: true
+  xy: 302, 530
+  size: 12, 173
+  orig: 12, 173
+  offset: 0, 0
+  index: -1
+day_cung_2
+  rotate: false
+  xy: 470, 21
+  size: 12, 169
+  orig: 12, 169
+  offset: 0, 0
+  index: -1
+daybong
+  rotate: true
+  xy: 2, 2
+  size: 17, 124
+  orig: 17, 124
+  offset: 0, 0
+  index: -1
+may
+  rotate: true
+  xy: 2, 214
+  size: 319, 93
+  orig: 319, 93
+  offset: 0, 0
+  index: -1
+ngontay2
+  rotate: false
+  xy: 564, 249
+  size: 62, 66
+  orig: 62, 66
+  offset: 0, 0
+  index: -1
+than1
+  rotate: false
+  xy: 276, 430
+  size: 225, 98
+  orig: 225, 98
+  offset: 0, 0
+  index: -1
+than2
+  rotate: true
+  xy: 528, 463
+  size: 200, 135
+  orig: 200, 135
+  offset: 0, 0
+  index: -1
+than3
+  rotate: true
+  xy: 484, 90
+  size: 100, 67
+  orig: 100, 67
+  offset: 0, 0
+  index: -1

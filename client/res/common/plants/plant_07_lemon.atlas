@@ -1,0 +1,153 @@
+
+plant_07_lemon.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chanh_000
+  rotate: true
+  xy: 70, 7
+  size: 65, 86
+  orig: 65, 86
+  offset: 0, 0
+  index: -1
+chanh_001
+  rotate: false
+  xy: 62, 147
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+chanh_002
+  rotate: true
+  xy: 445, 139
+  size: 67, 46
+  orig: 67, 46
+  offset: 0, 0
+  index: -1
+chanh_003
+  rotate: false
+  xy: 2, 2
+  size: 66, 61
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+chanh_004
+  rotate: true
+  xy: 416, 36
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+chanh_005
+  rotate: false
+  xy: 318, 56
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+chanh_007
+  rotate: false
+  xy: 250, 80
+  size: 66, 32
+  orig: 66, 32
+  offset: 0, 0
+  index: -1
+chanh_008
+  rotate: true
+  xy: 271, 114
+  size: 87, 89
+  orig: 87, 89
+  offset: 0, 0
+  index: -1
+chanh_009
+  rotate: false
+  xy: 422, 208
+  size: 78, 46
+  orig: 78, 46
+  offset: 0, 0
+  index: -1
+chanh_010
+  rotate: false
+  xy: 362, 117
+  size: 81, 84
+  orig: 81, 84
+  offset: 0, 0
+  index: -1
+chanh_011
+  rotate: false
+  xy: 2, 65
+  size: 58, 189
+  orig: 58, 189
+  offset: 0, 0
+  index: -1
+chanh_012
+  rotate: false
+  xy: 171, 152
+  size: 98, 102
+  orig: 98, 102
+  offset: 0, 0
+  index: -1
+chanh_013
+  rotate: false
+  xy: 416, 67
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+chanh_014
+  rotate: false
+  xy: 366, 56
+  size: 48, 59
+  orig: 48, 59
+  offset: 0, 0
+  index: -1
+chanh_015
+  rotate: true
+  xy: 171, 83
+  size: 67, 77
+  orig: 67, 77
+  offset: 0, 0
+  index: -1
+chanh_016
+  rotate: true
+  xy: 454, 60
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+chanh_017
+  rotate: false
+  xy: 62, 74
+  size: 104, 71
+  orig: 104, 71
+  offset: 0, 0
+  index: -1
+chanh_018
+  rotate: true
+  xy: 271, 203
+  size: 51, 149
+  orig: 51, 149
+  offset: 0, 0
+  index: -1
+chanh_019
+  rotate: true
+  xy: 454, 91
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+cuc_new_021
+  rotate: true
+  xy: 493, 181
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+marker
+  rotate: false
+  xy: 62, 68
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1

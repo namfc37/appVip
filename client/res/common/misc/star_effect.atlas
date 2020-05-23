@@ -1,0 +1,76 @@
+
+star_effect.png
+size: 179,177
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+star_effect00
+  rotate: false
+  xy: 63, 119
+  size: 58, 56
+  orig: 72, 70
+  offset: 7, 8
+  index: -1
+star_effect01
+  rotate: true
+  xy: 2, 63
+  size: 53, 58
+  orig: 72, 70
+  offset: 8, 6
+  index: -1
+star_effect02
+  rotate: false
+  xy: 41, 3
+  size: 37, 58
+  orig: 72, 70
+  offset: 16, 6
+  index: -1
+star_effect03
+  rotate: false
+  xy: 80, 3
+  size: 37, 58
+  orig: 72, 70
+  offset: 20, 7
+  index: -1
+star_effect04
+  rotate: false
+  xy: 123, 117
+  size: 54, 58
+  orig: 72, 70
+  offset: 12, 8
+  index: -1
+star_effect05
+  rotate: false
+  xy: 2, 118
+  size: 59, 57
+  orig: 72, 70
+  offset: 7, 10
+  index: -1
+star_effect06
+  rotate: true
+  xy: 63, 63
+  size: 54, 58
+  orig: 72, 70
+  offset: 7, 8
+  index: -1
+star_effect07
+  rotate: true
+  xy: 119, 18
+  size: 37, 58
+  orig: 72, 70
+  offset: 16, 7
+  index: -1
+star_effect08
+  rotate: false
+  xy: 2, 2
+  size: 37, 59
+  orig: 72, 70
+  offset: 21, 6
+  index: -1
+star_effect09
+  rotate: false
+  xy: 123, 57
+  size: 54, 58
+  orig: 72, 70
+  offset: 12, 6
+  index: -1

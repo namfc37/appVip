@@ -1,0 +1,195 @@
+
+building_barn.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+barn_silo
+  rotate: false
+  xy: 2, 265
+  size: 291, 245
+  orig: 293, 247
+  offset: 1, 1
+  index: -1
+cock
+  rotate: false
+  xy: 295, 278
+  size: 45, 53
+  orig: 47, 55
+  offset: 1, 1
+  index: -1
+decor
+  rotate: false
+  xy: 425, 433
+  size: 79, 77
+  orig: 81, 79
+  offset: 1, 1
+  index: -1
+grass_01
+  rotate: true
+  xy: 251, 116
+  size: 43, 31
+  orig: 45, 33
+  offset: 1, 1
+  index: -1
+grass_02
+  rotate: false
+  xy: 104, 2
+  size: 14, 15
+  orig: 16, 17
+  offset: 1, 1
+  index: -1
+grass_03
+  rotate: false
+  xy: 162, 45
+  size: 23, 23
+  orig: 25, 25
+  offset: 1, 1
+  index: -1
+grass_04
+  rotate: true
+  xy: 342, 286
+  size: 45, 22
+  orig: 47, 24
+  offset: 1, 1
+  index: -1
+grass_05
+  rotate: false
+  xy: 187, 55
+  size: 14, 13
+  orig: 16, 15
+  offset: 1, 1
+  index: -1
+level_1/barn_roof
+  rotate: false
+  xy: 2, 102
+  size: 247, 161
+  orig: 249, 163
+  offset: 1, 1
+  index: -1
+level_2/barn_roof
+  rotate: false
+  xy: 2, 102
+  size: 247, 161
+  orig: 249, 163
+  offset: 1, 1
+  index: -1
+level_3/barn_roof
+  rotate: false
+  xy: 2, 102
+  size: 247, 161
+  orig: 249, 163
+  offset: 1, 1
+  index: -1
+level_1/silo_belt_1
+  rotate: true
+  xy: 251, 161
+  size: 102, 32
+  orig: 104, 34
+  offset: 1, 1
+  index: -1
+level_1/silo_belt_2
+  rotate: false
+  xy: 295, 333
+  size: 80, 25
+  orig: 82, 27
+  offset: 1, 1
+  index: -1
+level_1/silo_roof
+  rotate: false
+  xy: 295, 427
+  size: 128, 83
+  orig: 130, 85
+  offset: 1, 1
+  index: -1
+level_2/silo_roof
+  rotate: false
+  xy: 295, 427
+  size: 128, 83
+  orig: 130, 85
+  offset: 1, 1
+  index: -1
+level_2/silo_belt_1
+  rotate: false
+  xy: 2, 12
+  size: 100, 34
+  orig: 102, 36
+  offset: 1, 1
+  index: -1
+level_3/silo_belt_1
+  rotate: false
+  xy: 2, 12
+  size: 100, 34
+  orig: 102, 36
+  offset: 1, 1
+  index: -1
+level_4/silo_belt_1
+  rotate: false
+  xy: 2, 12
+  size: 100, 34
+  orig: 102, 36
+  offset: 1, 1
+  index: -1
+level_2/silo_belt_2
+  rotate: false
+  xy: 162, 70
+  size: 80, 30
+  orig: 82, 32
+  offset: 1, 1
+  index: -1
+level_3/silo_belt_2
+  rotate: false
+  xy: 162, 70
+  size: 80, 30
+  orig: 82, 32
+  offset: 1, 1
+  index: -1
+level_4/silo_belt_2
+  rotate: false
+  xy: 162, 70
+  size: 80, 30
+  orig: 82, 32
+  offset: 1, 1
+  index: -1
+level_3/silo_roof
+  rotate: false
+  xy: 295, 360
+  size: 122, 65
+  orig: 124, 67
+  offset: 1, 1
+  index: -1
+level_4/silo_roof
+  rotate: false
+  xy: 295, 360
+  size: 122, 65
+  orig: 124, 67
+  offset: 1, 1
+  index: -1
+level_4/barn_roof
+  rotate: false
+  xy: 419, 424
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 104, 19
+  size: 27, 43
+  orig: 29, 45
+  offset: 1, 1
+  index: -1
+light_effect
+  rotate: false
+  xy: 377, 335
+  size: 27, 23
+  orig: 28, 25
+  offset: 1, 2
+  index: -1
+silo_ladder
+  rotate: true
+  xy: 2, 48
+  size: 52, 158
+  orig: 54, 160
+  offset: 1, 1
+  index: -1

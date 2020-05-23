@@ -1,0 +1,279 @@
+
+machine_02_dryer.png
+size: 364,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beard_01
+  rotate: false
+  xy: 95, 124
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+beard_02
+  rotate: false
+  xy: 151, 251
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+body_back_01
+  rotate: true
+  xy: 301, 97
+  size: 62, 56
+  orig: 62, 56
+  offset: 0, 0
+  index: -1
+body_back_02
+  rotate: true
+  xy: 2, 2
+  size: 82, 67
+  orig: 82, 67
+  offset: 0, 0
+  index: -1
+body_back_03
+  rotate: true
+  xy: 305, 231
+  size: 66, 57
+  orig: 66, 57
+  offset: 0, 0
+  index: -1
+body_glass
+  rotate: false
+  xy: 2, 146
+  size: 116, 103
+  orig: 116, 103
+  offset: 0, 0
+  index: -1
+body_glass_broken
+  rotate: false
+  xy: 190, 127
+  size: 72, 60
+  orig: 72, 60
+  offset: 0, 0
+  index: -1
+body_glass_light
+  rotate: false
+  xy: 2, 251
+  size: 147, 111
+  orig: 147, 111
+  offset: 0, 0
+  index: -1
+bug_head
+  rotate: false
+  xy: 185, 189
+  size: 70, 69
+  orig: 70, 69
+  offset: 0, 0
+  index: -1
+eye_01
+  rotate: false
+  xy: 191, 97
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+eye_02
+  rotate: false
+  xy: 191, 67
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+eye_03
+  rotate: false
+  xy: 191, 37
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+level_1/arm_01
+  rotate: true
+  xy: 212, 5
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+level_2/arm_01
+  rotate: true
+  xy: 212, 5
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+level_1/bell_01
+  rotate: false
+  xy: 239, 50
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+level_1/bell_02
+  rotate: false
+  xy: 95, 86
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+level_1/body_01
+  rotate: false
+  xy: 120, 176
+  size: 63, 73
+  orig: 63, 73
+  offset: 0, 0
+  index: -1
+level_2/body_01
+  rotate: false
+  xy: 120, 176
+  size: 63, 73
+  orig: 63, 73
+  offset: 0, 0
+  index: -1
+level_1/body_02
+  rotate: true
+  xy: 305, 161
+  size: 68, 56
+  orig: 68, 56
+  offset: 0, 0
+  index: -1
+level_2/body_02
+  rotate: true
+  xy: 305, 161
+  size: 68, 56
+  orig: 68, 56
+  offset: 0, 0
+  index: -1
+level_1/body_03
+  rotate: false
+  xy: 2, 86
+  size: 91, 58
+  orig: 91, 58
+  offset: 0, 0
+  index: -1
+level_2/body_03
+  rotate: false
+  xy: 2, 86
+  size: 91, 58
+  orig: 91, 58
+  offset: 0, 0
+  index: -1
+level_1/glass
+  rotate: false
+  xy: 212, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+level_1/wing_01
+  rotate: false
+  xy: 309, 299
+  size: 53, 63
+  orig: 53, 63
+  offset: 0, 0
+  index: -1
+level_2/wing_01
+  rotate: false
+  xy: 309, 299
+  size: 53, 63
+  orig: 53, 63
+  offset: 0, 0
+  index: -1
+level_2/bell_01
+  rotate: true
+  xy: 176, 3
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+level_2/bell_02
+  rotate: false
+  xy: 239, 18
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+level_2/glass
+  rotate: true
+  xy: 257, 189
+  size: 69, 46
+  orig: 69, 46
+  offset: 0, 0
+  index: -1
+level_3/glass
+  rotate: true
+  xy: 257, 189
+  size: 69, 46
+  orig: 69, 46
+  offset: 0, 0
+  index: -1
+level_3/arm_01
+  rotate: true
+  xy: 269, 18
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+level_3/bell_01
+  rotate: false
+  xy: 136, 11
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+level_3/bell_02
+  rotate: false
+  xy: 239, 86
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+level_3/body_01
+  rotate: false
+  xy: 71, 11
+  size: 63, 73
+  orig: 63, 73
+  offset: 0, 0
+  index: -1
+level_3/body_02
+  rotate: false
+  xy: 120, 118
+  size: 68, 56
+  orig: 68, 56
+  offset: 0, 0
+  index: -1
+level_3/body_03
+  rotate: false
+  xy: 216, 304
+  size: 91, 58
+  orig: 91, 58
+  offset: 0, 0
+  index: -1
+level_3/wing_01
+  rotate: false
+  xy: 136, 53
+  size: 53, 63
+  orig: 53, 63
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 151, 268
+  size: 63, 94
+  orig: 63, 94
+  offset: 0, 0
+  index: -1
+products
+  rotate: true
+  xy: 264, 123
+  size: 64, 35
+  orig: 64, 35
+  offset: 0, 0
+  index: -1
+wing_02
+  rotate: true
+  xy: 216, 260
+  size: 42, 77
+  orig: 42, 77
+  offset: 0, 0
+  index: -1

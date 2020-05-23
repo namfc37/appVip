@@ -1,0 +1,160 @@
+
+plant_event_00.png
+size: 223,223
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cayvang_000
+  rotate: false
+  xy: 160, 176
+  size: 52, 45
+  orig: 52, 45
+  offset: 0, 0
+  index: -1
+cayvang_001
+  rotate: false
+  xy: 111, 133
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+cayvang_004
+  rotate: true
+  xy: 73, 114
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: -1
+cayvang_005
+  rotate: false
+  xy: 97, 175
+  size: 61, 46
+  orig: 61, 46
+  offset: 0, 0
+  index: -1
+cayvang_006
+  rotate: true
+  xy: 73, 71
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+cayvang_007
+  rotate: false
+  xy: 109, 20
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+cayvang_008
+  rotate: false
+  xy: 160, 147
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+cayvang_009
+  rotate: true
+  xy: 111, 93
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+cayvang_010
+  rotate: false
+  xy: 68, 23
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+cayvang_011
+  rotate: false
+  xy: 159, 119
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+cayvang_012
+  rotate: true
+  xy: 152, 21
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+cayvang_013
+  rotate: false
+  xy: 159, 94
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+cayvang_014
+  rotate: false
+  xy: 2, 98
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1
+cayvang_015
+  rotate: false
+  xy: 2, 170
+  size: 93, 51
+  orig: 93, 51
+  offset: 0, 0
+  index: -1
+cayvang_016
+  rotate: true
+  xy: 2, 25
+  size: 71, 64
+  orig: 71, 64
+  offset: 0, 0
+  index: -1
+cayvang_017
+  rotate: true
+  xy: 111, 57
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+cayvang_018
+  rotate: false
+  xy: 21, 3
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+cayvang_019
+  rotate: true
+  xy: 156, 64
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+cayvang_020
+  rotate: true
+  xy: 203, 155
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+cayvang_021
+  rotate: true
+  xy: 2, 2
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+cayvang_022
+  rotate: true
+  xy: 50, 3
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+cayvang_023
+  rotate: true
+  xy: 66, 2
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1

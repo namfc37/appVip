@@ -1,0 +1,17 @@
+{
+	"build": "release",
+    "balancer": {
+        "http": "http://35.247.192.87:8000/getWorker?env=live"
+    },
+    "useTestVerifyGoogle": false,
+    "chatInfo": {
+        "ip": "35.247.192.87",
+        "port": 8003
+    },
+    "gameInfo": [
+        {
+            "ip": "35.247.192.87",
+            "port": 8001
+        }
+    ]
+}

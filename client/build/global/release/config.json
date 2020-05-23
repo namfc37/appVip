@@ -1,0 +1,24 @@
+{	
+	"name":"Sky Garden",
+	"android":{
+		"package_name":"com.vng.farm.skygarden",
+		"app_abi":["armeabi-v7a","arm64-v8a"],
+		"google_license_key":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvuwmAbEu6OGbRShUEy7+azwJ3JL9jEKbc2wEXyvn4TJjJQZOhElRaSMOKwRYVEqMTVsI5StG/D3kaM+EaQ3XR66E+MX2AP8z7va1cpPqBOc/r8Vf2i6uUmzehkgZDlpjLxma1yOQYvNyecT1xjNzqH2EajCJahc/J2U1oazqyiK+oRZcbRynlcr3vQs0QzR53eu7Pu3tIKO9k4+RwbJ9k+MPNpREdLGqbpJf8Ttcj7vOC5LX6hg3OPSDS0e/r5tGrprxWYzefXnlYR/lpY2TCmxEv2eTdfdeFkF7+7BoUa3SoFUTKHkBWXAe2f3yomWYMl/BwMQL69JIWmi7W4fTjwIDAQAB"
+	},
+	"tracker":{
+		"app_name":"kvtm_inter",
+		"partner":"GSN"
+	},
+	"social":{
+		"facebook":{
+			"id":"1649938548623587",
+			"use_provider": false
+		},
+		"google": {
+			"id":""
+		}
+	},	
+	"country":"go",
+	"is_sensor_landscape": false,
+	"is_landscape":true
+}

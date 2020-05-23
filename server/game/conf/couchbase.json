@@ -1,0 +1,16 @@
+{
+    "index": {
+        "localFolder": "_database_/index"
+    },
+    "cache": {
+        "localFolder": "_database_/cache"
+    },
+    "user_1": {
+        "localFolder": "_database_/user_1",
+        "isUserBucket": true
+    },
+    "user_2": {
+        "localFolder": "_database_/user_2",
+        "isUserBucket": true
+    }
+}

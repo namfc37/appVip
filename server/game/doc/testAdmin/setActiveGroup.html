@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="jquery.min.js"></script>
+<script src="sha256.js"></script>
+<script>
+function readInfo () {
+    var o = new Object();    
+    o.admin = 'thuanvt';    
+    o.time = new Date().getTime();    
+    o.data = new Object();   
+	o.data.service = 'GAME';
+	o.data.group = 2;
+	o.data.code = 10;
+	
+    o.data = JSON.stringify(o.data);	
+	var inputHash = '(@dm1nS#cr3tKey!)' + o.admin + o.time + o.data;	
+	//console.log("inputHash: " + inputHash);
+    o.hash = CryptoJS.SHA256(inputHash).toString(CryptoJS.enc.Hex);    
+    return o;
+}
+
+$(document).ready(function(){    
+    $("#button").click(function(){        
+        var info = readInfo();
+		var json = JSON.stringify(info);
+		var url = 'http://127.0.0.1:8100/setActiveGroup'
+        
+		$("#url").text(url);                
+        $("#content").text(json);                  
+		
+		$.ajax({
+                url: url,
+                dataType: 'text',
+                type: 'post',                
+                data: json,
+                success: function( data, textStatus, jQxhr ){
+                    $('#response').text( JSON.stringify(JSON.parse(data),null,4) );                    
+                },
+                error: function( jqXhr, textStatus, errorThrown ){
+                    console.log( errorThrown );
+                }
+            });
+    });    
+});
+</script>
+</head>
+<body>
+
+</br>
+<button id="button">SET</button>
+
+</br>
+<table>
+    <tr>
+        <td align="left">URL</td>
+        <td align="left"><pre id="url"></pre></td>
+    </tr>  
+	<tr>
+        <td align="left">CONTENT</td>
+        <td align="left"><pre id="content"></pre></td>
+    </tr> 	
+    <tr>
+        <td align="left">RESPONSE</td>
+        <td align="left"><pre id="response"></pre></td>
+    </tr>
+</table>
+
+</body>
+</html>

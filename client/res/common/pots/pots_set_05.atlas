@@ -1,0 +1,510 @@
+
+pots_set_05.png
+size: 630,630
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pot_01/marker
+  rotate: false
+  xy: 401, 123
+  size: 12, 12
+  orig: 200, 200
+  offset: 100, 109
+  index: -1
+pot_02/marker
+  rotate: false
+  xy: 401, 123
+  size: 12, 12
+  orig: 200, 200
+  offset: 100, 114
+  index: -1
+pot_03/marker
+  rotate: false
+  xy: 401, 123
+  size: 12, 12
+  orig: 200, 200
+  offset: 100, 111
+  index: -1
+pot_04/marker
+  rotate: false
+  xy: 401, 123
+  size: 12, 12
+  orig: 200, 200
+  offset: 100, 108
+  index: -1
+pot_05/marker
+  rotate: false
+  xy: 401, 123
+  size: 12, 12
+  orig: 200, 200
+  offset: 100, 107
+  index: -1
+pot_06/marker
+  rotate: false
+  xy: 401, 123
+  size: 12, 12
+  orig: 200, 200
+  offset: 100, 102
+  index: -1
+pot_07/marker
+  rotate: false
+  xy: 401, 123
+  size: 12, 12
+  orig: 200, 200
+  offset: 100, 117
+  index: -1
+pot_08/marker
+  rotate: false
+  xy: 401, 123
+  size: 12, 12
+  orig: 200, 200
+  offset: 100, 113
+  index: -1
+pot_09/marker
+  rotate: false
+  xy: 401, 123
+  size: 12, 12
+  orig: 200, 200
+  offset: 100, 111
+  index: -1
+pot_10/marker
+  rotate: false
+  xy: 401, 123
+  size: 12, 12
+  orig: 200, 200
+  offset: 100, 118
+  index: -1
+pot_11/marker
+  rotate: false
+  xy: 401, 123
+  size: 12, 12
+  orig: 200, 200
+  offset: 100, 110
+  index: -1
+pot_12/marker
+  rotate: false
+  xy: 401, 123
+  size: 12, 12
+  orig: 200, 200
+  offset: 100, 113
+  index: -1
+pot_13/marker
+  rotate: false
+  xy: 401, 123
+  size: 12, 12
+  orig: 200, 200
+  offset: 100, 113
+  index: -1
+pot_14/marker
+  rotate: false
+  xy: 401, 123
+  size: 12, 12
+  orig: 200, 200
+  offset: 100, 113
+  index: -1
+pot_15/marker
+  rotate: false
+  xy: 401, 123
+  size: 12, 12
+  orig: 200, 200
+  offset: 100, 104
+  index: -1
+pot_16/marker
+  rotate: false
+  xy: 401, 123
+  size: 12, 12
+  orig: 200, 200
+  offset: 100, 117
+  index: -1
+pot_17/marker
+  rotate: false
+  xy: 401, 123
+  size: 12, 12
+  orig: 200, 200
+  offset: 100, 113
+  index: -1
+pot_18/marker
+  rotate: false
+  xy: 401, 123
+  size: 12, 12
+  orig: 200, 200
+  offset: 100, 114
+  index: -1
+pot_19/marker
+  rotate: false
+  xy: 401, 123
+  size: 12, 12
+  orig: 200, 200
+  offset: 100, 96
+  index: -1
+pot_20/marker
+  rotate: false
+  xy: 401, 123
+  size: 12, 12
+  orig: 200, 200
+  offset: 100, 96
+  index: -1
+pot_21/marker
+  rotate: false
+  xy: 401, 123
+  size: 12, 12
+  orig: 200, 200
+  offset: 100, 96
+  index: -1
+pot_22/marker
+  rotate: false
+  xy: 401, 123
+  size: 12, 12
+  orig: 200, 200
+  offset: 100, 96
+  index: -1
+pot_23/marker
+  rotate: false
+  xy: 401, 123
+  size: 12, 12
+  orig: 200, 200
+  offset: 100, 96
+  index: -1
+pot_24/marker
+  rotate: false
+  xy: 401, 123
+  size: 12, 12
+  orig: 200, 200
+  offset: 100, 96
+  index: -1
+pot_01/pot_normal
+  rotate: true
+  xy: 2, 316
+  size: 157, 140
+  orig: 200, 200
+  offset: 22, 30
+  index: -1
+pot_01/pot_sand
+  rotate: false
+  xy: 505, 85
+  size: 59, 27
+  orig: 200, 200
+  offset: 70, 108
+  index: -1
+pot_02/pot_normal
+  rotate: false
+  xy: 149, 355
+  size: 154, 132
+  orig: 200, 200
+  offset: 19, 33
+  index: -1
+pot_02/pot_sand
+  rotate: true
+  xy: 506, 119
+  size: 73, 25
+  orig: 200, 200
+  offset: 69, 109
+  index: -1
+pot_03/pot_normal
+  rotate: false
+  xy: 144, 224
+  size: 141, 129
+  orig: 200, 200
+  offset: 30, 29
+  index: -1
+pot_03/pot_sand
+  rotate: false
+  xy: 566, 87
+  size: 47, 25
+  orig: 200, 200
+  offset: 80, 107
+  index: -1
+pot_04/pot_normal
+  rotate: false
+  xy: 308, 483
+  size: 150, 145
+  orig: 200, 200
+  offset: 28, 27
+  index: -1
+pot_04/pot_sand
+  rotate: false
+  xy: 533, 185
+  size: 69, 27
+  orig: 200, 200
+  offset: 64, 106
+  index: -1
+pot_05/pot_normal
+  rotate: true
+  xy: 2, 155
+  size: 159, 132
+  orig: 200, 200
+  offset: 28, 41
+  index: -1
+pot_05/pot_sand
+  rotate: true
+  xy: 612, 583
+  size: 45, 16
+  orig: 200, 200
+  offset: 81, 112
+  index: -1
+pot_06/pot_normal
+  rotate: false
+  xy: 149, 489
+  size: 157, 139
+  orig: 200, 200
+  offset: 27, 26
+  index: -1
+pot_06/pot_sand
+  rotate: true
+  xy: 612, 533
+  size: 48, 15
+  orig: 200, 200
+  offset: 75, 107
+  index: -1
+pot_07/pot_normal
+  rotate: false
+  xy: 287, 217
+  size: 141, 127
+  orig: 200, 200
+  offset: 27, 33
+  index: -1
+pot_07/pot_sand
+  rotate: false
+  xy: 428, 141
+  size: 76, 23
+  orig: 200, 200
+  offset: 62, 120
+  index: -1
+pot_08/pot_normal
+  rotate: false
+  xy: 2, 4
+  size: 136, 149
+  orig: 200, 200
+  offset: 33, 35
+  index: -1
+pot_08/pot_sand
+  rotate: true
+  xy: 604, 140
+  size: 72, 24
+  orig: 200, 200
+  offset: 68, 114
+  index: -1
+pot_09/pot_normal
+  rotate: false
+  xy: 2, 475
+  size: 145, 153
+  orig: 200, 200
+  offset: 30, 33
+  index: -1
+pot_09/pot_sand
+  rotate: true
+  xy: 401, 137
+  size: 78, 25
+  orig: 200, 200
+  offset: 62, 111
+  index: -1
+pot_10/pot_normal
+  rotate: false
+  xy: 305, 346
+  size: 153, 135
+  orig: 200, 200
+  offset: 21, 39
+  index: -1
+pot_10/pot_sand
+  rotate: false
+  xy: 505, 64
+  size: 58, 19
+  orig: 200, 200
+  offset: 72, 119
+  index: -1
+pot_11/pot_normal
+  rotate: false
+  xy: 460, 489
+  size: 150, 139
+  orig: 200, 200
+  offset: 25, 35
+  index: -1
+pot_11/pot_sand
+  rotate: false
+  xy: 533, 162
+  size: 69, 21
+  orig: 200, 200
+  offset: 68, 113
+  index: -1
+pot_12/pot_normal
+  rotate: true
+  xy: 460, 350
+  size: 137, 148
+  orig: 200, 200
+  offset: 31, 33
+  index: -1
+pot_12/pot_sand
+  rotate: false
+  xy: 505, 42
+  size: 54, 20
+  orig: 200, 200
+  offset: 73, 113
+  index: -1
+pot_13/pot_normal
+  rotate: false
+  xy: 270, 117
+  size: 129, 98
+  orig: 200, 200
+  offset: 39, 44
+  index: -1
+pot_13/pot_sand
+  rotate: false
+  xy: 531, 214
+  size: 77, 24
+  orig: 200, 200
+  offset: 62, 114
+  index: -1
+pot_14/pot_normal
+  rotate: true
+  xy: 140, 2
+  size: 117, 97
+  orig: 200, 200
+  offset: 50, 45
+  index: -1
+pot_14/pot_sand
+  rotate: true
+  xy: 481, 40
+  size: 75, 22
+  orig: 200, 200
+  offset: 59, 116
+  index: -1
+pot_15/pot_normal
+  rotate: false
+  xy: 140, 121
+  size: 128, 101
+  orig: 200, 200
+  offset: 39, 44
+  index: -1
+pot_15/pot_sand
+  rotate: false
+  xy: 428, 117
+  size: 76, 22
+  orig: 200, 200
+  offset: 63, 106
+  index: -1
+pot_16/pot_normal
+  rotate: true
+  xy: 430, 222
+  size: 122, 99
+  orig: 200, 200
+  offset: 46, 47
+  index: -1
+pot_16/pot_sand
+  rotate: false
+  xy: 533, 114
+  size: 72, 21
+  orig: 200, 200
+  offset: 67, 120
+  index: -1
+pot_17/pot_normal
+  rotate: false
+  xy: 365, 13
+  size: 114, 102
+  orig: 200, 200
+  offset: 42, 45
+  index: -1
+pot_17/pot_sand
+  rotate: false
+  xy: 430, 194
+  size: 77, 26
+  orig: 200, 200
+  offset: 60, 112
+  index: -1
+pot_18/pot_normal
+  rotate: false
+  xy: 239, 11
+  size: 124, 104
+  orig: 200, 200
+  offset: 40, 41
+  index: -1
+pot_18/pot_sand
+  rotate: false
+  xy: 533, 137
+  size: 68, 23
+  orig: 200, 200
+  offset: 66, 115
+  index: -1
+pot_19/pot_normal
+  rotate: true
+  xy: 531, 240
+  size: 108, 85
+  orig: 200, 200
+  offset: 46, 50
+  index: -1
+pot_20/pot_normal
+  rotate: true
+  xy: 531, 240
+  size: 108, 85
+  orig: 200, 200
+  offset: 46, 50
+  index: -1
+pot_21/pot_normal
+  rotate: true
+  xy: 531, 240
+  size: 108, 85
+  orig: 200, 200
+  offset: 46, 50
+  index: -1
+pot_22/pot_normal
+  rotate: true
+  xy: 531, 240
+  size: 108, 85
+  orig: 200, 200
+  offset: 46, 50
+  index: -1
+pot_23/pot_normal
+  rotate: true
+  xy: 531, 240
+  size: 108, 85
+  orig: 200, 200
+  offset: 46, 50
+  index: -1
+pot_24/pot_normal
+  rotate: true
+  xy: 531, 240
+  size: 108, 85
+  orig: 200, 200
+  offset: 46, 50
+  index: -1
+pot_19/pot_sand
+  rotate: false
+  xy: 428, 166
+  size: 76, 26
+  orig: 200, 200
+  offset: 63, 96
+  index: -1
+pot_20/pot_sand
+  rotate: false
+  xy: 428, 166
+  size: 76, 26
+  orig: 200, 200
+  offset: 63, 96
+  index: -1
+pot_21/pot_sand
+  rotate: false
+  xy: 428, 166
+  size: 76, 26
+  orig: 200, 200
+  offset: 63, 96
+  index: -1
+pot_22/pot_sand
+  rotate: false
+  xy: 428, 166
+  size: 76, 26
+  orig: 200, 200
+  offset: 63, 96
+  index: -1
+pot_23/pot_sand
+  rotate: false
+  xy: 428, 166
+  size: 76, 26
+  orig: 200, 200
+  offset: 63, 96
+  index: -1
+pot_24/pot_sand
+  rotate: false
+  xy: 428, 166
+  size: 76, 26
+  orig: 200, 200
+  offset: 63, 96
+  index: -1

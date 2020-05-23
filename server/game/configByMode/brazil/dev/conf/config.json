@@ -1,0 +1,91 @@
+{
+  "zone": "br",
+  "environment": "SERVER_DEV",
+  "extendMemcached": "conf/couchbase.json",
+  "extendRedis": "conf/redis.json",
+  "logAddNewLine": true,
+  "minClientCode": 812,
+  "user": {
+    "portRange": 8000,
+    "portWebSocketRange": 8300,
+    "portAdminRange": 9000,
+    "useLoginPortal": true,
+    "useJsonPretty": false,
+    "periodSave": 120,
+    "groups": [
+      1,
+      2
+    ]
+  },
+  "udp": {
+    "portRange": 8200,
+    "sndBuf": 8388608,
+    "rcvBuf": 8388608
+  },
+  "admin": {
+    "portRange": 8100,
+    "group": 11
+  },
+  "newsBoard": {
+    "host": "10.30.62.26",
+    "group": 12,
+    "periodSave": 20,
+    "itemPerKey": 5000
+  },
+  "friend": {
+    "host": "10.30.62.26",
+    "group": 13,
+    "periodSave": 300,
+    "itemPerKey": 5000,
+    "itemPerLevel": 5000
+  },
+  "balance": {
+    "host": "10.30.62.26",
+    "group": 0,
+    "period": 1000,
+    "timeout": 1500
+  },
+  "chat": {
+    "host": "10.30.62.26",
+    "group": 3,
+    "useLoginPortal": false,
+    "periodSave": 120
+  },
+  "payment": {
+    "useServiceCheckLocalPayment": false,
+    "iap": {
+      "urlValidate": "http://10.30.62.26/kvtm/billing/test/fakePayment/vnVerifyGoogle.php",
+      "serviceName": "verify_receipt_google",
+      "expireDay": 7,
+      "connectTimeout": 5,
+      "idleTime": 30
+    },
+    "sea": {
+      "productId": 50020,
+      "key": "GsnPokerSea\u0026$1",
+      "urlGetPhone": "http://118.102.3.28:10099/payment/getphonenumberlist",
+      "urlCreate": "http://118.102.3.28:10099/payment/getTransaction",
+      "urlProcess": "http://118.102.3.28:10099/payment/verifyOtp",
+      "connectTimeout": 5,
+      "idleTime": 30,
+      "percentNetGross": 70
+    },
+    "brazil": {
+      "productId": 50048,
+      "key": "GsnPokerSea\u0026$1",
+      "urlCreate": "http://35.247.248.165:8080/payment/createpwtransaction",
+      "urlProcess": "http://35.247.248.165:8080/payment/processpwpayment/",
+      "urlGetPaymentFlow": "http://118.102.3.28:10099/payment/getpaymentflow/",
+      "urlGetTransaction": "http://118.102.3.28:10099/payment/gettransaction/",
+      "connectTimeout": 5,
+      "idleTime": 30,
+      "percentNetGross": 70
+    }
+  },
+  "mapIP": {
+    "10.30.62.26": {
+      "ip": "49.213.72.182",
+      "domain": "kvtm-dev26-vn-game.service.zingplay.com"
+    }
+  }
+}

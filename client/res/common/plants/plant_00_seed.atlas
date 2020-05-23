@@ -1,0 +1,55 @@
+
+plant_00_seed.png
+size: 78,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nu_000
+  rotate: false
+  xy: 52, 55
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+nu_001
+  rotate: false
+  xy: 52, 62
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+nu_002
+  rotate: false
+  xy: 30, 41
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+nu_003
+  rotate: false
+  xy: 2, 15
+  size: 25, 6
+  orig: 25, 6
+  offset: 0, 0
+  index: -1
+nu_004
+  rotate: false
+  xy: 2, 50
+  size: 48, 26
+  orig: 48, 26
+  offset: 0, 0
+  index: -1
+nu_005
+  rotate: false
+  xy: 2, 23
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+nu_006
+  rotate: true
+  xy: 2, 2
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1

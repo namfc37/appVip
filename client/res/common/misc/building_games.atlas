@@ -1,0 +1,55 @@
+
+building_games.png
+size: 365,363
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+barel copy
+  rotate: false
+  xy: 2, 2
+  size: 27, 33
+  orig: 29, 35
+  offset: 1, 1
+  index: -1
+barel copy 2
+  rotate: true
+  xy: 246, 41
+  size: 24, 29
+  orig: 26, 31
+  offset: 1, 1
+  index: -1
+building_games
+  rotate: false
+  xy: 2, 37
+  size: 242, 150
+  orig: 250, 154
+  offset: 4, 4
+  index: -1
+building_games_01
+  rotate: true
+  xy: 264, 151
+  size: 210, 99
+  orig: 212, 101
+  offset: 1, 1
+  index: -1
+building_games_lock
+  rotate: false
+  xy: 2, 189
+  size: 260, 172
+  orig: 260, 172
+  offset: 0, 0
+  index: -1
+lgiht
+  rotate: false
+  xy: 246, 157
+  size: 16, 30
+  orig: 18, 32
+  offset: 1, 1
+  index: -1
+smoker_1
+  rotate: false
+  xy: 246, 67
+  size: 100, 82
+  orig: 100, 82
+  offset: 0, 0
+  index: -1

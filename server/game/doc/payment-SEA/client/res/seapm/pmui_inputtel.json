@@ -1,0 +1,448 @@
+{
+  "ID": "4eac999c-aa4f-4550-8c63-1680427b6749",
+  "Version": "2.3.2.3",
+  "Name": "pmui_inputtel",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 8,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "sys_popup_table_01.png",
+              "Plist": "pm_content_ui.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 173,
+            "Scale9OriginY": 119,
+            "Scale9Width": 181,
+            "Scale9Height": 125,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 480.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.5729,
+              "Y": 0.5672
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "LeftMargin": 205.0,
+            "RightMargin": 205.0,
+            "TopMargin": 138.5,
+            "BottomMargin": 138.5,
+            "Tag": 9,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sys_popup_button_02.png",
+                  "Plist": "pm_content_ui.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sys_popup_button_02.png",
+                  "Plist": "pm_content_ui.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sys_popup_button_02.png",
+                  "Plist": "pm_content_ui.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 172,
+                "Scale9Height": 32,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 395.725,
+                  "Y": 55.0857
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7195,
+                  "Y": 0.1518
+                },
+                "PreSize": {
+                  "X": 0.3673,
+                  "Y": 0.1488
+                },
+                "HorizontalEdge": "BothEdge",
+                "LeftMargin": 294.725,
+                "RightMargin": 53.275,
+                "TopMargin": 280.9143,
+                "BottomMargin": 28.0857,
+                "Tag": 11,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 20,
+                    "LabelText": "OK",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 101.0,
+                      "Y": 27.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.9901,
+                      "Y": 0.9259
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 1.0,
+                    "RightMargin": 1.0,
+                    "TopMargin": 2.0,
+                    "BottomMargin": 2.0,
+                    "Tag": 14,
+                    "ActionTag": -1456238368,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 50.0
+                    },
+                    "Name": "label_BtnOk",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 805688618,
+                "Size": {
+                  "X": 202.0,
+                  "Y": 54.0
+                },
+                "Name": "btn_Ok",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 36,
+                "LabelText": "Type Your Phone Number",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 275.0,
+                  "Y": 289.5515
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 26,
+                  "G": 26,
+                  "B": 26
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.7977
+                },
+                "PreSize": {
+                  "X": 0.9091,
+                  "Y": 0.1928
+                },
+                "HorizontalEdge": "BothEdge",
+                "LeftMargin": 25.0,
+                "RightMargin": 25.0,
+                "TopMargin": 38.4485,
+                "BottomMargin": 254.5515,
+                "Tag": 13,
+                "ActionTag": -1132277012,
+                "Size": {
+                  "X": 500.0,
+                  "Y": 70.0
+                },
+                "Name": "label_Title",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sys_popup_bar.png",
+                  "Plist": "pm_content_ui.plist"
+                },
+                "Scale9Width": 469,
+                "Scale9Height": 64,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 278.0,
+                  "Y": 191.6653
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5055,
+                  "Y": 0.528
+                },
+                "PreSize": {
+                  "X": 0.4885,
+                  "Y": 0.1
+                },
+                "HorizontalEdge": "BothEdge",
+                "LeftMargin": 43.5,
+                "RightMargin": 37.5,
+                "TopMargin": 139.3347,
+                "BottomMargin": 159.6653,
+                "Tag": 15,
+                "ActionTag": -19631212,
+                "Size": {
+                  "X": 469.0,
+                  "Y": 64.0
+                },
+                "Name": "image_Input",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sys_popup_button_01.png",
+                  "Plist": "pm_content_ui.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sys_popup_button_01.png",
+                  "Plist": "pm_content_ui.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sys_popup_button_01.png",
+                  "Plist": "pm_content_ui.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 172,
+                "Scale9Height": 32,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 154.88,
+                  "Y": 55.0857
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2816,
+                  "Y": 0.1518
+                },
+                "PreSize": {
+                  "X": 0.3673,
+                  "Y": 0.1488
+                },
+                "HorizontalEdge": "BothEdge",
+                "LeftMargin": 53.88,
+                "RightMargin": 294.12,
+                "TopMargin": 280.9143,
+                "BottomMargin": 28.0857,
+                "Tag": 25,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 20,
+                    "LabelText": "OK",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 101.0,
+                      "Y": 27.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.9901,
+                      "Y": 0.9259
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 1.0,
+                    "RightMargin": 1.0,
+                    "TopMargin": 2.0,
+                    "BottomMargin": 2.0,
+                    "Tag": 26,
+                    "ActionTag": 1315704767,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 50.0
+                    },
+                    "Name": "label_BtnCancel",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -484340156,
+                "Size": {
+                  "X": 202.0,
+                  "Y": 54.0
+                },
+                "Name": "btn_Cancel",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1871650005,
+            "Size": {
+              "X": 550.0,
+              "Y": 363.0
+            },
+            "Name": "image_Bgr",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 960.0,
+          "Y": 640.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "pm_content_ui.plist",
+        "pm_content_ui.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

@@ -1,0 +1,115 @@
+{
+  "mails": {
+    "1588144345": {
+      "uid": 1588144345,
+      "type": 2,
+      "title": "TXT_E03_REWARD_TITLE",
+      "content": "TXT_E03_REWARD_CONTENT",
+      "time": 1588144345,
+      "isRead": false,
+      "items": {
+        "GOLD": 15000,
+        "EXP": 8000,
+        "P29": 1,
+        "M3": 10
+      }
+    },
+    "1588144374": {
+      "uid": 1588144374,
+      "type": 2,
+      "title": "TXT_E03_REWARD_TITLE",
+      "content": "TXT_E03_REWARD_CONTENT",
+      "time": 1588144374,
+      "isRead": false,
+      "items": {
+        "A3": 10,
+        "SK5": 1,
+        "EXP": 45000,
+        "P43": 1
+      }
+    },
+    "1588144377": {
+      "uid": 1588144377,
+      "type": 2,
+      "title": "TXT_E03_REWARD_TITLE",
+      "content": "TXT_E03_REWARD_CONTENT",
+      "time": 1588144377,
+      "isRead": false,
+      "items": {
+        "P44": 1,
+        "A4": 10,
+        "EXP": 55000,
+        "SK12": 1
+      }
+    },
+    "1588144381": {
+      "uid": 1588144381,
+      "type": 2,
+      "title": "TXT_E03_REWARD_TITLE",
+      "content": "TXT_E03_REWARD_CONTENT",
+      "time": 1588144381,
+      "isRead": false,
+      "items": {
+        "FT1": 2,
+        "P30": 1,
+        "EXP": 10000,
+        "A0": 5
+      }
+    },
+    "1588144385": {
+      "uid": 1588144385,
+      "type": 2,
+      "title": "TXT_E03_REWARD_TITLE",
+      "content": "TXT_E03_REWARD_CONTENT",
+      "time": 1588144385,
+      "isRead": false,
+      "items": {
+        "GOLD": 20000,
+        "M16": 1,
+        "M6": 10,
+        "EXP": 12000,
+        "P31": 1
+      }
+    },
+    "1588145046": {
+      "uid": 1588145046,
+      "type": 2,
+      "title": "TXT_E03_REWARD_TITLE",
+      "content": "TXT_E03_REWARD_CONTENT",
+      "time": 1588145046,
+      "isRead": false,
+      "items": {
+        "A1": 10,
+        "P35": 1,
+        "EXP": 15000,
+        "SK4": 1
+      }
+    },
+    "1588145235": {
+      "uid": 1588145235,
+      "type": 2,
+      "title": "TXT_E03_REWARD_TITLE",
+      "content": "TXT_E03_REWARD_CONTENT",
+      "time": 1588145235,
+      "isRead": false,
+      "items": {
+        "H1": 2,
+        "EXP": 25000,
+        "P37": 1,
+        "M4": 10
+      }
+    },
+    "1588323459": {
+      "uid": 1588323459,
+      "type": 2,
+      "title": "TXT_EVT_LOG_TITLE",
+      "content": "TXT_EVT_LOG_CONT",
+      "time": 1588323459,
+      "isRead": false,
+      "items": {
+        "HT2": 4
+      }
+    }
+  },
+  "sysUid": []
+}

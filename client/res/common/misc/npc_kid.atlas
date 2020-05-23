@@ -1,0 +1,209 @@
+
+npc_kid.png
+size: 606,606
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+for_hire
+  rotate: false
+  xy: 2, 133
+  size: 205, 236
+  orig: 207, 238
+  offset: 0, 0
+  index: -1
+kid_000
+  rotate: false
+  xy: 2, 371
+  size: 250, 233
+  orig: 250, 233
+  offset: 0, 0
+  index: -1
+kid_003
+  rotate: false
+  xy: 368, 268
+  size: 94, 136
+  orig: 94, 136
+  offset: 0, 0
+  index: -1
+kid_004
+  rotate: false
+  xy: 505, 11
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: -1
+kid_006
+  rotate: true
+  xy: 515, 63
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+kid_008
+  rotate: false
+  xy: 515, 96
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+kid_011
+  rotate: true
+  xy: 435, 412
+  size: 192, 147
+  orig: 205, 147
+  offset: 13, 0
+  index: -1
+kid_012
+  rotate: true
+  xy: 439, 58
+  size: 79, 74
+  orig: 79, 74
+  offset: 0, 0
+  index: -1
+kid_013
+  rotate: true
+  xy: 439, 15
+  size: 41, 64
+  orig: 41, 64
+  offset: 0, 0
+  index: -1
+kid_014
+  rotate: false
+  xy: 218, 113
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+kid_015
+  rotate: false
+  xy: 573, 345
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+kid_016
+  rotate: false
+  xy: 573, 312
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+kid_019
+  rotate: false
+  xy: 557, 15
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+kid_022
+  rotate: false
+  xy: 566, 58
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+kid_023
+  rotate: false
+  xy: 254, 406
+  size: 179, 198
+  orig: 179, 198
+  offset: 0, 0
+  index: -1
+kid_024
+  rotate: false
+  xy: 464, 274
+  size: 107, 136
+  orig: 107, 136
+  offset: 0, 0
+  index: -1
+kid_026
+  rotate: false
+  xy: 218, 4
+  size: 109, 107
+  orig: 109, 107
+  offset: 0, 0
+  index: -1
+kid_027
+  rotate: false
+  xy: 254, 113
+  size: 116, 127
+  orig: 116, 127
+  offset: 0, 0
+  index: -1
+kid_028
+  rotate: true
+  xy: 2, 18
+  size: 113, 162
+  orig: 113, 162
+  offset: 0, 0
+  index: -1
+kid_0281
+  rotate: false
+  xy: 254, 242
+  size: 112, 162
+  orig: 113, 162
+  offset: 1, 0
+  index: -1
+kid_030
+  rotate: false
+  xy: 372, 139
+  size: 116, 127
+  orig: 116, 127
+  offset: 0, 0
+  index: -1
+kid_031
+  rotate: false
+  xy: 490, 148
+  size: 114, 124
+  orig: 114, 124
+  offset: 0, 0
+  index: -1
+kid_032
+  rotate: false
+  xy: 584, 579
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+kid_033
+  rotate: false
+  xy: 573, 378
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+kid_034
+  rotate: false
+  xy: 329, 4
+  size: 108, 107
+  orig: 109, 107
+  offset: 1, 0
+  index: -1
+kid_050
+  rotate: true
+  xy: 209, 160
+  size: 209, 43
+  orig: 209, 43
+  offset: 0, 0
+  index: -1
+kid_eye_cover
+  rotate: true
+  xy: 166, 29
+  size: 102, 50
+  orig: 109, 107
+  offset: 4, 37
+  index: -1
+machine_01_nuoc_ep_020
+  rotate: true
+  xy: 566, 91
+  size: 55, 36
+  orig: 55, 36
+  offset: 0, 0
+  index: -1
+nuoc_tao
+  rotate: true
+  xy: 2, 2
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1

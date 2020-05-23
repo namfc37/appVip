@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="resource">
+      <UniqueIdentifier>{ca9c9e15-d942-43a1-aa7a-5f0b74ca1afd}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;jpg;jpeg;jpe;png;manifest</Extensions>
+    </Filter>
+    <Filter Include="win32">
+      <UniqueIdentifier>{ccb2323b-1cfa-41ea-bcf4-ba5f07309396}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes">
+      <UniqueIdentifier>{e93a77e1-af1e-4400-87d3-504b62ebdbb0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\ide-support">
+      <UniqueIdentifier>{5bec5a39-9bec-42e8-a3e4-823d4eacec56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\ui">
+      <UniqueIdentifier>{6e90f7d0-4aee-453b-a81b-8bb5caaa53eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\update">
+      <UniqueIdentifier>{e8924dfc-c762-4649-a495-0e947f2bead7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ide-support\RuntimeJsImpl.cpp">
+      <Filter>Classes\ide-support</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ide-support\SimpleConfigParser.cpp">
+      <Filter>Classes\ide-support</Filter>
+    </ClCompile>
+    <ClCompile Include="SimulatorWin.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ui\PopupDialog.cpp">
+      <Filter>Classes\ui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\update\Localization.cpp">
+      <Filter>Classes\update</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\update\ScreenUpdateAssets.cpp">
+      <Filter>Classes\update</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\update\AssetUpdate.cpp">
+      <Filter>Classes\update</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\update\AssetUpdateGame.cpp">
+      <Filter>Classes\update</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="..\Classes\ide-support\CodeIDESupport.h">
+      <Filter>Classes\ide-support</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ide-support\RuntimeJsImpl.h">
+      <Filter>Classes\ide-support</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ide-support\SimpleConfigParser.h">
+      <Filter>Classes\ide-support</Filter>
+    </ClInclude>
+    <ClInclude Include="SimulatorWin.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ui\PopupDialog.h">
+      <Filter>Classes\ui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\update\AssetUpdateGame.h">
+      <Filter>Classes\update</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\update\Localization.h">
+      <Filter>Classes\update</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\update\ScreenUpdateAssets.h">
+      <Filter>Classes\update</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\update\AssetUpdate.h">
+      <Filter>Classes\update</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc">
+      <Filter>resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\game.ico">
+      <Filter>resource</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

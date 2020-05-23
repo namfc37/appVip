@@ -1,0 +1,174 @@
+
+decors_set_01.png
+size: 450,448
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+decor_01/decor_01_1
+  rotate: true
+  xy: 235, 210
+  size: 117, 106
+  orig: 157, 157
+  offset: 21, 18
+  index: -1
+decor_01/decor_01_2
+  rotate: false
+  xy: 2, 30
+  size: 17, 55
+  orig: 157, 157
+  offset: 70, 80
+  index: -1
+decor_02/decor_01_2
+  rotate: false
+  xy: 2, 30
+  size: 17, 55
+  orig: 157, 157
+  offset: 70, 80
+  index: -1
+decor_03/decor_01_2
+  rotate: false
+  xy: 2, 30
+  size: 17, 55
+  orig: 157, 157
+  offset: 70, 80
+  index: -1
+decor_04/decor_01_2
+  rotate: false
+  xy: 2, 30
+  size: 17, 55
+  orig: 157, 157
+  offset: 70, 80
+  index: -1
+decor_05/decor_01_2
+  rotate: false
+  xy: 2, 30
+  size: 17, 55
+  orig: 157, 157
+  offset: 70, 80
+  index: -1
+decor_06/decor_01_2
+  rotate: false
+  xy: 2, 30
+  size: 17, 55
+  orig: 157, 157
+  offset: 70, 80
+  index: -1
+decor_01/decor_01_3
+  rotate: false
+  xy: 21, 31
+  size: 23, 25
+  orig: 157, 157
+  offset: 68, 58
+  index: -1
+decor_02/decor_01_3
+  rotate: false
+  xy: 21, 31
+  size: 23, 25
+  orig: 157, 157
+  offset: 68, 58
+  index: -1
+decor_01/icon_big
+  rotate: false
+  xy: 2, 327
+  size: 115, 119
+  orig: 157, 157
+  offset: 22, 16
+  index: -1
+decor_02/decor_01_1
+  rotate: true
+  xy: 118, 87
+  size: 117, 106
+  orig: 157, 157
+  offset: 21, 18
+  index: -1
+decor_02/icon_big
+  rotate: false
+  xy: 2, 206
+  size: 115, 119
+  orig: 157, 157
+  offset: 22, 16
+  index: -1
+decor_03/decor_01_1
+  rotate: true
+  xy: 335, 98
+  size: 110, 96
+  orig: 157, 157
+  offset: 24, 24
+  index: -1
+decor_03/decor_01_3
+  rotate: false
+  xy: 21, 58
+  size: 25, 27
+  orig: 157, 157
+  offset: 67, 56
+  index: -1
+decor_04/decor_01_3
+  rotate: false
+  xy: 21, 58
+  size: 25, 27
+  orig: 157, 157
+  offset: 67, 56
+  index: -1
+decor_05/decor_01_3
+  rotate: false
+  xy: 21, 58
+  size: 25, 27
+  orig: 157, 157
+  offset: 67, 56
+  index: -1
+decor_06/decor_01_3
+  rotate: false
+  xy: 21, 58
+  size: 25, 27
+  orig: 157, 157
+  offset: 67, 56
+  index: -1
+decor_03/icon_big
+  rotate: false
+  xy: 119, 208
+  size: 114, 116
+  orig: 157, 157
+  offset: 22, 19
+  index: -1
+decor_04/decor_01_1
+  rotate: true
+  xy: 346, 330
+  size: 116, 102
+  orig: 157, 157
+  offset: 21, 20
+  index: -1
+decor_04/icon_big
+  rotate: false
+  xy: 2, 87
+  size: 114, 117
+  orig: 157, 157
+  offset: 22, 18
+  index: -1
+decor_05/decor_01_1
+  rotate: false
+  xy: 346, 218
+  size: 102, 110
+  orig: 157, 157
+  offset: 28, 16
+  index: -1
+decor_05/icon_big
+  rotate: false
+  xy: 235, 329
+  size: 109, 117
+  orig: 157, 157
+  offset: 25, 18
+  index: -1
+decor_06/decor_01_1
+  rotate: false
+  xy: 226, 91
+  size: 107, 115
+  orig: 157, 157
+  offset: 25, 13
+  index: -1
+decor_06/icon_big
+  rotate: false
+  xy: 119, 326
+  size: 114, 120
+  orig: 157, 157
+  offset: 22, 15
+  index: -1

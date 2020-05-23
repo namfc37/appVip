@@ -1,0 +1,34 @@
+
+building_pshop.png
+size: 223,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banner_ads
+  rotate: true
+  xy: 169, 57
+  size: 45, 52
+  orig: 47, 54
+  offset: 1, 1
+  index: -1
+building_pshop
+  rotate: true
+  xy: 2, 2
+  size: 100, 104
+  orig: 102, 106
+  offset: 1, 1
+  index: -1
+light_star
+  rotate: true
+  xy: 169, 5
+  size: 50, 46
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+products
+  rotate: true
+  xy: 108, 31
+  size: 71, 59
+  orig: 73, 61
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,20 @@
+
+cloud_flag.png
+size: 103,103
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud_flag
+  rotate: false
+  xy: 2, 38
+  size: 62, 63
+  orig: 64, 65
+  offset: 1, 1
+  index: -1
+cloud_flag_up
+  rotate: true
+  xy: 66, 2
+  size: 99, 19
+  orig: 101, 21
+  offset: 1, 1
+  index: -1

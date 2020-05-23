@@ -1,0 +1,687 @@
+{
+  "MILESTONES": {
+    "2000": {
+      "20": {
+        "ID": 10,
+        "ITEMS": {
+          "P41": 1,
+          "GOLD": 65000,
+          "COIN": 500
+        }
+      },
+      "50": {
+        "ID": 11,
+        "ITEMS": {
+          "GOLD": 70000,
+          "COIN": 500,
+          "P47": 1
+        }
+      },
+      "2147483647": {
+        "ID": 12,
+        "ITEMS": {
+          "P48": 1,
+          "GOLD": 75000,
+          "COIN": 500
+        }
+      }
+    },
+    "10000": {
+      "20": {
+        "ID": 22,
+        "ITEMS": {
+          "GOLD": 145000,
+          "COIN": 2500,
+          "P50": 1
+        }
+      },
+      "50": {
+        "ID": 23,
+        "ITEMS": {
+          "GOLD": 150000,
+          "COIN": 2500,
+          "P53": 1
+        }
+      },
+      "2147483647": {
+        "ID": 24,
+        "ITEMS": {
+          "GOLD": 155000,
+          "COIN": 2500,
+          "P54": 1
+        }
+      }
+    },
+    "20000": {
+      "20": {
+        "ID": 28,
+        "ITEMS": {
+          "GOLD": 185000,
+          "COIN": 5000,
+          "P54": 1
+        }
+      },
+      "50": {
+        "ID": 29,
+        "ITEMS": {
+          "P55": 1,
+          "GOLD": 190000,
+          "COIN": 5000
+        }
+      },
+      "2147483647": {
+        "ID": 30,
+        "ITEMS": {
+          "P59": 1,
+          "GOLD": 195000,
+          "COIN": 5000
+        }
+      }
+    },
+    "30000": {
+      "20": {
+        "ID": 31,
+        "ITEMS": {
+          "D30": 1,
+          "P55": 1,
+          "GOLD": 205000,
+          "COIN": 7500
+        }
+      },
+      "50": {
+        "ID": 32,
+        "ITEMS": {
+          "GOLD": 210000,
+          "D31": 1,
+          "P59": 1,
+          "COIN": 7500
+        }
+      },
+      "2147483647": {
+        "ID": 33,
+        "ITEMS": {
+          "GOLD": 215000,
+          "D32": 1,
+          "P60": 1,
+          "COIN": 7500
+        }
+      }
+    },
+    "50000": {
+      "20": {
+        "ID": 34,
+        "ITEMS": {
+          "GOLD": 225000,
+          "D31": 1,
+          "P59": 1,
+          "COIN": 12500
+        }
+      },
+      "50": {
+        "ID": 35,
+        "ITEMS": {
+          "GOLD": 230000,
+          "D32": 1,
+          "P60": 1,
+          "COIN": 12500
+        }
+      },
+      "2147483647": {
+        "ID": 36,
+        "ITEMS": {
+          "GOLD": 235000,
+          "P61": 1,
+          "D33": 1,
+          "COIN": 12500
+        }
+      }
+    },
+    "500": {
+      "20": {
+        "ID": 4,
+        "ITEMS": {
+          "GOLD": 25000,
+          "COIN": 100,
+          "P29": 1
+        }
+      },
+      "50": {
+        "ID": 5,
+        "ITEMS": {
+          "GOLD": 30000,
+          "COIN": 100,
+          "P35": 1
+        }
+      },
+      "2147483647": {
+        "ID": 6,
+        "ITEMS": {
+          "P41": 1,
+          "GOLD": 35000,
+          "COIN": 100
+        }
+      }
+    },
+    "200": {
+      "20": {
+        "ID": 1,
+        "ITEMS": {
+          "C4": 1,
+          "GOLD": 5000,
+          "COIN": 50
+        }
+      },
+      "50": {
+        "ID": 2,
+        "ITEMS": {
+          "C4": 1,
+          "GOLD": 10000,
+          "COIN": 50
+        }
+      },
+      "2147483647": {
+        "ID": 3,
+        "ITEMS": {
+          "C4": 1,
+          "GOLD": 15000,
+          "COIN": 50
+        }
+      }
+    },
+    "1000": {
+      "20": {
+        "ID": 7,
+        "ITEMS": {
+          "GOLD": 45000,
+          "D18": 1,
+          "P35": 1,
+          "COIN": 200
+        }
+      },
+      "50": {
+        "ID": 8,
+        "ITEMS": {
+          "GOLD": 50000,
+          "P41": 1,
+          "D19": 1,
+          "COIN": 200
+        }
+      },
+      "2147483647": {
+        "ID": 9,
+        "ITEMS": {
+          "GOLD": 55000,
+          "P47": 1,
+          "D20": 1,
+          "COIN": 200
+        }
+      }
+    },
+    "3000": {
+      "20": {
+        "ID": 13,
+        "ITEMS": {
+          "GOLD": 85000,
+          "P47": 1,
+          "D19": 1,
+          "COIN": 750
+        }
+      },
+      "50": {
+        "ID": 14,
+        "ITEMS": {
+          "GOLD": 90000,
+          "D20": 1,
+          "P48": 1,
+          "COIN": 750
+        }
+      },
+      "2147483647": {
+        "ID": 15,
+        "ITEMS": {
+          "GOLD": 95000,
+          "D21": 1,
+          "P49": 1,
+          "COIN": 750
+        }
+      }
+    },
+    "5000": {
+      "20": {
+        "ID": 16,
+        "ITEMS": {
+          "P48": 1,
+          "GOLD": 105000,
+          "COIN": 1250
+        }
+      },
+      "50": {
+        "ID": 17,
+        "ITEMS": {
+          "P49": 1,
+          "GOLD": 110000,
+          "COIN": 1250
+        }
+      },
+      "2147483647": {
+        "ID": 18,
+        "ITEMS": {
+          "GOLD": 115000,
+          "COIN": 1250,
+          "P50": 1
+        }
+      }
+    },
+    "7000": {
+      "20": {
+        "ID": 19,
+        "ITEMS": {
+          "GOLD": 125000,
+          "P49": 1,
+          "COIN": 1750,
+          "D24": 1
+        }
+      },
+      "50": {
+        "ID": 20,
+        "ITEMS": {
+          "GOLD": 130000,
+          "P50": 1,
+          "COIN": 1750,
+          "D25": 1
+        }
+      },
+      "2147483647": {
+        "ID": 21,
+        "ITEMS": {
+          "D26": 1,
+          "GOLD": 135000,
+          "COIN": 1750,
+          "P53": 1
+        }
+      }
+    },
+    "15000": {
+      "20": {
+        "ID": 25,
+        "ITEMS": {
+          "GOLD": 165000,
+          "COIN": 3750,
+          "D25": 1,
+          "P53": 1
+        }
+      },
+      "50": {
+        "ID": 26,
+        "ITEMS": {
+          "D26": 1,
+          "GOLD": 170000,
+          "COIN": 3750,
+          "P54": 1
+        }
+      },
+      "2147483647": {
+        "ID": 27,
+        "ITEMS": {
+          "D27": 1,
+          "P55": 1,
+          "GOLD": 175000,
+          "COIN": 3750
+        }
+      }
+    }
+  },
+  "SHOP": {
+    "ACSH_09": {
+      "ID": "ACSH_09",
+      "PRICE": 700,
+      "LEVELS": [
+        1,
+        30
+      ],
+      "ITEM": "P60",
+      "NUM": 1,
+      "BONUS": {},
+      "OPEN_TIMES": [
+        {
+          "HOUR": 9,
+          "MINUTE": 0
+        },
+        {
+          "HOUR": 12,
+          "MINUTE": 0
+        },
+        {
+          "HOUR": 16,
+          "MINUTE": 0
+        },
+        {
+          "HOUR": 20,
+          "MINUTE": 0
+        }
+      ],
+      "LIMIT": 20000,
+      "LIMIT_PER_DAY": 4000,
+      "LIMIT_PER_USER": 5,
+      "IS_VIETNAM_ONLY": false
+    },
+    "ACSH_08": {
+      "ID": "ACSH_08",
+      "PRICE": 600,
+      "LEVELS": [
+        31,
+        2147483647
+      ],
+      "ITEM": "P56",
+      "NUM": 1,
+      "BONUS": {},
+      "OPEN_TIMES": [],
+      "LIMIT": 0,
+      "LIMIT_PER_DAY": 0,
+      "LIMIT_PER_USER": 0,
+      "IS_VIETNAM_ONLY": false
+    },
+    "ACSH_05": {
+      "ID": "ACSH_05",
+      "PRICE": 130,
+      "LEVELS": [
+        1,
+        30
+      ],
+      "ITEM": "P49",
+      "NUM": 1,
+      "BONUS": {},
+      "OPEN_TIMES": [],
+      "LIMIT": 0,
+      "LIMIT_PER_DAY": 0,
+      "LIMIT_PER_USER": 0,
+      "IS_VIETNAM_ONLY": false
+    },
+    "ACSH_16": {
+      "ID": "ACSH_16",
+      "PRICE": 40,
+      "LEVELS": [
+        1,
+        2147483647
+      ],
+      "ITEM": "N0",
+      "NUM": 10,
+      "BONUS": {
+        "N1": 10,
+        "N2": 10,
+        "N3": 10
+      },
+      "OPEN_TIMES": [],
+      "LIMIT": 0,
+      "LIMIT_PER_DAY": 0,
+      "LIMIT_PER_USER": 0,
+      "DESC": "TXT_ACSH_04_DESC",
+      "TITLE": "TXT_ACSH_04_NAME",
+      "IS_VIETNAM_ONLY": false
+    },
+    "ACSH_04": {
+      "ID": "ACSH_04",
+      "PRICE": 10,
+      "LEVELS": [
+        31,
+        2147483647
+      ],
+      "ITEM": "EXP",
+      "NUM": 200000,
+      "BONUS": {},
+      "OPEN_TIMES": [],
+      "LIMIT": 0,
+      "LIMIT_PER_DAY": 0,
+      "LIMIT_PER_USER": 0,
+      "IS_VIETNAM_ONLY": false
+    },
+    "ACSH_15": {
+      "ID": "ACSH_15",
+      "PRICE": 8,
+      "LEVELS": [
+        1,
+        2147483647
+      ],
+      "ITEM": "M2",
+      "NUM": 10,
+      "BONUS": {
+        "M5": 10,
+        "M8": 10,
+        "M11": 10
+      },
+      "OPEN_TIMES": [],
+      "LIMIT": 0,
+      "LIMIT_PER_DAY": 0,
+      "LIMIT_PER_USER": 0,
+      "DESC": "TXT_ACSH_03_DESC",
+      "TITLE": "TXT_ACSH_03_NAME",
+      "IS_VIETNAM_ONLY": false
+    },
+    "ACSH_07": {
+      "ID": "ACSH_07",
+      "PRICE": 540,
+      "LEVELS": [
+        1,
+        30
+      ],
+      "ITEM": "P55",
+      "NUM": 1,
+      "BONUS": {},
+      "OPEN_TIMES": [],
+      "LIMIT": 0,
+      "LIMIT_PER_DAY": 0,
+      "LIMIT_PER_USER": 0,
+      "IS_VIETNAM_ONLY": false
+    },
+    "ACSH_06": {
+      "ID": "ACSH_06",
+      "PRICE": 140,
+      "LEVELS": [
+        31,
+        2147483647
+      ],
+      "ITEM": "P50",
+      "NUM": 1,
+      "BONUS": {},
+      "OPEN_TIMES": [],
+      "LIMIT": 0,
+      "LIMIT_PER_DAY": 0,
+      "LIMIT_PER_USER": 0,
+      "IS_VIETNAM_ONLY": false
+    },
+    "ACSH_01": {
+      "ID": "ACSH_01",
+      "PRICE": 8,
+      "LEVELS": [
+        1,
+        30
+      ],
+      "ITEM": "GOLD",
+      "NUM": 100000,
+      "BONUS": {},
+      "OPEN_TIMES": [],
+      "LIMIT": 0,
+      "LIMIT_PER_DAY": 0,
+      "LIMIT_PER_USER": 0,
+      "IS_VIETNAM_ONLY": false
+    },
+    "ACSH_12": {
+      "ID": "ACSH_12",
+      "PRICE": 2600,
+      "LEVELS": [
+        31,
+        2147483647
+      ],
+      "ITEM": "P66",
+      "NUM": 1,
+      "BONUS": {},
+      "OPEN_TIMES": [
+        {
+          "HOUR": 10,
+          "MINUTE": 0
+        },
+        {
+          "HOUR": 14,
+          "MINUTE": 0
+        },
+        {
+          "HOUR": 18,
+          "MINUTE": 0
+        },
+        {
+          "HOUR": 22,
+          "MINUTE": 0
+        }
+      ],
+      "LIMIT": 20000,
+      "LIMIT_PER_DAY": 4000,
+      "LIMIT_PER_USER": 3,
+      "IS_VIETNAM_ONLY": false
+    },
+    "ACSH_11": {
+      "ID": "ACSH_11",
+      "PRICE": 2300,
+      "LEVELS": [
+        1,
+        30
+      ],
+      "ITEM": "P65",
+      "NUM": 1,
+      "BONUS": {},
+      "OPEN_TIMES": [
+        {
+          "HOUR": 10,
+          "MINUTE": 0
+        },
+        {
+          "HOUR": 14,
+          "MINUTE": 0
+        },
+        {
+          "HOUR": 18,
+          "MINUTE": 0
+        },
+        {
+          "HOUR": 22,
+          "MINUTE": 0
+        }
+      ],
+      "LIMIT": 20000,
+      "LIMIT_PER_DAY": 4000,
+      "LIMIT_PER_USER": 3,
+      "IS_VIETNAM_ONLY": false
+    },
+    "ACSH_03": {
+      "ID": "ACSH_03",
+      "PRICE": 5,
+      "LEVELS": [
+        1,
+        30
+      ],
+      "ITEM": "EXP",
+      "NUM": 100000,
+      "BONUS": {},
+      "OPEN_TIMES": [],
+      "LIMIT": 0,
+      "LIMIT_PER_DAY": 0,
+      "LIMIT_PER_USER": 0,
+      "IS_VIETNAM_ONLY": false
+    },
+    "ACSH_14": {
+      "ID": "ACSH_14",
+      "PRICE": 8,
+      "LEVELS": [
+        1,
+        2147483647
+      ],
+      "ITEM": "M1",
+      "NUM": 10,
+      "BONUS": {
+        "M4": 10,
+        "M7": 10,
+        "M10": 10
+      },
+      "OPEN_TIMES": [],
+      "LIMIT": 0,
+      "LIMIT_PER_DAY": 0,
+      "LIMIT_PER_USER": 0,
+      "DESC": "TXT_ACSH_02_DESC",
+      "TITLE": "TXT_ACSH_02_NAME",
+      "IS_VIETNAM_ONLY": false
+    },
+    "ACSH_02": {
+      "ID": "ACSH_02",
+      "PRICE": 16,
+      "LEVELS": [
+        31,
+        2147483647
+      ],
+      "ITEM": "GOLD",
+      "NUM": 200000,
+      "BONUS": {},
+      "OPEN_TIMES": [],
+      "LIMIT": 0,
+      "LIMIT_PER_DAY": 0,
+      "LIMIT_PER_USER": 0,
+      "IS_VIETNAM_ONLY": false
+    },
+    "ACSH_13": {
+      "ID": "ACSH_13",
+      "PRICE": 8,
+      "LEVELS": [
+        1,
+        2147483647
+      ],
+      "ITEM": "M0",
+      "NUM": 10,
+      "BONUS": {
+        "M3": 10,
+        "M6": 10,
+        "M9": 10
+      },
+      "OPEN_TIMES": [],
+      "LIMIT": 0,
+      "LIMIT_PER_DAY": 0,
+      "LIMIT_PER_USER": 0,
+      "DESC": "TXT_ACSH_01_DESC",
+      "TITLE": "TXT_ACSH_01_NAME",
+      "IS_VIETNAM_ONLY": false
+    },
+    "ACSH_10": {
+      "ID": "ACSH_10",
+      "PRICE": 1000,
+      "LEVELS": [
+        31,
+        2147483647
+      ],
+      "ITEM": "P62",
+      "NUM": 1,
+      "BONUS": {},
+      "OPEN_TIMES": [
+        {
+          "HOUR": 9,
+          "MINUTE": 0
+        },
+        {
+          "HOUR": 12,
+          "MINUTE": 0
+        },
+        {
+          "HOUR": 16,
+          "MINUTE": 0
+        },
+        {
+          "HOUR": 20,
+          "MINUTE": 0
+        }
+      ],
+      "LIMIT": 20000,
+      "LIMIT_PER_DAY": 4000,
+      "LIMIT_PER_USER": 5,
+      "IS_VIETNAM_ONLY": false
+    }
+  },
+  "TOKEN_ID": "EACU",
+  "UNIX_TIME_START": 1588906800,
+  "UNIX_TIME_END": 1589295600
+}

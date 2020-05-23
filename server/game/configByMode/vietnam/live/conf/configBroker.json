@@ -1,0 +1,39 @@
+{
+  "brokers": "kafka1-new.zingplay.com:9093,kafka2-new.zingplay.com:9093,kafka3-new.zingplay.com:9093",
+  "logTopic": "kvtm_action",
+  "requestTopic": "request",
+  "gameId": "kvtm",
+  "autoRequest": false,
+  "useCache": true,
+  "timeUnit": 60,
+  "serverIndex": 0,
+  "database": {
+    "host": "10.50.21.11",
+    "port": "11240"
+  },
+  "workerNum": 100,
+  "acks": "all",
+  "security": {
+    "isSecured": true,
+    "truststoreLocation": "conf/keystore/client.truststore.jks",
+    "truststorePassword" : "clientZP@123",
+    "keystoreLocation" : "conf/keystore/kvtm.keystore.jks",
+    "keystorePassword" : "kvtm@123",
+    "keyPassword" : "kvtm@123",
+    "protocol": "SSL"
+  },
+  "mapIndex": {
+    "10.50.21.20": {
+      "1": 0,
+      "2": 1
+    },
+    "10.50.21.21": {
+      "1": 2,
+      "2": 3
+    },
+    "10.50.21.22": {
+      "1": 4,
+      "2": 5
+    }
+  }
+}

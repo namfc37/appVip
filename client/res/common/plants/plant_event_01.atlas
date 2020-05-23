@@ -1,0 +1,153 @@
+
+plant_event_01.png
+size: 219,219
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cay_long_den_000
+  rotate: false
+  xy: 2, 125
+  size: 96, 92
+  orig: 96, 92
+  offset: 0, 0
+  index: -1
+cay_long_den_001
+  rotate: false
+  xy: 118, 66
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+cay_long_den_003
+  rotate: false
+  xy: 100, 132
+  size: 11, 11
+  orig: 13, 13
+  offset: 1, 1
+  index: -1
+cay_long_den_005
+  rotate: false
+  xy: 145, 152
+  size: 34, 65
+  orig: 34, 65
+  offset: 0, 0
+  index: -1
+cay_long_den_006
+  rotate: false
+  xy: 78, 66
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+cay_long_den_007
+  rotate: false
+  xy: 2, 54
+  size: 74, 69
+  orig: 74, 69
+  offset: 0, 0
+  index: -1
+cay_long_den_008
+  rotate: false
+  xy: 193, 77
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+cay_long_den_009
+  rotate: false
+  xy: 2, 5
+  size: 61, 47
+  orig: 61, 47
+  offset: 0, 0
+  index: -1
+cay_long_den_010
+  rotate: true
+  xy: 152, 108
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+cay_long_den_011
+  rotate: false
+  xy: 181, 168
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+cay_long_den_012
+  rotate: false
+  xy: 184, 98
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+cay_long_den_013
+  rotate: false
+  xy: 100, 145
+  size: 43, 72
+  orig: 43, 72
+  offset: 0, 0
+  index: -1
+cay_long_den_014
+  rotate: true
+  xy: 65, 2
+  size: 50, 27
+  orig: 50, 27
+  offset: 0, 0
+  index: -1
+cay_long_den_015
+  rotate: false
+  xy: 94, 17
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+cay_long_den_016
+  rotate: false
+  xy: 143, 35
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+cay_long_den_017
+  rotate: true
+  xy: 145, 62
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+cay_long_den_018
+  rotate: true
+  xy: 152, 91
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1
+cay_long_den_020
+  rotate: true
+  xy: 143, 13
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+cay_long_den_021
+  rotate: true
+  xy: 175, 69
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+cay_long_den_022
+  rotate: true
+  xy: 118, 97
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+cay_long_den_023
+  rotate: true
+  xy: 184, 132
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1

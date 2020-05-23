@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>D:\sgm20182_git\trunk\client\raw\uiBackground</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>D:\sgm20182_git\trunk\client\raw\uiBackground\Resources</Resources>
+  <Name>uiBackground</Name>
+  <JsonFileName>uiBackground.json</JsonFileName>
+  <JsonFolder>D:\sgm20182_git\trunk\client\raw\uiBackground\Json</JsonFolder>
+  <JsonList>
+    <string>uiBackground.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>1136</Width>
+    <Height>640</Height>
+  </CanvasSize>
+  <filePath>D:\sgm20182_git\trunk\client\raw\uiBackground\uiBackground.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList>
+    <string>uiMain0.plist</string>
+    <string>uiMain1.plist</string>
+    <string>uiMain2.plist</string>
+    <string>uiMain3.plist</string>
+    <string>uiMain4.plist</string>
+    <string>uiMain5.plist</string>
+    <string>uiMain6.plist</string>
+  </imageFileList>
+  <imagePngList />
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>uiBackground.json</CurrentUIJson>
+</UIProject>

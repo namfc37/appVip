@@ -1,0 +1,316 @@
+{
+  "ID": "7d12ba8b-bf13-43ce-96d3-dcd1e44373bd",
+  "Version": "2.3.2.3",
+  "Name": "pmui_inputotp",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 8,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "sys_popup_table_01.png",
+              "Plist": "pm_content_ui.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 173,
+            "Scale9OriginY": 119,
+            "Scale9Width": 181,
+            "Scale9Height": 125,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 480.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.7812,
+              "Y": 0.5672
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "LeftMargin": 105.0,
+            "RightMargin": 105.0,
+            "TopMargin": 138.5,
+            "BottomMargin": 138.5,
+            "Tag": 9,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sys_popup_button_02.png",
+                  "Plist": "pm_content_ui.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sys_popup_button_02.png",
+                  "Plist": "pm_content_ui.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sys_popup_button_02.png",
+                  "Plist": "pm_content_ui.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 172,
+                "Scale9Height": 32,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 375.0,
+                  "Y": 55.0857
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.1518
+                },
+                "PreSize": {
+                  "X": 0.4,
+                  "Y": 0.1488
+                },
+                "HorizontalEdge": "BothEdge",
+                "LeftMargin": 225.0,
+                "RightMargin": 225.0,
+                "TopMargin": 280.9143,
+                "BottomMargin": 28.0857,
+                "Tag": 11,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 20,
+                    "LabelText": "OK",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 150.0,
+                      "Y": 27.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.9901,
+                      "Y": 0.9259
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 1.0,
+                    "RightMargin": 1.0,
+                    "TopMargin": 2.0,
+                    "BottomMargin": 2.0,
+                    "Tag": 14,
+                    "ActionTag": -1456238368,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 50.0
+                    },
+                    "Name": "label_BtnOk",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 805688618,
+                "Size": {
+                  "X": 300.0,
+                  "Y": 54.0
+                },
+                "Name": "btn_Ok",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 32,
+                "LabelText": "To complete your purchase, enter the OTP code and click 'Confirm'\"",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 375.0,
+                  "Y": 282.5518
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 26,
+                  "G": 26,
+                  "B": 26
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.7784
+                },
+                "PreSize": {
+                  "X": 0.9333,
+                  "Y": 0.3306
+                },
+                "HorizontalEdge": "BothEdge",
+                "LeftMargin": 25.0,
+                "RightMargin": 25.0,
+                "TopMargin": 20.4482,
+                "BottomMargin": 222.5518,
+                "Tag": 13,
+                "ActionTag": -1132277012,
+                "Size": {
+                  "X": 700.0,
+                  "Y": 120.0
+                },
+                "Name": "label_Title",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sys_popup_bar.png",
+                  "Plist": "pm_content_ui.plist"
+                },
+                "Scale9Width": 469,
+                "Scale9Height": 64,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 375.0,
+                  "Y": 169.6647
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4674
+                },
+                "PreSize": {
+                  "X": 0.4885,
+                  "Y": 0.1
+                },
+                "HorizontalEdge": "BothEdge",
+                "LeftMargin": 140.5,
+                "RightMargin": 140.5,
+                "TopMargin": 161.3353,
+                "BottomMargin": 137.6647,
+                "Tag": 15,
+                "ActionTag": -19631212,
+                "Size": {
+                  "X": 469.0,
+                  "Y": 64.0
+                },
+                "Name": "image_Input",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1871650005,
+            "Size": {
+              "X": 750.0,
+              "Y": 363.0
+            },
+            "Name": "image_Bgr",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 960.0,
+          "Y": 640.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "pm_content_ui.plist",
+        "pm_content_ui.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

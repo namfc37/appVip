@@ -1,0 +1,111 @@
+
+machine_01_egg.png
+size: 513,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+egg_big_1
+  rotate: false
+  xy: 2, 26
+  size: 142, 163
+  orig: 142, 163
+  offset: 0, 0
+  index: -1
+egg_big_2
+  rotate: false
+  xy: 2, 196
+  size: 110, 100
+  orig: 110, 100
+  offset: 0, 0
+  index: -1
+egg_big_rope_1
+  rotate: true
+  xy: 230, 224
+  size: 74, 72
+  orig: 74, 72
+  offset: 0, 0
+  index: -1
+egg_big_rope_2
+  rotate: false
+  xy: 164, 212
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+egg_big_rope_3
+  rotate: false
+  xy: 146, 35
+  size: 89, 154
+  orig: 89, 154
+  offset: 0, 0
+  index: -1
+egg_big_rope_4
+  rotate: true
+  xy: 449, 191
+  size: 174, 60
+  orig: 174, 60
+  offset: 0, 0
+  index: -1
+egg_fog_1
+  rotate: false
+  xy: 2, 298
+  size: 224, 212
+  orig: 224, 212
+  offset: 0, 0
+  index: -1
+egg_fog_2
+  rotate: false
+  xy: 228, 300
+  size: 219, 210
+  orig: 219, 210
+  offset: 0, 0
+  index: -1
+egg_ice
+  rotate: true
+  xy: 304, 161
+  size: 137, 143
+  orig: 137, 143
+  offset: 0, 0
+  index: -1
+egg_small_1
+  rotate: false
+  xy: 380, 22
+  size: 116, 116
+  orig: 116, 117
+  offset: 0, 1
+  index: -1
+egg_small_2
+  rotate: true
+  xy: 449, 140
+  size: 49, 58
+  orig: 49, 59
+  offset: 0, 1
+  index: -1
+egg_small_3
+  rotate: false
+  xy: 2, 2
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+egg_small_4
+  rotate: false
+  xy: 114, 204
+  size: 48, 92
+  orig: 48, 92
+  offset: 0, 0
+  index: -1
+egg_small_5
+  rotate: true
+  xy: 449, 367
+  size: 143, 62
+  orig: 143, 62
+  offset: 0, 0
+  index: -1
+egg_tree_rope
+  rotate: false
+  xy: 237, 13
+  size: 141, 146
+  orig: 141, 146
+  offset: 0, 0
+  index: -1

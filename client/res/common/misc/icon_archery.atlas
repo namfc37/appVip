@@ -1,0 +1,13 @@
+
+icon_archery.png
+size: 88,88
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon_vip
+  rotate: false
+  xy: 2, 2
+  size: 70, 84
+  orig: 70, 84
+  offset: 0, 0
+  index: -1

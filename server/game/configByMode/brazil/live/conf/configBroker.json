@@ -1,0 +1,17 @@
+{
+  "brokers": "kafka1-new.zingplay.com:9092",
+  "logTopic": "kvtm_action",
+  "requestTopic": "request",
+  "gameId": "kvtm",
+  "autoRequest": false,
+  "useCache": true,
+  "timeUnit": 60,
+  "serverIndex": 0,
+  "database": {
+    "host": "10.50.21.11",
+    "port": "11240"
+  },
+  "security": {
+    "isSecured": false
+    }
+}

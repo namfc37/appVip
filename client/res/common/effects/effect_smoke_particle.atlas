@@ -1,0 +1,97 @@
+
+effect_smoke_particle.png
+size: 487,485
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+clown_048
+  rotate: false
+  xy: 2, 296
+  size: 196, 187
+  orig: 196, 187
+  offset: 0, 0
+  index: -1
+clown_049
+  rotate: false
+  xy: 2, 110
+  size: 192, 184
+  orig: 192, 184
+  offset: 0, 0
+  index: -1
+clown_050
+  rotate: false
+  xy: 200, 372
+  size: 213, 111
+  orig: 213, 111
+  offset: 0, 0
+  index: -1
+clown_051
+  rotate: false
+  xy: 200, 251
+  size: 124, 119
+  orig: 124, 119
+  offset: 0, 0
+  index: -1
+clown_052
+  rotate: false
+  xy: 415, 431
+  size: 59, 52
+  orig: 59, 52
+  offset: 0, 0
+  index: -1
+gandalf_040
+  rotate: false
+  xy: 124, 11
+  size: 86, 97
+  orig: 86, 97
+  offset: 0, 0
+  index: -1
+gandalf_041
+  rotate: false
+  xy: 196, 146
+  size: 120, 103
+  orig: 120, 103
+  offset: 0, 0
+  index: -1
+gandalf_042
+  rotate: true
+  xy: 326, 250
+  size: 120, 103
+  orig: 120, 103
+  offset: 0, 0
+  index: -1
+gandalf_043
+  rotate: false
+  xy: 212, 47
+  size: 86, 97
+  orig: 86, 97
+  offset: 0, 0
+  index: -1
+gandalf_044
+  rotate: true
+  xy: 300, 57
+  size: 86, 97
+  orig: 86, 97
+  offset: 0, 0
+  index: -1
+gandalf_045
+  rotate: false
+  xy: 318, 145
+  size: 120, 103
+  orig: 120, 103
+  offset: 0, 0
+  index: -1
+gandalf_046
+  rotate: false
+  xy: 399, 46
+  size: 86, 97
+  orig: 86, 97
+  offset: 0, 0
+  index: -1
+gandalf_047
+  rotate: false
+  xy: 2, 5
+  size: 120, 103
+  orig: 120, 103
+  offset: 0, 0
+  index: -1

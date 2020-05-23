@@ -1,0 +1,209 @@
+
+hud_tutorial_1.png
+size: 731,729
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HAND
+  rotate: true
+  xy: 435, 286
+  size: 107, 77
+  orig: 109, 79
+  offset: 1, 1
+  index: -1
+HAND_1
+  rotate: false
+  xy: 223, 155
+  size: 54, 46
+  orig: 56, 48
+  offset: 1, 1
+  index: -1
+arrow_light
+  rotate: true
+  xy: 2, 10
+  size: 71, 123
+  orig: 73, 125
+  offset: 1, 1
+  index: -1
+cloud_main
+  rotate: false
+  xy: 2, 618
+  size: 727, 109
+  orig: 729, 111
+  offset: 1, 1
+  index: -1
+cloud_main_cover
+  rotate: false
+  xy: 2, 543
+  size: 695, 73
+  orig: 697, 75
+  offset: 1, 1
+  index: -1
+cloud_small
+  rotate: false
+  xy: 2, 415
+  size: 328, 126
+  orig: 330, 128
+  offset: 1, 1
+  index: -1
+decor_01_1
+  rotate: true
+  xy: 625, 431
+  size: 110, 96
+  orig: 112, 98
+  offset: 1, 1
+  index: -1
+decor_01_2
+  rotate: false
+  xy: 592, 341
+  size: 17, 55
+  orig: 19, 57
+  offset: 1, 1
+  index: -1
+decor_01_3
+  rotate: false
+  xy: 156, 84
+  size: 25, 27
+  orig: 27, 29
+  offset: 1, 1
+  index: -1
+focus
+  rotate: false
+  xy: 127, 10
+  size: 70, 71
+  orig: 72, 73
+  offset: 1, 1
+  index: -1
+icon_decor
+  rotate: false
+  xy: 319, 277
+  size: 114, 116
+  orig: 116, 118
+  offset: 1, 1
+  index: -1
+icon_drop_01
+  rotate: false
+  xy: 223, 203
+  size: 51, 55
+  orig: 53, 57
+  offset: 1, 1
+  index: -1
+icon_harvest
+  rotate: false
+  xy: 625, 346
+  size: 87, 83
+  orig: 89, 85
+  offset: 1, 1
+  index: -1
+item_bug_net_gold
+  rotate: false
+  xy: 402, 204
+  size: 76, 71
+  orig: 78, 73
+  offset: 1, 1
+  index: -1
+item_dryer_rose
+  rotate: false
+  xy: 156, 182
+  size: 65, 67
+  orig: 67, 69
+  offset: 1, 1
+  index: -1
+li_01
+  rotate: false
+  xy: 532, 180
+  size: 74, 45
+  orig: 74, 46
+  offset: 0, 1
+  index: -1
+li_02
+  rotate: false
+  xy: 2, 251
+  size: 161, 162
+  orig: 161, 162
+  offset: 0, 0
+  index: -1
+machine
+  rotate: true
+  xy: 2, 83
+  size: 166, 152
+  orig: 168, 154
+  offset: 1, 1
+  index: -1
+machine_1
+  rotate: false
+  xy: 165, 260
+  size: 152, 153
+  orig: 154, 155
+  offset: 1, 1
+  index: -1
+machine_broken
+  rotate: false
+  xy: 332, 395
+  size: 146, 146
+  orig: 148, 148
+  offset: 1, 1
+  index: -1
+moc
+  rotate: false
+  xy: 276, 203
+  size: 39, 55
+  orig: 41, 57
+  offset: 1, 1
+  index: -1
+pot_cover
+  rotate: true
+  xy: 699, 553
+  size: 63, 21
+  orig: 65, 23
+  offset: 1, 1
+  index: -1
+pot_normal
+  rotate: false
+  xy: 319, 210
+  size: 81, 65
+  orig: 83, 67
+  offset: 1, 1
+  index: -1
+rose_01
+  rotate: false
+  xy: 156, 113
+  size: 60, 67
+  orig: 60, 67
+  offset: 0, 0
+  index: -1
+rose_big
+  rotate: false
+  xy: 514, 301
+  size: 76, 95
+  orig: 78, 97
+  offset: 1, 1
+  index: -1
+rose_bug
+  rotate: true
+  xy: 279, 157
+  size: 44, 33
+  orig: 46, 35
+  offset: 1, 1
+  index: -1
+rose_icon
+  rotate: false
+  xy: 532, 227
+  size: 70, 72
+  orig: 72, 74
+  offset: 1, 1
+  index: -1
+rose_small
+  rotate: false
+  xy: 480, 207
+  size: 50, 77
+  orig: 52, 79
+  offset: 1, 1
+  index: -1
+slot_menu_big
+  rotate: false
+  xy: 480, 398
+  size: 143, 143
+  orig: 145, 145
+  offset: 1, 1
+  index: -1

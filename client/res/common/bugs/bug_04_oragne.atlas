@@ -1,0 +1,41 @@
+
+bug_04_oragne.png
+size: 62,62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+canh1
+  rotate: true
+  xy: 39, 30
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+canh2
+  rotate: false
+  xy: 2, 46
+  size: 35, 14
+  orig: 35, 14
+  offset: 0, 0
+  index: -1
+dau
+  rotate: true
+  xy: 15, 2
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+duoi
+  rotate: true
+  xy: 2, 8
+  size: 36, 11
+  orig: 36, 11
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 15, 20
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1

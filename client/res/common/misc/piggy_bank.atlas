@@ -1,0 +1,69 @@
+
+piggy_bank.png
+size: 485,483
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 257, 178
+  size: 189, 152
+  orig: 191, 153
+  offset: 1, 1
+  index: -1
+cover
+  rotate: false
+  xy: 229, 27
+  size: 189, 149
+  orig: 191, 153
+  offset: 1, 1
+  index: -1
+effect_03
+  rotate: false
+  xy: 177, 84
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 77, 5
+  size: 129, 98
+  orig: 131, 100
+  offset: 1, 1
+  index: -1
+kc
+  rotate: true
+  xy: 420, 70
+  size: 106, 63
+  orig: 106, 63
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 77, 136
+  size: 150, 130
+  orig: 150, 130
+  offset: 0, 0
+  index: -1
+outerglow
+  rotate: false
+  xy: 2, 268
+  size: 253, 213
+  orig: 255, 215
+  offset: 1, 1
+  index: -1
+piggy
+  rotate: false
+  xy: 257, 332
+  size: 191, 149
+  orig: 193, 151
+  offset: 1, 1
+  index: -1
+shadown
+  rotate: true
+  xy: 2, 26
+  size: 240, 73
+  orig: 240, 73
+  offset: 0, 0
+  index: -1

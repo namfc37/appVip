@@ -1,0 +1,125 @@
+
+npc_fishing_wolf.png
+size: 561,561
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer-36-copy
+  rotate: true
+  xy: 477, 213
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+Layer-38
+  rotate: false
+  xy: 539, 434
+  size: 3, 125
+  orig: 3, 125
+  offset: 0, 0
+  index: -1
+Layer-56-copy
+  rotate: true
+  xy: 393, 95
+  size: 116, 58
+  orig: 116, 58
+  offset: 0, 0
+  index: -1
+Layer-59
+  rotate: false
+  xy: 347, 79
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+ca1
+  rotate: true
+  xy: 277, 106
+  size: 105, 114
+  orig: 105, 114
+  offset: 0, 0
+  index: -1
+ca2
+  rotate: true
+  xy: 469, 265
+  size: 97, 66
+  orig: 97, 66
+  offset: 0, 0
+  index: -1
+can-cau-5
+  rotate: false
+  xy: 2, 73
+  size: 134, 486
+  orig: 134, 486
+  offset: 0, 0
+  index: -1
+moi
+  rotate: false
+  xy: 453, 115
+  size: 57, 96
+  orig: 57, 96
+  offset: 0, 0
+  index: -1
+tutorial_NPC_037
+  rotate: false
+  xy: 277, 213
+  size: 198, 39
+  orig: 198, 39
+  offset: 0, 0
+  index: -1
+walking_wolf_01_016
+  rotate: false
+  xy: 138, 140
+  size: 137, 128
+  orig: 137, 128
+  offset: 0, 0
+  index: -1
+wolf_000
+  rotate: false
+  xy: 319, 364
+  size: 218, 195
+  orig: 218, 195
+  offset: 0, 0
+  index: -1
+wolf_001
+  rotate: true
+  xy: 138, 65
+  size: 73, 130
+  orig: 73, 130
+  offset: 0, 0
+  index: -1
+wolf_002
+  rotate: false
+  xy: 2, 10
+  size: 118, 61
+  orig: 118, 61
+  offset: 0, 0
+  index: -1
+wolf_003
+  rotate: false
+  xy: 270, 2
+  size: 75, 102
+  orig: 76, 109
+  offset: 1, 0
+  index: -1
+wolf_004
+  rotate: false
+  xy: 138, 270
+  size: 179, 289
+  orig: 179, 289
+  offset: 0, 0
+  index: -1
+xo1
+  rotate: false
+  xy: 319, 254
+  size: 148, 108
+  orig: 148, 108
+  offset: 0, 0
+  index: -1
+xo2
+  rotate: false
+  xy: 122, 17
+  size: 136, 46
+  orig: 136, 46
+  offset: 0, 0
+  index: -1

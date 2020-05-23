@@ -1,0 +1,41 @@
+
+gift_offers.png
+size: 150,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gift_box_00001
+  rotate: false
+  xy: 115, 51
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+gift_box_0001
+  rotate: false
+  xy: 2, 18
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+gift_box_001
+  rotate: true
+  xy: 68, 23
+  size: 59, 45
+  orig: 59, 45
+  offset: 0, 0
+  index: -1
+gift_box_01
+  rotate: false
+  xy: 76, 86
+  size: 60, 60
+  orig: 60, 64
+  offset: 0, 2
+  index: -1
+light
+  rotate: false
+  xy: 2, 84
+  size: 72, 62
+  orig: 72, 62
+  offset: 0, 0
+  index: -1

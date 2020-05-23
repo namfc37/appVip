@@ -1,0 +1,26 @@
+{
+    "defaultLanguageCode": "br",
+    "list": [
+        {
+            "code": [
+                "br"
+            ],
+            "name": "Brazil",
+            "folder": "br"
+        },
+        {
+            "code": [
+                "go"
+            ],
+            "name": "English",
+            "folder": "go"
+        },
+        {
+            "code": [
+                "vn"
+            ],
+            "name": "Vietnamese",
+            "folder": "vn"
+        }
+    ]
+}

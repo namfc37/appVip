@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="jquery.min.js"></script>
+<script src="sha256.js"></script>
+<script>
+function readInfo () {
+    var o = new Object();    
+    o.admin = $('#admin').val();    
+    o.time = new Date().getTime();    
+    o.data = new Object();   
+	o.data.userId = $('#userId').val();
+	o.data.reason = $('#reason').val();	
+	o.data.duration = $('#duration').val();	
+	
+    o.data = JSON.stringify(o.data);	
+	var inputHash = '(@dm1nS#cr3tKey!)' + o.admin + o.time + o.data;	
+	//console.log("inputHash: " + inputHash);
+    o.hash = CryptoJS.SHA256(inputHash).toString(CryptoJS.enc.Hex);    
+    return o;
+}
+
+$(document).ready(function(){    
+    $("#button").click(function(){        
+        var info = readInfo();
+		var json = JSON.stringify(info);
+		var url = 'http://127.0.0.1:8101/banUser'
+        
+		$("#url").text(url);                
+        $("#content").text(json);                  
+		
+		$.ajax({
+                url: url,
+                dataType: 'text',
+                type: 'post',                
+                data: json,
+                success: function( data, textStatus, jQxhr ){
+                    $('#response').text( JSON.stringify(JSON.parse(data),null,4) );                    
+                },
+                error: function( jqXhr, textStatus, errorThrown ){
+                    console.log( errorThrown );
+                }
+            });
+    });    
+});
+</script>
+</head>
+<body>
+
+<table>
+    <tr>
+        <td align="right">admin</td>
+        <td align="left"><input type="text" id="admin" value="thuanvt"/></td>
+    </tr>
+	<tr>
+        <td align="right">userId</td>
+        <td align="left"><input type="text" id="userId" value="1"/></td>
+    </tr>
+    <tr>
+        <td align="right">reason</td>
+        <td align="left"><input type="text" id="reason" value="test"/></td>
+    </tr>    		
+	<tr>
+        <td align="right">duration</td>
+        <td align="left"><input type="text" id="duration" value="60"/></td>
+    </tr>
+</table>
+
+</br>
+<button id="button">KICK</button>
+
+</br>
+<table>
+    <tr>
+        <td align="left">URL</td>
+        <td align="left"><pre id="url"></pre></td>
+    </tr>  
+	<tr>
+        <td align="left">CONTENT</td>
+        <td align="left"><pre id="content"></pre></td>
+    </tr> 	
+    <tr>
+        <td align="left">RESPONSE</td>
+        <td align="left"><pre id="response"></pre></td>
+    </tr>
+</table>
+
+</body>
+</html>

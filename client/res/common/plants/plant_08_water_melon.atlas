@@ -1,0 +1,132 @@
+
+plant_08_water_melon.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 10
+  rotate: true
+  xy: 263, 180
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: false
+  xy: 241, 99
+  size: 30, 55
+  orig: 30, 55
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: true
+  xy: 91, 3
+  size: 98, 46
+  orig: 98, 46
+  offset: 0, 0
+  index: -1
+Layer 13
+  rotate: false
+  xy: 140, 208
+  size: 121, 42
+  orig: 121, 42
+  offset: 0, 0
+  index: -1
+Layer 14
+  rotate: false
+  xy: 139, 27
+  size: 78, 65
+  orig: 78, 65
+  offset: 0, 0
+  index: -1
+Layer 14 copy
+  rotate: false
+  xy: 356, 192
+  size: 77, 58
+  orig: 77, 58
+  offset: 0, 0
+  index: -1
+Layer 15
+  rotate: true
+  xy: 139, 7
+  size: 18, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+Layer 36
+  rotate: false
+  xy: 2, 2
+  size: 87, 99
+  orig: 87, 99
+  offset: 0, 0
+  index: -1
+Layer 37
+  rotate: true
+  xy: 219, 29
+  size: 63, 51
+  orig: 63, 51
+  offset: 0, 0
+  index: -1
+Layer 37 copy
+  rotate: false
+  xy: 435, 196
+  size: 67, 54
+  orig: 67, 54
+  offset: 0, 0
+  index: -1
+Layer 38
+  rotate: false
+  xy: 254, 156
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+Layer 39
+  rotate: false
+  xy: 263, 220
+  size: 91, 30
+  orig: 91, 30
+  offset: 0, 0
+  index: -1
+Layer 40
+  rotate: false
+  xy: 140, 156
+  size: 112, 50
+  orig: 112, 50
+  offset: 0, 0
+  index: -1
+Layer 41
+  rotate: true
+  xy: 140, 94
+  size: 60, 99
+  orig: 60, 99
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 2, 103
+  size: 136, 147
+  orig: 136, 147
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 318, 188
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 274, 150
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+marker
+  rotate: false
+  xy: 241, 94
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1

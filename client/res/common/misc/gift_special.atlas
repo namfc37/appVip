@@ -1,0 +1,13 @@
+
+gift_special.png
+size: 50,50
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/qt
+  rotate: false
+  xy: 2, 2
+  size: 43, 46
+  orig: 50, 50
+  offset: 3, 2
+  index: -1

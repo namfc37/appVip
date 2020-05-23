@@ -1,0 +1,28 @@
+{	
+	"name":"Jardim Nas Nuvens",
+	"android":{
+		"package_name":"br.kvtm.js",
+		"app_abi":["armeabi-v7a","arm64-v8a"],
+		"google_license_key":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzNPVhiZW/Pwc8AlB9b/J8jiBElYTFYRhgKnk3Ag5k0y31Zr9Iac3D8FR+GQqe1kN5l6bkGRl8oYU/nOMuqsmyjVGqCwQYcsY82rrt0iZhosvDQZ6qNWqNRVP7+AMq1ysL8N3YDErJ5762imVC8ksXPVfCOd17Ahm4LuTLVOJPF5OXJHKf2Q4zhU0iHEgF+sxKqeR9ZCvKKaXercTiuLjGGWeYRJfP0UTXMWafqC1sh10mt/oXJqAoiUWRVhu64lOIhLHbM5i5RQuoePiidfQdoiNV3EblqVCTE81A/wOzr97huD18ot1uvRnVN62Vd+2lUcN2KknTmRW02YsgR0B0QIDAQAB"
+	},
+	"tracker":{
+		"app_name":"ZPPortal_br",
+		"partner":"kvtmjsla_br"
+	},
+	"social":{
+		"facebook":{
+			"id":"388589555096058",
+			"use_provider": false
+		},
+		"google": {
+			"id":""
+		}
+	},	
+	"portal":{
+		"game_id":"kvtm",
+		"portal_dev": false
+	},
+	"country":"br",
+	"is_sensor_landscape": false,
+	"is_landscape":false
+}

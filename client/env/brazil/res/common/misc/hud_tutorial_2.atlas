@@ -1,0 +1,440 @@
+
+hud_tutorial_2.png
+size: 994,994
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HAND
+  rotate: false
+  xy: 240, 10
+  size: 103, 74
+  orig: 104, 75
+  offset: 0, 1
+  index: -1
+HAND_1
+  rotate: true
+  xy: 275, 777
+  size: 53, 46
+  orig: 53, 46
+  offset: 0, 0
+  index: -1
+arrow_light
+  rotate: false
+  xy: 914, 874
+  size: 67, 118
+  orig: 69, 119
+  offset: 1, 0
+  index: -1
+hud_tutorial_airship_1
+  rotate: false
+  xy: 293, 452
+  size: 118, 119
+  orig: 132, 133
+  offset: 7, 7
+  index: -1
+hud_tutorial_airship_2
+  rotate: false
+  xy: 228, 328
+  size: 118, 119
+  orig: 132, 133
+  offset: 7, 7
+  index: -1
+hud_tutorial_airship_3
+  rotate: false
+  xy: 452, 873
+  size: 164, 119
+  orig: 178, 133
+  offset: 4, 7
+  index: -1
+hud_tutorial_chest_1
+  rotate: false
+  xy: 618, 873
+  size: 146, 119
+  orig: 162, 133
+  offset: 8, 7
+  index: -1
+hud_tutorial_chest_2
+  rotate: false
+  xy: 117, 49
+  size: 121, 121
+  orig: 135, 135
+  offset: 7, 7
+  index: -1
+hud_tutorial_chest_3
+  rotate: false
+  xy: 275, 832
+  size: 175, 160
+  orig: 195, 179
+  offset: 10, 9
+  index: -1
+hud_tutorial_cloud_skin_01
+  rotate: false
+  xy: 480, 104
+  size: 113, 113
+  orig: 129, 129
+  offset: 8, 8
+  index: -1
+hud_tutorial_cloud_skin_02
+  rotate: false
+  xy: 533, 458
+  size: 113, 113
+  orig: 129, 129
+  offset: 8, 8
+  index: -1
+hud_tutorial_cloud_skin_03
+  rotate: false
+  xy: 480, 219
+  size: 113, 113
+  orig: 129, 129
+  offset: 8, 8
+  index: -1
+hud_tutorial_craft_1
+  rotate: false
+  xy: 804, 753
+  size: 119, 119
+  orig: 277, 252
+  offset: 75, 67
+  index: -1
+hud_tutorial_craft_2
+  rotate: false
+  xy: 240, 207
+  size: 118, 119
+  orig: 132, 133
+  offset: 7, 7
+  index: -1
+hud_tutorial_craft_3
+  rotate: false
+  xy: 240, 86
+  size: 118, 119
+  orig: 132, 133
+  offset: 7, 7
+  index: -1
+hud_tutorial_dice_1
+  rotate: false
+  xy: 348, 331
+  size: 118, 119
+  orig: 132, 133
+  offset: 7, 7
+  index: -1
+hud_tutorial_dice_2
+  rotate: true
+  xy: 97, 306
+  size: 141, 129
+  orig: 159, 144
+  offset: 9, 7
+  index: -1
+hud_tutorial_dice_3
+  rotate: false
+  xy: 602, 736
+  size: 118, 135
+  orig: 132, 151
+  offset: 7, 8
+  index: -1
+hud_tutorial_full_1
+  rotate: false
+  xy: 925, 759
+  size: 66, 113
+  orig: 66, 113
+  offset: 0, 0
+  index: -1
+hud_tutorial_full_2
+  rotate: false
+  xy: 919, 681
+  size: 73, 70
+  orig: 73, 70
+  offset: 0, 0
+  index: -1
+hud_tutorial_full_3
+  rotate: false
+  xy: 2, 5
+  size: 112, 106
+  orig: 115, 109
+  offset: 3, 3
+  index: -1
+hud_tutorial_full_4
+  rotate: false
+  xy: 722, 743
+  size: 80, 128
+  orig: 80, 128
+  offset: 0, 0
+  index: -1
+hud_tutorial_full_5
+  rotate: true
+  xy: 2, 262
+  size: 185, 93
+  orig: 187, 95
+  offset: 1, 1
+  index: -1
+hud_tutorial_full_bg_white
+  rotate: false
+  xy: 686, 9
+  size: 102, 102
+  orig: 104, 104
+  offset: 1, 1
+  index: -1
+hud_tutorial_hide
+  rotate: false
+  xy: 583, 343
+  size: 113, 113
+  orig: 127, 127
+  offset: 7, 7
+  index: -1
+hud_tutorial_icon_barn
+  rotate: false
+  xy: 595, 228
+  size: 113, 113
+  orig: 127, 127
+  offset: 7, 7
+  index: -1
+hud_tutorial_miner_1
+  rotate: false
+  xy: 2, 449
+  size: 174, 156
+  orig: 194, 176
+  offset: 10, 10
+  index: -1
+hud_tutorial_miner_2
+  rotate: false
+  xy: 360, 210
+  size: 118, 119
+  orig: 132, 133
+  offset: 7, 7
+  index: -1
+hud_tutorial_miner_3
+  rotate: false
+  xy: 457, 573
+  size: 118, 118
+  orig: 216, 196
+  offset: 49, 39
+  index: -1
+hud_tutorial_news
+  rotate: false
+  xy: 878, 523
+  size: 113, 113
+  orig: 125, 125
+  offset: 6, 6
+  index: -1
+hud_tutorial_news_1
+  rotate: false
+  xy: 813, 408
+  size: 113, 113
+  orig: 125, 125
+  offset: 6, 6
+  index: -1
+hud_tutorial_news_2
+  rotate: false
+  xy: 710, 276
+  size: 113, 113
+  orig: 125, 125
+  offset: 6, 6
+  index: -1
+hud_tutorial_plant_1
+  rotate: false
+  xy: 595, 113
+  size: 113, 113
+  orig: 129, 129
+  offset: 8, 8
+  index: -1
+hud_tutorial_plant_2
+  rotate: false
+  xy: 178, 449
+  size: 113, 122
+  orig: 125, 134
+  offset: 6, 6
+  index: -1
+hud_tutorial_plant_3
+  rotate: false
+  xy: 804, 638
+  size: 113, 113
+  orig: 129, 129
+  offset: 8, 8
+  index: -1
+hud_tutorial_pot_1
+  rotate: false
+  xy: 602, 621
+  size: 113, 113
+  orig: 127, 127
+  offset: 7, 7
+  index: -1
+hud_tutorial_pot_2
+  rotate: false
+  xy: 2, 607
+  size: 192, 168
+  orig: 214, 188
+  offset: 11, 10
+  index: -1
+hud_tutorial_pshop_1
+  rotate: false
+  xy: 648, 506
+  size: 113, 113
+  orig: 127, 127
+  offset: 7, 7
+  index: -1
+hud_tutorial_pshop_11
+  rotate: false
+  xy: 2, 113
+  size: 113, 147
+  orig: 127, 165
+  offset: 7, 9
+  index: -1
+hud_tutorial_pshop_2
+  rotate: false
+  xy: 763, 523
+  size: 113, 113
+  orig: 127, 127
+  offset: 7, 7
+  index: -1
+hud_tutorial_pshop_22
+  rotate: false
+  xy: 710, 161
+  size: 113, 113
+  orig: 127, 127
+  offset: 7, 7
+  index: -1
+hud_tutorial_pshop_3
+  rotate: false
+  xy: 698, 391
+  size: 113, 113
+  orig: 127, 127
+  offset: 7, 7
+  index: -1
+hud_tutorial_pshop_4
+  rotate: true
+  xy: 468, 334
+  size: 116, 113
+  orig: 127, 127
+  offset: 6, 7
+  index: -1
+hud_tutorial_repair_1
+  rotate: false
+  xy: 325, 693
+  size: 137, 137
+  orig: 153, 153
+  offset: 8, 8
+  index: -1
+hud_tutorial_repair_2
+  rotate: false
+  xy: 464, 735
+  size: 136, 136
+  orig: 152, 152
+  offset: 8, 8
+  index: -1
+hud_tutorial_repair_3
+  rotate: false
+  xy: 2, 777
+  size: 271, 215
+  orig: 303, 241
+  offset: 16, 13
+  index: -1
+hud_tutorial_tom_1
+  rotate: false
+  xy: 360, 89
+  size: 118, 119
+  orig: 132, 133
+  offset: 7, 7
+  index: -1
+hud_tutorial_tom_2
+  rotate: false
+  xy: 413, 452
+  size: 118, 119
+  orig: 132, 133
+  offset: 7, 7
+  index: -1
+hud_tutorial_tom_3
+  rotate: true
+  xy: 766, 874
+  size: 118, 146
+  orig: 132, 162
+  offset: 7, 8
+  index: -1
+hud_tutorial_upgrade
+  rotate: false
+  xy: 825, 293
+  size: 113, 113
+  orig: 127, 127
+  offset: 7, 7
+  index: -1
+hud_tutorial_wheel_1
+  rotate: true
+  xy: 117, 172
+  size: 132, 121
+  orig: 148, 135
+  offset: 8, 7
+  index: -1
+hud_tutorial_wheel_2
+  rotate: false
+  xy: 196, 634
+  size: 127, 141
+  orig: 141, 157
+  offset: 7, 8
+  index: -1
+hud_tutorial_wheel_3
+  rotate: true
+  xy: 325, 573
+  size: 118, 130
+  orig: 132, 144
+  offset: 7, 7
+  index: -1
+icon_drop_01
+  rotate: false
+  xy: 860, 64
+  size: 49, 53
+  orig: 50, 54
+  offset: 1, 0
+  index: -1
+icon_harvest
+  rotate: true
+  xy: 360, 2
+  size: 85, 81
+  orig: 85, 81
+  offset: 0, 0
+  index: -1
+item_bug_net_gold
+  rotate: false
+  xy: 825, 119
+  size: 74, 69
+  orig: 74, 69
+  offset: 0, 0
+  index: -1
+item_bug_orange
+  rotate: false
+  xy: 825, 190
+  size: 101, 101
+  orig: 113, 113
+  offset: 6, 6
+  index: -1
+item_bug_pink
+  rotate: false
+  xy: 480, 2
+  size: 101, 100
+  orig: 113, 112
+  offset: 6, 6
+  index: -1
+item_bug_violet
+  rotate: false
+  xy: 583, 2
+  size: 101, 100
+  orig: 113, 112
+  offset: 6, 6
+  index: -1
+item_dryer_rose
+  rotate: false
+  xy: 928, 225
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+pot_normal
+  rotate: true
+  xy: 928, 442
+  size: 79, 64
+  orig: 79, 64
+  offset: 0, 0
+  index: -1
+rose_icon
+  rotate: false
+  xy: 790, 47
+  size: 68, 70
+  orig: 68, 70
+  offset: 0, 0
+  index: -1

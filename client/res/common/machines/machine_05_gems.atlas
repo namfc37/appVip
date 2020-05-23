@@ -1,0 +1,377 @@
+
+machine_05_gems.png
+size: 348,348
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+level_1/machine_02_000
+  rotate: false
+  xy: 288, 175
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+level_1/machine_02_004
+  rotate: false
+  xy: 190, 183
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+level_1/machine_02_005
+  rotate: true
+  xy: 99, 118
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+level_1/machine_02_008
+  rotate: false
+  xy: 220, 71
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+level_1/machine_02_009
+  rotate: false
+  xy: 232, 173
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+level_1/machine_02_011
+  rotate: true
+  xy: 68, 2
+  size: 45, 64
+  orig: 45, 64
+  offset: 0, 0
+  index: -1
+level_1/machine_02_013
+  rotate: false
+  xy: 345, 345
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+level_1/machine_02_014
+  rotate: false
+  xy: 345, 345
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+level_1/machine_02_035
+  rotate: false
+  xy: 345, 345
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+level_2/machine_02_013
+  rotate: false
+  xy: 345, 345
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+level_2/machine_02_014
+  rotate: false
+  xy: 345, 345
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+level_1/machine_02_020
+  rotate: false
+  xy: 86, 49
+  size: 82, 64
+  orig: 82, 64
+  offset: 0, 0
+  index: -1
+level_1/machine_02_021
+  rotate: false
+  xy: 123, 273
+  size: 118, 73
+  orig: 118, 73
+  offset: 0, 0
+  index: -1
+level_2/machine_02_005
+  rotate: false
+  xy: 242, 214
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+level_3/machine_02_000
+  rotate: true
+  xy: 190, 9
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+level_2/machine_02_000
+  rotate: true
+  xy: 190, 9
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+level_3/machine_02_004
+  rotate: true
+  xy: 194, 231
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+level_2/machine_02_004
+  rotate: true
+  xy: 194, 231
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+level_3/machine_02_005
+  rotate: false
+  xy: 122, 182
+  size: 66, 61
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+level_3/machine_02_008
+  rotate: false
+  xy: 220, 101
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+level_2/machine_02_008
+  rotate: false
+  xy: 220, 101
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+level_3/machine_02_009
+  rotate: true
+  xy: 299, 209
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+level_2/machine_02_009
+  rotate: true
+  xy: 299, 209
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+level_3/machine_02_011
+  rotate: true
+  xy: 2, 2
+  size: 45, 64
+  orig: 45, 64
+  offset: 0, 0
+  index: -1
+level_2/machine_02_011
+  rotate: true
+  xy: 2, 2
+  size: 45, 64
+  orig: 45, 64
+  offset: 0, 0
+  index: -1
+level_3/machine_02_013
+  rotate: false
+  xy: 288, 147
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+level_3/machine_02_014
+  rotate: true
+  xy: 224, 10
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+level_3/machine_02_020
+  rotate: false
+  xy: 2, 49
+  size: 82, 64
+  orig: 82, 64
+  offset: 0, 0
+  index: -1
+level_2/machine_02_020
+  rotate: false
+  xy: 2, 49
+  size: 82, 64
+  orig: 82, 64
+  offset: 0, 0
+  index: -1
+level_3/machine_02_021
+  rotate: false
+  xy: 2, 175
+  size: 118, 73
+  orig: 118, 73
+  offset: 0, 0
+  index: -1
+level_2/machine_02_021
+  rotate: false
+  xy: 2, 175
+  size: 118, 73
+  orig: 118, 73
+  offset: 0, 0
+  index: -1
+level_3/machine_02_035
+  rotate: false
+  xy: 2, 115
+  size: 95, 58
+  orig: 95, 58
+  offset: 0, 0
+  index: -1
+level_2/machine_02_035
+  rotate: false
+  xy: 2, 115
+  size: 95, 58
+  orig: 95, 58
+  offset: 0, 0
+  index: -1
+machine_02_015
+  rotate: false
+  xy: 288, 128
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+machine_02_016
+  rotate: false
+  xy: 150, 120
+  size: 67, 60
+  orig: 67, 60
+  offset: 0, 0
+  index: -1
+machine_02_017
+  rotate: false
+  xy: 281, 109
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+machine_02_018
+  rotate: false
+  xy: 328, 272
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+machine_02_019
+  rotate: true
+  xy: 260, 93
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+machine_02_022
+  rotate: false
+  xy: 232, 223
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+machine_02_023
+  rotate: true
+  xy: 319, 159
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+machine_02_024
+  rotate: false
+  xy: 134, 2
+  size: 54, 45
+  orig: 54, 45
+  offset: 0, 0
+  index: -1
+machine_02_026
+  rotate: false
+  xy: 274, 132
+  size: 12, 39
+  orig: 12, 39
+  offset: 0, 0
+  index: -1
+machine_02_028
+  rotate: false
+  xy: 224, 22
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+machine_02_029
+  rotate: false
+  xy: 219, 131
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+machine_02_030
+  rotate: false
+  xy: 243, 298
+  size: 100, 48
+  orig: 100, 48
+  offset: 0, 0
+  index: -1
+machine_02_031
+  rotate: false
+  xy: 123, 245
+  size: 69, 26
+  orig: 69, 26
+  offset: 0, 0
+  index: -1
+machine_02_032
+  rotate: false
+  xy: 220, 52
+  size: 42, 17
+  orig: 42, 17
+  offset: 0, 0
+  index: -1
+machine_02_033
+  rotate: false
+  xy: 243, 265
+  size: 83, 31
+  orig: 83, 31
+  offset: 0, 0
+  index: -1
+machine_02_034
+  rotate: false
+  xy: 2, 250
+  size: 119, 96
+  orig: 119, 96
+  offset: 0, 0
+  index: -1
+machine_02_036
+  rotate: true
+  xy: 170, 51
+  size: 67, 48
+  orig: 67, 48
+  offset: 0, 0
+  index: -1
+machine_02_037
+  rotate: false
+  xy: 281, 88
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+machine_02_038
+  rotate: true
+  xy: 260, 74
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+machine_02_039
+  rotate: false
+  xy: 288, 209
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1

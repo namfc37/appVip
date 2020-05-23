@@ -1,0 +1,41 @@
+
+bug_05_violet.png
+size: 77,77
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bo_tim_000
+  rotate: true
+  xy: 59, 42
+  size: 33, 13
+  orig: 33, 13
+  offset: 0, 0
+  index: -1
+bo_tim_001
+  rotate: false
+  xy: 33, 38
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+bo_tim_002
+  rotate: true
+  xy: 2, 2
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+bo_tim_005
+  rotate: false
+  xy: 2, 34
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+bo_tim_006
+  rotate: false
+  xy: 33, 50
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1

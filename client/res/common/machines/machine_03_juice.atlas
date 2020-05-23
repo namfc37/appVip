@@ -1,0 +1,321 @@
+
+machine_03_juice.png
+size: 475,475
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+level_1/machine_01_nuoc_ep_000
+  rotate: false
+  xy: 273, 48
+  size: 31, 28
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+level_1/machine_01_nuoc_ep_001
+  rotate: true
+  xy: 401, 152
+  size: 82, 71
+  orig: 82, 71
+  offset: 0, 0
+  index: -1
+level_1/machine_01_nuoc_ep_003
+  rotate: true
+  xy: 246, 2
+  size: 20, 16
+  orig: 25, 22
+  offset: 0, 6
+  index: -1
+level_2/machine_01_nuoc_ep_003
+  rotate: true
+  xy: 246, 2
+  size: 20, 16
+  orig: 25, 22
+  offset: 0, 6
+  index: -1
+level_1/machine_01_nuoc_ep_006
+  rotate: true
+  xy: 257, 27
+  size: 27, 14
+  orig: 31, 20
+  offset: 0, 6
+  index: -1
+level_2/machine_01_nuoc_ep_006
+  rotate: true
+  xy: 257, 27
+  size: 27, 14
+  orig: 31, 20
+  offset: 0, 6
+  index: -1
+level_1/machine_01_nuoc_ep_011
+  rotate: false
+  xy: 227, 240
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+level_1/machine_01_nuoc_ep_015
+  rotate: false
+  xy: 241, 368
+  size: 102, 105
+  orig: 102, 105
+  offset: 0, 0
+  index: -1
+level_1/machine_01_nuoc_ep_018
+  rotate: true
+  xy: 183, 140
+  size: 98, 58
+  orig: 98, 58
+  offset: 0, 0
+  index: -1
+level_1/machine_01_nuoc_ep_025
+  rotate: true
+  xy: 227, 243
+  size: 116, 65
+  orig: 116, 65
+  offset: 0, 0
+  index: -1
+level_1/machine_01_nuoc_ep_028
+  rotate: false
+  xy: 345, 402
+  size: 127, 71
+  orig: 127, 71
+  offset: 0, 0
+  index: -1
+level_2/machine_01_nuoc_ep_000
+  rotate: false
+  xy: 273, 78
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+level_2/machine_01_nuoc_ep_001
+  rotate: true
+  xy: 200, 56
+  size: 82, 71
+  orig: 82, 71
+  offset: 0, 0
+  index: -1
+level_3/machine_01_nuoc_ep_001
+  rotate: true
+  xy: 200, 56
+  size: 82, 71
+  orig: 82, 71
+  offset: 0, 0
+  index: -1
+level_2/machine_01_nuoc_ep_011
+  rotate: true
+  xy: 273, 22
+  size: 24, 33
+  orig: 27, 37
+  offset: 1, 1
+  index: -1
+level_2/machine_01_nuoc_ep_015
+  rotate: false
+  xy: 2, 9
+  size: 102, 105
+  orig: 102, 105
+  offset: 0, 0
+  index: -1
+level_3/machine_01_nuoc_ep_015
+  rotate: false
+  xy: 2, 9
+  size: 102, 105
+  orig: 102, 105
+  offset: 0, 0
+  index: -1
+level_2/machine_01_nuoc_ep_018
+  rotate: true
+  xy: 341, 142
+  size: 98, 58
+  orig: 98, 58
+  offset: 0, 0
+  index: -1
+level_3/machine_01_nuoc_ep_018
+  rotate: true
+  xy: 341, 142
+  size: 98, 58
+  orig: 98, 58
+  offset: 0, 0
+  index: -1
+level_2/machine_01_nuoc_ep_025
+  rotate: true
+  xy: 116, 109
+  size: 116, 65
+  orig: 116, 65
+  offset: 0, 0
+  index: -1
+level_3/machine_01_nuoc_ep_025
+  rotate: true
+  xy: 116, 109
+  size: 116, 65
+  orig: 116, 65
+  offset: 0, 0
+  index: -1
+level_2/machine_01_nuoc_ep_028
+  rotate: false
+  xy: 345, 329
+  size: 127, 71
+  orig: 127, 71
+  offset: 0, 0
+  index: -1
+level_3/machine_01_nuoc_ep_028
+  rotate: false
+  xy: 345, 329
+  size: 127, 71
+  orig: 127, 71
+  offset: 0, 0
+  index: -1
+level_3/machine_01_nuoc_ep_000
+  rotate: true
+  xy: 322, 109
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+level_3/machine_01_nuoc_ep_003
+  rotate: false
+  xy: 357, 83
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+level_3/machine_01_nuoc_ep_006
+  rotate: true
+  xy: 323, 335
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+level_3/machine_01_nuoc_ep_011
+  rotate: false
+  xy: 294, 329
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+machine_01_nuoc_ep_009
+  rotate: false
+  xy: 320, 88
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+machine_01_nuoc_ep_010
+  rotate: false
+  xy: 2, 227
+  size: 123, 121
+  orig: 123, 121
+  offset: 0, 0
+  index: -1
+machine_01_nuoc_ep_013
+  rotate: false
+  xy: 360, 107
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+machine_01_nuoc_ep_014
+  rotate: false
+  xy: 273, 116
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+machine_01_nuoc_ep_016
+  rotate: true
+  xy: 127, 227
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+machine_01_nuoc_ep_017
+  rotate: false
+  xy: 200, 10
+  size: 44, 12
+  orig: 44, 12
+  offset: 0, 0
+  index: -1
+machine_01_nuoc_ep_019
+  rotate: false
+  xy: 200, 24
+  size: 55, 30
+  orig: 55, 30
+  offset: 0, 0
+  index: -1
+machine_01_nuoc_ep_020
+  rotate: false
+  xy: 320, 65
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+machine_01_nuoc_ep_021
+  rotate: false
+  xy: 2, 350
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+machine_01_nuoc_ep_022
+  rotate: true
+  xy: 306, 70
+  size: 44, 12
+  orig: 44, 12
+  offset: 0, 0
+  index: -1
+machine_01_nuoc_ep_023
+  rotate: true
+  xy: 403, 236
+  size: 91, 70
+  orig: 91, 70
+  offset: 0, 0
+  index: -1
+machine_01_nuoc_ep_024
+  rotate: true
+  xy: 401, 82
+  size: 68, 71
+  orig: 68, 71
+  offset: 0, 0
+  index: -1
+machine_01_nuoc_ep_026
+  rotate: true
+  xy: 127, 240
+  size: 119, 98
+  orig: 119, 98
+  offset: 0, 0
+  index: -1
+machine_01_nuoc_ep_027
+  rotate: false
+  xy: 294, 242
+  size: 107, 85
+  orig: 107, 85
+  offset: 0, 0
+  index: -1
+machine_01_nuoc_ep_029
+  rotate: false
+  xy: 2, 116
+  size: 112, 109
+  orig: 112, 109
+  offset: 0, 0
+  index: -1
+machine_01_nuoc_ep_030
+  rotate: false
+  xy: 127, 361
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+machine_01_nuoc_ep_033
+  rotate: true
+  xy: 106, 11
+  size: 96, 92
+  orig: 96, 92
+  offset: 0, 0
+  index: -1
+machine_01_nuoc_ep_034
+  rotate: false
+  xy: 243, 144
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1

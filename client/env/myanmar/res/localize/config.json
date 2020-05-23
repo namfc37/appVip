@@ -1,0 +1,26 @@
+{
+    "defaultLanguageCode": "mm",
+    "list": [
+        {
+            "code": [
+                "mm"
+            ],
+            "name": "Myanmar",
+            "folder": "mm"
+        },
+        {
+            "code": [
+                "go"
+            ],
+            "name": "English",
+            "folder": "go"
+        },
+        {
+            "code": [
+                "vn"
+            ],
+            "name": "Vietnamese",
+            "folder": "vn"
+        }
+    ]
+}

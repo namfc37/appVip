@@ -1,0 +1,1285 @@
+{
+  "T0": {
+    "GROW_TIME": 10,
+    "HARVEST_EXP": 15,
+    "ITEM_RECEIVE_RATIO": 10,
+    "GOLD_BASIC": 1.2,
+    "EXP_BASIC": 4.81,
+    "BUG_APPEAR_RATIO": 5,
+    "SEED_TIME": 6,
+    "GOLD_BASIC_DO": 13.1,
+    "EXP_BASIC_DO_FREE": 14.4,
+    "EXP_BASIC_DO_PAID": 17.3,
+    "HARVEST_GOLD": 0,
+    "ICON_PATH": "items/item_plant_event.png",
+    "GFX": "plant_event",
+    "EVENT_ID": "E0ID",
+    "JACK_PS_GOLD": 1,
+    "ID": "T0",
+    "NAME": "Event Tree 1",
+    "UID": 1044,
+    "TYPE": 1,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 1,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 0,
+    "STOCK": 3,
+    "LEVEL_UNLOCK": 11
+  },
+  "T21": {
+    "GROW_TIME": 10,
+    "HARVEST_EXP": 15,
+    "ITEM_RECEIVE_RATIO": 10,
+    "GOLD_BASIC": 1.2,
+    "EXP_BASIC": 4.81,
+    "BUG_APPEAR_RATIO": 5,
+    "SEED_TIME": 6,
+    "GOLD_BASIC_DO": 13.1,
+    "EXP_BASIC_DO_FREE": 14.4,
+    "EXP_BASIC_DO_PAID": 17.3,
+    "HARVEST_GOLD": 0,
+    "ICON_PATH": "items/item_plant_event_00.png",
+    "GFX": "plant_event_00",
+    "EVENT_ID": "E1ID",
+    "JACK_PS_GOLD": 1,
+    "ID": "T21",
+    "NAME": "Event Tree 2",
+    "UID": 37657,
+    "TYPE": 1,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 1,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 0,
+    "STOCK": 3,
+    "LEVEL_UNLOCK": 11
+  },
+  "T22": {
+    "GROW_TIME": 10,
+    "HARVEST_EXP": 15,
+    "ITEM_RECEIVE_RATIO": 10,
+    "GOLD_BASIC": 1.2,
+    "EXP_BASIC": 4.81,
+    "BUG_APPEAR_RATIO": 5,
+    "SEED_TIME": 6,
+    "GOLD_BASIC_DO": 13.1,
+    "EXP_BASIC_DO_FREE": 14.4,
+    "EXP_BASIC_DO_PAID": 17.3,
+    "HARVEST_GOLD": 0,
+    "ICON_PATH": "items/item_plant_event_01.png",
+    "GFX": "plant_event_01",
+    "EVENT_ID": "E0ID",
+    "JACK_PS_GOLD": 1,
+    "ID": "T22",
+    "NAME": "Event Tree 3",
+    "UID": 37658,
+    "TYPE": 1,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 1,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 0,
+    "STOCK": 3,
+    "LEVEL_UNLOCK": 11
+  },
+  "T23": {
+    "GROW_TIME": 10,
+    "HARVEST_EXP": 15,
+    "ITEM_RECEIVE_RATIO": 10,
+    "GOLD_BASIC": 1.2,
+    "EXP_BASIC": 4.81,
+    "BUG_APPEAR_RATIO": 5,
+    "SEED_TIME": 6,
+    "GOLD_BASIC_DO": 13.1,
+    "EXP_BASIC_DO_FREE": 14.4,
+    "EXP_BASIC_DO_PAID": 17.3,
+    "HARVEST_GOLD": 0,
+    "ICON_PATH": "items/item_plant_event_02.png",
+    "GFX": "plant_event_02",
+    "EVENT_ID": "E0ID",
+    "JACK_PS_GOLD": 1,
+    "ID": "T23",
+    "NAME": "Event Tree 4",
+    "UID": 37659,
+    "TYPE": 1,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 1,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 0,
+    "STOCK": 3,
+    "LEVEL_UNLOCK": 11
+  },
+  "T24": {
+    "GROW_TIME": 10,
+    "HARVEST_EXP": 0,
+    "ITEM_RECEIVE_RATIO": 10,
+    "GOLD_BASIC": 1.2,
+    "EXP_BASIC": 4.81,
+    "BUG_APPEAR_RATIO": 5,
+    "SEED_TIME": 6,
+    "GOLD_BASIC_DO": 13.1,
+    "EXP_BASIC_DO_FREE": 14.4,
+    "EXP_BASIC_DO_PAID": 17.3,
+    "HARVEST_GOLD": 0,
+    "ICON_PATH": "items/item_plant_event_03.png",
+    "GFX": "plant_event_03",
+    "EVENT_ID": "E0ID",
+    "JACK_PS_GOLD": 1,
+    "ID": "T24",
+    "NAME": "Event Tree 5",
+    "UID": 37660,
+    "TYPE": 1,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 1,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 0,
+    "STOCK": 3,
+    "LEVEL_UNLOCK": 11
+  },
+  "T25": {
+    "GROW_TIME": 10,
+    "HARVEST_EXP": 15,
+    "ITEM_RECEIVE_RATIO": 10,
+    "GOLD_BASIC": 1.2,
+    "EXP_BASIC": 4.81,
+    "BUG_APPEAR_RATIO": 5,
+    "SEED_TIME": 6,
+    "GOLD_BASIC_DO": 13.1,
+    "EXP_BASIC_DO_FREE": 14.4,
+    "EXP_BASIC_DO_PAID": 17.3,
+    "HARVEST_GOLD": 0,
+    "ICON_PATH": "items/item_plant_event_04.png",
+    "GFX": "plant_event_04",
+    "EVENT_ID": "E0ID",
+    "JACK_PS_GOLD": 1,
+    "ID": "T25",
+    "NAME": "Event Tree 6",
+    "UID": 37661,
+    "TYPE": 1,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 1,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 0,
+    "STOCK": 3,
+    "LEVEL_UNLOCK": 11
+  },
+  "T26": {
+    "GROW_TIME": 10,
+    "HARVEST_EXP": 0,
+    "ITEM_RECEIVE_RATIO": 10,
+    "GOLD_BASIC": 1.2,
+    "EXP_BASIC": 4.81,
+    "BUG_APPEAR_RATIO": 5,
+    "SEED_TIME": 6,
+    "GOLD_BASIC_DO": 13.1,
+    "EXP_BASIC_DO_FREE": 14.4,
+    "EXP_BASIC_DO_PAID": 17.3,
+    "HARVEST_GOLD": 0,
+    "ICON_PATH": "items/item_plant_event_05.png",
+    "GFX": "plant_event_05",
+    "EVENT_ID": "E0ID",
+    "JACK_PS_GOLD": 1,
+    "ID": "T26",
+    "NAME": "Event Tree 7",
+    "UID": 37662,
+    "TYPE": 1,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 1,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 0,
+    "STOCK": 3,
+    "LEVEL_UNLOCK": 11
+  },
+  "T27": {
+    "GROW_TIME": 10,
+    "HARVEST_EXP": 15,
+    "ITEM_RECEIVE_RATIO": 10,
+    "GOLD_BASIC": 1.2,
+    "EXP_BASIC": 4.81,
+    "BUG_APPEAR_RATIO": 5,
+    "SEED_TIME": 6,
+    "GOLD_BASIC_DO": 13.1,
+    "EXP_BASIC_DO_FREE": 14.4,
+    "EXP_BASIC_DO_PAID": 17.3,
+    "HARVEST_GOLD": 0,
+    "ICON_PATH": "items/item_plant_event_06.png",
+    "GFX": "plant_event_06",
+    "EVENT_ID": "E0ID",
+    "JACK_PS_GOLD": 1,
+    "ID": "T27",
+    "NAME": "Event Tree 8",
+    "UID": 37663,
+    "TYPE": 1,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 1,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 0,
+    "STOCK": 3,
+    "LEVEL_UNLOCK": 11
+  },
+  "T122": {
+    "GROW_TIME": 15,
+    "HARVEST_EXP": 15,
+    "ITEM_RECEIVE_RATIO": 10,
+    "GOLD_BASIC": 1.2,
+    "EXP_BASIC": 4.81,
+    "BUG_APPEAR_RATIO": 5,
+    "SEED_TIME": 6,
+    "GOLD_BASIC_DO": 13.1,
+    "EXP_BASIC_DO_FREE": 14.4,
+    "EXP_BASIC_DO_PAID": 17.3,
+    "HARVEST_GOLD": 0,
+    "ICON_PATH": "items/item_plant_event_04.png",
+    "GFX": "plant_event_04",
+    "EVENT_ID": "E0ID",
+    "JACK_PS_GOLD": 1,
+    "ID": "T122",
+    "NAME": "Event Tree 9",
+    "UID": 1354394,
+    "TYPE": 1,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 1,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 0,
+    "STOCK": 3,
+    "LEVEL_UNLOCK": 11
+  },
+  "T1": {
+    "GROW_TIME": 120,
+    "HARVEST_EXP": 1,
+    "ITEM_RECEIVE_RATIO": 10,
+    "GOLD_BASIC": 1.0,
+    "EXP_BASIC": 3.62,
+    "BUG_ID": "B0",
+    "BUG_APPEAR_RATIO": 8,
+    "SEED_TIME": 2,
+    "GOLD_BASIC_DO": 9.43,
+    "EXP_BASIC_DO_FREE": 18.9,
+    "EXP_BASIC_DO_PAID": 26.0,
+    "HARVEST_GOLD": 0,
+    "ICON_PATH": "items/item_plant_01_red_rose.png",
+    "GFX": "plant_01_red_rose",
+    "JACK_PS_GOLD": 2,
+    "ID": "T1",
+    "NAME": "HỒNG",
+    "UID": 1045,
+    "TYPE": 1,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 1,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 1,
+    "GOLD_MIN": 1,
+    "GOLD_MAX": 3,
+    "STOCK": 0,
+    "TOM": {
+      "GOLD_BASIC": 1.4,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 1
+  },
+  "T2": {
+    "GROW_TIME": 180,
+    "HARVEST_EXP": 1,
+    "ITEM_RECEIVE_RATIO": 10,
+    "GOLD_BASIC": 1.25,
+    "EXP_BASIC": 4.82,
+    "BUG_ID": "B0",
+    "BUG_APPEAR_RATIO": 9,
+    "SEED_TIME": 5,
+    "GOLD_BASIC_DO": 11.73,
+    "EXP_BASIC_DO_FREE": 25.2,
+    "EXP_BASIC_DO_PAID": 34.4,
+    "HARVEST_GOLD": 0,
+    "ICON_PATH": "items/item_plant_02_apple.png",
+    "GFX": "plant_02_apple",
+    "JACK_PS_GOLD": 3,
+    "ID": "T2",
+    "NAME": "TÁO",
+    "UID": 1046,
+    "TYPE": 1,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 1,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 4,
+    "GOLD_MIN": 2,
+    "GOLD_MAX": 8,
+    "STOCK": 0,
+    "TOM": {
+      "GOLD_BASIC": 9.555,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 6
+  },
+  "T3": {
+    "GROW_TIME": 600,
+    "HARVEST_EXP": 2,
+    "ITEM_RECEIVE_RATIO": 10,
+    "GOLD_BASIC": 2.0,
+    "EXP_BASIC": 7.02,
+    "BUG_ID": "B2",
+    "BUG_APPEAR_RATIO": 6,
+    "SEED_TIME": 5,
+    "GOLD_BASIC_DO": 18.63,
+    "EXP_BASIC_DO_FREE": 36.75,
+    "EXP_BASIC_DO_PAID": 50.4,
+    "HARVEST_GOLD": 0,
+    "ICON_PATH": "items/item_plant_03_cotton.png",
+    "GFX": "plant_03_cotton",
+    "JACK_PS_GOLD": 4,
+    "ID": "T3",
+    "NAME": "BÔNG",
+    "UID": 1047,
+    "TYPE": 1,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 2,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 4,
+    "GOLD_MIN": 3,
+    "GOLD_MAX": 7,
+    "STOCK": 0,
+    "TOM": {
+      "GOLD_BASIC": 29.211,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 9
+  },
+  "T4": {
+    "GROW_TIME": 900,
+    "HARVEST_EXP": 2,
+    "ITEM_RECEIVE_RATIO": 10,
+    "GOLD_BASIC": 3.0,
+    "EXP_BASIC": 9.62,
+    "BUG_ID": "B1",
+    "BUG_APPEAR_RATIO": 6,
+    "SEED_TIME": 5,
+    "GOLD_BASIC_DO": 30.13,
+    "EXP_BASIC_DO_FREE": 50.4,
+    "EXP_BASIC_DO_PAID": 69.2,
+    "HARVEST_GOLD": 0,
+    "ICON_PATH": "items/item_plant_04_snowflakes.png",
+    "GFX": "plant_04_snowflakes",
+    "JACK_PS_GOLD": 5,
+    "ID": "T4",
+    "NAME": "TUYẾT",
+    "UID": 1048,
+    "TYPE": 1,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 3,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 6,
+    "GOLD_MIN": 5,
+    "GOLD_MAX": 11,
+    "STOCK": 0,
+    "TOM": {
+      "GOLD_BASIC": 54.522,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 12
+  },
+  "T5": {
+    "GROW_TIME": 1200,
+    "HARVEST_EXP": 3,
+    "ITEM_RECEIVE_RATIO": 10,
+    "GOLD_BASIC": 3.25,
+    "EXP_BASIC": 10.02,
+    "BUG_ID": "B2",
+    "BUG_APPEAR_RATIO": 7,
+    "SEED_TIME": 5,
+    "GOLD_BASIC_DO": 34.73,
+    "EXP_BASIC_DO_FREE": 65.1,
+    "EXP_BASIC_DO_PAID": 89.2,
+    "HARVEST_GOLD": 0,
+    "ICON_PATH": "items/item_plant_05_lavender.png",
+    "GFX": "plant_05_lavender",
+    "JACK_PS_GOLD": 6,
+    "ID": "T5",
+    "NAME": "OẢI HƯƠNG",
+    "UID": 1049,
+    "TYPE": 1,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 3,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 7,
+    "GOLD_MIN": 6,
+    "GOLD_MAX": 12,
+    "STOCK": 0,
+    "TOM": {
+      "GOLD_BASIC": 78.312,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 15
+  },
+  "T6": {
+    "GROW_TIME": 1500,
+    "HARVEST_EXP": 3,
+    "ITEM_RECEIVE_RATIO": 10,
+    "GOLD_BASIC": 3.75,
+    "EXP_BASIC": 12.42,
+    "BUG_ID": "B2",
+    "BUG_APPEAR_RATIO": 8,
+    "SEED_TIME": 5,
+    "GOLD_BASIC_DO": 39.33,
+    "EXP_BASIC_DO_FREE": 65.1,
+    "EXP_BASIC_DO_PAID": 89.2,
+    "HARVEST_GOLD": 0,
+    "ICON_PATH": "items/item_plant_06_coconut.png",
+    "GFX": "plant_06_coconut",
+    "JACK_PS_GOLD": 7,
+    "ID": "T6",
+    "NAME": "DỪA",
+    "UID": 1050,
+    "TYPE": 1,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 3,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 8,
+    "GOLD_MIN": 7,
+    "GOLD_MAX": 14,
+    "STOCK": 0,
+    "TOM": {
+      "GOLD_BASIC": 103.194,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 17
+  },
+  "T7": {
+    "GROW_TIME": 2100,
+    "HARVEST_EXP": 4,
+    "ITEM_RECEIVE_RATIO": 10,
+    "GOLD_BASIC": 5.0,
+    "EXP_BASIC": 13.82,
+    "BUG_ID": "B1",
+    "BUG_APPEAR_RATIO": 7,
+    "SEED_TIME": 5,
+    "GOLD_BASIC_DO": 43.93,
+    "EXP_BASIC_DO_FREE": 82.95,
+    "EXP_BASIC_DO_PAID": 113.6,
+    "HARVEST_GOLD": 0,
+    "ICON_PATH": "items/item_plant_07_lemon.png",
+    "GFX": "plant_07_lemon",
+    "JACK_PS_GOLD": 8,
+    "ID": "T7",
+    "NAME": "CHANH",
+    "UID": 1051,
+    "TYPE": 1,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 4,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 13,
+    "GOLD_MIN": 12,
+    "GOLD_MAX": 22,
+    "STOCK": 0,
+    "TOM": {
+      "GOLD_BASIC": 227.994,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 20
+  },
+  "T8": {
+    "GROW_TIME": 2700,
+    "HARVEST_EXP": 4,
+    "ITEM_RECEIVE_RATIO": 10,
+    "GOLD_BASIC": 5.75,
+    "EXP_BASIC": 15.82,
+    "BUG_ID": "B0",
+    "BUG_APPEAR_RATIO": 6,
+    "SEED_TIME": 5,
+    "GOLD_BASIC_DO": 48.53,
+    "EXP_BASIC_DO_FREE": 89.95,
+    "EXP_BASIC_DO_PAID": 121.6,
+    "HARVEST_GOLD": 0,
+    "ICON_PATH": "items/item_plant_08_water_melon.png",
+    "GFX": "plant_08_water_melon",
+    "JACK_PS_GOLD": 9,
+    "ID": "T8",
+    "NAME": "DƯA HẤU",
+    "UID": 1052,
+    "TYPE": 1,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 4,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 20,
+    "GOLD_MIN": 18,
+    "GOLD_MAX": 33,
+    "STOCK": 0,
+    "TOM": {
+      "GOLD_BASIC": 11.0,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 25
+  },
+  "T9": {
+    "GROW_TIME": 3600,
+    "HARVEST_EXP": 5,
+    "ITEM_RECEIVE_RATIO": 10,
+    "GOLD_BASIC": 13.0,
+    "EXP_BASIC": 21.6,
+    "BUG_ID": "B1",
+    "BUG_APPEAR_RATIO": 8,
+    "SEED_TIME": 5,
+    "GOLD_BASIC_DO": 73.83,
+    "EXP_BASIC_DO_FREE": 113.4,
+    "EXP_BASIC_DO_PAID": 155.6,
+    "HARVEST_GOLD": 0,
+    "ICON_PATH": "items/item_plant_09_tea.png",
+    "GFX": "plant_09_tea",
+    "JACK_PS_GOLD": 10,
+    "ID": "T9",
+    "NAME": "TRÀ",
+    "UID": 1053,
+    "TYPE": 1,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 5,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 31,
+    "GOLD_MIN": 29,
+    "GOLD_MAX": 49,
+    "STOCK": 0,
+    "TOM": {
+      "GOLD_BASIC": 25.0,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 33
+  },
+  "T10": {
+    "GROW_TIME": 4200,
+    "HARVEST_EXP": 5,
+    "ITEM_RECEIVE_RATIO": 10,
+    "GOLD_BASIC": 13.5,
+    "EXP_BASIC": 23.6,
+    "BUG_ID": "B2",
+    "BUG_APPEAR_RATIO": 9,
+    "SEED_TIME": 5,
+    "GOLD_BASIC_DO": 87.63,
+    "EXP_BASIC_DO_FREE": 120.4,
+    "EXP_BASIC_DO_PAID": 163.6,
+    "HARVEST_GOLD": 0,
+    "ICON_PATH": "items/item_plant_10_jackfruit.png",
+    "GFX": "plant_10_jackfruit",
+    "JACK_PS_GOLD": 11,
+    "ID": "T10",
+    "NAME": "MÍT",
+    "UID": 37620,
+    "TYPE": 1,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 5,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 33,
+    "GOLD_MIN": 32,
+    "GOLD_MAX": 51,
+    "STOCK": 0,
+    "TOM": {
+      "GOLD_BASIC": 25.0,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 35
+  },
+  "T11": {
+    "GROW_TIME": 4800,
+    "HARVEST_EXP": 6,
+    "ITEM_RECEIVE_RATIO": 10,
+    "GOLD_BASIC": 14.25,
+    "EXP_BASIC": 25.6,
+    "BUG_ID": "B0",
+    "BUG_APPEAR_RATIO": 7,
+    "SEED_TIME": 5,
+    "GOLD_BASIC_DO": 101.43,
+    "EXP_BASIC_DO_FREE": 127.4,
+    "EXP_BASIC_DO_PAID": 179.6,
+    "HARVEST_GOLD": 0,
+    "ICON_PATH": "items/item_plant_11_pineapple.png",
+    "GFX": "plant_11_pineapple",
+    "JACK_PS_GOLD": 12,
+    "ID": "T11",
+    "NAME": "DỨA",
+    "UID": 37621,
+    "TYPE": 1,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 5,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 35,
+    "GOLD_MIN": 34,
+    "GOLD_MAX": 53,
+    "STOCK": 0,
+    "TOM": {
+      "GOLD_BASIC": 32.0,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 37
+  },
+  "T12": {
+    "GROW_TIME": 5100,
+    "HARVEST_EXP": 6,
+    "ITEM_RECEIVE_RATIO": 10,
+    "GOLD_BASIC": 15.0,
+    "EXP_BASIC": 27.6,
+    "BUG_ID": "B6",
+    "BUG_APPEAR_RATIO": 6,
+    "SEED_TIME": 5,
+    "GOLD_BASIC_DO": 115.23,
+    "EXP_BASIC_DO_FREE": 134.4,
+    "EXP_BASIC_DO_PAID": 195.6,
+    "HARVEST_GOLD": 0,
+    "ICON_PATH": "items/item_plant_12_mango.png",
+    "GFX": "plant_12_mango",
+    "JACK_PS_GOLD": 13,
+    "ID": "T12",
+    "NAME": "XOÀI",
+    "UID": 37622,
+    "TYPE": 1,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 5,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 37,
+    "GOLD_MIN": 36,
+    "GOLD_MAX": 56,
+    "STOCK": 0,
+    "TOM": {
+      "GOLD_BASIC": 25.0,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 40
+  },
+  "T13": {
+    "GROW_TIME": 5400,
+    "HARVEST_EXP": 7,
+    "ITEM_RECEIVE_RATIO": 10,
+    "GOLD_BASIC": 16.25,
+    "EXP_BASIC": 28.8,
+    "BUG_ID": "B1",
+    "BUG_APPEAR_RATIO": 9,
+    "SEED_TIME": 5,
+    "GOLD_BASIC_DO": 149.73,
+    "EXP_BASIC_DO_FREE": 151.2,
+    "EXP_BASIC_DO_PAID": 207.2,
+    "HARVEST_GOLD": 0,
+    "ICON_PATH": "items/item_plant_13_grapes.png",
+    "GFX": "plant_13_grapes",
+    "JACK_PS_GOLD": 14,
+    "ID": "T13",
+    "NAME": "NHO",
+    "UID": 37623,
+    "TYPE": 1,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 5,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 40,
+    "GOLD_MIN": 37,
+    "GOLD_MAX": 64,
+    "STOCK": 0,
+    "TOM": {
+      "GOLD_BASIC": 32.0,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 46
+  },
+  "T14": {
+    "GROW_TIME": 6300,
+    "HARVEST_EXP": 7,
+    "ITEM_RECEIVE_RATIO": 10,
+    "GOLD_BASIC": 17.5,
+    "EXP_BASIC": 32.8,
+    "BUG_ID": "B6",
+    "BUG_APPEAR_RATIO": 7,
+    "SEED_TIME": 5,
+    "GOLD_BASIC_DO": 149.73,
+    "EXP_BASIC_DO_FREE": 158.2,
+    "EXP_BASIC_DO_PAID": 223.2,
+    "HARVEST_GOLD": 0,
+    "ICON_PATH": "items/item_plant_14_jasmine.png",
+    "GFX": "plant_14_jasmine",
+    "JACK_PS_GOLD": 15,
+    "ID": "T14",
+    "NAME": "LÀI",
+    "UID": 37624,
+    "TYPE": 1,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 5,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 43,
+    "GOLD_MIN": 40,
+    "GOLD_MAX": 68,
+    "STOCK": 0,
+    "TOM": {
+      "GOLD_BASIC": 32.0,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 49
+  },
+  "T15": {
+    "GROW_TIME": 7200,
+    "HARVEST_EXP": 8,
+    "ITEM_RECEIVE_RATIO": 10,
+    "GOLD_BASIC": 19.25,
+    "EXP_BASIC": 36.02,
+    "BUG_ID": "B0",
+    "BUG_APPEAR_RATIO": 10,
+    "SEED_TIME": 5,
+    "GOLD_BASIC_DO": 177.33,
+    "EXP_BASIC_DO_FREE": 189.0,
+    "EXP_BASIC_DO_PAID": 259.2,
+    "HARVEST_GOLD": 0,
+    "ICON_PATH": "items/item_plant_15_chrysanthemum.png",
+    "GFX": "plant_15_daisy",
+    "JACK_PS_GOLD": 16,
+    "ID": "T15",
+    "NAME": "CÚC",
+    "UID": 37625,
+    "TYPE": 1,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 6,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 48,
+    "GOLD_MIN": 44,
+    "GOLD_MAX": 76,
+    "STOCK": 0,
+    "TOM": {
+      "GOLD_BASIC": 38.0,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 58
+  },
+  "T16": {
+    "GROW_TIME": 9000,
+    "HARVEST_EXP": 8,
+    "ITEM_RECEIVE_RATIO": 10,
+    "GOLD_BASIC": 21.25,
+    "EXP_BASIC": 43.2,
+    "BUG_ID": "B6",
+    "BUG_APPEAR_RATIO": 8,
+    "SEED_TIME": 5,
+    "GOLD_BASIC_DO": 195.73,
+    "EXP_BASIC_DO_FREE": 226.8,
+    "EXP_BASIC_DO_PAID": 311.2,
+    "HARVEST_GOLD": 0,
+    "ICON_PATH": "items/item_plant_16_baby.png",
+    "GFX": "plant_16_baby",
+    "JACK_PS_GOLD": 17,
+    "ID": "T16",
+    "NAME": "BI",
+    "UID": 37626,
+    "TYPE": 1,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 6,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 53,
+    "GOLD_MIN": 49,
+    "GOLD_MAX": 84,
+    "STOCK": 0,
+    "TOM": {
+      "GOLD_BASIC": 40.95,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 62
+  },
+  "T17": {
+    "GROW_TIME": 10800,
+    "HARVEST_EXP": 9,
+    "ITEM_RECEIVE_RATIO": 10,
+    "GOLD_BASIC": 24.0,
+    "EXP_BASIC": 50.4,
+    "BUG_ID": "B2",
+    "BUG_APPEAR_RATIO": 10,
+    "SEED_TIME": 5,
+    "GOLD_BASIC_DO": 221.03,
+    "EXP_BASIC_DO_FREE": 264.6,
+    "EXP_BASIC_DO_PAID": 362.8,
+    "HARVEST_GOLD": 0,
+    "ICON_PATH": "items/item_plant_17_lotus.png",
+    "GFX": "plant_17_lotus",
+    "JACK_PS_GOLD": 18,
+    "ID": "T17",
+    "NAME": "SEN",
+    "UID": 37627,
+    "TYPE": 1,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 7,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 60,
+    "GOLD_MIN": 55,
+    "GOLD_MAX": 95,
+    "STOCK": 0,
+    "TOM": {
+      "GOLD_BASIC": 46.0,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 74
+  },
+  "T18": {
+    "GROW_TIME": 12600,
+    "HARVEST_EXP": 10,
+    "ITEM_RECEIVE_RATIO": 10,
+    "GOLD_BASIC": 27.0,
+    "EXP_BASIC": 57.6,
+    "BUG_ID": "B6",
+    "BUG_APPEAR_RATIO": 9,
+    "SEED_TIME": 5,
+    "GOLD_BASIC_DO": 248.63,
+    "EXP_BASIC_DO_FREE": 302.4,
+    "EXP_BASIC_DO_PAID": 414.8,
+    "HARVEST_GOLD": 0,
+    "ICON_PATH": "items/item_plant_18_sunflower.png",
+    "GFX": "plant_18_sunflower",
+    "JACK_PS_GOLD": 19,
+    "ID": "T18",
+    "NAME": "HƯỚNG DƯƠNG",
+    "UID": 37628,
+    "TYPE": 1,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 7,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 68,
+    "GOLD_MIN": 63,
+    "GOLD_MAX": 107,
+    "STOCK": 0,
+    "TOM": {
+      "GOLD_BASIC": 53.0,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 83
+  },
+  "T19": {
+    "GROW_TIME": 14400,
+    "HARVEST_EXP": 11,
+    "ITEM_RECEIVE_RATIO": 10,
+    "GOLD_BASIC": 29.75,
+    "EXP_BASIC": 64.8,
+    "BUG_ID": "B1",
+    "BUG_APPEAR_RATIO": 10,
+    "SEED_TIME": 5,
+    "GOLD_BASIC_DO": 273.93,
+    "EXP_BASIC_DO_FREE": 340.2,
+    "EXP_BASIC_DO_PAID": 466.4,
+    "HARVEST_GOLD": 0,
+    "ICON_PATH": "items/item_plant_19_blueberry.png",
+    "GFX": "plant_19_blueberry",
+    "JACK_PS_GOLD": 20,
+    "ID": "T19",
+    "NAME": "VIỆT QUẤT",
+    "UID": 37629,
+    "TYPE": 1,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 8,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 75,
+    "GOLD_MIN": 69,
+    "GOLD_MAX": 118,
+    "STOCK": 0,
+    "TOM": {
+      "GOLD_BASIC": 58.0,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 95
+  },
+  "T20": {
+    "GROW_TIME": 16200,
+    "HARVEST_EXP": 12,
+    "ITEM_RECEIVE_RATIO": 10,
+    "GOLD_BASIC": 33.5,
+    "EXP_BASIC": 72.02,
+    "BUG_ID": "B6",
+    "BUG_APPEAR_RATIO": 10,
+    "SEED_TIME": 5,
+    "GOLD_BASIC_DO": 308.43,
+    "EXP_BASIC_DO_FREE": 378.0,
+    "EXP_BASIC_DO_PAID": 518.4,
+    "HARVEST_GOLD": 0,
+    "ICON_PATH": "items/item_plant_20_strawberry.png",
+    "GFX": "plant_20_strawberry",
+    "JACK_PS_GOLD": 21,
+    "ID": "T20",
+    "NAME": "DÂU",
+    "UID": 37656,
+    "TYPE": 1,
+    "SUB_TYPE": 0,
+    "DIAMOND_BUY": 8,
+    "GOLD_JACK": -1,
+    "GOLD_DEFAULT": 84,
+    "GOLD_MIN": 78,
+    "GOLD_MAX": 133,
+    "STOCK": 0,
+    "TOM": {
+      "GOLD_BASIC": 65.0,
+      "packs": [
+        {
+          "MIN_NUM": 1,
+          "MAX_NUM": 3,
+          "MIN_GOLD_RATIO": 95,
+          "MAX_GOLD_RATIO": 110
+        },
+        {
+          "MIN_NUM": 4,
+          "MAX_NUM": 6,
+          "MIN_GOLD_RATIO": 90,
+          "MAX_GOLD_RATIO": 105
+        },
+        {
+          "MIN_NUM": 7,
+          "MAX_NUM": 10,
+          "MIN_GOLD_RATIO": 85,
+          "MAX_GOLD_RATIO": 105
+        }
+      ]
+    },
+    "LEVEL_UNLOCK": 106
+  }
+}

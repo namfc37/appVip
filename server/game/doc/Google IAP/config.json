@@ -1,0 +1,21 @@
+{
+	"packages":{
+		"1A":"kvtm_1a",
+		"1B":"kvtm_1b",
+		"1C":"kvtm_1c",
+		"2A":"kvtm_2a",
+		"2B":"kvtm_2b",
+		"2C":"kvtm_2c",
+		"5A":"kvtm_5a",
+		"5B":"kvtm_5b",
+		"10A":"kvtm_10a",
+		"10B":"kvtm_10b",
+		"20A":"kvtm_20a",
+		"20B":"kvtm_20b",
+		"50A":"kvtm_50a",
+		"50B":"kvtm_50b",
+		"100A":"kvtm_100a",
+		"100B":"kvtm_100b"
+	},
+	"license_key":""
+}

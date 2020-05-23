@@ -1,0 +1,104 @@
+
+plant_11_pineapple.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 21
+  rotate: true
+  xy: 252, 40
+  size: 53, 64
+  orig: 53, 64
+  offset: 0, 0
+  index: -1
+Layer 24
+  rotate: false
+  xy: 146, 168
+  size: 176, 86
+  orig: 176, 86
+  offset: 0, 0
+  index: -1
+Layer 25
+  rotate: false
+  xy: 146, 95
+  size: 189, 71
+  orig: 189, 71
+  offset: 0, 0
+  index: -1
+Layer 30
+  rotate: true
+  xy: 337, 65
+  size: 59, 71
+  orig: 60, 72
+  offset: 1, 0
+  index: -1
+Layer 31
+  rotate: true
+  xy: 461, 144
+  size: 110, 42
+  orig: 110, 42
+  offset: 0, 0
+  index: -1
+Layer 32
+  rotate: false
+  xy: 146, 2
+  size: 75, 36
+  orig: 75, 36
+  offset: 0, 0
+  index: -1
+Layer 33
+  rotate: false
+  xy: 223, 2
+  size: 63, 36
+  orig: 63, 37
+  offset: 0, 1
+  index: -1
+Layer 33 copy
+  rotate: false
+  xy: 288, 2
+  size: 63, 36
+  orig: 63, 37
+  offset: 0, 1
+  index: -1
+Layer 49 copy
+  rotate: true
+  xy: 85, 15
+  size: 101, 59
+  orig: 103, 61
+  offset: 1, 1
+  index: -1
+Layer 8
+  rotate: false
+  xy: 337, 126
+  size: 122, 128
+  orig: 123, 128
+  offset: 1, 0
+  index: -1
+Layer 88
+  rotate: false
+  xy: 2, 29
+  size: 81, 87
+  orig: 81, 87
+  offset: 0, 0
+  index: -1
+Layer 89
+  rotate: false
+  xy: 146, 40
+  size: 104, 53
+  orig: 106, 54
+  offset: 1, 0
+  index: -1
+Layer 9
+  rotate: false
+  xy: 2, 118
+  size: 142, 136
+  orig: 142, 136
+  offset: 0, 0
+  index: -1
+marker
+  rotate: false
+  xy: 2, 24
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1

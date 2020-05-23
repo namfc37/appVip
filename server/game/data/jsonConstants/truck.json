@@ -1,0 +1,940 @@
+{
+  "REQUIRES_INFO": {
+    "0": {
+      "LEVEL": 0,
+      "STAY_RATIO": 0.50625,
+      "GOLD_COEFFICIENT_RATIO": 2.4074075,
+      "EXP_COEFFICIENT_RATIO": 0.962963,
+      "MIN_ITEM_TYPE": 2,
+      "MAX_ITEM_TYPE": 2,
+      "MIN_BAG_NUM_PER_ITEM_TYPE": 2,
+      "MAX_BAG_NUM_PER_ITEM_TYPE": 2,
+      "EASY_REQUIRE": {
+        "T1": 25
+      },
+      "MEDIUM_REQUIRE": {
+        "T2": 25
+      },
+      "HARD_REQUIRE": {
+        "T3": 25
+      },
+      "MIN_NUM_REQUIRE_ITEM_EASY": 8,
+      "MAX_NUM_REQUIRE_ITEM_EASY": 10,
+      "MIN_NUM_REQUIRE_ITEM_MEDIUM": 6,
+      "MAX_NUM_REQUIRE_ITEM_MEDIUM": 8,
+      "MIN_NUM_REQUIRE_ITEM_HARD": 4,
+      "MAX_NUM_REQUIRE_ITEM_HARD": 6,
+      "REPUTATION": 2,
+      "REWARDS": {
+        "EXP": 200
+      }
+    },
+    "10": {
+      "LEVEL": 10,
+      "STAY_RATIO": 0.5315625,
+      "GOLD_COEFFICIENT_RATIO": 2.2222223,
+      "EXP_COEFFICIENT_RATIO": 0.8888889,
+      "MIN_ITEM_TYPE": 2,
+      "MAX_ITEM_TYPE": 2,
+      "MIN_BAG_NUM_PER_ITEM_TYPE": 2,
+      "MAX_BAG_NUM_PER_ITEM_TYPE": 3,
+      "EASY_REQUIRE": {
+        "T1": 25,
+        "T2": 25
+      },
+      "MEDIUM_REQUIRE": {
+        "T3": 25,
+        "T4": 25
+      },
+      "HARD_REQUIRE": {
+        "T5": 25,
+        "T6": 25
+      },
+      "MIN_NUM_REQUIRE_ITEM_EASY": 8,
+      "MAX_NUM_REQUIRE_ITEM_EASY": 10,
+      "MIN_NUM_REQUIRE_ITEM_MEDIUM": 6,
+      "MAX_NUM_REQUIRE_ITEM_MEDIUM": 8,
+      "MIN_NUM_REQUIRE_ITEM_HARD": 4,
+      "MAX_NUM_REQUIRE_ITEM_HARD": 6,
+      "REPUTATION": 2,
+      "REWARDS": {
+        "EXP": 250
+      }
+    },
+    "20": {
+      "LEVEL": 20,
+      "STAY_RATIO": 0.55814064,
+      "GOLD_COEFFICIENT_RATIO": 2.0370371,
+      "EXP_COEFFICIENT_RATIO": 0.8148148,
+      "MIN_ITEM_TYPE": 3,
+      "MAX_ITEM_TYPE": 3,
+      "MIN_BAG_NUM_PER_ITEM_TYPE": 2,
+      "MAX_BAG_NUM_PER_ITEM_TYPE": 2,
+      "EASY_REQUIRE": {
+        "T1": 25,
+        "T2": 25,
+        "T3": 25,
+        "T4": 25
+      },
+      "MEDIUM_REQUIRE": {
+        "T5": 25,
+        "T6": 25
+      },
+      "HARD_REQUIRE": {
+        "B0": 7,
+        "B1": 7,
+        "B2": 7,
+        "T7": 25,
+        "T8": 25
+      },
+      "MIN_NUM_REQUIRE_ITEM_EASY": 8,
+      "MAX_NUM_REQUIRE_ITEM_EASY": 10,
+      "MIN_NUM_REQUIRE_ITEM_MEDIUM": 8,
+      "MAX_NUM_REQUIRE_ITEM_MEDIUM": 10,
+      "MIN_NUM_REQUIRE_ITEM_HARD": 2,
+      "MAX_NUM_REQUIRE_ITEM_HARD": 3,
+      "REPUTATION": 2,
+      "REWARDS": {
+        "EXP": 500
+      }
+    },
+    "30": {
+      "LEVEL": 30,
+      "STAY_RATIO": 0.58604765,
+      "GOLD_COEFFICIENT_RATIO": 1.8518518,
+      "EXP_COEFFICIENT_RATIO": 0.7407407,
+      "MIN_ITEM_TYPE": 3,
+      "MAX_ITEM_TYPE": 3,
+      "MIN_BAG_NUM_PER_ITEM_TYPE": 2,
+      "MAX_BAG_NUM_PER_ITEM_TYPE": 2,
+      "EASY_REQUIRE": {
+        "T1": 20,
+        "T2": 20,
+        "T3": 20,
+        "T4": 20,
+        "T5": 20,
+        "T6": 20
+      },
+      "MEDIUM_REQUIRE": {
+        "T7": 20,
+        "T8": 25,
+        "T9": 25
+      },
+      "HARD_REQUIRE": {
+        "B0": 12,
+        "B1": 12,
+        "B2": 12,
+        "B3": 7,
+        "B4": 7,
+        "B5": 7,
+        "N0": 25,
+        "T10": 25,
+        "T11": 25
+      },
+      "MIN_NUM_REQUIRE_ITEM_EASY": 10,
+      "MAX_NUM_REQUIRE_ITEM_EASY": 15,
+      "MIN_NUM_REQUIRE_ITEM_MEDIUM": 8,
+      "MAX_NUM_REQUIRE_ITEM_MEDIUM": 10,
+      "MIN_NUM_REQUIRE_ITEM_HARD": 2,
+      "MAX_NUM_REQUIRE_ITEM_HARD": 3,
+      "REPUTATION": 4,
+      "REWARDS": {
+        "EXP": 1250
+      }
+    },
+    "40": {
+      "LEVEL": 40,
+      "STAY_RATIO": 0.61535007,
+      "GOLD_COEFFICIENT_RATIO": 1.6666666,
+      "EXP_COEFFICIENT_RATIO": 0.6666667,
+      "MIN_ITEM_TYPE": 3,
+      "MAX_ITEM_TYPE": 3,
+      "MIN_BAG_NUM_PER_ITEM_TYPE": 2,
+      "MAX_BAG_NUM_PER_ITEM_TYPE": 2,
+      "EASY_REQUIRE": {
+        "T1": 20,
+        "T2": 20,
+        "T3": 20,
+        "T4": 20,
+        "T5": 20,
+        "T6": 20,
+        "T7": 20
+      },
+      "MEDIUM_REQUIRE": {
+        "T10": 20,
+        "T11": 20,
+        "T8": 20,
+        "T9": 20
+      },
+      "HARD_REQUIRE": {
+        "B0": 12,
+        "B1": 12,
+        "B2": 12,
+        "B3": 7,
+        "B4": 7,
+        "B5": 7,
+        "B6": 5,
+        "N0": 25,
+        "N1": 25,
+        "T12": 20,
+        "T13": 20,
+        "T14": 20
+      },
+      "MIN_NUM_REQUIRE_ITEM_EASY": 10,
+      "MAX_NUM_REQUIRE_ITEM_EASY": 15,
+      "MIN_NUM_REQUIRE_ITEM_MEDIUM": 8,
+      "MAX_NUM_REQUIRE_ITEM_MEDIUM": 10,
+      "MIN_NUM_REQUIRE_ITEM_HARD": 2,
+      "MAX_NUM_REQUIRE_ITEM_HARD": 3,
+      "REPUTATION": 4,
+      "REWARDS": {
+        "EXP": 1500
+      }
+    },
+    "50": {
+      "LEVEL": 50,
+      "STAY_RATIO": 0.64611757,
+      "GOLD_COEFFICIENT_RATIO": 1.4814814,
+      "EXP_COEFFICIENT_RATIO": 0.5925926,
+      "MIN_ITEM_TYPE": 3,
+      "MAX_ITEM_TYPE": 3,
+      "MIN_BAG_NUM_PER_ITEM_TYPE": 2,
+      "MAX_BAG_NUM_PER_ITEM_TYPE": 2,
+      "EASY_REQUIRE": {
+        "T1": 15,
+        "T2": 15,
+        "T3": 15,
+        "T4": 15,
+        "T5": 15,
+        "T6": 20,
+        "T7": 20,
+        "T8": 20
+      },
+      "MEDIUM_REQUIRE": {
+        "T10": 20,
+        "T11": 20,
+        "T12": 20,
+        "T9": 20
+      },
+      "HARD_REQUIRE": {
+        "B0": 12,
+        "B1": 12,
+        "B2": 12,
+        "B3": 7,
+        "B4": 7,
+        "B5": 7,
+        "B6": 5,
+        "N0": 25,
+        "N1": 25,
+        "T13": 20,
+        "T14": 20,
+        "T15": 20
+      },
+      "MIN_NUM_REQUIRE_ITEM_EASY": 10,
+      "MAX_NUM_REQUIRE_ITEM_EASY": 15,
+      "MIN_NUM_REQUIRE_ITEM_MEDIUM": 10,
+      "MAX_NUM_REQUIRE_ITEM_MEDIUM": 15,
+      "MIN_NUM_REQUIRE_ITEM_HARD": 2,
+      "MAX_NUM_REQUIRE_ITEM_HARD": 3,
+      "REPUTATION": 4,
+      "REWARDS": {
+        "EXP": 1750
+      }
+    },
+    "60": {
+      "LEVEL": 60,
+      "STAY_RATIO": 0.6590399,
+      "GOLD_COEFFICIENT_RATIO": 1.2962962,
+      "EXP_COEFFICIENT_RATIO": 0.5185185,
+      "MIN_ITEM_TYPE": 3,
+      "MAX_ITEM_TYPE": 3,
+      "MIN_BAG_NUM_PER_ITEM_TYPE": 2,
+      "MAX_BAG_NUM_PER_ITEM_TYPE": 2,
+      "EASY_REQUIRE": {
+        "T1": 10,
+        "T2": 10,
+        "T3": 10,
+        "T4": 10,
+        "T5": 15,
+        "T6": 20,
+        "T7": 20,
+        "T8": 20
+      },
+      "MEDIUM_REQUIRE": {
+        "T10": 15,
+        "T11": 15,
+        "T12": 20,
+        "T13": 20,
+        "T9": 15
+      },
+      "HARD_REQUIRE": {
+        "B0": 12,
+        "B1": 12,
+        "B2": 12,
+        "B3": 7,
+        "B4": 7,
+        "B5": 7,
+        "B6": 5,
+        "N0": 25,
+        "N1": 25,
+        "T14": 20,
+        "T15": 20,
+        "T16": 20
+      },
+      "MIN_NUM_REQUIRE_ITEM_EASY": 15,
+      "MAX_NUM_REQUIRE_ITEM_EASY": 20,
+      "MIN_NUM_REQUIRE_ITEM_MEDIUM": 10,
+      "MAX_NUM_REQUIRE_ITEM_MEDIUM": 15,
+      "MIN_NUM_REQUIRE_ITEM_HARD": 2,
+      "MAX_NUM_REQUIRE_ITEM_HARD": 3,
+      "REPUTATION": 6,
+      "REWARDS": {
+        "EXP": 2000
+      }
+    },
+    "70": {
+      "LEVEL": 70,
+      "STAY_RATIO": 0.6722207,
+      "GOLD_COEFFICIENT_RATIO": 1.1111112,
+      "EXP_COEFFICIENT_RATIO": 0.44444445,
+      "MIN_ITEM_TYPE": 3,
+      "MAX_ITEM_TYPE": 3,
+      "MIN_BAG_NUM_PER_ITEM_TYPE": 2,
+      "MAX_BAG_NUM_PER_ITEM_TYPE": 2,
+      "EASY_REQUIRE": {
+        "T1": 10,
+        "T2": 10,
+        "T3": 10,
+        "T4": 10,
+        "T5": 15,
+        "T6": 20,
+        "T7": 20,
+        "T8": 20
+      },
+      "MEDIUM_REQUIRE": {
+        "T10": 15,
+        "T11": 15,
+        "T12": 20,
+        "T13": 20,
+        "T14": 20,
+        "T9": 20
+      },
+      "HARD_REQUIRE": {
+        "B0": 12,
+        "B1": 12,
+        "B2": 12,
+        "B3": 12,
+        "B4": 12,
+        "B5": 12,
+        "B6": 12,
+        "N0": 25,
+        "N1": 25,
+        "T15": 20,
+        "T16": 20,
+        "T17": 20
+      },
+      "MIN_NUM_REQUIRE_ITEM_EASY": 15,
+      "MAX_NUM_REQUIRE_ITEM_EASY": 20,
+      "MIN_NUM_REQUIRE_ITEM_MEDIUM": 10,
+      "MAX_NUM_REQUIRE_ITEM_MEDIUM": 15,
+      "MIN_NUM_REQUIRE_ITEM_HARD": 3,
+      "MAX_NUM_REQUIRE_ITEM_HARD": 4,
+      "REPUTATION": 6,
+      "REWARDS": {
+        "EXP": 2250
+      }
+    },
+    "80": {
+      "LEVEL": 80,
+      "STAY_RATIO": 0.68566513,
+      "GOLD_COEFFICIENT_RATIO": 0.9259259,
+      "EXP_COEFFICIENT_RATIO": 0.37037036,
+      "MIN_ITEM_TYPE": 3,
+      "MAX_ITEM_TYPE": 3,
+      "MIN_BAG_NUM_PER_ITEM_TYPE": 2,
+      "MAX_BAG_NUM_PER_ITEM_TYPE": 2,
+      "EASY_REQUIRE": {
+        "T1": 10,
+        "T2": 10,
+        "T3": 10,
+        "T4": 10,
+        "T5": 15,
+        "T6": 20,
+        "T7": 20,
+        "T8": 20
+      },
+      "MEDIUM_REQUIRE": {
+        "T10": 15,
+        "T11": 15,
+        "T12": 20,
+        "T13": 20,
+        "T14": 20,
+        "T15": 20,
+        "T9": 20
+      },
+      "HARD_REQUIRE": {
+        "B0": 12,
+        "B1": 12,
+        "B2": 12,
+        "B3": 12,
+        "B4": 12,
+        "B5": 12,
+        "B6": 12,
+        "N0": 25,
+        "N1": 25,
+        "N2": 25,
+        "N3": 25,
+        "T16": 20,
+        "T17": 20,
+        "T18": 20
+      },
+      "MIN_NUM_REQUIRE_ITEM_EASY": 20,
+      "MAX_NUM_REQUIRE_ITEM_EASY": 25,
+      "MIN_NUM_REQUIRE_ITEM_MEDIUM": 10,
+      "MAX_NUM_REQUIRE_ITEM_MEDIUM": 15,
+      "MIN_NUM_REQUIRE_ITEM_HARD": 3,
+      "MAX_NUM_REQUIRE_ITEM_HARD": 4,
+      "REPUTATION": 6,
+      "REWARDS": {
+        "EXP": 2500
+      }
+    },
+    "90": {
+      "LEVEL": 90,
+      "STAY_RATIO": 0.69937843,
+      "GOLD_COEFFICIENT_RATIO": 0.7407407,
+      "EXP_COEFFICIENT_RATIO": 0.2962963,
+      "MIN_ITEM_TYPE": 3,
+      "MAX_ITEM_TYPE": 3,
+      "MIN_BAG_NUM_PER_ITEM_TYPE": 2,
+      "MAX_BAG_NUM_PER_ITEM_TYPE": 2,
+      "EASY_REQUIRE": {
+        "T1": 10,
+        "T2": 10,
+        "T3": 10,
+        "T4": 10,
+        "T5": 15,
+        "T6": 20,
+        "T7": 20,
+        "T8": 20
+      },
+      "MEDIUM_REQUIRE": {
+        "T10": 15,
+        "T11": 15,
+        "T12": 20,
+        "T13": 20,
+        "T14": 20,
+        "T15": 20,
+        "T16": 20,
+        "T9": 20
+      },
+      "HARD_REQUIRE": {
+        "B0": 12,
+        "B1": 12,
+        "B2": 12,
+        "B3": 12,
+        "B4": 12,
+        "B5": 12,
+        "B6": 12,
+        "N0": 25,
+        "N1": 25,
+        "N2": 25,
+        "N3": 25,
+        "T17": 20,
+        "T18": 20,
+        "T19": 20
+      },
+      "MIN_NUM_REQUIRE_ITEM_EASY": 20,
+      "MAX_NUM_REQUIRE_ITEM_EASY": 25,
+      "MIN_NUM_REQUIRE_ITEM_MEDIUM": 10,
+      "MAX_NUM_REQUIRE_ITEM_MEDIUM": 15,
+      "MIN_NUM_REQUIRE_ITEM_HARD": 3,
+      "MAX_NUM_REQUIRE_ITEM_HARD": 4,
+      "REPUTATION": 8,
+      "REWARDS": {
+        "EXP": 2750
+      }
+    },
+    "100": {
+      "LEVEL": 100,
+      "STAY_RATIO": 0.713366,
+      "GOLD_COEFFICIENT_RATIO": 0.5555556,
+      "EXP_COEFFICIENT_RATIO": 0.22222222,
+      "MIN_ITEM_TYPE": 3,
+      "MAX_ITEM_TYPE": 3,
+      "MIN_BAG_NUM_PER_ITEM_TYPE": 2,
+      "MAX_BAG_NUM_PER_ITEM_TYPE": 2,
+      "EASY_REQUIRE": {
+        "T1": 5,
+        "T2": 5,
+        "T3": 5,
+        "T4": 5,
+        "T5": 10,
+        "T6": 15,
+        "T7": 15,
+        "T8": 20
+      },
+      "MEDIUM_REQUIRE": {
+        "T10": 15,
+        "T11": 15,
+        "T12": 15,
+        "T13": 15,
+        "T14": 20,
+        "T15": 20,
+        "T16": 20,
+        "T9": 20
+      },
+      "HARD_REQUIRE": {
+        "B0": 12,
+        "B1": 12,
+        "B2": 12,
+        "B3": 12,
+        "B4": 12,
+        "B5": 12,
+        "B6": 12,
+        "N0": 25,
+        "N1": 25,
+        "N2": 25,
+        "N3": 25,
+        "T17": 20,
+        "T18": 25,
+        "T19": 25,
+        "T20": 25
+      },
+      "MIN_NUM_REQUIRE_ITEM_EASY": 20,
+      "MAX_NUM_REQUIRE_ITEM_EASY": 25,
+      "MIN_NUM_REQUIRE_ITEM_MEDIUM": 15,
+      "MAX_NUM_REQUIRE_ITEM_MEDIUM": 20,
+      "MIN_NUM_REQUIRE_ITEM_HARD": 3,
+      "MAX_NUM_REQUIRE_ITEM_HARD": 4,
+      "REPUTATION": 8,
+      "REWARDS": {
+        "EXP": 3000
+      }
+    },
+    "120": {
+      "LEVEL": 120,
+      "STAY_RATIO": 0.7276333,
+      "GOLD_COEFFICIENT_RATIO": 0.5185185,
+      "EXP_COEFFICIENT_RATIO": 0.2074074,
+      "MIN_ITEM_TYPE": 3,
+      "MAX_ITEM_TYPE": 3,
+      "MIN_BAG_NUM_PER_ITEM_TYPE": 2,
+      "MAX_BAG_NUM_PER_ITEM_TYPE": 2,
+      "EASY_REQUIRE": {
+        "T1": 5,
+        "T2": 5,
+        "T3": 5,
+        "T4": 5,
+        "T5": 10,
+        "T6": 15,
+        "T7": 15,
+        "T8": 20
+      },
+      "MEDIUM_REQUIRE": {
+        "T10": 15,
+        "T11": 15,
+        "T12": 15,
+        "T13": 15,
+        "T14": 20,
+        "T15": 20,
+        "T16": 20,
+        "T9": 20
+      },
+      "HARD_REQUIRE": {
+        "B0": 12,
+        "B1": 12,
+        "B2": 12,
+        "B3": 12,
+        "B4": 12,
+        "B5": 12,
+        "B6": 12,
+        "N0": 25,
+        "N1": 25,
+        "N2": 25,
+        "N3": 25,
+        "T17": 20,
+        "T18": 25,
+        "T19": 25,
+        "T20": 25
+      },
+      "MIN_NUM_REQUIRE_ITEM_EASY": 25,
+      "MAX_NUM_REQUIRE_ITEM_EASY": 30,
+      "MIN_NUM_REQUIRE_ITEM_MEDIUM": 15,
+      "MAX_NUM_REQUIRE_ITEM_MEDIUM": 20,
+      "MIN_NUM_REQUIRE_ITEM_HARD": 3,
+      "MAX_NUM_REQUIRE_ITEM_HARD": 4,
+      "REPUTATION": 8,
+      "REWARDS": {
+        "EXP": 3250
+      }
+    },
+    "150": {
+      "LEVEL": 150,
+      "STAY_RATIO": 0.74218595,
+      "GOLD_COEFFICIENT_RATIO": 0.4814815,
+      "EXP_COEFFICIENT_RATIO": 0.19259259,
+      "MIN_ITEM_TYPE": 3,
+      "MAX_ITEM_TYPE": 3,
+      "MIN_BAG_NUM_PER_ITEM_TYPE": 2,
+      "MAX_BAG_NUM_PER_ITEM_TYPE": 2,
+      "EASY_REQUIRE": {
+        "T1": 5,
+        "T2": 5,
+        "T3": 5,
+        "T4": 5,
+        "T5": 10,
+        "T6": 15,
+        "T7": 15,
+        "T8": 20
+      },
+      "MEDIUM_REQUIRE": {
+        "T10": 15,
+        "T11": 15,
+        "T12": 15,
+        "T13": 15,
+        "T14": 20,
+        "T15": 20,
+        "T16": 20,
+        "T9": 20
+      },
+      "HARD_REQUIRE": {
+        "B0": 12,
+        "B1": 12,
+        "B2": 12,
+        "B3": 12,
+        "B4": 12,
+        "B5": 12,
+        "B6": 12,
+        "N0": 25,
+        "N1": 25,
+        "N2": 25,
+        "N3": 25,
+        "T17": 20,
+        "T18": 25,
+        "T19": 25,
+        "T20": 25
+      },
+      "MIN_NUM_REQUIRE_ITEM_EASY": 25,
+      "MAX_NUM_REQUIRE_ITEM_EASY": 30,
+      "MIN_NUM_REQUIRE_ITEM_MEDIUM": 15,
+      "MAX_NUM_REQUIRE_ITEM_MEDIUM": 20,
+      "MIN_NUM_REQUIRE_ITEM_HARD": 3,
+      "MAX_NUM_REQUIRE_ITEM_HARD": 4,
+      "REPUTATION": 8,
+      "REWARDS": {
+        "EXP": 3500
+      }
+    },
+    "180": {
+      "LEVEL": 180,
+      "STAY_RATIO": 0.75702965,
+      "GOLD_COEFFICIENT_RATIO": 0.46296296,
+      "EXP_COEFFICIENT_RATIO": 0.18518518,
+      "MIN_ITEM_TYPE": 3,
+      "MAX_ITEM_TYPE": 3,
+      "MIN_BAG_NUM_PER_ITEM_TYPE": 2,
+      "MAX_BAG_NUM_PER_ITEM_TYPE": 2,
+      "EASY_REQUIRE": {
+        "T1": 5,
+        "T2": 5,
+        "T3": 5,
+        "T4": 5,
+        "T5": 10,
+        "T6": 15,
+        "T7": 15,
+        "T8": 20
+      },
+      "MEDIUM_REQUIRE": {
+        "T10": 15,
+        "T11": 15,
+        "T12": 15,
+        "T13": 15,
+        "T14": 20,
+        "T15": 20,
+        "T16": 20,
+        "T9": 20
+      },
+      "HARD_REQUIRE": {
+        "B0": 12,
+        "B1": 12,
+        "B2": 12,
+        "B3": 12,
+        "B4": 12,
+        "B5": 12,
+        "B6": 12,
+        "N0": 25,
+        "N1": 25,
+        "N2": 25,
+        "N3": 25,
+        "T17": 20,
+        "T18": 25,
+        "T19": 25,
+        "T20": 25
+      },
+      "MIN_NUM_REQUIRE_ITEM_EASY": 25,
+      "MAX_NUM_REQUIRE_ITEM_EASY": 30,
+      "MIN_NUM_REQUIRE_ITEM_MEDIUM": 15,
+      "MAX_NUM_REQUIRE_ITEM_MEDIUM": 20,
+      "MIN_NUM_REQUIRE_ITEM_HARD": 4,
+      "MAX_NUM_REQUIRE_ITEM_HARD": 5,
+      "REPUTATION": 10,
+      "REWARDS": {
+        "EXP": 3750
+      }
+    },
+    "200": {
+      "LEVEL": 200,
+      "STAY_RATIO": 0.77217025,
+      "GOLD_COEFFICIENT_RATIO": 0.44444445,
+      "EXP_COEFFICIENT_RATIO": 0.17777778,
+      "MIN_ITEM_TYPE": 3,
+      "MAX_ITEM_TYPE": 3,
+      "MIN_BAG_NUM_PER_ITEM_TYPE": 2,
+      "MAX_BAG_NUM_PER_ITEM_TYPE": 2,
+      "EASY_REQUIRE": {
+        "T1": 5,
+        "T2": 5,
+        "T3": 5,
+        "T4": 5,
+        "T5": 10,
+        "T6": 15,
+        "T7": 15,
+        "T8": 20
+      },
+      "MEDIUM_REQUIRE": {
+        "T10": 15,
+        "T11": 15,
+        "T12": 15,
+        "T13": 15,
+        "T14": 20,
+        "T15": 20,
+        "T16": 20,
+        "T9": 20
+      },
+      "HARD_REQUIRE": {
+        "B0": 12,
+        "B1": 12,
+        "B2": 12,
+        "B3": 12,
+        "B4": 12,
+        "B5": 12,
+        "B6": 12,
+        "N0": 25,
+        "N1": 25,
+        "N2": 25,
+        "N3": 25,
+        "T17": 20,
+        "T18": 25,
+        "T19": 25,
+        "T20": 25
+      },
+      "MIN_NUM_REQUIRE_ITEM_EASY": 30,
+      "MAX_NUM_REQUIRE_ITEM_EASY": 40,
+      "MIN_NUM_REQUIRE_ITEM_MEDIUM": 20,
+      "MAX_NUM_REQUIRE_ITEM_MEDIUM": 25,
+      "MIN_NUM_REQUIRE_ITEM_HARD": 4,
+      "MAX_NUM_REQUIRE_ITEM_HARD": 5,
+      "REPUTATION": 10,
+      "REWARDS": {
+        "EXP": 4000
+      }
+    },
+    "250": {
+      "LEVEL": 250,
+      "STAY_RATIO": 0.7876137,
+      "GOLD_COEFFICIENT_RATIO": 0.42592594,
+      "EXP_COEFFICIENT_RATIO": 0.17037037,
+      "MIN_ITEM_TYPE": 3,
+      "MAX_ITEM_TYPE": 3,
+      "MIN_BAG_NUM_PER_ITEM_TYPE": 2,
+      "MAX_BAG_NUM_PER_ITEM_TYPE": 2,
+      "EASY_REQUIRE": {
+        "T1": 5,
+        "T2": 5,
+        "T3": 5,
+        "T4": 5,
+        "T5": 10,
+        "T6": 15,
+        "T7": 15,
+        "T8": 20
+      },
+      "MEDIUM_REQUIRE": {
+        "T10": 15,
+        "T11": 15,
+        "T12": 15,
+        "T13": 15,
+        "T14": 20,
+        "T15": 20,
+        "T16": 20,
+        "T9": 20
+      },
+      "HARD_REQUIRE": {
+        "B0": 12,
+        "B1": 12,
+        "B2": 12,
+        "B3": 12,
+        "B4": 12,
+        "B5": 12,
+        "B6": 12,
+        "N0": 25,
+        "N1": 25,
+        "N2": 25,
+        "N3": 25,
+        "T17": 20,
+        "T18": 25,
+        "T19": 25,
+        "T20": 25
+      },
+      "MIN_NUM_REQUIRE_ITEM_EASY": 30,
+      "MAX_NUM_REQUIRE_ITEM_EASY": 40,
+      "MIN_NUM_REQUIRE_ITEM_MEDIUM": 20,
+      "MAX_NUM_REQUIRE_ITEM_MEDIUM": 25,
+      "MIN_NUM_REQUIRE_ITEM_HARD": 4,
+      "MAX_NUM_REQUIRE_ITEM_HARD": 5,
+      "REPUTATION": 10,
+      "REWARDS": {
+        "EXP": 4250
+      }
+    },
+    "300": {
+      "LEVEL": 300,
+      "STAY_RATIO": 0.80336595,
+      "GOLD_COEFFICIENT_RATIO": 0.4074074,
+      "EXP_COEFFICIENT_RATIO": 0.16296296,
+      "MIN_ITEM_TYPE": 3,
+      "MAX_ITEM_TYPE": 3,
+      "MIN_BAG_NUM_PER_ITEM_TYPE": 2,
+      "MAX_BAG_NUM_PER_ITEM_TYPE": 2,
+      "EASY_REQUIRE": {
+        "T1": 5,
+        "T2": 5,
+        "T3": 5,
+        "T4": 5,
+        "T5": 10,
+        "T6": 15,
+        "T7": 15,
+        "T8": 20
+      },
+      "MEDIUM_REQUIRE": {
+        "T10": 15,
+        "T11": 15,
+        "T12": 15,
+        "T13": 15,
+        "T14": 20,
+        "T15": 20,
+        "T16": 20,
+        "T9": 20
+      },
+      "HARD_REQUIRE": {
+        "B0": 12,
+        "B1": 12,
+        "B2": 12,
+        "B3": 12,
+        "B4": 12,
+        "B5": 12,
+        "B6": 12,
+        "N0": 25,
+        "N1": 25,
+        "N2": 25,
+        "N3": 25,
+        "T17": 20,
+        "T18": 25,
+        "T19": 25,
+        "T20": 25
+      },
+      "MIN_NUM_REQUIRE_ITEM_EASY": 30,
+      "MAX_NUM_REQUIRE_ITEM_EASY": 40,
+      "MIN_NUM_REQUIRE_ITEM_MEDIUM": 20,
+      "MAX_NUM_REQUIRE_ITEM_MEDIUM": 25,
+      "MIN_NUM_REQUIRE_ITEM_HARD": 4,
+      "MAX_NUM_REQUIRE_ITEM_HARD": 5,
+      "REPUTATION": 10,
+      "REWARDS": {
+        "EXP": 4500
+      }
+    }
+  },
+  "LEVELS": [
+    {
+      "DELIVERY_REQ": 0,
+      "GOLD_UPGRADE": 0,
+      "UPGRADE_RATIO": 0,
+      "ARRIVE_REDUCE_TIME": 0,
+      "EXP_BONUS": 0,
+      "GOLD_BONUS": 0
+    },
+    {
+      "DELIVERY_REQ": 12,
+      "GOLD_UPGRADE": 1750,
+      "UPGRADE_RATIO": 100,
+      "ARRIVE_REDUCE_TIME": 2,
+      "EXP_BONUS": 4,
+      "GOLD_BONUS": 5
+    },
+    {
+      "DELIVERY_REQ": 60,
+      "GOLD_UPGRADE": 6350,
+      "UPGRADE_RATIO": 100,
+      "ARRIVE_REDUCE_TIME": 5,
+      "EXP_BONUS": 7,
+      "GOLD_BONUS": 10
+    },
+    {
+      "DELIVERY_REQ": 180,
+      "GOLD_UPGRADE": 80000,
+      "UPGRADE_RATIO": 100,
+      "ARRIVE_REDUCE_TIME": 10,
+      "EXP_BONUS": 10,
+      "GOLD_BONUS": 15
+    },
+    {
+      "DELIVERY_REQ": 300,
+      "GOLD_UPGRADE": 448000,
+      "UPGRADE_RATIO": 100,
+      "ARRIVE_REDUCE_TIME": 15,
+      "EXP_BONUS": 14,
+      "GOLD_BONUS": 20
+    },
+    {
+      "DELIVERY_REQ": 540,
+      "GOLD_UPGRADE": 1375000,
+      "UPGRADE_RATIO": 100,
+      "ARRIVE_REDUCE_TIME": 20,
+      "EXP_BONUS": 16,
+      "GOLD_BONUS": 24
+    },
+    {
+      "DELIVERY_REQ": 900,
+      "GOLD_UPGRADE": 3230000,
+      "UPGRADE_RATIO": 100,
+      "ARRIVE_REDUCE_TIME": 25,
+      "EXP_BONUS": 20,
+      "GOLD_BONUS": 29
+    },
+    {
+      "DELIVERY_REQ": 1800,
+      "GOLD_UPGRADE": 39000000,
+      "UPGRADE_RATIO": 100,
+      "ARRIVE_REDUCE_TIME": 30,
+      "EXP_BONUS": 23,
+      "GOLD_BONUS": 34
+    },
+    {
+      "DELIVERY_REQ": 3600,
+      "GOLD_UPGRADE": 58500000,
+      "UPGRADE_RATIO": 100,
+      "ARRIVE_REDUCE_TIME": 35,
+      "EXP_BONUS": 26,
+      "GOLD_BONUS": 39
+    },
+    {
+      "DELIVERY_REQ": 5400,
+      "GOLD_UPGRADE": 70200000,
+      "UPGRADE_RATIO": 100,
+      "ARRIVE_REDUCE_TIME": 40,
+      "EXP_BONUS": 30,
+      "GOLD_BONUS": 44
+    }
+  ]
+}

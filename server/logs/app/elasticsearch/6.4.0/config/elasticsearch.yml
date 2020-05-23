@@ -1,0 +1,16 @@
+bootstrap.memory_lock: false
+cluster.name: elastic_local
+http.cors.enabled : true
+http.cors.allow-origin : "*"
+http.cors.allow-methods : OPTIONS, HEAD, GET, POST, PUT, DELETE
+http.cors.allow-headers : X-Requested-With,X-Auth-Token,Content-Type, Content-Length
+http.port: 9200
+node.data: true
+node.ingest: true
+node.master: true
+node.name: kvtm
+path.data: d:\Project\els\product\data
+path.logs: d:\Project\els\product\logs
+transport.tcp.port: 9300
+xpack.license.self_generated.type: basic
+xpack.security.enabled: false

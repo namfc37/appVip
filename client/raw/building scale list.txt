@@ -1,0 +1,15 @@
+building_barn 		: 95%
+
+building_games		: 93%
+
+building_achievement	: 90%
+
+building_guild		: 90%
+
+building_leader_board	:100%
+
+building_news		: 90%
+
+building_pshop		:100%
+
+building_treasure	: 12%

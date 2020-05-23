@@ -1,0 +1,160 @@
+
+npc_event.png
+size: 362,360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cargo_light
+  rotate: true
+  xy: 2, 45
+  size: 147, 97
+  orig: 147, 97
+  offset: 0, 0
+  index: -1
+chan
+  rotate: false
+  xy: 216, 78
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+dau+
+  rotate: false
+  xy: 338, 232
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+dau1
+  rotate: false
+  xy: 139, 250
+  size: 127, 108
+  orig: 127, 108
+  offset: 0, 0
+  index: -1
+dau2
+  rotate: false
+  xy: 101, 69
+  size: 113, 109
+  orig: 113, 109
+  offset: 0, 0
+  index: -1
+gio2
+  rotate: false
+  xy: 2, 194
+  size: 135, 164
+  orig: 146, 164
+  offset: 5, 0
+  index: -1
+kt1
+  rotate: true
+  xy: 268, 251
+  size: 107, 64
+  orig: 107, 64
+  offset: 0, 0
+  index: -1
+owl_new_005
+  rotate: false
+  xy: 174, 32
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+owl_new_007
+  rotate: false
+  xy: 262, 113
+  size: 59, 63
+  orig: 59, 63
+  offset: 0, 0
+  index: -1
+owl_new_008
+  rotate: true
+  xy: 216, 91
+  size: 87, 44
+  orig: 114, 51
+  offset: 12, 3
+  index: -1
+owl_new_009
+  rotate: false
+  xy: 101, 40
+  size: 71, 27
+  orig: 71, 27
+  offset: 0, 0
+  index: -1
+owl_new_010
+  rotate: false
+  xy: 2, 7
+  size: 64, 36
+  orig: 64, 36
+  offset: 0, 0
+  index: -1
+owl_new_011
+  rotate: false
+  xy: 334, 333
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+owl_new_012
+  rotate: false
+  xy: 262, 78
+  size: 61, 33
+  orig: 61, 33
+  offset: 0, 0
+  index: -1
+owl_new_013
+  rotate: false
+  xy: 139, 180
+  size: 138, 68
+  orig: 138, 68
+  offset: 0, 0
+  index: -1
+owl_new_017
+  rotate: true
+  xy: 288, 25
+  size: 51, 45
+  orig: 51, 45
+  offset: 0, 0
+  index: -1
+owl_new_018
+  rotate: true
+  xy: 334, 279
+  size: 52, 23
+  orig: 52, 23
+  offset: 0, 0
+  index: -1
+owl_new_20
+  rotate: false
+  xy: 223, 24
+  size: 63, 52
+  orig: 63, 52
+  offset: 0, 0
+  index: -1
+owl_new_24
+  rotate: false
+  xy: 338, 212
+  size: 17, 18
+  orig: 17, 19
+  offset: 0, 1
+  index: -1
+owl_new_25
+  rotate: true
+  xy: 334, 257
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 68, 22
+  size: 19, 21
+  orig: 19, 23
+  offset: 0, 2
+  index: -1
+than2
+  rotate: true
+  xy: 279, 178
+  size: 71, 57
+  orig: 71, 57
+  offset: 0, 0
+  index: -1

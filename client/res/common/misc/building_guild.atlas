@@ -1,0 +1,41 @@
+
+building_guild.png
+size: 324,324
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+board
+  rotate: true
+  xy: 130, 80
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+board2
+  rotate: false
+  xy: 2, 2
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+building_guild
+  rotate: false
+  xy: 2, 121
+  size: 229, 201
+  orig: 233, 201
+  offset: 0, 0
+  index: -1
+building_guild_01
+  rotate: true
+  xy: 233, 103
+  size: 219, 89
+  orig: 221, 91
+  offset: 1, 1
+  index: -1
+tree
+  rotate: false
+  xy: 2, 16
+  size: 126, 103
+  orig: 126, 104
+  offset: 0, 1
+  index: -1

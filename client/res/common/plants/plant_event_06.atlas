@@ -1,0 +1,118 @@
+
+plant_event_06.png
+size: 176,176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cay_my_nhan_002
+  rotate: false
+  xy: 2, 100
+  size: 66, 74
+  orig: 66, 74
+  offset: 0, 0
+  index: -1
+cay_my_nhan_003
+  rotate: true
+  xy: 121, 105
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+cay_my_nhan_004
+  rotate: true
+  xy: 39, 2
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+cay_my_nhan_005
+  rotate: false
+  xy: 121, 149
+  size: 53, 25
+  orig: 53, 25
+  offset: 0, 0
+  index: -1
+cay_my_nhan_006
+  rotate: false
+  xy: 2, 2
+  size: 35, 96
+  orig: 36, 96
+  offset: 1, 0
+  index: -1
+cay_my_nhan_007
+  rotate: false
+  xy: 70, 107
+  size: 49, 67
+  orig: 49, 67
+  offset: 0, 0
+  index: -1
+cay_my_nhan_008
+  rotate: true
+  xy: 39, 50
+  size: 48, 26
+  orig: 48, 26
+  offset: 0, 0
+  index: -1
+cay_my_nhan_009
+  rotate: false
+  xy: 115, 40
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+cay_my_nhan_010
+  rotate: false
+  xy: 90, 2
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+cay_my_nhan_011
+  rotate: false
+  xy: 64, 14
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+cay_my_nhan_012
+  rotate: true
+  xy: 70, 70
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+cay_my_nhan_013
+  rotate: false
+  xy: 67, 49
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+cay_my_nhan_014
+  rotate: true
+  xy: 157, 63
+  size: 40, 17
+  orig: 40, 17
+  offset: 0, 0
+  index: -1
+cay_my_nhan_015
+  rotate: true
+  xy: 90, 18
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+cay_my_nhan_016
+  rotate: false
+  xy: 114, 79
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+cay_my_nhan_017
+  rotate: false
+  xy: 114, 59
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1

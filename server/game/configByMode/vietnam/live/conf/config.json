@@ -1,0 +1,88 @@
+{
+  "zone": "vn",
+  "environment": "SERVER_LIVE",
+  "extendMemcached": "conf/couchbase.json",
+  "extendRedis": "conf/redis.json",
+  "logAddNewLine": true,
+  "minClientCode": 812,
+  "user": {
+    "portRange": 8000,
+    "portWebSocketRange": 8300,
+    "portAdminRange": 9000,
+    "useLoginPortal": true,
+    "useJsonPretty": false,
+    "periodSave": 120,
+    "groups": [
+      1,
+      2
+    ]
+  },
+  "udp": {
+    "portRange": 8200,
+    "sndBuf": 8388608,
+    "rcvBuf": 8388608
+  },
+  "admin": {
+    "portRange": 8100,
+    "group": 11
+  },
+  "newsBoard": {
+    "host": "10.50.21.22",
+    "group": 12,
+    "periodSave": 20,
+    "itemPerKey": 5000
+  },
+  "friend": {
+    "host": "10.50.21.22",
+    "group": 13,
+    "periodSave": 300,
+    "itemPerKey": 5000,
+    "itemPerLevel": 5000
+  },
+  "balance": {
+    "host": "10.50.21.20",
+    "group": 0,
+    "period": 1000,
+    "timeout": 1500
+  },
+  "chat": {
+    "host": "10.50.21.21",
+    "group": 3,
+    "useLoginPortal": false,
+    "periodSave": 120
+  },
+  "payment": {
+    "useServiceCheckLocalPayment": true,
+    "directMobile": {
+      "id": 181,
+      "key1": "FDc6WLyfGYAeIoPj",
+      "urlSubmitCard": "https://mobile.pay.zing.vn/zmpapi/submitcard",
+      "urlRegSms": "https://mobile.pay.zing.vn/zmpapi/regsms",
+      "urlRegAtm": "https://mobile.pay.zing.vn/zmpapi/zalopaybankcreateorder",
+      "urlRedirect": "https://zingplay.com/games/khu-vuon-tren-may-zingplay.html",
+      "connectTimeout": 5,
+      "idleTime": 30
+    },
+    "iap": {
+      "urlValidate": "https://zplogin.g6.zing.vn",
+      "serviceName": "verify_receipt_google",
+      "expireDay": 7,
+      "connectTimeout": 5,
+      "idleTime": 30
+    }
+  },
+  "mapIP": {
+    "10.50.21.20": {
+      "ip": "49.213.101.66",
+      "domain": "kvtm-1-game.service.zingplay.com"
+    },
+    "10.50.21.21": {
+      "ip": "49.213.101.67",
+      "domain": "kvtm-2-game.service.zingplay.com"
+    },
+    "10.50.21.22": {
+      "ip": "49.213.101.68",
+      "domain": "kvtm-3-game.service.zingplay.com"
+    }
+  }
+}

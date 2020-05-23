@@ -1,0 +1,703 @@
+{
+  "ID": "e8e7f20f-0e46-4a71-a91d-1385c3584387",
+  "Version": "2.3.2.3",
+  "Name": "pmui_selectnetwork",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 8,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "sys_popup_table_01.png",
+              "Plist": "pm_content_ui.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 173,
+            "Scale9OriginY": 119,
+            "Scale9Width": 181,
+            "Scale9Height": 125,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 480.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.7812,
+              "Y": 0.5672
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "LeftMargin": 105.0,
+            "RightMargin": 105.0,
+            "TopMargin": 138.5,
+            "BottomMargin": 138.5,
+            "Tag": 9,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 22,
+                "LabelText": "Text Label",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 375.0,
+                  "Y": 313.5166
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 26,
+                  "G": 26,
+                  "B": 26
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.8637
+                },
+                "PreSize": {
+                  "X": 0.8,
+                  "Y": 0.1653
+                },
+                "HorizontalEdge": "BothEdge",
+                "LeftMargin": 75.0,
+                "RightMargin": 75.0,
+                "TopMargin": 19.4834,
+                "BottomMargin": 283.5166,
+                "Tag": 56,
+                "ActionTag": 1246672797,
+                "Size": {
+                  "X": 600.0,
+                  "Y": 60.0
+                },
+                "Name": "label_TitleMM",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sys_popup_table_02.png",
+                  "Plist": "pm_content_ui.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sys_popup_table_02.png",
+                  "Plist": "pm_content_ui.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sys_popup_table_02.png",
+                  "Plist": "pm_content_ui.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 90,
+                "Scale9OriginY": 45,
+                "Scale9Width": 299,
+                "Scale9Height": 84,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 253.1886,
+                  "Y": 90.679
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3376,
+                  "Y": 0.2498
+                },
+                "PreSize": {
+                  "X": 0.2667,
+                  "Y": 0.2755
+                },
+                "LeftMargin": 153.1886,
+                "RightMargin": 396.8114,
+                "TopMargin": 222.321,
+                "BottomMargin": 40.679,
+                "Tag": 45,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "pm_mpt.png",
+                      "Plist": "pm_content_ui.plist"
+                    },
+                    "Scale9Width": 150,
+                    "Scale9Height": 65,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 100.0,
+                      "Y": 45.0002
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.45
+                    },
+                    "PreSize": {
+                      "X": 0.1562,
+                      "Y": 0.1016
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 25.0,
+                    "RightMargin": 25.0,
+                    "TopMargin": 22.4998,
+                    "BottomMargin": 12.5002,
+                    "Tag": 49,
+                    "ActionTag": -1269803605,
+                    "Size": {
+                      "X": 150.0,
+                      "Y": 65.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1574596976,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 100.0
+                },
+                "Name": "btn_Mpt",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sys_popup_table_02.png",
+                  "Plist": "pm_content_ui.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sys_popup_table_02.png",
+                  "Plist": "pm_content_ui.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sys_popup_table_02.png",
+                  "Plist": "pm_content_ui.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 90,
+                "Scale9OriginY": 45,
+                "Scale9Width": 299,
+                "Scale9Height": 84,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 501.9233,
+                  "Y": 90.679
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6692,
+                  "Y": 0.2498
+                },
+                "PreSize": {
+                  "X": 0.2667,
+                  "Y": 0.2755
+                },
+                "LeftMargin": 401.9233,
+                "RightMargin": 148.0767,
+                "TopMargin": 222.321,
+                "BottomMargin": 40.679,
+                "Tag": 50,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "pm_mytel.png",
+                      "Plist": "pm_content_ui.plist"
+                    },
+                    "Scale9Width": 154,
+                    "Scale9Height": 90,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 100.0001,
+                      "Y": 47.0002
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.47
+                    },
+                    "PreSize": {
+                      "X": 0.77,
+                      "Y": 0.9
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 23.0001,
+                    "RightMargin": 22.9999,
+                    "TopMargin": 7.9998,
+                    "BottomMargin": 2.0002,
+                    "Tag": 51,
+                    "ActionTag": 1693769219,
+                    "Size": {
+                      "X": 154.0,
+                      "Y": 90.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 112544168,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 100.0
+                },
+                "Name": "btn_Mytel",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sys_popup_table_02.png",
+                  "Plist": "pm_content_ui.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sys_popup_table_02.png",
+                  "Plist": "pm_content_ui.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sys_popup_table_02.png",
+                  "Plist": "pm_content_ui.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 90,
+                "Scale9OriginY": 45,
+                "Scale9Width": 299,
+                "Scale9Height": 84,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 501.9233,
+                  "Y": 213.3979
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6692,
+                  "Y": 0.5879
+                },
+                "PreSize": {
+                  "X": 0.2667,
+                  "Y": 0.2755
+                },
+                "LeftMargin": 401.9233,
+                "RightMargin": 148.0767,
+                "TopMargin": 99.6021,
+                "BottomMargin": 163.3979,
+                "Tag": 52,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "pm_ooredo.png",
+                      "Plist": "pm_content_ui.plist"
+                    },
+                    "Scale9Width": 154,
+                    "Scale9Height": 90,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 100.0001,
+                      "Y": 49.0003
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.49
+                    },
+                    "PreSize": {
+                      "X": 0.77,
+                      "Y": 0.9
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 23.0001,
+                    "RightMargin": 22.9999,
+                    "TopMargin": 5.9997,
+                    "BottomMargin": 4.0003,
+                    "Tag": 53,
+                    "ActionTag": 1350459950,
+                    "Size": {
+                      "X": 154.0,
+                      "Y": 90.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -318599535,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 100.0
+                },
+                "Name": "btn_O",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sys_popup_table_02.png",
+                  "Plist": "pm_content_ui.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sys_popup_table_02.png",
+                  "Plist": "pm_content_ui.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sys_popup_table_02.png",
+                  "Plist": "pm_content_ui.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 90,
+                "Scale9OriginY": 45,
+                "Scale9Width": 299,
+                "Scale9Height": 84,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 253.762,
+                  "Y": 213.3979
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3383,
+                  "Y": 0.5879
+                },
+                "PreSize": {
+                  "X": 0.2667,
+                  "Y": 0.2755
+                },
+                "LeftMargin": 153.762,
+                "RightMargin": 396.238,
+                "TopMargin": 99.6021,
+                "BottomMargin": 163.3979,
+                "Tag": 54,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "pm_telenor.png",
+                      "Plist": "pm_content_ui.plist"
+                    },
+                    "Scale9Width": 151,
+                    "Scale9Height": 79,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 100.0001,
+                      "Y": 48.0002
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.48
+                    },
+                    "PreSize": {
+                      "X": 0.755,
+                      "Y": 0.79
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 24.5001,
+                    "RightMargin": 24.4999,
+                    "TopMargin": 12.4998,
+                    "BottomMargin": 8.5002,
+                    "Tag": 55,
+                    "ActionTag": -887145663,
+                    "Size": {
+                      "X": 151.0,
+                      "Y": 79.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 87817294,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 100.0
+                },
+                "Name": "btn_Telenor",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sys_popup_close_button.png",
+                  "Plist": "pm_content_ui.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sys_popup_close_button.png",
+                  "Plist": "pm_content_ui.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sys_popup_close_button.png",
+                  "Plist": "pm_content_ui.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 11,
+                "Scale9OriginY": 11,
+                "Scale9Width": 12,
+                "Scale9Height": 12,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 713.6259,
+                  "Y": 331.5667
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9515,
+                  "Y": 0.9134
+                },
+                "PreSize": {
+                  "X": 0.0453,
+                  "Y": 0.0937
+                },
+                "LeftMargin": 696.6259,
+                "RightMargin": 19.3741,
+                "TopMargin": 14.4333,
+                "BottomMargin": 314.5667,
+                "Tag": 57,
+                "ActionTag": -1564143594,
+                "Size": {
+                  "X": 34.0,
+                  "Y": 34.0
+                },
+                "Name": "btn_CloseMM",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1871650005,
+            "Size": {
+              "X": 750.0,
+              "Y": 363.0
+            },
+            "Name": "image_BgrMM",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 960.0,
+          "Y": 640.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "pm_content_ui.plist",
+        "pm_content_ui.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

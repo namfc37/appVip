@@ -1,0 +1,27 @@
+
+building_achievements.png
+size: 398,398
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+building_achievement
+  rotate: false
+  xy: 2, 86
+  size: 316, 310
+  orig: 326, 312
+  offset: 5, 1
+  index: -1
+building_achievement_cup
+  rotate: false
+  xy: 320, 333
+  size: 65, 63
+  orig: 65, 63
+  offset: 0, 0
+  index: -1
+smoker_1
+  rotate: false
+  xy: 2, 2
+  size: 100, 82
+  orig: 100, 82
+  offset: 0, 0
+  index: -1

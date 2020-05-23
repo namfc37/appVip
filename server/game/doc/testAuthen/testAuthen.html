@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="jquery.min.js"></script>
+<script src="md5.js"></script>
+<script>
+function readInfo () {
+    $('#timestamp').val(new Date().getTime()/1000 | 0);
+    var o = new Object();    
+    o.gameId = $('#gameId').val();
+    o.username = $('#username').val();
+    o.password = $('#password').val();
+    o.secretKey = $('#secretKey').val();
+    o.timestamp = $('#timestamp').val();
+    o.dob = $('#dob').val();
+    o.distribution = $('#distribution').val();
+    o.clientInfo = $('#clientInfo').val();
+    o.social = $('#social').val();
+    o.accessToken = $('#accessToken').val();
+    o.sessionKey = $('#sessionKey').val();
+    
+    o.hashPassword = CryptoJS.MD5(o.password).toString(CryptoJS.enc.Hex);
+    o.mac = CryptoJS.MD5(o.gameId + o.username + o.hashPassword + o.secretKey).toString(CryptoJS.enc.Hex);    
+    o.version = 2;    
+    return o;
+}
+
+$(document).ready(function(){    
+    $("#Register").click(function(){        
+        var info = readInfo();
+        
+        var request = {
+          gameId: info.gameId,
+          username: info.username,
+          password: info.hashPassword,
+          dob: info.dob,
+          mac: info.mac,
+          v: info.version,
+          timestamp: info.timestamp
+        };
+        var url = "http://myplay.apps.zing.vn/sso3/register.php";
+
+        $("#request").text(url + '?' + $.param(request));                
+        
+        $.post(url, request, function(data,status){            
+            $("#response").text(JSON.stringify(JSON.parse(data),null,4));
+        });
+    });
+    
+    $("#Login").click(function(){        
+        var info = readInfo();
+        
+        var request = {
+          gameId: info.gameId,
+          username: info.username,
+          password: info.hashPassword,
+          mac: info.mac,
+          v: info.version,
+          timestamp: info.timestamp
+        };
+        var url = "http://myplay.apps.zing.vn/sso3/login.php";
+
+        $("#request").text(url + '?' + $.param(request));                
+        
+        $.post(url, request, function(data,status){
+            var response = JSON.parse(data);
+            $('#accessToken').val(response.sessionKey);
+            $('#userid').val(response.userid);
+            
+            $("#response").text(JSON.stringify(response,null,4));
+        });
+    });
+    
+    $("#GetSession").click(function(){        
+        var info = readInfo();
+        
+        var request = {
+          service_name: info.social == 'facebook' ? 'getSessionKey' : 'getSessionKeyGame',
+          gameId: info.gameId,
+          distribution: info.distribution,
+          clientInfo: info.clientInfo,
+          social: info.social,
+          accessToken: info.accessToken,
+          timestamp: info.timestamp
+        };
+        var url = "http://zplogin.g6.zing.vn";
+
+        $("#request").text(url + '?' + $.param(request));                
+        
+        $.post(url, request, function(data,status){
+            var response = JSON.parse(data);
+            $('#sessionKey').val(response.sessionKey);
+            
+            $("#response").text(JSON.stringify(response,null,4));
+        });
+    });
+    
+    $("#DecodeSession").click(function(){        
+        var info = readInfo();
+        
+        var request = {
+          service_name: 'decodeSessionKeyGame',
+          gameId: info.gameId,          
+          sessionKey: info.sessionKey,
+          timestamp: info.timestamp
+        };
+        var url = "http://zplogin.g6.zing.vn";
+
+        $("#request").text(url + '?' + $.param(request));                
+        
+        $.post(url, request, function(data,status){
+            var response = JSON.parse(data);
+            $('#sessionKey').val(response.sessionKey);
+            
+            $("#response").text(JSON.stringify(response,null,4));
+        });
+    });
+});
+</script>
+</head>
+<body>
+
+<table>
+    <tr>
+        <td align="right">username</td>
+        <td align="left"><input type="text" id="username" value="thuanvt_010"/></td>
+    </tr>
+    <tr>
+        <td align="right">password</td>
+        <td align="left"><input type="text" id="password" value="1234567890"/></td>
+    </tr>
+    <tr>
+        <td align="right">gameId</td>
+        <td align="left"><input type="text" id="gameId" value="kvtm"/></td>
+    </tr>
+    <tr>
+        <td align="right">dob</td>
+        <td align="left"><input type="text" id="dob" value="01-01-2000"/></td>
+    </tr>
+    <tr>
+        <td align="right">secretKey</td>
+        <td align="left"><input type="text" id="secretKey" value="vV9H3Hd#Zs=bZZv3"/></td>
+    </tr>        
+    <tr>
+        <td align="left">distribution</td>
+        <td align="left"><input type="text" id="distribution"/></td>
+    </tr>
+    <tr>
+        <td align="left">clientInfo</td>
+        <td align="left"><input type="text" id="clientInfo"/></td>
+    </tr>
+    <tr>
+        <td align="right">social</td>
+        <td align="left">
+            <select id="social">                                
+                <option value="zingme">ZINGME</option>
+                <option value="facebook">FACEBOOK</option>                
+                <option value="google">GOOGLE</option>
+            </select>
+        </td>        
+    </tr>
+    <tr>
+        <td align="left">timestamp</td>
+        <td align="left"><input type="text" id="timestamp"/></td>
+    </tr>
+    <tr>
+        <td align="right">userid</td>
+        <td align="left"><input type="text" id="userid"/></td>
+    </tr>  
+    <tr>
+        <td align="right">accessToken</td>
+        <td align="left"><input type="text" id="accessToken"/></td>
+    </tr> 
+    <tr>
+        <td align="right">sessionKey</td>
+        <td align="left"><input type="text" id="sessionKey"/></td>
+    </tr>  
+</table>
+
+</br>
+<button id="Register">Register</button>
+<button id="Login">Login</button>
+<button id="GetSession">Get session</button>
+<button id="DecodeSession">Decode session</button>
+
+</br>
+<table>
+    <tr>
+        <td align="left">REQUEST</td>
+        <td align="left"><pre id="request"></pre></td>
+    </tr>  
+    <tr>
+        <td align="left">RESPONSE</td>
+        <td align="left"><pre id="response"></pre></td>
+    </tr>
+</table>
+
+</body>
+</html>

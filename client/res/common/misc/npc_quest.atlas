@@ -1,0 +1,167 @@
+
+npc_quest.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gandalf_001
+  rotate: true
+  xy: 2, 61
+  size: 227, 134
+  orig: 227, 134
+  offset: 0, 0
+  index: -1
+gandalf_002
+  rotate: true
+  xy: 285, 130
+  size: 154, 63
+  orig: 155, 63
+  offset: 0, 0
+  index: -1
+gandalf_003
+  rotate: true
+  xy: 427, 186
+  size: 84, 41
+  orig: 84, 41
+  offset: 0, 0
+  index: -1
+gandalf_004
+  rotate: true
+  xy: 381, 186
+  size: 84, 44
+  orig: 84, 44
+  offset: 0, 0
+  index: -1
+gandalf_005
+  rotate: true
+  xy: 288, 41
+  size: 87, 58
+  orig: 87, 58
+  offset: 0, 0
+  index: -1
+gandalf_006
+  rotate: true
+  xy: 348, 61
+  size: 67, 55
+  orig: 67, 55
+  offset: 0, 0
+  index: -1
+gandalf_007
+  rotate: true
+  xy: 381, 144
+  size: 40, 75
+  orig: 40, 75
+  offset: 0, 0
+  index: -1
+gandalf_008
+  rotate: true
+  xy: 175, 286
+  size: 140, 160
+  orig: 140, 160
+  offset: 0, 0
+  index: -1
+gandalf_009
+  rotate: false
+  xy: 381, 272
+  size: 75, 63
+  orig: 75, 63
+  offset: 0, 0
+  index: -1
+gandalf_010
+  rotate: true
+  xy: 348, 26
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+gandalf_011
+  rotate: false
+  xy: 405, 76
+  size: 54, 66
+  orig: 54, 66
+  offset: 0, 0
+  index: -1
+gandalf_012
+  rotate: false
+  xy: 2, 290
+  size: 171, 218
+  orig: 171, 218
+  offset: 0, 0
+  index: -1
+gandalf_013
+  rotate: true
+  xy: 2, 2
+  size: 57, 92
+  orig: 57, 92
+  offset: 0, 0
+  index: -1
+gandalf_014
+  rotate: true
+  xy: 387, 34
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+gandalf_015
+  rotate: true
+  xy: 458, 289
+  size: 46, 22
+  orig: 46, 22
+  offset: 0, 0
+  index: -1
+gandalf_016
+  rotate: false
+  xy: 350, 151
+  size: 29, 184
+  orig: 29, 184
+  offset: 0, 0
+  index: -1
+gandalf_017
+  rotate: false
+  xy: 337, 337
+  size: 143, 68
+  orig: 143, 68
+  offset: 0, 0
+  index: -1
+gandalf_018
+  rotate: false
+  xy: 403, 407
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+gandalf_019
+  rotate: false
+  xy: 138, 130
+  size: 145, 154
+  orig: 145, 154
+  offset: 0, 0
+  index: -1
+gandalf_020
+  rotate: false
+  xy: 175, 428
+  size: 226, 80
+  orig: 226, 80
+  offset: 0, 0
+  index: -1
+gandalf_021
+  rotate: true
+  xy: 96, 10
+  size: 49, 36
+  orig: 49, 36
+  offset: 0, 0
+  index: -1
+k9
+  rotate: true
+  xy: 482, 300
+  size: 105, 21
+  orig: 105, 21
+  offset: 0, 0
+  index: -1
+li_01
+  rotate: false
+  xy: 138, 25
+  size: 148, 103
+  orig: 154, 107
+  offset: 0, 0
+  index: -1

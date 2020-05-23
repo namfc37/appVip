@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>D:\sgm20182\client\raw\uiCardPaymentDummy</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>D:\sgm20182\client\raw\uiCardPaymentDummy\Resources</Resources>
+  <Name>uiCardPaymentDummy</Name>
+  <JsonFileName>uiCardPaymentDummy.json</JsonFileName>
+  <JsonFolder>D:\sgm20182\client\raw\uiCardPaymentDummy\Json</JsonFolder>
+  <JsonList>
+    <string>uiCardPaymentItem.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>150</Width>
+    <Height>120</Height>
+  </CanvasSize>
+  <filePath>D:\sgm20182\client\raw\uiCardPaymentDummy\uiCardPaymentDummy.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList>
+    <string>uiMain0.plist</string>
+    <string>uiMain1.plist</string>
+    <string>uiMain2.plist</string>
+    <string>uiMain3.plist</string>
+    <string>uiMain4.plist</string>
+    <string>uiMain5.plist</string>
+    <string>uiMain6.plist</string>
+    <string>uiMain7.plist</string>
+    <string>uiMain8.plist</string>
+    <string>uiMain9.plist</string>
+    <string>uiMain10.plist</string>
+  </imageFileList>
+  <imagePngList />
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>uiCardPaymentItem.json</CurrentUIJson>
+</UIProject>

@@ -1,0 +1,869 @@
+{
+  "country": "vn",
+  "level": 100,
+  "exp": 0,
+  "coin": 10000,
+  "gold": 5000000,
+  "reputation": 5,
+  "stock": {
+    "B3": 1,
+    "B4": 1,
+    "B5": 1,
+    "M20": 6,
+    "T1": 6,
+    "B0": 2
+  },
+  "stockLevel": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "floors": [
+    {
+      "id": 0,
+      "machine": {
+        "timeStartUnlock": 0,
+        "isFinishUnlock": false,
+        "level": 0,
+        "numSlot": 0,
+        "durability": 0,
+        "workingTime": 0,
+        "store": [],
+        "timeStart": 0,
+        "timeFinish": 0,
+        "produceItems": []
+      },
+      "slots": [
+        {
+          "id": 0,
+          "pot": "P0",
+          "plant": "T1",
+          "timeStart": 0,
+          "timeFinish": 0,
+          "dropItems": {
+            "EXP": 1,
+            "T1": 2
+          }
+        },
+        {
+          "id": 1,
+          "pot": "P0",
+          "plant": "T1",
+          "timeStart": 0,
+          "timeFinish": 0,
+          "dropItems": {
+            "EXP": 1,
+            "T1": 2
+          }
+        },
+        {
+          "id": 2,
+          "pot": "P0",
+          "plant": "T1",
+          "timeStart": 0,
+          "timeFinish": 0,
+          "dropItems": {
+            "EXP": 1,
+            "T1": 2
+          }
+        },
+        {
+          "id": 3,
+          "pot": "P0",
+          "plant": "T1",
+          "timeStart": 0,
+          "timeFinish": 0,
+          "dropItems": {
+            "EXP": 1,
+            "T1": 2
+          }
+        },
+        {
+          "id": 4,
+          "pot": "P0",
+          "plant": "T1",
+          "timeStart": 0,
+          "timeFinish": 0,
+          "dropItems": {
+            "EXP": 1,
+            "T1": 2
+          }
+        },
+        {
+          "id": 5,
+          "pot": "P0",
+          "plant": "T1",
+          "timeStart": 0,
+          "timeFinish": 0,
+          "dropItems": {
+            "EXP": 1,
+            "T1": 2
+          }
+        }
+      ],
+      "skin": {
+        "id": "",
+        "startTime": -1,
+        "endTime": -1
+      }
+    }
+  ],
+  "setting": {
+    "sound": true,
+    "music": true,
+    "notify": true
+  },
+  "order": {
+    "genUid": 0,
+    "numNormal": 0,
+    "numDaily": 0,
+    "normalOrders": []
+  },
+  "timeResetDaily": 1587574800,
+  "ibShopCount": {},
+  "timeNbPrivateShop": 0,
+  "timeNbAirShip": 0,
+  "numAirShip": 0,
+  "tom": {
+    "status": 0,
+    "typeHire": 0,
+    "timeHire": 0,
+    "timeRest": 0,
+    "timeRestDuration": 0
+  },
+  "luckySpin": {
+    "numPay": 0,
+    "isX2": false,
+    "numSpin": 0,
+    "slots": [
+      {
+        "item": "T4",
+        "num": 6
+      },
+      {
+        "item": "R0",
+        "num": 6
+      },
+      {
+        "item": "X2",
+        "num": 1
+      },
+      {
+        "item": "COIN",
+        "num": 100
+      },
+      {
+        "item": "T1",
+        "num": 6
+      },
+      {
+        "item": "M10",
+        "num": 1
+      },
+      {
+        "item": "M2",
+        "num": 1
+      },
+      {
+        "item": "R5",
+        "num": 6
+      },
+      {
+        "item": "P17",
+        "num": 1
+      },
+      {
+        "item": "M0",
+        "num": 1
+      },
+      {
+        "item": "R1",
+        "num": 6
+      },
+      {
+        "item": "T3",
+        "num": 6
+      }
+    ],
+    "incomplete": -1,
+    "timeReset": 1587571124,
+    "nextTimeReset": [
+      1587531600,
+      1587553200
+    ],
+    "eventItems": {}
+  },
+  "openBuildingGame": false,
+  "openBuildingGuild": false,
+  "openBuildingGuildDerby": false,
+  "dice": {
+    "timeStart": 1587488400,
+    "isEvent": false,
+    "spentCoin": 0,
+    "numTicket": 1,
+    "numSpin": 0,
+    "point": -1,
+    "incomplete": -1,
+    "isX2": false,
+    "slots": [
+      {
+        "item": "DICE",
+        "num": 1,
+        "rate": 0
+      },
+      {
+        "item": "M20",
+        "num": 2,
+        "rate": 20
+      },
+      {
+        "item": "X2",
+        "num": 1,
+        "rate": 25
+      },
+      {
+        "item": "M21",
+        "num": 2,
+        "rate": 20
+      },
+      {
+        "item": "REPU",
+        "num": 20,
+        "rate": 20
+      },
+      {
+        "item": "M23",
+        "num": 1,
+        "rate": 10
+      },
+      {
+        "item": "P4",
+        "num": 1,
+        "rate": 25
+      },
+      {
+        "item": "M15",
+        "num": 1,
+        "rate": 25
+      },
+      {
+        "item": "M3",
+        "num": 2,
+        "rate": 10
+      },
+      {
+        "item": "P5",
+        "num": 1,
+        "rate": 20
+      },
+      {
+        "item": "DICE",
+        "num": 1,
+        "rate": 5
+      },
+      {
+        "item": "M16",
+        "num": 1,
+        "rate": 20
+      },
+      {
+        "item": "C1",
+        "num": 1,
+        "rate": 10
+      },
+      {
+        "item": "M22",
+        "num": 2,
+        "rate": 20
+      },
+      {
+        "item": "P11",
+        "num": 1,
+        "rate": 20
+      },
+      {
+        "item": "X2",
+        "num": 1,
+        "rate": 15
+      },
+      {
+        "item": "M18",
+        "num": 1,
+        "rate": 25
+      },
+      {
+        "item": "M4",
+        "num": 3,
+        "rate": 20
+      },
+      {
+        "item": "D0",
+        "num": 1,
+        "rate": 10
+      },
+      {
+        "item": "M5",
+        "num": 3,
+        "rate": 20
+      }
+    ],
+    "lastPoint": -1,
+    "eventItems": {}
+  },
+  "dailyGift": {
+    "isNewUser": true,
+    "timeStart": 1587488400,
+    "max": 1,
+    "cur": 0,
+    "rewards": [
+      {
+        "GOLD": 2000
+      },
+      {
+        "COIN": 10
+      },
+      {
+        "GOLD": 3000
+      },
+      {
+        "COIN": 15
+      },
+      {
+        "GOLD": 6000
+      },
+      {
+        "GOLD": 10000
+      },
+      {
+        "COIN": 20
+      }
+    ],
+    "circleRewards": {},
+    "lastTimeResetDaily": 1587488400
+  },
+  "mine": {
+    "status": 1,
+    "lastUpdate": -1,
+    "finishTime": -1
+  },
+  "gacha": {
+    "chests": {
+      "C3": {
+        "id": "C3",
+        "status": 1,
+        "turn": 0,
+        "timeStart": 1587571124,
+        "timeFinish": 1587572324,
+        "priceType": "REPU",
+        "priceTurn": 20,
+        "slots": [
+          {
+            "id": "M22",
+            "num": 1,
+            "rate": 8
+          },
+          {
+            "id": "GOLD",
+            "num": 3000,
+            "rate": 3
+          },
+          {
+            "id": "GOLD",
+            "num": 2500,
+            "rate": 8
+          },
+          {
+            "id": "A6",
+            "num": 1,
+            "rate": 9
+          },
+          {
+            "id": "GOLD",
+            "num": 4000,
+            "rate": 0
+          },
+          {
+            "id": "M19",
+            "num": 1,
+            "rate": 2
+          },
+          {
+            "id": "A4",
+            "num": 1,
+            "rate": 25
+          },
+          {
+            "id": "A3",
+            "num": 1,
+            "rate": 20
+          },
+          {
+            "id": "M0",
+            "num": 2,
+            "rate": 25
+          }
+        ],
+        "winSlot": 6,
+        "useStock": false
+      },
+      "C4": {
+        "id": "C4",
+        "status": 1,
+        "turn": 0,
+        "timeStart": 1587571124,
+        "timeFinish": 1587571124,
+        "priceType": "COIN",
+        "priceTurn": 20,
+        "slots": [
+          {
+            "id": "P19",
+            "num": 1,
+            "rate": 25
+          },
+          {
+            "id": "P42",
+            "num": 1,
+            "rate": 3
+          },
+          {
+            "id": "P24",
+            "num": 1,
+            "rate": 20
+          },
+          {
+            "id": "P47",
+            "num": 1,
+            "rate": 2
+          },
+          {
+            "id": "P41",
+            "num": 1,
+            "rate": 8
+          },
+          {
+            "id": "P20",
+            "num": 1,
+            "rate": 25
+          },
+          {
+            "id": "P60",
+            "num": 1,
+            "rate": 0
+          },
+          {
+            "id": "P30",
+            "num": 1,
+            "rate": 8
+          },
+          {
+            "id": "P36",
+            "num": 1,
+            "rate": 9
+          }
+        ],
+        "winSlot": 7,
+        "useStock": false
+      },
+      "C5": {
+        "id": "C5",
+        "status": 1,
+        "turn": 0,
+        "timeStart": 1587571124,
+        "timeFinish": 1587571124,
+        "priceType": "COIN",
+        "priceTurn": 100,
+        "slots": [
+          {
+            "id": "P48",
+            "num": 1,
+            "rate": 8
+          },
+          {
+            "id": "P54",
+            "num": 1,
+            "rate": 3
+          },
+          {
+            "id": "P59",
+            "num": 1,
+            "rate": 0
+          },
+          {
+            "id": "P31",
+            "num": 1,
+            "rate": 25
+          },
+          {
+            "id": "P47",
+            "num": 1,
+            "rate": 9
+          },
+          {
+            "id": "P53",
+            "num": 1,
+            "rate": 2
+          },
+          {
+            "id": "P35",
+            "num": 1,
+            "rate": 20
+          },
+          {
+            "id": "P42",
+            "num": 1,
+            "rate": 8
+          },
+          {
+            "id": "P36",
+            "num": 1,
+            "rate": 25
+          }
+        ],
+        "winSlot": 6,
+        "useStock": false
+      },
+      "C1": {
+        "id": "C1",
+        "status": 1,
+        "turn": 0,
+        "timeStart": 1587571124,
+        "timeFinish": 1587571124,
+        "priceTurn": 0,
+        "slots": [
+          {
+            "id": "M21",
+            "num": 1,
+            "rate": 5
+          },
+          {
+            "id": "EXP",
+            "num": 180,
+            "rate": 14
+          },
+          {
+            "id": "EXP",
+            "num": 120,
+            "rate": 15
+          },
+          {
+            "id": "EXP",
+            "num": 90,
+            "rate": 15
+          },
+          {
+            "id": "GOLD",
+            "num": 150,
+            "rate": 13
+          },
+          {
+            "id": "GOLD",
+            "num": 200,
+            "rate": 5
+          },
+          {
+            "id": "EXP",
+            "num": 150,
+            "rate": 13
+          },
+          {
+            "id": "GOLD",
+            "num": 100,
+            "rate": 15
+          },
+          {
+            "id": "B3",
+            "num": 1,
+            "rate": 5
+          }
+        ],
+        "winSlot": 6,
+        "useStock": false
+      },
+      "C2": {
+        "id": "C2",
+        "status": 1,
+        "turn": 0,
+        "timeStart": 1587571124,
+        "timeFinish": 1587572924,
+        "priceType": "GOLD",
+        "priceTurn": 1500,
+        "slots": [
+          {
+            "id": "M3",
+            "num": 2,
+            "rate": 9
+          },
+          {
+            "id": "P6",
+            "num": 1,
+            "rate": 2
+          },
+          {
+            "id": "P5",
+            "num": 1,
+            "rate": 3
+          },
+          {
+            "id": "M22",
+            "num": 1,
+            "rate": 8
+          },
+          {
+            "id": "P11",
+            "num": 1,
+            "rate": 0
+          },
+          {
+            "id": "M23",
+            "num": 1,
+            "rate": 25
+          },
+          {
+            "id": "A0",
+            "num": 1,
+            "rate": 25
+          },
+          {
+            "id": "M18",
+            "num": 1,
+            "rate": 8
+          },
+          {
+            "id": "M6",
+            "num": 1,
+            "rate": 20
+          }
+        ],
+        "winSlot": 5,
+        "useStock": false
+      }
+    }
+  },
+  "payment": {
+    "map": {},
+    "totalConvert": 0,
+    "lastConvert": {},
+    "levelOfferA": 0,
+    "timeOfferA": 0,
+    "offersA": {},
+    "repeatOffers": {},
+    "offersExpired": {},
+    "numTransaction": 0,
+    "activeLocal": false,
+    "purchaseOffers": {},
+    "flowOffer": 0,
+    "dayCheckRareOffer": 46,
+    "useTestPayment": false
+  },
+  "festival": {
+    "action01": {
+      "eventId": "E1ID",
+      "startTime": 1586916000,
+      "nextDay": 1587574800,
+      "featureDropItems": {},
+      "harvestDropItems": {},
+      "rewardRecieved": {},
+      "rewardPackReceived": {}
+    }
+  },
+  "friendBug": {
+    "status": 0,
+    "id": 0,
+    "numCatch": 0,
+    "timeWait": 1587571204
+  },
+  "jackShop": {
+    "slots": [
+      {
+        "item": "T1",
+        "num": 1,
+        "price": 2,
+        "isSold": false
+      },
+      {
+        "item": "B3",
+        "num": 1,
+        "price": 30,
+        "isSold": false
+      }
+    ]
+  },
+  "jackMachine": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "achievementB": {
+    "tasks": {},
+    "trophy": 0,
+    "reward": 0
+  },
+  "giftCode": {
+    "multiples": {},
+    "singles": {}
+  },
+  "friendReputation": 0,
+  "questBookA": {
+    "quests": {},
+    "dailyFinish": 0
+  },
+  "checkOffer": {},
+  "isRating": false,
+  "rankingPR": {
+    "level": {
+      "id": "TOP_LEVEL",
+      "group": 20,
+      "start": -1,
+      "point": 0,
+      "order": -1,
+      "getReward": false,
+      "hasChanged": true
+    },
+    "appraisal": {
+      "id": "TOP_APPRAISAL",
+      "group": 20,
+      "start": -1,
+      "point": 0,
+      "order": -1,
+      "getReward": false,
+      "hasChanged": true
+    },
+    "action": {
+      "id": "TOP_CATCH_BUG",
+      "group": 20,
+      "start": 1587434400,
+      "point": 0,
+      "order": -1,
+      "getReward": false,
+      "hasChanged": true
+    },
+    "event": {
+      "id": "TOP_EVENT_E1ID",
+      "group": 20,
+      "start": 1586916000,
+      "point": 0,
+      "order": -1,
+      "getReward": false,
+      "hasChanged": true
+    }
+  },
+  "pigBank": {
+    "diamond": 0,
+    "timeGetReward": 0
+  },
+  "vip": {
+    "currentActive": "INACTIVE",
+    "timeExpire": 0,
+    "timeActive": 0
+  },
+  "flippingCards": {
+    "ticketLastTime": -1,
+    "points": 0,
+    "checkpoint": [],
+    "gamePlaying": false,
+    "gameLevel": -1
+  },
+  "truck": {
+    "status": 0,
+    "level": 1,
+    "deliveryCount": 0,
+    "timeStart": 0,
+    "timeFinish": 0,
+    "bags": [],
+    "deliveryReward": {}
+  },
+  "consumeEvent": {
+    "timeStart": 0,
+    "listConsume": {}
+  },
+  "gachapon": {
+    "status": 1,
+    "turn": 0,
+    "rewards": {}
+  },
+  "fishing": {
+    "totalFish": 0,
+    "dailyFish": {},
+    "pond": {
+      "status": 1,
+      "turn": 1,
+      "timeReset": 1587574800,
+      "fish": {
+        "F2": 3,
+        "F3": 2
+      }
+    },
+    "minigame": {
+      "status": 1,
+      "hook": "",
+      "reward": {},
+      "type": "BRONZE",
+      "areaMin": 61,
+      "areaMax": 88,
+      "weight": 0
+    },
+    "slots": [
+      {
+        "status": 2,
+        "hook": "",
+        "timeFinish": 0
+      },
+      {
+        "status": 2,
+        "hook": "",
+        "timeFinish": 0
+      },
+      {
+        "status": 2,
+        "hook": "",
+        "timeFinish": 0
+      },
+      {
+        "status": 1,
+        "hook": "",
+        "timeFinish": 0
+      },
+      {
+        "status": 1,
+        "hook": "",
+        "timeFinish": 0
+      },
+      {
+        "status": 1,
+        "hook": "",
+        "timeFinish": 0
+      }
+    ],
+    "hookProduceRequire": {},
+    "featureDropItems": {},
+    "timeResetDaily": 1587574800
+  },
+  "paymentAccumulate": {
+    "id": "",
+    "coin": 0,
+    "money": 0.0,
+    "tokenGain": 0,
+    "tokenSpent": 0,
+    "history": {},
+    "checkpoints": {}
+  },
+  "posmInfoData": {
+    "mapInfo": {}
+  },
+  "eventItemsFriendPack": {},
+  "tutorialFlow": 0,
+  "tutorialUpgradePot": false,
+  "lastLogin": 0,
+  "onlineSecond": 0,
+  "countPlant": 6
+}

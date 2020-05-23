@@ -1,0 +1,55 @@
+
+loading_run.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KD_01
+  rotate: false
+  xy: 237, 128
+  size: 102, 109
+  orig: 104, 111
+  offset: 1, 1
+  index: -1
+KD_02
+  rotate: false
+  xy: 341, 130
+  size: 99, 107
+  orig: 101, 109
+  offset: 1, 1
+  index: -1
+jack_run_01
+  rotate: true
+  xy: 121, 2
+  size: 81, 115
+  orig: 83, 117
+  offset: 1, 1
+  index: -1
+jack_run_02
+  rotate: true
+  xy: 2, 3
+  size: 80, 117
+  orig: 82, 119
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: true
+  xy: 442, 147
+  size: 90, 30
+  orig: 92, 32
+  offset: 1, 1
+  index: -1
+wolf_01
+  rotate: false
+  xy: 121, 85
+  size: 114, 152
+  orig: 116, 154
+  offset: 1, 1
+  index: -1
+wolf_02
+  rotate: false
+  xy: 2, 85
+  size: 117, 152
+  orig: 119, 154
+  offset: 1, 1
+  index: -1

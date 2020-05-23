@@ -1,0 +1,27 @@
+
+fish_04.png
+size: 283,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 228, 136
+  orig: 229, 136
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 232, 82
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+tail_body
+  rotate: false
+  xy: 232, 93
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1

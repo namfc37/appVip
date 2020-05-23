@@ -1,0 +1,42 @@
+{
+    "assets": [
+        {
+            "from": "src",
+            "to": "src"
+        },
+        {
+            "from": "res",
+            "to": "res"
+        },
+	    {
+            "from": "simulator/win32/script",
+            "to": "script"
+        },
+        {
+            "from": "main.js",
+            "to": ""
+        },
+        {
+            "from": "project.json",
+            "to": ""
+        },
+        {
+            "from": "config.json",
+            "to": ""
+        },
+        {
+            "from": "env/global/res",
+            "to": "res"
+        },
+        {
+            "from": "env/global/src",
+            "to": "src"
+        },
+		{
+            "from": "build/global/sandbox/environment.json",
+            "to": "res"
+        }
+    ],
+    "key":["0x11111111", "0x11111111", "0x11111111", "0x11111111"],
+    "remote":"http://portal-gsn.mto.zing.vn/kvtm_global_sandbox"
+}

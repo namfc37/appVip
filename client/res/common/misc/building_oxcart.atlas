@@ -1,0 +1,48 @@
+
+building_oxcart.png
+size: 112,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bang
+  rotate: false
+  xy: 2, 48
+  size: 42, 60
+  orig: 42, 60
+  offset: 0, 0
+  index: -1
+co
+  rotate: true
+  xy: 92, 16
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+rom1
+  rotate: false
+  xy: 2, 10
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+rom2
+  rotate: false
+  xy: 51, 37
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 46, 75
+  size: 64, 33
+  orig: 64, 33
+  offset: 0, 0
+  index: -1
+stone_built
+  rotate: true
+  xy: 51, 3
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1

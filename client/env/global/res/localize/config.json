@@ -1,0 +1,19 @@
+{
+    "defaultLanguageCode": "go",
+    "list": [
+        {
+            "code": [
+                "go"
+            ],
+            "name": "English",
+            "folder": "go"
+        },
+        {
+            "code": [
+                "vn"
+            ],
+            "name": "Vietnamese",
+            "folder": "vn"
+        }
+    ]
+}

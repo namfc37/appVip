@@ -1,0 +1,11 @@
+{
+  "android": {
+    "version_code": 228,
+    "version_name": "2.2.8"
+  },
+  "ios": {
+    "version_code": 123,
+    "version_name": "1.2.3"
+  },
+  "script_version": 812
+}

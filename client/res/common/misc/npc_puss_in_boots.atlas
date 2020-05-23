@@ -1,0 +1,174 @@
+
+npc_puss_in_boots.png
+size: 544,544
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ao_choang1
+  rotate: false
+  xy: 2, 138
+  size: 146, 194
+  orig: 146, 194
+  offset: 0, 0
+  index: -1
+ao_choang2
+  rotate: false
+  xy: 343, 6
+  size: 62, 44
+  orig: 62, 44
+  offset: 0, 0
+  index: -1
+ao_choang3
+  rotate: true
+  xy: 264, 169
+  size: 86, 140
+  orig: 86, 140
+  offset: 0, 0
+  index: -1
+ban_tay2
+  rotate: false
+  xy: 243, 14
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+bong_do
+  rotate: false
+  xy: 253, 364
+  size: 180, 46
+  orig: 180, 46
+  offset: 0, 0
+  index: -1
+canh_tay1
+  rotate: true
+  xy: 406, 94
+  size: 73, 56
+  orig: 73, 56
+  offset: 0, 0
+  index: -1
+canh_tay2
+  rotate: true
+  xy: 472, 170
+  size: 68, 45
+  orig: 68, 45
+  offset: 0, 0
+  index: -1
+chan1
+  rotate: false
+  xy: 406, 169
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+chan2
+  rotate: false
+  xy: 407, 32
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+co_ao
+  rotate: false
+  xy: 440, 423
+  size: 84, 58
+  orig: 84, 58
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 2, 334
+  size: 249, 208
+  orig: 249, 208
+  offset: 0, 0
+  index: -1
+dui1
+  rotate: true
+  xy: 282, 2
+  size: 48, 59
+  orig: 48, 59
+  offset: 0, 0
+  index: -1
+dui2
+  rotate: false
+  xy: 464, 107
+  size: 49, 60
+  orig: 49, 60
+  offset: 0, 0
+  index: -1
+duoi
+  rotate: false
+  xy: 264, 257
+  size: 144, 105
+  orig: 144, 105
+  offset: 0, 0
+  index: -1
+kiem
+  rotate: false
+  xy: 253, 412
+  size: 185, 130
+  orig: 185, 130
+  offset: 0, 0
+  index: -1
+long_vu
+  rotate: false
+  xy: 440, 483
+  size: 86, 59
+  orig: 86, 59
+  offset: 0, 0
+  index: -1
+mat1
+  rotate: false
+  xy: 2, 4
+  size: 128, 132
+  orig: 128, 132
+  offset: 0, 0
+  index: -1
+mat2
+  rotate: true
+  xy: 150, 51
+  size: 116, 130
+  orig: 116, 130
+  offset: 0, 0
+  index: -1
+mat3
+  rotate: true
+  xy: 282, 52
+  size: 115, 122
+  orig: 115, 122
+  offset: 0, 0
+  index: -1
+mat4
+  rotate: false
+  xy: 410, 240
+  size: 115, 122
+  orig: 115, 122
+  offset: 0, 0
+  index: -1
+tay1
+  rotate: false
+  xy: 205, 13
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 150, 169
+  size: 112, 163
+  orig: 112, 163
+  offset: 0, 0
+  index: -1
+than_tay2
+  rotate: false
+  xy: 132, 6
+  size: 71, 43
+  orig: 71, 43
+  offset: 0, 0
+  index: -1
+xuong_ca
+  rotate: true
+  xy: 440, 364
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1

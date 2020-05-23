@@ -1,0 +1,118 @@
+
+plant_event_03.png
+size: 172,170
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 10
+  rotate: false
+  xy: 70, 127
+  size: 69, 41
+  orig: 69, 41
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 2, 38
+  size: 62, 60
+  orig: 62, 60
+  offset: 0, 0
+  index: -1
+Layer 46
+  rotate: false
+  xy: 66, 46
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+Layer 47
+  rotate: true
+  xy: 143, 82
+  size: 44, 20
+  orig: 44, 20
+  offset: 0, 0
+  index: -1
+Layer 48
+  rotate: true
+  xy: 141, 128
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+Layer 49
+  rotate: false
+  xy: 105, 28
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: true
+  xy: 108, 42
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+Layer 50
+  rotate: true
+  xy: 47, 3
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+Layer 52
+  rotate: false
+  xy: 138, 62
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: true
+  xy: 138, 44
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 85, 27
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 67, 21
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: false
+  xy: 70, 88
+  size: 71, 37
+  orig: 71, 37
+  offset: 0, 0
+  index: -1
+Layer-53
+  rotate: false
+  xy: 2, 5
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+heart_light
+  rotate: false
+  xy: 67, 3
+  size: 18, 16
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+icon_plant
+  rotate: false
+  xy: 2, 100
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1

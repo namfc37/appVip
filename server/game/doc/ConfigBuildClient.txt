@@ -1,0 +1,19 @@
+Philippine (PH) dev:
+- SVN https://172.28.46.10/svn/main/projects/kvtmjs/trunk/client
+- kvtm_PH_dev_APK
+- kvtm_PH_dev_CDN
+- Thư mục build\philippine\dev
+
+Philippine (PH) Sandbox
+- SVN https://172.28.46.10/svn/main/projects/kvtmjs/branches/sea/sandbox/client
+- kvtm_PH_sandbox_APK
+- kvtm_PH_sandbox_CDN
+- Thư mục build\philippine\sandbox
+
+Philippine (PH) LIVE
+- SVN https://172.28.46.10/svn/main/projects/kvtmjs/branches/sea/live/client
+- kvtm_PH_release_APK
+- kvtm_PH_release_CDN
+- Thư mục build\philippine\release
+- CDN: https://kvtm-static.mto.zing.vn/client/sea/philippine/high
+- SVN live: https://10.30.44.16/svn/zp_mini/kvtmjs/client/sea/philippine/high

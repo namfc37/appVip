@@ -1,0 +1,209 @@
+
+npc_frog_guild.png
+size: 364,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 10
+  rotate: false
+  xy: 300, 80
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+Layer 11 copy
+  rotate: false
+  xy: 156, 5
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: false
+  xy: 245, 72
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+Layer 13
+  rotate: false
+  xy: 276, 78
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+Layer 14
+  rotate: false
+  xy: 245, 47
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+Layer 15
+  rotate: true
+  xy: 304, 284
+  size: 78, 54
+  orig: 78, 54
+  offset: 0, 0
+  index: -1
+Layer 16
+  rotate: false
+  xy: 304, 216
+  size: 54, 66
+  orig: 54, 66
+  offset: 0, 0
+  index: -1
+Layer 19 copy
+  rotate: true
+  xy: 259, 143
+  size: 70, 44
+  orig: 70, 44
+  offset: 0, 0
+  index: -1
+Layer 21
+  rotate: false
+  xy: 223, 20
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Layer 23
+  rotate: false
+  xy: 156, 19
+  size: 65, 24
+  orig: 65, 24
+  offset: 0, 0
+  index: -1
+Layer 23 copy
+  rotate: true
+  xy: 342, 152
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 132, 236
+  size: 125, 126
+  orig: 125, 126
+  offset: 0, 0
+  index: -1
+Layer 4 copy
+  rotate: false
+  xy: 132, 108
+  size: 125, 126
+  orig: 125, 126
+  offset: 0, 0
+  index: -1
+Layer 4 copy 2
+  rotate: false
+  xy: 2, 236
+  size: 128, 126
+  orig: 128, 126
+  offset: 0, 0
+  index: -1
+Layer 4 copy 3
+  rotate: false
+  xy: 2, 108
+  size: 128, 126
+  orig: 128, 126
+  offset: 0, 0
+  index: -1
+Layer 54
+  rotate: false
+  xy: 247, 28
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+Layer 59
+  rotate: true
+  xy: 185, 5
+  size: 12, 27
+  orig: 12, 27
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 160, 45
+  size: 83, 61
+  orig: 83, 61
+  offset: 0, 0
+  index: -1
+Layer 63
+  rotate: false
+  xy: 259, 104
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+Layer 68
+  rotate: true
+  xy: 124, 2
+  size: 52, 30
+  orig: 52, 30
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: true
+  xy: 53, 6
+  size: 48, 69
+  orig: 48, 69
+  offset: 0, 0
+  index: -1
+Layer 70
+  rotate: false
+  xy: 316, 88
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+Layer 72
+  rotate: true
+  xy: 311, 110
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+Layer 72 copy
+  rotate: true
+  xy: 341, 112
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+Layer 74
+  rotate: true
+  xy: 305, 147
+  size: 67, 35
+  orig: 67, 35
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: true
+  xy: 53, 56
+  size: 50, 105
+  orig: 50, 105
+  offset: 0, 0
+  index: -1
+Layer 9 copy
+  rotate: false
+  xy: 2, 2
+  size: 49, 104
+  orig: 49, 104
+  offset: 0, 0
+  index: -1
+marker
+  rotate: false
+  xy: 342, 147
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+tutorial_NPC_037
+  rotate: true
+  xy: 259, 215
+  size: 147, 43
+  orig: 147, 43
+  offset: 0, 0
+  index: -1

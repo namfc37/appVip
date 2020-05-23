@@ -1,0 +1,26 @@
+{
+    "defaultLanguageCode": "th",
+    "list": [
+        {
+            "code": [
+                "th"
+            ],
+            "name": "Thai",
+            "folder": "th"
+        },
+        {
+            "code": [
+                "go"
+            ],
+            "name": "English",
+            "folder": "go"
+        },
+        {
+            "code": [
+                "vn"
+            ],
+            "name": "Vietnamese",
+            "folder": "vn"
+        }
+    ]
+}

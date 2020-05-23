@@ -1,0 +1,38 @@
+{
+  "mails": {
+    "1587350023": {
+      "uid": 1587350023,
+      "type": 2,
+      "title": "TXT_MAIL_ACCUMULATION_REMOVE_TOKEN_TITLE",
+      "content": "TXT_MAIL_ACCUMULATION_REMOVE_TOKEN_CONTENT",
+      "time": 1587350023,
+      "isRead": false,
+      "items": {
+        "GOLD": -38
+      }
+    },
+    "1587526169": {
+      "uid": 1587526169,
+      "type": 2,
+      "title": "TXT_MAIL_ACCUMULATION_REMOVE_TOKEN_TITLE",
+      "content": "TXT_MAIL_ACCUMULATION_REMOVE_TOKEN_CONTENT",
+      "time": 1587526169,
+      "isRead": false,
+      "items": {
+        "GOLD": -80
+      }
+    },
+    "1587526503": {
+      "uid": 1587526503,
+      "type": 15,
+      "title": "21212121",
+      "content": "TXT_GUILD_DISBAND_MAIL_DESC",
+      "time": 1587526503,
+      "isRead": false,
+      "sender": 100003,
+      "avatar": "guild/hud_badge_01.png",
+      "subTitle": "2121211"
+    }
+  },
+  "sysUid": []
+}

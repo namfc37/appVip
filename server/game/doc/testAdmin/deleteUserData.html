@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="jquery.min.js"></script>
+<script src="jquery.binarytransport.js"></script>
+<script src="sha256.js"></script>
+<script>
+function readInfo () {
+    var o = new Object();    
+    o.admin = $('#admin').val();    
+    o.time = new Date().getTime();    
+    o.data = new Object();   
+	o.data.userId = 1547627239;
+    
+	o.data = JSON.stringify(o.data);	
+	var inputHash = '(@dm1nS#cr3tKey!)' + o.admin + o.time + o.data;	
+	//console.log("inputHash: " + inputHash);
+    o.hash = CryptoJS.SHA256(inputHash).toString(CryptoJS.enc.Hex);    
+    return o;
+}
+
+$(document).ready(function(){    
+    $("#button").click(function(){        
+        var info = readInfo();
+		var json = JSON.stringify(info);
+		var url = 'http://127.0.0.1:8101/deleteUserData'
+        
+		$("#url").text(url);                
+        $("#content").text(json);
+            
+        $.ajax({
+            url: url,
+            type: 'POST',
+            dataType: info.data.useFile ? 'binary' : 'text',
+            data: json,
+            success: function(result) {
+                if (info.data.useFile) {                
+                    var url = URL.createObjectURL(result);
+                    var $a = $('<a />', {
+                    'href': url,
+                    'download': info.data.userId + '_' + info.time + '.zip',
+                    'text': "click"
+                    }).hide().appendTo("body")[0].click();
+                    setTimeout(function() {
+                    URL.revokeObjectURL(url);
+                    }, 10000);
+                } else {
+                    $('#response').text( JSON.stringify(JSON.parse(result),null,4) ); 
+                }
+            },
+            error: function( jqXhr, textStatus, errorThrown ){
+                console.log( errorThrown );
+            }
+        });
+    });    
+});
+</script>
+</head>
+<body>
+
+<table>
+    <tr>
+        <td align="right">admin</td>
+        <td align="left"><input type="text" id="admin" value="thuanvt"/></td>
+    </tr>
+
+</table>
+
+</br>
+<button id="button">GET</button>
+
+</br>
+<table>
+    <tr>
+        <td align="left">URL</td>
+        <td align="left"><pre id="url"></pre></td>
+    </tr>  
+	<tr>
+        <td align="left">CONTENT</td>
+        <td align="left"><pre id="content"></pre></td>
+    </tr> 	
+    <tr>
+        <td align="left">RESPONSE</td>
+        <td align="left"><pre id="response"></pre></td>
+    </tr>
+</table>
+
+</body>
+</html>

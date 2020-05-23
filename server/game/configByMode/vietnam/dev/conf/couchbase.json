@@ -1,0 +1,20 @@
+{
+    "index": {
+        "serverIp": "127.0.0.1",
+        "serverPort": 11220
+    },
+    "cache": {
+        "serverIp": "127.0.0.1",
+        "serverPort": 11240
+    },
+    "user_1": {
+        "serverIp": "127.0.0.1",
+        "serverPort": 11230,
+        "isUserBucket": true
+    },
+    "user_2": {
+        "serverIp": "127.0.0.1",
+        "serverPort": 11231,
+        "isUserBucket": true
+    }
+}

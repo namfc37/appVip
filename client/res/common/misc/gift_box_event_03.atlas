@@ -1,0 +1,27 @@
+
+gift_box_event_03.png
+size: 243,243
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gift_box
+  rotate: false
+  xy: 2, 2
+  size: 153, 107
+  orig: 153, 107
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 111
+  size: 150, 130
+  orig: 150, 130
+  offset: 0, 0
+  index: -1
+shadown
+  rotate: true
+  xy: 154, 135
+  size: 106, 35
+  orig: 106, 35
+  offset: 0, 0
+  index: -1

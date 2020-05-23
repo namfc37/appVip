@@ -1,0 +1,181 @@
+
+plant_event_04.png
+size: 173,171
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+halloween_002
+  rotate: false
+  xy: 93, 49
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+halloween_005
+  rotate: false
+  xy: 158, 157
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+halloween_006
+  rotate: false
+  xy: 115, 41
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+halloween_007
+  rotate: false
+  xy: 57, 28
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+halloween_008
+  rotate: false
+  xy: 66, 74
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+halloween_011
+  rotate: true
+  xy: 57, 82
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+halloween_012
+  rotate: false
+  xy: 2, 9
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+halloween_013
+  rotate: false
+  xy: 2, 90
+  size: 62, 79
+  orig: 62, 79
+  offset: 0, 0
+  index: -1
+halloween_014
+  rotate: false
+  xy: 108, 114
+  size: 36, 18
+  orig: 36, 18
+  offset: 0, 0
+  index: -1
+halloween_015
+  rotate: false
+  xy: 106, 90
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+halloween_016
+  rotate: true
+  xy: 106, 74
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+halloween_017
+  rotate: false
+  xy: 144, 92
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+halloween_018
+  rotate: false
+  xy: 66, 112
+  size: 40, 57
+  orig: 40, 57
+  offset: 0, 0
+  index: -1
+halloween_019
+  rotate: true
+  xy: 146, 113
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+halloween_020
+  rotate: true
+  xy: 38, 4
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+halloween_021
+  rotate: true
+  xy: 158, 133
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+halloween_022
+  rotate: false
+  xy: 115, 55
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+halloween_023
+  rotate: true
+  xy: 127, 92
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+halloween_024
+  rotate: true
+  xy: 161, 102
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+halloween_025
+  rotate: false
+  xy: 2, 33
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+halloween_026
+  rotate: false
+  xy: 108, 134
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+hand_1
+  rotate: false
+  xy: 57, 2
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+hand_2
+  rotate: false
+  xy: 91, 23
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+tough_1
+  rotate: false
+  xy: 57, 51
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+tough_2
+  rotate: false
+  xy: 83, 6
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1

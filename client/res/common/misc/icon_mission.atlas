@@ -1,0 +1,48 @@
+
+icon_mission.png
+size: 106,106
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 48, 14
+  size: 11, 17
+  orig: 19, 22
+  offset: 3, 2
+  index: -1
+2
+  rotate: false
+  xy: 31, 13
+  size: 15, 18
+  orig: 19, 22
+  offset: 2, 2
+  index: -1
+3
+  rotate: false
+  xy: 78, 60
+  size: 15, 18
+  orig: 19, 22
+  offset: 2, 2
+  index: -1
+hud_event_red_circle
+  rotate: false
+  xy: 2, 2
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+icon_checked
+  rotate: false
+  xy: 78, 80
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+icon_mission
+  rotate: false
+  xy: 2, 33
+  size: 74, 71
+  orig: 76, 73
+  offset: 1, 1
+  index: -1

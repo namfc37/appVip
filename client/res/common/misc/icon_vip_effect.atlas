@@ -1,0 +1,13 @@
+
+icon_vip_effect.png
+size: 86,86
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon_vip
+  rotate: false
+  xy: 2, 2
+  size: 68, 82
+  orig: 70, 84
+  offset: 1, 1
+  index: -1

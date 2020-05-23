@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="jquery.min.js"></script>
+<script src="sha256.js"></script>
+<script>
+function readInfo () {
+    var o = new Object();    
+    o.admin = 'thuanvt';    
+    o.time = new Date().getTime();    
+    o.data = new Object();   	
+	
+    o.data.reason = 'test';	
+	o.data.userId = 340404436;	
+	//o.data.level = 30;
+	//o.data.exp = 400;	
+	o.data.resetDaily = false;
+	o.data.resetOffer = true;	
+	//o.data.addItems = new Object();   	
+	//o.data.addItems.GOLD = 10;	
+	//o.data.addItems.REPU = 20;
+	//o.data.addItems.T0 = 30;
+    //o.data.removeItems = new Object();   	
+	//o.data.removeItems.GOLD = 5;	
+	//o.data.removeItems.REPU = 10;
+    //o.data.removeItems.T0 = 15;
+    
+    // o.data.addQuest = "ACTION_PLANT";
+    // o.data.removeQuest = "all";//"ACTION_PLANT,ACTION_PLANT";
+    // o.data.editQuest = "ACTION_PLANT:9";
+    // o.data.missionId = 1;
+	
+	o.data = JSON.stringify(o.data);	
+	var inputHash = '(@dm1nS#cr3tKey!)' + o.admin + o.time + o.data;	
+	console.log("inputHash: " + inputHash);
+    o.hash = CryptoJS.SHA256(inputHash).toString(CryptoJS.enc.Hex);    
+    return o;
+}
+
+$(document).ready(function(){    
+    $("#button").click(function(){        
+        var info = readInfo();
+		var json = JSON.stringify(info);
+		var url = 'http://127.0.0.1:8101/setUserGame'
+        
+		$("#url").text(url);                
+        $("#content").text(json);                  
+		
+		$.ajax({
+                url: url,
+                dataType: 'text',
+                type: 'post',                
+                data: json,
+                success: function( data, textStatus, jQxhr ){
+                    $('#response').text( JSON.stringify(JSON.parse(data),null,4) );                    
+                },
+                error: function( jqXhr, textStatus, errorThrown ){
+                    console.log( errorThrown );
+                }
+            });
+    });    
+});
+</script>
+</head>
+<body>
+
+<table>
+   			
+</table>
+
+</br>
+<button id="button">ADD</button>
+
+</br>
+<table>
+    <tr>
+        <td align="left">URL</td>
+        <td align="left"><pre id="url"></pre></td>
+    </tr>  
+	<tr>
+        <td align="left">CONTENT</td>
+        <td align="left"><pre id="content"></pre></td>
+    </tr> 	
+    <tr>
+        <td align="left">RESPONSE</td>
+        <td align="left"><pre id="response"></pre></td>
+    </tr>
+</table>
+
+</body>
+</html>

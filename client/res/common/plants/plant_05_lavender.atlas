@@ -1,0 +1,118 @@
+
+plant_05_lavender.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cuc_new_021
+  rotate: false
+  xy: 45, 2
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+marker
+  rotate: false
+  xy: 150, 133
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+oai_huong_000
+  rotate: false
+  xy: 2, 125
+  size: 94, 128
+  orig: 94, 128
+  offset: 0, 0
+  index: -1
+oai_huong_002
+  rotate: false
+  xy: 2, 15
+  size: 65, 32
+  orig: 65, 32
+  offset: 0, 0
+  index: -1
+oai_huong_003
+  rotate: false
+  xy: 180, 142
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+oai_huong_004
+  rotate: true
+  xy: 150, 145
+  size: 50, 28
+  orig: 50, 28
+  offset: 0, 0
+  index: -1
+oai_huong_005
+  rotate: false
+  xy: 164, 225
+  size: 56, 28
+  orig: 56, 28
+  offset: 0, 0
+  index: -1
+oai_huong_006
+  rotate: false
+  xy: 164, 198
+  size: 55, 25
+  orig: 55, 25
+  offset: 0, 0
+  index: -1
+oai_huong_007
+  rotate: true
+  xy: 69, 15
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+oai_huong_008
+  rotate: false
+  xy: 98, 133
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+oai_huong_009
+  rotate: false
+  xy: 180, 163
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+oai_huong_010
+  rotate: true
+  xy: 222, 223
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+oai_huong_011
+  rotate: false
+  xy: 98, 197
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+oai_huong_012
+  rotate: false
+  xy: 2, 49
+  size: 65, 74
+  orig: 65, 74
+  offset: 0, 0
+  index: -1
+oai_huong_013
+  rotate: false
+  xy: 69, 59
+  size: 20, 64
+  orig: 20, 64
+  offset: 0, 0
+  index: -1
+oai_huong_014
+  rotate: true
+  xy: 2, 2
+  size: 11, 41
+  orig: 11, 41
+  offset: 0, 0
+  index: -1

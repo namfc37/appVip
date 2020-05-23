@@ -1,0 +1,251 @@
+
+effect_pot_slot.png
+size: 630,630
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 96, 108
+  size: 58, 78
+  orig: 98, 87
+  offset: 14, 4
+  index: -1
+2
+  rotate: true
+  xy: 176, 84
+  size: 82, 81
+  orig: 98, 87
+  offset: 2, 3
+  index: -1
+3
+  rotate: true
+  xy: 2, 152
+  size: 86, 87
+  orig: 98, 87
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 434, 41
+  size: 86, 75
+  orig: 98, 87
+  offset: 0, 6
+  index: -1
+5
+  rotate: true
+  xy: 561, 415
+  size: 98, 52
+  orig: 98, 87
+  offset: 0, 17
+  index: -1
+effect_01
+  rotate: false
+  xy: 2, 240
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
+effect_light
+  rotate: false
+  xy: 2, 353
+  size: 300, 275
+  orig: 300, 300
+  offset: 0, 13
+  index: -1
+effect_light_1
+  rotate: false
+  xy: 304, 201
+  size: 220, 194
+  orig: 256, 256
+  offset: 17, 31
+  index: -1
+effect_light_2
+  rotate: false
+  xy: 304, 397
+  size: 255, 231
+  orig: 256, 256
+  offset: 0, 12
+  index: -1
+ghost_body
+  rotate: false
+  xy: 526, 106
+  size: 95, 121
+  orig: 97, 123
+  offset: 1, 1
+  index: -1
+ghost_circle
+  rotate: true
+  xy: 561, 515
+  size: 113, 66
+  orig: 115, 68
+  offset: 1, 1
+  index: -1
+ghost_wing
+  rotate: true
+  xy: 546, 2
+  size: 55, 45
+  orig: 57, 47
+  offset: 1, 1
+  index: -1
+li_01
+  rotate: false
+  xy: 522, 59
+  size: 74, 45
+  orig: 74, 46
+  offset: 0, 1
+  index: -1
+li_02
+  rotate: false
+  xy: 434, 118
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+light_00000
+  rotate: true
+  xy: 490, 5
+  size: 34, 54
+  orig: 100, 100
+  offset: 25, 23
+  index: -1
+light_00001
+  rotate: false
+  xy: 259, 193
+  size: 37, 74
+  orig: 100, 100
+  offset: 28, 13
+  index: -1
+light_00002
+  rotate: true
+  xy: 2, 106
+  size: 44, 92
+  orig: 100, 100
+  offset: 28, 4
+  index: -1
+light_00003
+  rotate: false
+  xy: 123, 14
+  size: 48, 92
+  orig: 100, 100
+  offset: 26, 4
+  index: -1
+light_00004
+  rotate: false
+  xy: 559, 229
+  size: 50, 92
+  orig: 100, 100
+  offset: 25, 4
+  index: -1
+light_00005
+  rotate: false
+  xy: 561, 323
+  size: 52, 90
+  orig: 100, 100
+  offset: 24, 5
+  index: -1
+light_00006
+  rotate: true
+  xy: 173, 5
+  size: 50, 86
+  orig: 100, 100
+  offset: 25, 7
+  index: -1
+light_00007
+  rotate: false
+  xy: 259, 269
+  size: 40, 82
+  orig: 100, 100
+  offset: 28, 9
+  index: -1
+light_00008
+  rotate: false
+  xy: 259, 117
+  size: 37, 74
+  orig: 100, 100
+  offset: 28, 13
+  index: -1
+light_00009
+  rotate: false
+  xy: 259, 57
+  size: 36, 58
+  orig: 100, 100
+  offset: 29, 21
+  index: -1
+light_00010
+  rotate: true
+  xy: 434, 4
+  size: 35, 54
+  orig: 100, 100
+  offset: 30, 23
+  index: -1
+light_00011
+  rotate: false
+  xy: 261, 5
+  size: 34, 50
+  orig: 100, 100
+  offset: 33, 25
+  index: -1
+light_00012
+  rotate: false
+  xy: 526, 266
+  size: 30, 36
+  orig: 100, 100
+  offset: 35, 32
+  index: -1
+line_arrow
+  rotate: true
+  xy: 615, 320
+  size: 11, 12
+  orig: 13, 12
+  offset: 1, 0
+  index: -1
+line_effect
+  rotate: false
+  xy: 615, 333
+  size: 11, 180
+  orig: 11, 180
+  offset: 0, 0
+  index: -1
+wing_4
+  rotate: true
+  xy: 2, 11
+  size: 93, 119
+  orig: 93, 119
+  offset: 0, 0
+  index: -1
+wing_5
+  rotate: true
+  xy: 123, 168
+  size: 183, 134
+  orig: 183, 134
+  offset: 0, 0
+  index: -1
+wing_6
+  rotate: false
+  xy: 526, 351
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+wing_7
+  rotate: true
+  xy: 526, 304
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+wing_8
+  rotate: true
+  xy: 298, 16
+  size: 183, 134
+  orig: 191, 142
+  offset: 4, 4
+  index: -1
+wing_9
+  rotate: false
+  xy: 593, 19
+  size: 35, 38
+  orig: 37, 46
+  offset: 0, 8
+  index: -1

@@ -1,0 +1,125 @@
+
+plant_18_sunflower.png
+size: 253,253
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cuc_new_021
+  rotate: true
+  xy: 57, 2
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+huong_duong_001
+  rotate: false
+  xy: 2, 23
+  size: 95, 90
+  orig: 95, 90
+  offset: 0, 0
+  index: -1
+huong_duong_002
+  rotate: false
+  xy: 152, 166
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1
+huong_duong_003
+  rotate: false
+  xy: 99, 22
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+huong_duong_004
+  rotate: true
+  xy: 214, 153
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+huong_duong_005
+  rotate: false
+  xy: 136, 41
+  size: 20, 72
+  orig: 20, 72
+  offset: 0, 0
+  index: -1
+huong_duong_006
+  rotate: false
+  xy: 158, 26
+  size: 43, 21
+  orig: 43, 21
+  offset: 0, 0
+  index: -1
+huong_duong_007
+  rotate: true
+  xy: 2, 2
+  size: 18, 53
+  orig: 18, 53
+  offset: 0, 0
+  index: -1
+huong_duong_008
+  rotate: true
+  xy: 212, 109
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+huong_duong_009
+  rotate: true
+  xy: 223, 195
+  size: 56, 25
+  orig: 56, 25
+  offset: 0, 0
+  index: -1
+huong_duong_010
+  rotate: false
+  xy: 158, 85
+  size: 46, 43
+  orig: 46, 43
+  offset: 0, 0
+  index: -1
+huong_duong_011
+  rotate: false
+  xy: 158, 49
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+huong_duong_012
+  rotate: false
+  xy: 152, 130
+  size: 58, 34
+  orig: 58, 34
+  offset: 0, 0
+  index: -1
+huong_duong_013
+  rotate: true
+  xy: 99, 51
+  size: 62, 35
+  orig: 62, 35
+  offset: 0, 0
+  index: -1
+huong_duong_014
+  rotate: false
+  xy: 152, 203
+  size: 69, 48
+  orig: 69, 48
+  offset: 0, 0
+  index: -1
+huong_duong_015
+  rotate: false
+  xy: 2, 115
+  size: 148, 136
+  orig: 148, 136
+  offset: 0, 0
+  index: -1
+marker
+  rotate: false
+  xy: 248, 190
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1

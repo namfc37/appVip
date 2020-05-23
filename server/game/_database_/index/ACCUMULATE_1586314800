@@ -1,0 +1,88 @@
+{
+  "id": "ACCUMULATE_1586314800",
+  "store": {
+    "ACSH_09": {
+      "id": "ACSH_09",
+      "sold": 0,
+      "total": 20000
+    },
+    "ACSH_08": {
+      "id": "ACSH_08",
+      "sold": 0,
+      "total": -1
+    },
+    "ACSH_05": {
+      "id": "ACSH_05",
+      "sold": 0,
+      "total": -1
+    },
+    "ACSH_16": {
+      "id": "ACSH_16",
+      "sold": 0,
+      "total": -1
+    },
+    "ACSH_04": {
+      "id": "ACSH_04",
+      "sold": 0,
+      "total": -1
+    },
+    "ACSH_15": {
+      "id": "ACSH_15",
+      "sold": 0,
+      "total": -1
+    },
+    "ACSH_07": {
+      "id": "ACSH_07",
+      "sold": 0,
+      "total": -1
+    },
+    "ACSH_06": {
+      "id": "ACSH_06",
+      "sold": 0,
+      "total": -1
+    },
+    "ACSH_01": {
+      "id": "ACSH_01",
+      "sold": 0,
+      "total": -1
+    },
+    "ACSH_12": {
+      "id": "ACSH_12",
+      "sold": 0,
+      "total": 20000
+    },
+    "ACSH_11": {
+      "id": "ACSH_11",
+      "sold": 0,
+      "total": 20000
+    },
+    "ACSH_03": {
+      "id": "ACSH_03",
+      "sold": 0,
+      "total": -1
+    },
+    "ACSH_14": {
+      "id": "ACSH_14",
+      "sold": 0,
+      "total": -1
+    },
+    "ACSH_02": {
+      "id": "ACSH_02",
+      "sold": 0,
+      "total": -1
+    },
+    "ACSH_13": {
+      "id": "ACSH_13",
+      "sold": 0,
+      "total": -1
+    },
+    "ACSH_10": {
+      "id": "ACSH_10",
+      "sold": 0,
+      "total": 20000
+    }
+  },
+  "time_update": 1587969898,
+  "time_start": 1586314800,
+  "time_end": 1589295600
+}

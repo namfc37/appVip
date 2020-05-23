@@ -1,0 +1,47 @@
+{
+    "defaultLanguageCode": "vn",
+    "list": [
+        {
+            "code": [
+                "vn"
+            ],
+            "name": "Vietnamese",
+            "folder": "vn"
+        },
+        {
+            "code": [
+                "br"
+            ],
+            "name": "Brazil",
+            "folder": "br"
+        },
+        {
+            "code": [
+                "go"
+            ],
+            "name": "English",
+            "folder": "go"
+        },
+        {
+            "code": [
+                "th"
+            ],
+            "name": "Thai",
+            "folder": "th"
+        },
+        {
+            "code": [
+                "mm"
+            ],
+            "name": "Myanmar",
+            "folder": "mm"
+        },
+        {
+            "code": [
+                "ph"
+            ],
+            "name": "Philippine",
+            "folder": "ph"
+        }
+    ]
+}

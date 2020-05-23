@@ -1,0 +1,2503 @@
+{
+  "RATE_VND_TO_COIN": 100,
+  "RATE_SMS_PERCENT": 100,
+  "RATE_COIN_TO_GOLD": 500,
+  "RATE_LOCAL_TO_VND": 440,
+  "USE_PRICE_CENT": false,
+  "ACTIVE_IAP": true,
+  "ACTIVE_SMS": [
+    "3001",
+    "3002"
+  ],
+  "ACTIVE_CARD_ZING": false,
+  "ACTIVE_CARD": [],
+  "ACTIVE_ATM": false,
+  "ACTIVE_WALLET": [
+    "3003"
+  ],
+  "ACTIVE_BANKING": [],
+  "ACTIVE_CREDIT": [],
+  "FIRST_CHARGE_ITEM_ACTIVE": true,
+  "FIRST_CHARGE_ITEM_IAP": {
+    "GOLD": 25000,
+    "M0": 5,
+    "M1": 5,
+    "M2": 5,
+    "COIN": 100,
+    "M13": 5,
+    "M12": 5
+  },
+  "FIRST_CHARGE_ITEM_SMS": {
+    "GOLD": 25000,
+    "M0": 5,
+    "M1": 5,
+    "M2": 5,
+    "COIN": 100,
+    "M13": 5,
+    "M12": 5
+  },
+  "FIRST_CHARGE_ITEM_ZING": {
+    "GOLD": 25000,
+    "M3": 5,
+    "M4": 5,
+    "M5": 5,
+    "COIN": 100,
+    "M13": 5,
+    "M12": 5
+  },
+  "FIRST_CHARGE_ITEM_CARD": {
+    "GOLD": 25000,
+    "M6": 5,
+    "M7": 5,
+    "M8": 5,
+    "COIN": 100,
+    "M13": 5,
+    "M12": 5
+  },
+  "FIRST_CHARGE_ITEM_ATM": {
+    "GOLD": 25000,
+    "M3": 5,
+    "M4": 5,
+    "M5": 5,
+    "COIN": 100,
+    "M13": 5,
+    "M12": 5
+  },
+  "FIRST_CHARGE_ITEM_WALLET": {
+    "GOLD": 25000,
+    "M3": 5,
+    "M4": 5,
+    "M5": 6,
+    "COIN": 100,
+    "M13": 5,
+    "M12": 5
+  },
+  "FIRST_CHARGE_ITEM_BANKING": {
+    "GOLD": 25000,
+    "M3": 5,
+    "M4": 5,
+    "M5": 7,
+    "COIN": 100,
+    "M13": 5,
+    "M12": 5
+  },
+  "FIRST_CHARGE_ITEM_CREDIT": {
+    "GOLD": 25000,
+    "M3": 5,
+    "M4": 5,
+    "M5": 7,
+    "COIN": 100,
+    "M13": 5,
+    "M12": 5
+  },
+  "TIME_CHECK_OFFER_EXPIRE": 86400,
+  "OFFER_NEWBIE_LEVEL": 5,
+  "OFFER_NEWBIE_OFFER": {
+    "0": "OFFER_NEWBIE_1"
+  },
+  "OFFER_SPECIAL_LEVEL": 25,
+  "OFFER_SPECIAL_TOTAL_PURCHASE": 500,
+  "OFFER_SPECIAL_NO_PURCHASE": {
+    "0": "OFFER_SPECIAL_1",
+    "15": "OFFER_SPECIAL_2",
+    "30": "OFFER_SPECIAL_6",
+    "45": "OFFER_SPECIAL_7",
+    "60": "OFFER_SPECIAL_8",
+    "75": "OFFER_SPECIAL_9",
+    "90": "OFFER_SPECIAL_10"
+  },
+  "OFFER_SPECIAL_LOW_PURCHASE": {
+    "0": "OFFER_SPECIAL_3",
+    "25": "OFFER_SPECIAL_4",
+    "30": "OFFER_SPECIAL_11",
+    "55": "OFFER_SPECIAL_12",
+    "80": "OFFER_SPECIAL_13",
+    "95": "OFFER_SPECIAL_15"
+  },
+  "OFFER_SPECIAL_HIGH_PURCHASE": {
+    "0": "OFFER_SPECIAL_3",
+    "10": "OFFER_SPECIAL_4",
+    "15": "OFFER_SPECIAL_5",
+    "20": "OFFER_SPECIAL_11",
+    "30": "OFFER_SPECIAL_12",
+    "40": "OFFER_SPECIAL_13",
+    "60": "OFFER_SPECIAL_14",
+    "80": "OFFER_SPECIAL_15",
+    "90": "OFFER_SPECIAL_16"
+  },
+  "OFFER_SPECIAL_RESET_MIN": 21600,
+  "OFFER_SPECIAL_RESET_MAX": 28800,
+  "OFFER_SUPER_LEVEL": 30,
+  "OFFER_SUPER_PERIOD_DAY": 7,
+  "OFFER_SUPER_PERIOD_PURCHASE": 1000,
+  "OFFER_SUPER_NO_PURCHASE": {
+    "0": "OFFER_SUPER_1",
+    "10": "OFFER_SUPER_2",
+    "20": "OFFER_SUPER_3",
+    "25": "OFFER_SUPER_8",
+    "35": "OFFER_SUPER_9",
+    "45": "OFFER_SUPER_10",
+    "55": "OFFER_SUPER_11",
+    "65": "OFFER_SUPER_12",
+    "70": "OFFER_SUPER_17",
+    "85": "OFFER_SUPER_18",
+    "95": "OFFER_SUPER_19"
+  },
+  "OFFER_SUPER_LOW_PURCHASE": {
+    "0": "OFFER_SUPER_3",
+    "10": "OFFER_SUPER_4",
+    "15": "OFFER_SUPER_5",
+    "20": "OFFER_SUPER_6",
+    "25": "OFFER_SUPER_7",
+    "30": "OFFER_SUPER_12",
+    "40": "OFFER_SUPER_13",
+    "50": "OFFER_SUPER_14",
+    "55": "OFFER_SUPER_15",
+    "60": "OFFER_SUPER_16",
+    "65": "OFFER_SUPER_19",
+    "75": "OFFER_SUPER_20",
+    "85": "OFFER_SUPER_21",
+    "90": "OFFER_SUPER_22",
+    "95": "OFFER_SUPER_23"
+  },
+  "OFFER_SUPER_HIGH_PURCHASE": {
+    "0": "OFFER_SUPER_3",
+    "2": "OFFER_SUPER_4",
+    "8": "OFFER_SUPER_5",
+    "12": "OFFER_SUPER_6",
+    "18": "OFFER_SUPER_7",
+    "28": "OFFER_SUPER_12",
+    "30": "OFFER_SUPER_13",
+    "40": "OFFER_SUPER_14",
+    "50": "OFFER_SUPER_15",
+    "56": "OFFER_SUPER_16",
+    "62": "OFFER_SUPER_19",
+    "68": "OFFER_SUPER_20",
+    "78": "OFFER_SUPER_21",
+    "84": "OFFER_SUPER_22",
+    "94": "OFFER_SUPER_23"
+  },
+  "OFFER_SUPER_RESET_MIN": 21600,
+  "OFFER_SUPER_RESET_MAX": 28800,
+  "OFFER_RARE_PERIOD_DAY_MIN": 30,
+  "OFFER_RARE_PERIOD_DAY_MAX": 60,
+  "OFFER_RARE_NEWBIE_PERIOD_PURCHASE": 500,
+  "OFFER_RARE_NEWBIE_NO_PURCHASE": {
+    "0": "OFFER_NEWBIE_1"
+  },
+  "OFFER_RARE_NEWBIE_LOW_PURCHASE": {
+    "0": "OFFER_RARE_NEWBIE_1",
+    "40": "OFFER_RARE_NEWBIE_2",
+    "80": "OFFER_RARE_NEWBIE_3"
+  },
+  "OFFER_RARE_NEWBIE_HIGH_PURCHASE": {
+    "0": "OFFER_RARE_NEWBIE_3",
+    "50": "OFFER_RARE_NEWBIE_4",
+    "75": "OFFER_RARE_NEWBIE_5"
+  },
+  "OFFER_RARE_NEWBIE_RESET_MIN": 21600,
+  "OFFER_RARE_NEWBIE_RESET_MAX": 28800,
+  "OFFER_RARE_SPECIAL_PERIOD_PURCHASE": 1000,
+  "OFFER_RARE_SPECIAL_NO_PURCHASE": {
+    "0": "OFFER_RARE_SPECIAL_1",
+    "50": "OFFER_RARE_SPECIAL_2"
+  },
+  "OFFER_RARE_SPECIAL_LOW_PURCHASE": {
+    "0": "OFFER_RARE_SPECIAL_1",
+    "30": "OFFER_RARE_SPECIAL_2",
+    "60": "OFFER_RARE_SPECIAL_3",
+    "85": "OFFER_RARE_SPECIAL_4"
+  },
+  "OFFER_RARE_SPECIAL_HIGH_PURCHASE": {
+    "0": "OFFER_RARE_SPECIAL_3",
+    "50": "OFFER_RARE_SPECIAL_4",
+    "80": "OFFER_RARE_SPECIAL_5"
+  },
+  "OFFER_RARE_SPECIAL_RESET_MIN": 21600,
+  "OFFER_RARE_SPECIAL_RESET_MAX": 28800,
+  "OFFER_RARE_SUPER_PERIOD_PURCHASE": 2000,
+  "OFFER_RARE_SUPER_NO_PURCHASE": {
+    "0": "OFFER_RARE_SUPER_1",
+    "50": "OFFER_RARE_SUPER_2",
+    "80": "OFFER_RARE_SUPER_3"
+  },
+  "OFFER_RARE_SUPER_LOW_PURCHASE": {
+    "0": "OFFER_RARE_SUPER_1",
+    "30": "OFFER_RARE_SUPER_2",
+    "60": "OFFER_RARE_SUPER_3",
+    "85": "OFFER_RARE_SUPER_4"
+  },
+  "OFFER_RARE_SUPER_HIGH_PURCHASE": {
+    "0": "OFFER_RARE_SUPER_3",
+    "50": "OFFER_RARE_SUPER_4",
+    "80": "OFFER_RARE_SUPER_5"
+  },
+  "OFFER_RARE_SUPER_RESET_MIN": 21600,
+  "OFFER_RARE_SUPER_RESET_MAX": 28800,
+  "DISPLAY_TAB_IAP": 2,
+  "DISPLAY_TAB_COIN2GOLD": 3,
+  "DISPLAY_TAB_SMS": 4,
+  "DISPLAY_TAB_CARD": 5,
+  "DISPLAY_TAB_ATM": 6,
+  "DISPLAY_TAB_WALLET": 7,
+  "DISPLAY_TAB_BANKING": 8,
+  "DISPLAY_TAB_CREDIT": 9,
+  "DISPLAY_TAB_COUNT": 10,
+  "DISPLAY_TAB_BANK": 11,
+  "DISPLAY_TAB_OFFER": 1,
+  "MAP_ITEM": {
+    "1A": {
+      "ID": "1A",
+      "TYPE": 16,
+      "SUB_TYPE": 10,
+      "CHANNEL": [],
+      "NAME": "GÓI KIM CƯƠNG",
+      "COIN": 220,
+      "QUANTITY": 220,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 22000,
+      "PRICE_LOCAL": 50,
+      "FIRST_CHARGE_PERCENT": 100,
+      "PROMOTION_PERCENT": 0,
+      "PROMOTION_DURATION": [
+        [
+          1503615600,
+          1503874800
+        ],
+        [
+          1535151600,
+          1535410800
+        ]
+      ],
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "2A": {
+      "ID": "2A",
+      "TYPE": 16,
+      "SUB_TYPE": 10,
+      "CHANNEL": [],
+      "NAME": "HŨ KIM CƯƠNG",
+      "COIN": 440,
+      "QUANTITY": 440,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 44000,
+      "PRICE_LOCAL": 100,
+      "FIRST_CHARGE_PERCENT": 100,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "5A": {
+      "ID": "5A",
+      "TYPE": 16,
+      "SUB_TYPE": 10,
+      "CHANNEL": [],
+      "NAME": "HỘP KIM CƯƠNG",
+      "COIN": 1090,
+      "QUANTITY": 1090,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 109000,
+      "PRICE_LOCAL": 249,
+      "FIRST_CHARGE_PERCENT": 100,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "10A": {
+      "ID": "10A",
+      "TYPE": 16,
+      "SUB_TYPE": 10,
+      "CHANNEL": [],
+      "NAME": "THÙNG KIM CƯƠNG",
+      "COIN": 2190,
+      "QUANTITY": 2190,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 219000,
+      "PRICE_LOCAL": 499,
+      "FIRST_CHARGE_PERCENT": 100,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "20A": {
+      "ID": "20A",
+      "TYPE": 16,
+      "SUB_TYPE": 10,
+      "CHANNEL": [],
+      "NAME": "HÒM KIM CƯƠNG",
+      "COIN": 4490,
+      "QUANTITY": 4490,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 449000,
+      "PRICE_LOCAL": 1020,
+      "FIRST_CHARGE_PERCENT": 100,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "50A": {
+      "ID": "50A",
+      "TYPE": 16,
+      "SUB_TYPE": 10,
+      "CHANNEL": [],
+      "NAME": "LƯ KIM CƯƠNG",
+      "COIN": 10990,
+      "QUANTITY": 10990,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 1099000,
+      "PRICE_LOCAL": 2499,
+      "FIRST_CHARGE_PERCENT": 100,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "sms.coin.ph.10": {
+      "ID": "sms.coin.ph.10",
+      "TYPE": 16,
+      "SUB_TYPE": 11,
+      "CHANNEL": [
+        "3001",
+        "3002"
+      ],
+      "NAME": "LƯ KIM CƯƠNG",
+      "COIN": 44,
+      "QUANTITY": 44,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 4400,
+      "PRICE_LOCAL": 10,
+      "FIRST_CHARGE_PERCENT": 100,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "sms.coin.ph.20": {
+      "ID": "sms.coin.ph.20",
+      "TYPE": 16,
+      "SUB_TYPE": 11,
+      "CHANNEL": [
+        "3001",
+        "3002"
+      ],
+      "NAME": "LƯ KIM CƯƠNG",
+      "COIN": 88,
+      "QUANTITY": 88,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 8800,
+      "PRICE_LOCAL": 20,
+      "FIRST_CHARGE_PERCENT": 100,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "sms.coin.ph.50": {
+      "ID": "sms.coin.ph.50",
+      "TYPE": 16,
+      "SUB_TYPE": 11,
+      "CHANNEL": [
+        "3001",
+        "3002"
+      ],
+      "NAME": "LƯ KIM CƯƠNG",
+      "COIN": 220,
+      "QUANTITY": 220,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 22000,
+      "PRICE_LOCAL": 50,
+      "FIRST_CHARGE_PERCENT": 100,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "sms.coin.ph.100": {
+      "ID": "sms.coin.ph.100",
+      "TYPE": 16,
+      "SUB_TYPE": 11,
+      "CHANNEL": [
+        "3001",
+        "3002"
+      ],
+      "NAME": "LƯ KIM CƯƠNG",
+      "COIN": 440,
+      "QUANTITY": 440,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 44000,
+      "PRICE_LOCAL": 100,
+      "FIRST_CHARGE_PERCENT": 100,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "sms.coin.ph.200": {
+      "ID": "sms.coin.ph.200",
+      "TYPE": 16,
+      "SUB_TYPE": 11,
+      "CHANNEL": [
+        "3001",
+        "3002"
+      ],
+      "NAME": "LƯ KIM CƯƠNG",
+      "COIN": 880,
+      "QUANTITY": 880,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 88000,
+      "PRICE_LOCAL": 200,
+      "FIRST_CHARGE_PERCENT": 100,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "sms.coin.ph.300": {
+      "ID": "sms.coin.ph.300",
+      "TYPE": 16,
+      "SUB_TYPE": 11,
+      "CHANNEL": [
+        "3001",
+        "3002"
+      ],
+      "NAME": "LƯ KIM CƯƠNG",
+      "COIN": 1320,
+      "QUANTITY": 1320,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 132000,
+      "PRICE_LOCAL": 300,
+      "FIRST_CHARGE_PERCENT": 100,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "sms.coin.ph.400": {
+      "ID": "sms.coin.ph.400",
+      "TYPE": 16,
+      "SUB_TYPE": 11,
+      "CHANNEL": [
+        "3001",
+        "3002"
+      ],
+      "NAME": "LƯ KIM CƯƠNG",
+      "COIN": 1760,
+      "QUANTITY": 1760,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 176000,
+      "PRICE_LOCAL": 400,
+      "FIRST_CHARGE_PERCENT": 100,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "sms.coin.ph.500": {
+      "ID": "sms.coin.ph.500",
+      "TYPE": 16,
+      "SUB_TYPE": 11,
+      "CHANNEL": [
+        "3001",
+        "3002"
+      ],
+      "NAME": "LƯ KIM CƯƠNG",
+      "COIN": 2200,
+      "QUANTITY": 2200,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 220000,
+      "PRICE_LOCAL": 500,
+      "FIRST_CHARGE_PERCENT": 100,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "sms.coin.ph.1k": {
+      "ID": "sms.coin.ph.1k",
+      "TYPE": 16,
+      "SUB_TYPE": 11,
+      "CHANNEL": [
+        "3001",
+        "3002"
+      ],
+      "NAME": "LƯ KIM CƯƠNG",
+      "COIN": 4400,
+      "QUANTITY": 4400,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 440000,
+      "PRICE_LOCAL": 1000,
+      "FIRST_CHARGE_PERCENT": 100,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "sms.coin.ph.2k": {
+      "ID": "sms.coin.ph.2k",
+      "TYPE": 16,
+      "SUB_TYPE": 11,
+      "CHANNEL": [
+        "3001",
+        "3002"
+      ],
+      "NAME": "LƯ KIM CƯƠNG",
+      "COIN": 8800,
+      "QUANTITY": 8800,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 880000,
+      "PRICE_LOCAL": 2000,
+      "FIRST_CHARGE_PERCENT": 100,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "wallet.coin.ph.20": {
+      "ID": "wallet.coin.ph.20",
+      "TYPE": 16,
+      "SUB_TYPE": 16,
+      "CHANNEL": [
+        "3003"
+      ],
+      "NAME": "LƯ KIM CƯƠNG",
+      "COIN": 88,
+      "QUANTITY": 88,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 8800,
+      "PRICE_LOCAL": 20,
+      "FIRST_CHARGE_PERCENT": 100,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "wallet.coin.ph.50": {
+      "ID": "wallet.coin.ph.50",
+      "TYPE": 16,
+      "SUB_TYPE": 16,
+      "CHANNEL": [
+        "3003"
+      ],
+      "NAME": "LƯ KIM CƯƠNG",
+      "COIN": 220,
+      "QUANTITY": 220,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 22000,
+      "PRICE_LOCAL": 50,
+      "FIRST_CHARGE_PERCENT": 100,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "wallet.coin.ph.100": {
+      "ID": "wallet.coin.ph.100",
+      "TYPE": 16,
+      "SUB_TYPE": 16,
+      "CHANNEL": [
+        "3003"
+      ],
+      "NAME": "LƯ KIM CƯƠNG",
+      "COIN": 440,
+      "QUANTITY": 440,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 44000,
+      "PRICE_LOCAL": 100,
+      "FIRST_CHARGE_PERCENT": 100,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "wallet.coin.ph.200": {
+      "ID": "wallet.coin.ph.200",
+      "TYPE": 16,
+      "SUB_TYPE": 16,
+      "CHANNEL": [
+        "3003"
+      ],
+      "NAME": "LƯ KIM CƯƠNG",
+      "COIN": 880,
+      "QUANTITY": 880,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 88000,
+      "PRICE_LOCAL": 200,
+      "FIRST_CHARGE_PERCENT": 100,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "wallet.coin.ph.300": {
+      "ID": "wallet.coin.ph.300",
+      "TYPE": 16,
+      "SUB_TYPE": 16,
+      "CHANNEL": [
+        "3003"
+      ],
+      "NAME": "LƯ KIM CƯƠNG",
+      "COIN": 1320,
+      "QUANTITY": 1320,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 132000,
+      "PRICE_LOCAL": 300,
+      "FIRST_CHARGE_PERCENT": 100,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "wallet.coin.ph.400": {
+      "ID": "wallet.coin.ph.400",
+      "TYPE": 16,
+      "SUB_TYPE": 16,
+      "CHANNEL": [
+        "3003"
+      ],
+      "NAME": "LƯ KIM CƯƠNG",
+      "COIN": 1760,
+      "QUANTITY": 1760,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 176000,
+      "PRICE_LOCAL": 400,
+      "FIRST_CHARGE_PERCENT": 100,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "wallet.coin.ph.500": {
+      "ID": "wallet.coin.ph.500",
+      "TYPE": 16,
+      "SUB_TYPE": 16,
+      "CHANNEL": [
+        "3003"
+      ],
+      "NAME": "LƯ KIM CƯƠNG",
+      "COIN": 2200,
+      "QUANTITY": 2200,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 220000,
+      "PRICE_LOCAL": 500,
+      "FIRST_CHARGE_PERCENT": 100,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "wallet.coin.ph.1k": {
+      "ID": "wallet.coin.ph.1k",
+      "TYPE": 16,
+      "SUB_TYPE": 16,
+      "CHANNEL": [
+        "3003"
+      ],
+      "NAME": "LƯ KIM CƯƠNG",
+      "COIN": 4400,
+      "QUANTITY": 4400,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 440000,
+      "PRICE_LOCAL": 1000,
+      "FIRST_CHARGE_PERCENT": 100,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "wallet.coin.ph.2k": {
+      "ID": "wallet.coin.ph.2k",
+      "TYPE": 16,
+      "SUB_TYPE": 16,
+      "CHANNEL": [
+        "3003"
+      ],
+      "NAME": "LƯ KIM CƯƠNG",
+      "COIN": 8800,
+      "QUANTITY": 8800,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 880000,
+      "PRICE_LOCAL": 2000,
+      "FIRST_CHARGE_PERCENT": 100,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "1B": {
+      "ID": "1B",
+      "TYPE": 18,
+      "SUB_TYPE": 10,
+      "CHANNEL": [],
+      "COIN": 220,
+      "QUANTITY": 0,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 22000,
+      "PRICE_LOCAL": 50,
+      "FIRST_CHARGE_PERCENT": 0,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "2B": {
+      "ID": "2B",
+      "TYPE": 18,
+      "SUB_TYPE": 10,
+      "CHANNEL": [],
+      "COIN": 440,
+      "QUANTITY": 0,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 44000,
+      "PRICE_LOCAL": 100,
+      "FIRST_CHARGE_PERCENT": 0,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "5B": {
+      "ID": "5B",
+      "TYPE": 18,
+      "SUB_TYPE": 10,
+      "CHANNEL": [],
+      "COIN": 1090,
+      "QUANTITY": 0,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 109000,
+      "PRICE_LOCAL": 249,
+      "FIRST_CHARGE_PERCENT": 0,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "10B": {
+      "ID": "10B",
+      "TYPE": 18,
+      "SUB_TYPE": 10,
+      "CHANNEL": [],
+      "COIN": 2190,
+      "QUANTITY": 0,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 219000,
+      "PRICE_LOCAL": 499,
+      "FIRST_CHARGE_PERCENT": 0,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "20B": {
+      "ID": "20B",
+      "TYPE": 18,
+      "SUB_TYPE": 10,
+      "CHANNEL": [],
+      "COIN": 4490,
+      "QUANTITY": 0,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 449000,
+      "PRICE_LOCAL": 1020,
+      "FIRST_CHARGE_PERCENT": 0,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "sms.offer.ph.10": {
+      "ID": "sms.offer.ph.10",
+      "TYPE": 18,
+      "SUB_TYPE": 11,
+      "CHANNEL": [
+        "3001",
+        "3002"
+      ],
+      "COIN": 44,
+      "QUANTITY": 0,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 4400,
+      "PRICE_LOCAL": 10,
+      "FIRST_CHARGE_PERCENT": 0,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "sms.offer.ph.20": {
+      "ID": "sms.offer.ph.20",
+      "TYPE": 18,
+      "SUB_TYPE": 11,
+      "CHANNEL": [
+        "3001",
+        "3002"
+      ],
+      "COIN": 88,
+      "QUANTITY": 0,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 8800,
+      "PRICE_LOCAL": 20,
+      "FIRST_CHARGE_PERCENT": 0,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "sms.offer.ph.50": {
+      "ID": "sms.offer.ph.50",
+      "TYPE": 18,
+      "SUB_TYPE": 11,
+      "CHANNEL": [
+        "3001",
+        "3002"
+      ],
+      "COIN": 220,
+      "QUANTITY": 0,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 22000,
+      "PRICE_LOCAL": 50,
+      "FIRST_CHARGE_PERCENT": 0,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "sms.offer.ph.100": {
+      "ID": "sms.offer.ph.100",
+      "TYPE": 18,
+      "SUB_TYPE": 11,
+      "CHANNEL": [
+        "3001",
+        "3002"
+      ],
+      "COIN": 440,
+      "QUANTITY": 0,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 44000,
+      "PRICE_LOCAL": 100,
+      "FIRST_CHARGE_PERCENT": 0,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "sms.offer.ph.200": {
+      "ID": "sms.offer.ph.200",
+      "TYPE": 18,
+      "SUB_TYPE": 11,
+      "CHANNEL": [
+        "3001",
+        "3002"
+      ],
+      "COIN": 880,
+      "QUANTITY": 0,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 88000,
+      "PRICE_LOCAL": 200,
+      "FIRST_CHARGE_PERCENT": 0,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "sms.offer.ph.300": {
+      "ID": "sms.offer.ph.300",
+      "TYPE": 18,
+      "SUB_TYPE": 11,
+      "CHANNEL": [
+        "3001",
+        "3002"
+      ],
+      "COIN": 1320,
+      "QUANTITY": 0,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 132000,
+      "PRICE_LOCAL": 300,
+      "FIRST_CHARGE_PERCENT": 0,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "sms.offer.ph.400": {
+      "ID": "sms.offer.ph.400",
+      "TYPE": 18,
+      "SUB_TYPE": 11,
+      "CHANNEL": [
+        "3001",
+        "3002"
+      ],
+      "COIN": 1760,
+      "QUANTITY": 0,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 176000,
+      "PRICE_LOCAL": 400,
+      "FIRST_CHARGE_PERCENT": 0,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "sms.offer.ph.500": {
+      "ID": "sms.offer.ph.500",
+      "TYPE": 18,
+      "SUB_TYPE": 11,
+      "CHANNEL": [
+        "3001",
+        "3002"
+      ],
+      "COIN": 2200,
+      "QUANTITY": 0,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 220000,
+      "PRICE_LOCAL": 500,
+      "FIRST_CHARGE_PERCENT": 0,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "sms.offer.ph.1k": {
+      "ID": "sms.offer.ph.1k",
+      "TYPE": 18,
+      "SUB_TYPE": 11,
+      "CHANNEL": [
+        "3001",
+        "3002"
+      ],
+      "COIN": 4400,
+      "QUANTITY": 0,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 440000,
+      "PRICE_LOCAL": 1000,
+      "FIRST_CHARGE_PERCENT": 0,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "sms.offer.ph.2k": {
+      "ID": "sms.offer.ph.2k",
+      "TYPE": 18,
+      "SUB_TYPE": 11,
+      "CHANNEL": [
+        "3001",
+        "3002"
+      ],
+      "COIN": 8800,
+      "QUANTITY": 0,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 880000,
+      "PRICE_LOCAL": 2000,
+      "FIRST_CHARGE_PERCENT": 0,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "wallet.offer.ph.20": {
+      "ID": "wallet.offer.ph.20",
+      "TYPE": 18,
+      "SUB_TYPE": 16,
+      "CHANNEL": [
+        "3003"
+      ],
+      "COIN": 88,
+      "QUANTITY": 0,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 8800,
+      "PRICE_LOCAL": 20,
+      "FIRST_CHARGE_PERCENT": 0,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "wallet.offer.ph.50": {
+      "ID": "wallet.offer.ph.50",
+      "TYPE": 18,
+      "SUB_TYPE": 16,
+      "CHANNEL": [
+        "3003"
+      ],
+      "COIN": 220,
+      "QUANTITY": 0,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 22000,
+      "PRICE_LOCAL": 50,
+      "FIRST_CHARGE_PERCENT": 0,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "wallet.offer.ph.100": {
+      "ID": "wallet.offer.ph.100",
+      "TYPE": 18,
+      "SUB_TYPE": 16,
+      "CHANNEL": [
+        "3003"
+      ],
+      "COIN": 440,
+      "QUANTITY": 0,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 44000,
+      "PRICE_LOCAL": 100,
+      "FIRST_CHARGE_PERCENT": 0,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "wallet.offer.ph.200": {
+      "ID": "wallet.offer.ph.200",
+      "TYPE": 18,
+      "SUB_TYPE": 16,
+      "CHANNEL": [
+        "3003"
+      ],
+      "COIN": 880,
+      "QUANTITY": 0,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 88000,
+      "PRICE_LOCAL": 200,
+      "FIRST_CHARGE_PERCENT": 0,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "wallet.offer.ph.300": {
+      "ID": "wallet.offer.ph.300",
+      "TYPE": 18,
+      "SUB_TYPE": 16,
+      "CHANNEL": [
+        "3003"
+      ],
+      "COIN": 1320,
+      "QUANTITY": 0,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 132000,
+      "PRICE_LOCAL": 300,
+      "FIRST_CHARGE_PERCENT": 0,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "wallet.offer.ph.400": {
+      "ID": "wallet.offer.ph.400",
+      "TYPE": 18,
+      "SUB_TYPE": 16,
+      "CHANNEL": [
+        "3003"
+      ],
+      "COIN": 1760,
+      "QUANTITY": 0,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 176000,
+      "PRICE_LOCAL": 400,
+      "FIRST_CHARGE_PERCENT": 0,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "wallet.offer.ph.500": {
+      "ID": "wallet.offer.ph.500",
+      "TYPE": 18,
+      "SUB_TYPE": 16,
+      "CHANNEL": [
+        "3003"
+      ],
+      "COIN": 2200,
+      "QUANTITY": 0,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 220000,
+      "PRICE_LOCAL": 500,
+      "FIRST_CHARGE_PERCENT": 0,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "wallet.offer.ph.1k": {
+      "ID": "wallet.offer.ph.1k",
+      "TYPE": 18,
+      "SUB_TYPE": 16,
+      "CHANNEL": [
+        "3003"
+      ],
+      "COIN": 4400,
+      "QUANTITY": 0,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 440000,
+      "PRICE_LOCAL": 1000,
+      "FIRST_CHARGE_PERCENT": 0,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    },
+    "wallet.offer.ph.2k": {
+      "ID": "wallet.offer.ph.2k",
+      "TYPE": 18,
+      "SUB_TYPE": 16,
+      "CHANNEL": [
+        "3003"
+      ],
+      "COIN": 8800,
+      "QUANTITY": 0,
+      "BONUS_QUANTITY": 0,
+      "PRICE_VND": 880000,
+      "PRICE_LOCAL": 2000,
+      "FIRST_CHARGE_PERCENT": 0,
+      "PROMOTION_PERCENT": 0,
+      "NEXT_PAY_COUNTDOWN": 0,
+      "LIMIT_DAY": 0,
+      "IS_HOT": false
+    }
+  },
+  "MAP_OFFER": {
+    "OFFER_NEWBIE_1": {
+      "ID": "OFFER_NEWBIE_1",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 88,
+      "PRICE_VND": 8800,
+      "PRICE_LOCAL": 20,
+      "REWARDS": {
+        "GOLD": 25000,
+        "B3": 5,
+        "B4": 5,
+        "B5": 5,
+        "M0": 5,
+        "P4": 3,
+        "M1": 5,
+        "M2": 5,
+        "M20": 10,
+        "COIN": 200
+      },
+      "COOLDOWN_MIN": 7200,
+      "COOLDOWN_MAX": 10800,
+      "COOLDOWN_ACTIVE": "OFFER_NEWBIE_3",
+      "DURATION": 28800,
+      "DURATION_ACTIVE_PURCHASE": "OFFER_NEWBIE_2",
+      "DURATION_ACTIVE_NO_PURCHASE": "OFFER_NEWBIE_2",
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_NEWBIE_2": {
+      "ID": "OFFER_NEWBIE_2",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 88,
+      "PRICE_VND": 8800,
+      "PRICE_LOCAL": 20,
+      "REWARDS": {
+        "GOLD": 25000,
+        "M0": 5,
+        "P4": 3,
+        "M1": 5,
+        "M2": 5,
+        "M3": 5,
+        "M4": 5,
+        "M5": 5,
+        "M20": 10,
+        "COIN": 300
+      },
+      "COOLDOWN_MIN": 7200,
+      "COOLDOWN_MAX": 10800,
+      "COOLDOWN_ACTIVE": "OFFER_NEWBIE_3",
+      "DURATION": 28800,
+      "DURATION_ACTIVE_PURCHASE": "OFFER_NEWBIE_3",
+      "DURATION_ACTIVE_NO_PURCHASE": "OFFER_NEWBIE_3",
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_NEWBIE_3": {
+      "ID": "OFFER_NEWBIE_3",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 220,
+      "PRICE_VND": 22000,
+      "PRICE_LOCAL": 50,
+      "REWARDS": {
+        "P12": 1,
+        "GOLD": 80000,
+        "P11": 1,
+        "P14": 1,
+        "P13": 1,
+        "P16": 1,
+        "P15": 1,
+        "COIN": 400
+      },
+      "COOLDOWN_MIN": 7200,
+      "COOLDOWN_MAX": 10800,
+      "COOLDOWN_ACTIVE": "OFFER_NEWBIE_5",
+      "DURATION": 28800,
+      "DURATION_ACTIVE_PURCHASE": "OFFER_NEWBIE_4",
+      "DURATION_ACTIVE_NO_PURCHASE": "OFFER_NEWBIE_4",
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_NEWBIE_4": {
+      "ID": "OFFER_NEWBIE_4",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 220,
+      "PRICE_VND": 22000,
+      "PRICE_LOCAL": 50,
+      "REWARDS": {
+        "P12": 1,
+        "GOLD": 100000,
+        "P11": 1,
+        "P14": 1,
+        "P13": 1,
+        "P16": 1,
+        "P15": 1,
+        "COIN": 500
+      },
+      "COOLDOWN_MIN": 7200,
+      "COOLDOWN_MAX": 10800,
+      "COOLDOWN_ACTIVE": "OFFER_NEWBIE_5",
+      "DURATION": 28800,
+      "DURATION_ACTIVE_PURCHASE": "OFFER_NEWBIE_5",
+      "DURATION_ACTIVE_NO_PURCHASE": "OFFER_NEWBIE_1",
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_NEWBIE_5": {
+      "ID": "OFFER_NEWBIE_5",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 440,
+      "PRICE_VND": 44000,
+      "PRICE_LOCAL": 100,
+      "REWARDS": {
+        "GOLD": 125000,
+        "P22": 1,
+        "P18": 1,
+        "P17": 1,
+        "P19": 1,
+        "COIN": 1000,
+        "P21": 1,
+        "P20": 1
+      },
+      "COOLDOWN_MIN": 7200,
+      "COOLDOWN_MAX": 10800,
+      "COOLDOWN_ACTIVE": "OFFER_NEWBIE_7",
+      "DURATION": 28800,
+      "DURATION_ACTIVE_PURCHASE": "OFFER_NEWBIE_6",
+      "DURATION_ACTIVE_NO_PURCHASE": "OFFER_NEWBIE_6",
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_NEWBIE_6": {
+      "ID": "OFFER_NEWBIE_6",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 440,
+      "PRICE_VND": 44000,
+      "PRICE_LOCAL": 100,
+      "REWARDS": {
+        "P34": 1,
+        "GOLD": 125000,
+        "P33": 1,
+        "P29": 1,
+        "P30": 1,
+        "COIN": 1500,
+        "P32": 1,
+        "P31": 1
+      },
+      "COOLDOWN_MIN": 7200,
+      "COOLDOWN_MAX": 10800,
+      "COOLDOWN_ACTIVE": "OFFER_NEWBIE_7",
+      "DURATION": 28800,
+      "DURATION_ACTIVE_PURCHASE": "OFFER_NEWBIE_7",
+      "DURATION_ACTIVE_NO_PURCHASE": "OFFER_NEWBIE_7",
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_NEWBIE_7": {
+      "ID": "OFFER_NEWBIE_7",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 880,
+      "PRICE_VND": 88000,
+      "PRICE_LOCAL": 200,
+      "REWARDS": {
+        "GOLD": 250000,
+        "D6": 1,
+        "D10": 1,
+        "D7": 1,
+        "D8": 1,
+        "D9": 1,
+        "D11": 1,
+        "COIN": 2000
+      },
+      "COOLDOWN_MIN": 7200,
+      "COOLDOWN_MAX": 10800,
+      "COOLDOWN_ACTIVE": "OFFER_NEWBIE_9",
+      "DURATION": 28800,
+      "DURATION_ACTIVE_PURCHASE": "OFFER_NEWBIE_8",
+      "DURATION_ACTIVE_NO_PURCHASE": "OFFER_NEWBIE_8",
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_NEWBIE_8": {
+      "ID": "OFFER_NEWBIE_8",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 880,
+      "PRICE_VND": 88000,
+      "PRICE_LOCAL": 200,
+      "REWARDS": {
+        "GOLD": 250000,
+        "P36": 1,
+        "P35": 1,
+        "P38": 1,
+        "P37": 1,
+        "P39": 1,
+        "P40": 1,
+        "COIN": 2500
+      },
+      "COOLDOWN_MIN": 7200,
+      "COOLDOWN_MAX": 10800,
+      "COOLDOWN_ACTIVE": "OFFER_NEWBIE_9",
+      "DURATION": 28800,
+      "DURATION_ACTIVE_PURCHASE": "OFFER_NEWBIE_9",
+      "DURATION_ACTIVE_NO_PURCHASE": "OFFER_NEWBIE_9",
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_NEWBIE_9": {
+      "ID": "OFFER_NEWBIE_9",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 2200,
+      "PRICE_VND": 220000,
+      "PRICE_LOCAL": 500,
+      "REWARDS": {
+        "P45": 1,
+        "GOLD": 1000000,
+        "P44": 1,
+        "P46": 1,
+        "P41": 1,
+        "COIN": 4000,
+        "P43": 1,
+        "P42": 1
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 10800,
+      "COOLDOWN_ACTIVE": "RESET",
+      "DURATION": 28800,
+      "DURATION_ACTIVE_PURCHASE": "RESET",
+      "DURATION_ACTIVE_NO_PURCHASE": "RESET",
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_SPECIAL_1": {
+      "ID": "OFFER_SPECIAL_1",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 88,
+      "PRICE_VND": 8800,
+      "PRICE_LOCAL": 20,
+      "REWARDS": {
+        "GOLD": 50000,
+        "M0": 10,
+        "M1": 10,
+        "M2": 10,
+        "COIN": 100,
+        "M13": 10,
+        "M12": 10
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_SPECIAL_2": {
+      "ID": "OFFER_SPECIAL_2",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 220,
+      "PRICE_VND": 22000,
+      "PRICE_LOCAL": 50,
+      "REWARDS": {
+        "GOLD": 100000,
+        "P22": 1,
+        "P18": 1,
+        "P17": 1,
+        "P19": 1,
+        "COIN": 200,
+        "P21": 1,
+        "P20": 1
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_SPECIAL_3": {
+      "ID": "OFFER_SPECIAL_3",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 440,
+      "PRICE_VND": 44000,
+      "PRICE_LOCAL": 100,
+      "REWARDS": {
+        "D4": 1,
+        "GOLD": 250000,
+        "D5": 1,
+        "D0": 1,
+        "D1": 1,
+        "COIN": 500,
+        "D2": 1,
+        "D3": 1
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_SPECIAL_4": {
+      "ID": "OFFER_SPECIAL_4",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 880,
+      "PRICE_VND": 88000,
+      "PRICE_LOCAL": 200,
+      "REWARDS": {
+        "COIN": 900
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 3,
+      "GFX": "image.png"
+    },
+    "OFFER_SPECIAL_5": {
+      "ID": "OFFER_SPECIAL_5",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 2200,
+      "PRICE_VND": 220000,
+      "PRICE_LOCAL": 500,
+      "REWARDS": {
+        "COIN": 700
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 7,
+      "GFX": "image.png"
+    },
+    "OFFER_SPECIAL_6": {
+      "ID": "OFFER_SPECIAL_6",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 88,
+      "PRICE_VND": 8800,
+      "PRICE_LOCAL": 20,
+      "REWARDS": {
+        "GOLD": 50000,
+        "M3": 10,
+        "M4": 10,
+        "M5": 10,
+        "COIN": 100,
+        "M13": 10,
+        "M12": 10
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_SPECIAL_7": {
+      "ID": "OFFER_SPECIAL_7",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 88,
+      "PRICE_VND": 8800,
+      "PRICE_LOCAL": 20,
+      "REWARDS": {
+        "GOLD": 50000,
+        "M6": 10,
+        "M7": 10,
+        "M8": 10,
+        "COIN": 100,
+        "M13": 10,
+        "M12": 10
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_SPECIAL_8": {
+      "ID": "OFFER_SPECIAL_8",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 88,
+      "PRICE_VND": 8800,
+      "PRICE_LOCAL": 20,
+      "REWARDS": {
+        "B2": 10,
+        "GOLD": 50000,
+        "B3": 10,
+        "B4": 10,
+        "B5": 10,
+        "COIN": 100,
+        "B0": 10,
+        "B1": 10
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_SPECIAL_9": {
+      "ID": "OFFER_SPECIAL_9",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 220,
+      "PRICE_VND": 22000,
+      "PRICE_LOCAL": 50,
+      "REWARDS": {
+        "A1": 20,
+        "GOLD": 100000,
+        "A2": 20,
+        "A3": 20,
+        "COIN": 200,
+        "A0": 20
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_SPECIAL_10": {
+      "ID": "OFFER_SPECIAL_10",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 220,
+      "PRICE_VND": 22000,
+      "PRICE_LOCAL": 50,
+      "REWARDS": {
+        "P23": 1,
+        "GOLD": 50000,
+        "P25": 1,
+        "P24": 1,
+        "P27": 1,
+        "P26": 1,
+        "P28": 1,
+        "COIN": 200
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_SPECIAL_11": {
+      "ID": "OFFER_SPECIAL_11",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 440,
+      "PRICE_VND": 44000,
+      "PRICE_LOCAL": 100,
+      "REWARDS": {
+        "GOLD": 500000,
+        "D6": 1,
+        "D10": 1,
+        "D7": 1,
+        "D8": 1,
+        "D9": 1,
+        "D11": 1,
+        "COIN": 500
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_SPECIAL_12": {
+      "ID": "OFFER_SPECIAL_12",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 440,
+      "PRICE_VND": 44000,
+      "PRICE_LOCAL": 100,
+      "REWARDS": {
+        "GOLD": 500000,
+        "D12": 1,
+        "D14": 1,
+        "D13": 1,
+        "D16": 1,
+        "D15": 1,
+        "D17": 1,
+        "COIN": 500
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_SPECIAL_13": {
+      "ID": "OFFER_SPECIAL_13",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 880,
+      "PRICE_VND": 88000,
+      "PRICE_LOCAL": 200,
+      "REWARDS": {
+        "P45": 1,
+        "GOLD": 750000,
+        "P44": 1,
+        "P46": 1,
+        "P41": 1,
+        "COIN": 1000,
+        "P43": 1,
+        "P42": 1
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_SPECIAL_14": {
+      "ID": "OFFER_SPECIAL_14",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 2200,
+      "PRICE_VND": 220000,
+      "PRICE_LOCAL": 500,
+      "REWARDS": {
+        "GOLD": 1000000,
+        "P47": 1,
+        "P49": 1,
+        "P48": 1,
+        "P50": 1,
+        "P52": 1,
+        "P51": 1,
+        "COIN": 2000
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_SPECIAL_15": {
+      "ID": "OFFER_SPECIAL_15",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 880,
+      "PRICE_VND": 88000,
+      "PRICE_LOCAL": 200,
+      "REWARDS": {
+        "COIN": 1250
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 2,
+      "GFX": "image.png"
+    },
+    "OFFER_SPECIAL_16": {
+      "ID": "OFFER_SPECIAL_16",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 2200,
+      "PRICE_VND": 220000,
+      "PRICE_LOCAL": 500,
+      "REWARDS": {
+        "COIN": 1665
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 3,
+      "GFX": "image.png"
+    },
+    "OFFER_SUPER_1": {
+      "ID": "OFFER_SUPER_1",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 88,
+      "PRICE_VND": 8800,
+      "PRICE_LOCAL": 20,
+      "REWARDS": {
+        "GOLD": 25000,
+        "M0": 10,
+        "M1": 10,
+        "M2": 10,
+        "M3": 10,
+        "M4": 10,
+        "M5": 10,
+        "COIN": 100
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_SUPER_2": {
+      "ID": "OFFER_SUPER_2",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 220,
+      "PRICE_VND": 22000,
+      "PRICE_LOCAL": 50,
+      "REWARDS": {
+        "GOLD": 50000,
+        "M0": 15,
+        "M1": 15,
+        "M2": 15,
+        "M3": 15,
+        "M4": 15,
+        "M5": 15,
+        "COIN": 200
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_SUPER_3": {
+      "ID": "OFFER_SUPER_3",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 440,
+      "PRICE_VND": 44000,
+      "PRICE_LOCAL": 100,
+      "REWARDS": {
+        "GOLD": 500000,
+        "M0": 15,
+        "M1": 15,
+        "M2": 15,
+        "M3": 15,
+        "M4": 15,
+        "M5": 15,
+        "M6": 15,
+        "M7": 15,
+        "M8": 15,
+        "COIN": 500
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_SUPER_4": {
+      "ID": "OFFER_SUPER_4",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 880,
+      "PRICE_VND": 88000,
+      "PRICE_LOCAL": 200,
+      "REWARDS": {
+        "COIN": 900
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 3,
+      "GFX": "image.png"
+    },
+    "OFFER_SUPER_5": {
+      "ID": "OFFER_SUPER_5",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 880,
+      "PRICE_VND": 88000,
+      "PRICE_LOCAL": 200,
+      "REWARDS": {
+        "GOLD": 750000,
+        "P41": 1,
+        "COIN": 1000,
+        "P43": 1,
+        "P42": 1
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_SUPER_6": {
+      "ID": "OFFER_SUPER_6",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 2200,
+      "PRICE_VND": 220000,
+      "PRICE_LOCAL": 500,
+      "REWARDS": {
+        "COIN": 700
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 7,
+      "GFX": "image.png"
+    },
+    "OFFER_SUPER_7": {
+      "ID": "OFFER_SUPER_7",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 2200,
+      "PRICE_VND": 220000,
+      "PRICE_LOCAL": 500,
+      "REWARDS": {
+        "GOLD": 1500000,
+        "N0": 15,
+        "P47": 6,
+        "N3": 15,
+        "COIN": 2000
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_SUPER_8": {
+      "ID": "OFFER_SUPER_8",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 88,
+      "PRICE_VND": 8800,
+      "PRICE_LOCAL": 20,
+      "REWARDS": {
+        "GOLD": 25000,
+        "M0": 10,
+        "M1": 10,
+        "M2": 10,
+        "M6": 10,
+        "M7": 10,
+        "M8": 10,
+        "COIN": 100
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_SUPER_9": {
+      "ID": "OFFER_SUPER_9",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 88,
+      "PRICE_VND": 8800,
+      "PRICE_LOCAL": 20,
+      "REWARDS": {
+        "B2": 10,
+        "GOLD": 25000,
+        "B3": 10,
+        "B4": 10,
+        "B5": 10,
+        "COIN": 100,
+        "B0": 10,
+        "B1": 10
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_SUPER_10": {
+      "ID": "OFFER_SUPER_10",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 220,
+      "PRICE_VND": 22000,
+      "PRICE_LOCAL": 50,
+      "REWARDS": {
+        "GOLD": 50000,
+        "M0": 10,
+        "M1": 10,
+        "M2": 10,
+        "M6": 10,
+        "M7": 10,
+        "M8": 10,
+        "COIN": 200
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_SUPER_11": {
+      "ID": "OFFER_SUPER_11",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 220,
+      "PRICE_VND": 22000,
+      "PRICE_LOCAL": 50,
+      "REWARDS": {
+        "A1": 20,
+        "GOLD": 50000,
+        "A2": 20,
+        "A3": 20,
+        "COIN": 200,
+        "A0": 20
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_SUPER_12": {
+      "ID": "OFFER_SUPER_12",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 440,
+      "PRICE_VND": 44000,
+      "PRICE_LOCAL": 100,
+      "REWARDS": {
+        "B2": 15,
+        "GOLD": 500000,
+        "B3": 15,
+        "B4": 15,
+        "B5": 15,
+        "B6": 15,
+        "COIN": 500,
+        "B0": 15,
+        "B1": 15
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_SUPER_13": {
+      "ID": "OFFER_SUPER_13",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 880,
+      "PRICE_VND": 88000,
+      "PRICE_LOCAL": 200,
+      "REWARDS": {
+        "A1": 15,
+        "GOLD": 750000,
+        "A2": 15,
+        "A3": 15,
+        "A4": 15,
+        "A5": 15,
+        "COIN": 1000,
+        "A0": 15
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_SUPER_14": {
+      "ID": "OFFER_SUPER_14",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 2200,
+      "PRICE_VND": 220000,
+      "PRICE_LOCAL": 500,
+      "REWARDS": {
+        "GOLD": 1000000,
+        "P47": 3,
+        "P48": 3,
+        "COIN": 2000
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_SUPER_15": {
+      "ID": "OFFER_SUPER_15",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 880,
+      "PRICE_VND": 88000,
+      "PRICE_LOCAL": 200,
+      "REWARDS": {
+        "COIN": 1250
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 2,
+      "GFX": "image.png"
+    },
+    "OFFER_SUPER_16": {
+      "ID": "OFFER_SUPER_16",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 2200,
+      "PRICE_VND": 220000,
+      "PRICE_LOCAL": 500,
+      "REWARDS": {
+        "COIN": 1665
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 3,
+      "GFX": "image.png"
+    },
+    "OFFER_SUPER_17": {
+      "ID": "OFFER_SUPER_17",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 88,
+      "PRICE_VND": 8800,
+      "PRICE_LOCAL": 20,
+      "REWARDS": {
+        "GOLD": 75000,
+        "COIN": 100
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_SUPER_18": {
+      "ID": "OFFER_SUPER_18",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 220,
+      "PRICE_VND": 22000,
+      "PRICE_LOCAL": 50,
+      "REWARDS": {
+        "GOLD": 200000,
+        "COIN": 200
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_SUPER_19": {
+      "ID": "OFFER_SUPER_19",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 440,
+      "PRICE_VND": 44000,
+      "PRICE_LOCAL": 100,
+      "REWARDS": {
+        "GOLD": 625000,
+        "COIN": 500
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_SUPER_20": {
+      "ID": "OFFER_SUPER_20",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 880,
+      "PRICE_VND": 88000,
+      "PRICE_LOCAL": 200,
+      "REWARDS": {
+        "GOLD": 1500000,
+        "COIN": 1000
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_SUPER_21": {
+      "ID": "OFFER_SUPER_21",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 2200,
+      "PRICE_VND": 220000,
+      "PRICE_LOCAL": 500,
+      "REWARDS": {
+        "GOLD": 4000000,
+        "COIN": 2000
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_SUPER_22": {
+      "ID": "OFFER_SUPER_22",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 880,
+      "PRICE_VND": 88000,
+      "PRICE_LOCAL": 200,
+      "REWARDS": {
+        "GOLD": 750000,
+        "N0": 25,
+        "N1": 25,
+        "N2": 25,
+        "N3": 25,
+        "COIN": 1000
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_SUPER_23": {
+      "ID": "OFFER_SUPER_23",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 2200,
+      "PRICE_VND": 220000,
+      "PRICE_LOCAL": 500,
+      "REWARDS": {
+        "GOLD": 1500000,
+        "N0": 40,
+        "N1": 40,
+        "N2": 40,
+        "N3": 40,
+        "COIN": 2000
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_PIG_BANK": {
+      "ID": "OFFER_PIG_BANK",
+      "CHECK_ACTIVE": false,
+      "PRICE_COIN": 220,
+      "PRICE_VND": 22000,
+      "PRICE_LOCAL": 50,
+      "REWARDS": {},
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 0,
+      "REPEAT_DAY": 0
+    },
+    "OFFER_VIP_0": {
+      "ID": "OFFER_VIP_0",
+      "CHECK_ACTIVE": false,
+      "PRICE_COIN": 440,
+      "PRICE_VND": 44000,
+      "PRICE_LOCAL": 100,
+      "REWARDS": {
+        "GOLD": 60000,
+        "COIN": 250
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 0,
+      "REPEAT_DAY": 0
+    },
+    "OFFER_VIP_1": {
+      "ID": "OFFER_VIP_1",
+      "CHECK_ACTIVE": false,
+      "PRICE_COIN": 880,
+      "PRICE_VND": 88000,
+      "PRICE_LOCAL": 200,
+      "REWARDS": {
+        "GOLD": 125000,
+        "COIN": 500
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 0,
+      "REPEAT_DAY": 0
+    },
+    "OFFER_VIP_2": {
+      "ID": "OFFER_VIP_2",
+      "CHECK_ACTIVE": false,
+      "PRICE_COIN": 2200,
+      "PRICE_VND": 220000,
+      "PRICE_LOCAL": 500,
+      "REWARDS": {
+        "GOLD": 250000,
+        "COIN": 1000
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 0,
+      "REPEAT_DAY": 0
+    },
+    "OFFER_VIP_3": {
+      "ID": "OFFER_VIP_3",
+      "CHECK_ACTIVE": false,
+      "PRICE_COIN": 88,
+      "PRICE_VND": 8800,
+      "PRICE_LOCAL": 20,
+      "REWARDS": {
+        "GOLD": 12000,
+        "COIN": 100
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 0,
+      "REPEAT_DAY": 0
+    },
+    "OFFER_VIP_4": {
+      "ID": "OFFER_VIP_4",
+      "CHECK_ACTIVE": false,
+      "PRICE_COIN": 220,
+      "PRICE_VND": 22000,
+      "PRICE_LOCAL": 50,
+      "REWARDS": {
+        "GOLD": 25000,
+        "COIN": 200
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 0,
+      "REPEAT_DAY": 0
+    },
+    "OFFER_VIP_5": {
+      "ID": "OFFER_VIP_5",
+      "CHECK_ACTIVE": false,
+      "PRICE_COIN": 440,
+      "PRICE_VND": 44000,
+      "PRICE_LOCAL": 100,
+      "REWARDS": {
+        "GOLD": 50000,
+        "COIN": 500
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 0,
+      "REPEAT_DAY": 0
+    },
+    "OFFER_RARE_NEWBIE_1": {
+      "ID": "OFFER_RARE_NEWBIE_1",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 88,
+      "PRICE_VND": 8800,
+      "PRICE_LOCAL": 20,
+      "REWARDS": {
+        "GOLD": 100000,
+        "COIN": 150
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_RARE_NEWBIE_2": {
+      "ID": "OFFER_RARE_NEWBIE_2",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 220,
+      "PRICE_VND": 22000,
+      "PRICE_LOCAL": 50,
+      "REWARDS": {
+        "GOLD": 250000,
+        "COIN": 300
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_RARE_NEWBIE_3": {
+      "ID": "OFFER_RARE_NEWBIE_3",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 440,
+      "PRICE_VND": 44000,
+      "PRICE_LOCAL": 100,
+      "REWARDS": {
+        "GOLD": 800000,
+        "COIN": 750
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_RARE_NEWBIE_4": {
+      "ID": "OFFER_RARE_NEWBIE_4",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 880,
+      "PRICE_VND": 88000,
+      "PRICE_LOCAL": 200,
+      "REWARDS": {
+        "GOLD": 2500000,
+        "COIN": 1500
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_RARE_NEWBIE_5": {
+      "ID": "OFFER_RARE_NEWBIE_5",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 2200,
+      "PRICE_VND": 220000,
+      "PRICE_LOCAL": 500,
+      "REWARDS": {
+        "GOLD": 4500000,
+        "COIN": 2500
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_RARE_SPECIAL_1": {
+      "ID": "OFFER_RARE_SPECIAL_1",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 88,
+      "PRICE_VND": 8800,
+      "PRICE_LOCAL": 20,
+      "REWARDS": {
+        "GOLD": 150000,
+        "COIN": 200
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_RARE_SPECIAL_2": {
+      "ID": "OFFER_RARE_SPECIAL_2",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 220,
+      "PRICE_VND": 22000,
+      "PRICE_LOCAL": 50,
+      "REWARDS": {
+        "GOLD": 400000,
+        "COIN": 400
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_RARE_SPECIAL_3": {
+      "ID": "OFFER_RARE_SPECIAL_3",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 440,
+      "PRICE_VND": 44000,
+      "PRICE_LOCAL": 100,
+      "REWARDS": {
+        "GOLD": 1200000,
+        "COIN": 1000
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_RARE_SPECIAL_4": {
+      "ID": "OFFER_RARE_SPECIAL_4",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 880,
+      "PRICE_VND": 88000,
+      "PRICE_LOCAL": 200,
+      "REWARDS": {
+        "GOLD": 3000000,
+        "COIN": 2000
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_RARE_SPECIAL_5": {
+      "ID": "OFFER_RARE_SPECIAL_5",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 2200,
+      "PRICE_VND": 220000,
+      "PRICE_LOCAL": 500,
+      "REWARDS": {
+        "GOLD": 6000000,
+        "COIN": 4000
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_RARE_SUPER_1": {
+      "ID": "OFFER_RARE_SUPER_1",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 88,
+      "PRICE_VND": 8800,
+      "PRICE_LOCAL": 20,
+      "REWARDS": {
+        "GOLD": 150000,
+        "COIN": 300
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_RARE_SUPER_2": {
+      "ID": "OFFER_RARE_SUPER_2",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 220,
+      "PRICE_VND": 22000,
+      "PRICE_LOCAL": 50,
+      "REWARDS": {
+        "GOLD": 400000,
+        "COIN": 600
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_RARE_SUPER_3": {
+      "ID": "OFFER_RARE_SUPER_3",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 440,
+      "PRICE_VND": 44000,
+      "PRICE_LOCAL": 100,
+      "REWARDS": {
+        "GOLD": 1200000,
+        "COIN": 1500
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_RARE_SUPER_4": {
+      "ID": "OFFER_RARE_SUPER_4",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 880,
+      "PRICE_VND": 88000,
+      "PRICE_LOCAL": 200,
+      "REWARDS": {
+        "GOLD": 3000000,
+        "COIN": 3000
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    },
+    "OFFER_RARE_SUPER_5": {
+      "ID": "OFFER_RARE_SUPER_5",
+      "CHECK_ACTIVE": true,
+      "PRICE_COIN": 2200,
+      "PRICE_VND": 220000,
+      "PRICE_LOCAL": 500,
+      "REWARDS": {
+        "GOLD": 6000000,
+        "COIN": 6000
+      },
+      "COOLDOWN_MIN": 0,
+      "COOLDOWN_MAX": 0,
+      "DURATION": 21600,
+      "REPEAT_DAY": 0,
+      "GFX": "image.png"
+    }
+  },
+  "RULE_LOCAL": {
+    "USER_LEVEL": 8,
+    "DAILY_PLAYING_TIME": 500,
+    "ALLOW_COUNTRY": [
+      "Philippines"
+    ],
+    "SKIP_TYPE": [
+      "zacc"
+    ]
+  }
+}

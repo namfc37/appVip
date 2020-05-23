@@ -1,0 +1,1914 @@
+{
+  "tasks": [
+    {
+      "ID": 0,
+      "GROUP": 1,
+      "ACTION": 1,
+      "TARGET_ID": "T1",
+      "TARGETS": [
+        {
+          "POINT": 20,
+          "TROPHY": 1,
+          "REWARDS": {
+            "GOLD": 150,
+            "EXP": 50,
+            "COIN": 1
+          }
+        },
+        {
+          "POINT": 6000,
+          "TROPHY": 2,
+          "REWARDS": {
+            "GOLD": 12000,
+            "EXP": 8000,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 12000,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 30000,
+            "EXP": 20000,
+            "COIN": 3
+          }
+        }
+      ]
+    },
+    {
+      "ID": 1,
+      "GROUP": 1,
+      "ACTION": 1,
+      "TARGET_ID": "T2",
+      "TARGETS": [
+        {
+          "POINT": 595,
+          "TROPHY": 1,
+          "REWARDS": {
+            "GOLD": 1600,
+            "EXP": 1067,
+            "COIN": 1
+          }
+        },
+        {
+          "POINT": 5950,
+          "TROPHY": 2,
+          "REWARDS": {
+            "GOLD": 12800,
+            "EXP": 8534,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 11900,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 32000,
+            "EXP": 21334,
+            "COIN": 3
+          }
+        }
+      ]
+    },
+    {
+      "ID": 2,
+      "GROUP": 1,
+      "ACTION": 1,
+      "TARGET_ID": "T3",
+      "TARGETS": [
+        {
+          "POINT": 590,
+          "TROPHY": 1,
+          "REWARDS": {
+            "GOLD": 1700,
+            "EXP": 1134,
+            "COIN": 1
+          }
+        },
+        {
+          "POINT": 5900,
+          "TROPHY": 2,
+          "REWARDS": {
+            "GOLD": 13600,
+            "EXP": 9067,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 11800,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 34000,
+            "EXP": 22667,
+            "COIN": 3
+          }
+        }
+      ]
+    },
+    {
+      "ID": 3,
+      "GROUP": 1,
+      "ACTION": 1,
+      "TARGET_ID": "T4",
+      "TARGETS": [
+        {
+          "POINT": 585,
+          "TROPHY": 1,
+          "REWARDS": {
+            "GOLD": 1800,
+            "EXP": 1200,
+            "COIN": 1
+          }
+        },
+        {
+          "POINT": 5850,
+          "TROPHY": 2,
+          "REWARDS": {
+            "GOLD": 14400,
+            "EXP": 9600,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 11700,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 36000,
+            "EXP": 24000,
+            "COIN": 3
+          }
+        }
+      ]
+    },
+    {
+      "ID": 4,
+      "GROUP": 1,
+      "ACTION": 1,
+      "TARGET_ID": "T5",
+      "TARGETS": [
+        {
+          "POINT": 580,
+          "TROPHY": 1,
+          "REWARDS": {
+            "GOLD": 1900,
+            "EXP": 1267,
+            "COIN": 1
+          }
+        },
+        {
+          "POINT": 5800,
+          "TROPHY": 2,
+          "REWARDS": {
+            "GOLD": 15200,
+            "EXP": 10134,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 11600,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 38000,
+            "EXP": 25334,
+            "COIN": 3
+          }
+        }
+      ]
+    },
+    {
+      "ID": 5,
+      "GROUP": 1,
+      "ACTION": 1,
+      "TARGET_ID": "T7",
+      "TARGETS": [
+        {
+          "POINT": 575,
+          "TROPHY": 2,
+          "REWARDS": {
+            "GOLD": 2000,
+            "EXP": 1334,
+            "COIN": 1
+          }
+        },
+        {
+          "POINT": 5750,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 16000,
+            "EXP": 10667,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 11500,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 40000,
+            "EXP": 26667,
+            "COIN": 3
+          }
+        }
+      ]
+    },
+    {
+      "ID": 6,
+      "GROUP": 1,
+      "ACTION": 1,
+      "TARGET_ID": "T9",
+      "TARGETS": [
+        {
+          "POINT": 570,
+          "TROPHY": 2,
+          "REWARDS": {
+            "GOLD": 2100,
+            "EXP": 1400,
+            "COIN": 1
+          }
+        },
+        {
+          "POINT": 5700,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 16800,
+            "EXP": 11200,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 11400,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 42000,
+            "EXP": 28000,
+            "COIN": 3
+          }
+        }
+      ]
+    },
+    {
+      "ID": 7,
+      "GROUP": 1,
+      "ACTION": 1,
+      "TARGET_ID": "T13",
+      "TARGETS": [
+        {
+          "POINT": 565,
+          "TROPHY": 2,
+          "REWARDS": {
+            "GOLD": 2200,
+            "EXP": 1467,
+            "COIN": 1
+          }
+        },
+        {
+          "POINT": 5650,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 17600,
+            "EXP": 11734,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 11300,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 44000,
+            "EXP": 29334,
+            "COIN": 3
+          }
+        }
+      ]
+    },
+    {
+      "ID": 8,
+      "GROUP": 1,
+      "ACTION": 1,
+      "TARGET_ID": "T15",
+      "TARGETS": [
+        {
+          "POINT": 560,
+          "TROPHY": 2,
+          "REWARDS": {
+            "GOLD": 2300,
+            "EXP": 1534,
+            "COIN": 1
+          }
+        },
+        {
+          "POINT": 5600,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 18400,
+            "EXP": 12267,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 11200,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 46000,
+            "EXP": 30667,
+            "COIN": 3
+          }
+        }
+      ]
+    },
+    {
+      "ID": 9,
+      "GROUP": 1,
+      "ACTION": 1,
+      "TARGET_ID": "T16",
+      "TARGETS": [
+        {
+          "POINT": 555,
+          "TROPHY": 2,
+          "REWARDS": {
+            "GOLD": 2400,
+            "EXP": 1600,
+            "COIN": 1
+          }
+        },
+        {
+          "POINT": 5550,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 19200,
+            "EXP": 12800,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 11100,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 48000,
+            "EXP": 32000,
+            "COIN": 3
+          }
+        }
+      ]
+    },
+    {
+      "ID": 10,
+      "GROUP": 1,
+      "ACTION": 1,
+      "TARGET_ID": "T17",
+      "TARGETS": [
+        {
+          "POINT": 550,
+          "TROPHY": 2,
+          "REWARDS": {
+            "GOLD": 2500,
+            "EXP": 1667,
+            "COIN": 1
+          }
+        },
+        {
+          "POINT": 5500,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 20000,
+            "EXP": 13334,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 11000,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 50000,
+            "EXP": 33334,
+            "COIN": 3
+          }
+        }
+      ]
+    },
+    {
+      "ID": 11,
+      "GROUP": 1,
+      "ACTION": 1,
+      "TARGET_ID": "T18",
+      "TARGETS": [
+        {
+          "POINT": 545,
+          "TROPHY": 2,
+          "REWARDS": {
+            "GOLD": 2600,
+            "EXP": 1734,
+            "COIN": 1
+          }
+        },
+        {
+          "POINT": 5450,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 20800,
+            "EXP": 13867,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 10900,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 52000,
+            "EXP": 34667,
+            "COIN": 3
+          }
+        }
+      ]
+    },
+    {
+      "ID": 12,
+      "GROUP": 1,
+      "ACTION": 1,
+      "TARGET_ID": "T19",
+      "TARGETS": [
+        {
+          "POINT": 540,
+          "TROPHY": 2,
+          "REWARDS": {
+            "GOLD": 2700,
+            "EXP": 1800,
+            "COIN": 1
+          }
+        },
+        {
+          "POINT": 5400,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 21600,
+            "EXP": 14400,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 10800,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 54000,
+            "EXP": 36000,
+            "COIN": 3
+          }
+        }
+      ]
+    },
+    {
+      "ID": 13,
+      "GROUP": 1,
+      "ACTION": 1,
+      "TARGET_ID": "T20",
+      "TARGETS": [
+        {
+          "POINT": 535,
+          "TROPHY": 2,
+          "REWARDS": {
+            "GOLD": 2800,
+            "EXP": 1867,
+            "COIN": 1
+          }
+        },
+        {
+          "POINT": 5350,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 22400,
+            "EXP": 14934,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 10700,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 56000,
+            "EXP": 37334,
+            "COIN": 3
+          }
+        }
+      ]
+    },
+    {
+      "ID": 14,
+      "GROUP": 1,
+      "ACTION": 2,
+      "TARGET_ID": "MA0",
+      "TARGETS": [
+        {
+          "POINT": 500,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 3000,
+            "EXP": 2000,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 5000,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 24000,
+            "EXP": 16000,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 10000,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 60000,
+            "EXP": 40000,
+            "COIN": 3
+          }
+        }
+      ]
+    },
+    {
+      "ID": 15,
+      "GROUP": 1,
+      "ACTION": 2,
+      "TARGET_ID": "MA1",
+      "TARGETS": [
+        {
+          "POINT": 495,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 3500,
+            "EXP": 2334,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 4950,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 28000,
+            "EXP": 18667,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 9900,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 70000,
+            "EXP": 46667,
+            "COIN": 3
+          }
+        }
+      ]
+    },
+    {
+      "ID": 16,
+      "GROUP": 1,
+      "ACTION": 2,
+      "TARGET_ID": "MA2",
+      "TARGETS": [
+        {
+          "POINT": 490,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 4000,
+            "EXP": 2667,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 4900,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 32000,
+            "EXP": 21334,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 9800,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 80000,
+            "EXP": 53334,
+            "COIN": 3
+          }
+        }
+      ]
+    },
+    {
+      "ID": 17,
+      "GROUP": 1,
+      "ACTION": 2,
+      "TARGET_ID": "MA3",
+      "TARGETS": [
+        {
+          "POINT": 485,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 4500,
+            "EXP": 3000,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 4850,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 36000,
+            "EXP": 24000,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 9700,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 90000,
+            "EXP": 60000,
+            "COIN": 3
+          }
+        }
+      ]
+    },
+    {
+      "ID": 18,
+      "GROUP": 1,
+      "ACTION": 2,
+      "TARGET_ID": "MA4",
+      "TARGETS": [
+        {
+          "POINT": 480,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 5000,
+            "EXP": 3334,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 4800,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 40000,
+            "EXP": 26667,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 9600,
+          "TROPHY": 5,
+          "REWARDS": {
+            "GOLD": 100000,
+            "EXP": 66667,
+            "COIN": 3
+          }
+        }
+      ]
+    },
+    {
+      "ID": 19,
+      "GROUP": 1,
+      "ACTION": 2,
+      "TARGET_ID": "MA5",
+      "TARGETS": [
+        {
+          "POINT": 475,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 5500,
+            "EXP": 3667,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 4750,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 44000,
+            "EXP": 29334,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 9500,
+          "TROPHY": 5,
+          "REWARDS": {
+            "GOLD": 110000,
+            "EXP": 73334,
+            "COIN": 3
+          }
+        }
+      ]
+    },
+    {
+      "ID": 20,
+      "GROUP": 1,
+      "ACTION": 2,
+      "TARGET_ID": "MA6",
+      "TARGETS": [
+        {
+          "POINT": 470,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 6000,
+            "EXP": 4000,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 4700,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 48000,
+            "EXP": 32000,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 9400,
+          "TROPHY": 5,
+          "REWARDS": {
+            "GOLD": 120000,
+            "EXP": 80000,
+            "COIN": 3
+          }
+        }
+      ]
+    },
+    {
+      "ID": 21,
+      "GROUP": 1,
+      "ACTION": 2,
+      "TARGET_ID": "MA7",
+      "TARGETS": [
+        {
+          "POINT": 465,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 6500,
+            "EXP": 4334,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 4650,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 52000,
+            "EXP": 34667,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 9300,
+          "TROPHY": 5,
+          "REWARDS": {
+            "GOLD": 130000,
+            "EXP": 86667,
+            "COIN": 3
+          }
+        }
+      ]
+    },
+    {
+      "ID": 22,
+      "GROUP": 1,
+      "ACTION": 2,
+      "TARGET_ID": "MA8",
+      "TARGETS": [
+        {
+          "POINT": 460,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 7000,
+            "EXP": 4667,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 4600,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 56000,
+            "EXP": 37334,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 9200,
+          "TROPHY": 5,
+          "REWARDS": {
+            "GOLD": 140000,
+            "EXP": 93334,
+            "COIN": 3
+          }
+        }
+      ]
+    },
+    {
+      "ID": 23,
+      "GROUP": 1,
+      "ACTION": 2,
+      "TARGET_ID": "MA9",
+      "TARGETS": [
+        {
+          "POINT": 455,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 7500,
+            "EXP": 5000,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 4550,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 60000,
+            "EXP": 40000,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 9100,
+          "TROPHY": 5,
+          "REWARDS": {
+            "GOLD": 150000,
+            "EXP": 100000,
+            "COIN": 3
+          }
+        }
+      ]
+    },
+    {
+      "ID": 24,
+      "GROUP": 2,
+      "ACTION": 3,
+      "TARGETS": [
+        {
+          "POINT": 1000,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 5000,
+            "EXP": 3334,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 10000,
+          "TROPHY": 5,
+          "REWARDS": {
+            "GOLD": 12500,
+            "EXP": 8334,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 20000,
+          "TROPHY": 6,
+          "REWARDS": {
+            "GOLD": 100000,
+            "EXP": 66667,
+            "COIN": 3
+          }
+        }
+      ]
+    },
+    {
+      "ID": 25,
+      "GROUP": 2,
+      "ACTION": 11,
+      "TARGETS": [
+        {
+          "POINT": 150,
+          "TROPHY": 5,
+          "REWARDS": {
+            "GOLD": 10000,
+            "EXP": 6667,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 1500,
+          "TROPHY": 6,
+          "REWARDS": {
+            "GOLD": 25000,
+            "EXP": 16667,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 3000,
+          "TROPHY": 7,
+          "REWARDS": {
+            "GOLD": 200000,
+            "EXP": 133334,
+            "COIN": 3
+          }
+        }
+      ]
+    },
+    {
+      "ID": 26,
+      "GROUP": 2,
+      "ACTION": 4,
+      "TARGETS": [
+        {
+          "POINT": 900000,
+          "TROPHY": 2,
+          "REWARDS": {
+            "GOLD": 1000,
+            "EXP": 667,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 9000000,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 2500,
+            "EXP": 1667,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 18000000,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 20000,
+            "EXP": 13334,
+            "COIN": 3
+          }
+        }
+      ]
+    },
+    {
+      "ID": 27,
+      "GROUP": 3,
+      "ACTION": 8,
+      "TARGETS": [
+        {
+          "POINT": 40,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 5000,
+            "EXP": 3334,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 160,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 12500,
+            "EXP": 8334,
+            "COIN": 3
+          }
+        },
+        {
+          "POINT": 400,
+          "TROPHY": 5,
+          "REWARDS": {
+            "GOLD": 100000,
+            "EXP": 66667,
+            "COIN": 4
+          }
+        }
+      ]
+    },
+    {
+      "ID": 28,
+      "GROUP": 3,
+      "ACTION": 7,
+      "TARGETS": [
+        {
+          "POINT": 80,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 6000,
+            "EXP": 4000,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 320,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 15000,
+            "EXP": 10000,
+            "COIN": 3
+          }
+        },
+        {
+          "POINT": 800,
+          "TROPHY": 5,
+          "REWARDS": {
+            "GOLD": 120000,
+            "EXP": 80000,
+            "COIN": 4
+          }
+        }
+      ]
+    },
+    {
+      "ID": 29,
+      "GROUP": 3,
+      "ACTION": 9,
+      "TARGET_ID": "CP5",
+      "TARGETS": [
+        {
+          "POINT": 4,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 5000,
+            "EXP": 3334,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 5,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 12500,
+            "EXP": 8334,
+            "COIN": 3
+          }
+        },
+        {
+          "POINT": 6,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 50000,
+            "EXP": 33334,
+            "COIN": 4
+          }
+        }
+      ]
+    },
+    {
+      "ID": 30,
+      "GROUP": 3,
+      "ACTION": 9,
+      "TARGET_ID": "CP6",
+      "TARGETS": [
+        {
+          "POINT": 4,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 5500,
+            "EXP": 3667,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 5,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 13750,
+            "EXP": 9167,
+            "COIN": 3
+          }
+        },
+        {
+          "POINT": 6,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 55000,
+            "EXP": 36667,
+            "COIN": 4
+          }
+        }
+      ]
+    },
+    {
+      "ID": 31,
+      "GROUP": 3,
+      "ACTION": 9,
+      "TARGET_ID": "CP7",
+      "TARGETS": [
+        {
+          "POINT": 3,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 6500,
+            "EXP": 4334,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 5,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 16250,
+            "EXP": 10834,
+            "COIN": 3
+          }
+        },
+        {
+          "POINT": 6,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 65000,
+            "EXP": 43334,
+            "COIN": 4
+          }
+        }
+      ]
+    },
+    {
+      "ID": 32,
+      "GROUP": 3,
+      "ACTION": 9,
+      "TARGET_ID": "CP8",
+      "TARGETS": [
+        {
+          "POINT": 3,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 7500,
+            "EXP": 5000,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 5,
+          "TROPHY": 5,
+          "REWARDS": {
+            "GOLD": 18750,
+            "EXP": 12500,
+            "COIN": 3
+          }
+        },
+        {
+          "POINT": 6,
+          "TROPHY": 6,
+          "REWARDS": {
+            "GOLD": 112500,
+            "EXP": 75000,
+            "COIN": 4
+          }
+        }
+      ]
+    },
+    {
+      "ID": 33,
+      "GROUP": 3,
+      "ACTION": 9,
+      "TARGET_ID": "CP9",
+      "TARGETS": [
+        {
+          "POINT": 3,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 8500,
+            "EXP": 5667,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 5,
+          "TROPHY": 5,
+          "REWARDS": {
+            "GOLD": 21250,
+            "EXP": 14167,
+            "COIN": 3
+          }
+        },
+        {
+          "POINT": 6,
+          "TROPHY": 6,
+          "REWARDS": {
+            "GOLD": 127500,
+            "EXP": 85000,
+            "COIN": 4
+          }
+        }
+      ]
+    },
+    {
+      "ID": 34,
+      "GROUP": 3,
+      "ACTION": 9,
+      "TARGET_ID": "CP10",
+      "TARGETS": [
+        {
+          "POINT": 3,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 9500,
+            "EXP": 6334,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 5,
+          "TROPHY": 5,
+          "REWARDS": {
+            "GOLD": 23750,
+            "EXP": 15834,
+            "COIN": 3
+          }
+        },
+        {
+          "POINT": 6,
+          "TROPHY": 6,
+          "REWARDS": {
+            "GOLD": 142500,
+            "EXP": 95000,
+            "COIN": 4
+          }
+        }
+      ]
+    },
+    {
+      "ID": 35,
+      "GROUP": 3,
+      "ACTION": 9,
+      "TARGET_ID": "CP11",
+      "TARGETS": [
+        {
+          "POINT": 2,
+          "TROPHY": 5,
+          "REWARDS": {
+            "GOLD": 14500,
+            "EXP": 9667,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 4,
+          "TROPHY": 6,
+          "REWARDS": {
+            "GOLD": 36250,
+            "EXP": 24167,
+            "COIN": 3
+          }
+        },
+        {
+          "POINT": 6,
+          "TROPHY": 7,
+          "REWARDS": {
+            "GOLD": 290000,
+            "EXP": 193334,
+            "COIN": 4
+          }
+        }
+      ]
+    },
+    {
+      "ID": 36,
+      "GROUP": 3,
+      "ACTION": 9,
+      "TARGET_ID": "CP12",
+      "TARGETS": [
+        {
+          "POINT": 2,
+          "TROPHY": 5,
+          "REWARDS": {
+            "GOLD": 24500,
+            "EXP": 16334,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 4,
+          "TROPHY": 6,
+          "REWARDS": {
+            "GOLD": 61250,
+            "EXP": 40834,
+            "COIN": 3
+          }
+        },
+        {
+          "POINT": 6,
+          "TROPHY": 7,
+          "REWARDS": {
+            "GOLD": 490000,
+            "EXP": 326667,
+            "COIN": 4
+          }
+        }
+      ]
+    },
+    {
+      "ID": 37,
+      "GROUP": 3,
+      "ACTION": 9,
+      "TARGET_ID": "CP13",
+      "TARGETS": [
+        {
+          "POINT": 2,
+          "TROPHY": 6,
+          "REWARDS": {
+            "GOLD": 34500,
+            "EXP": 23000,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 4,
+          "TROPHY": 7,
+          "REWARDS": {
+            "GOLD": 86250,
+            "EXP": 57500,
+            "COIN": 3
+          }
+        },
+        {
+          "POINT": 6,
+          "TROPHY": 8,
+          "REWARDS": {
+            "GOLD": 690000,
+            "EXP": 460000,
+            "COIN": 4
+          }
+        }
+      ]
+    },
+    {
+      "ID": 38,
+      "GROUP": 3,
+      "ACTION": 9,
+      "TARGET_ID": "CP14",
+      "TARGETS": [
+        {
+          "POINT": 2,
+          "TROPHY": 6,
+          "REWARDS": {
+            "GOLD": 44500,
+            "EXP": 29667,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 4,
+          "TROPHY": 7,
+          "REWARDS": {
+            "GOLD": 111250,
+            "EXP": 74167,
+            "COIN": 3
+          }
+        },
+        {
+          "POINT": 6,
+          "TROPHY": 8,
+          "REWARDS": {
+            "GOLD": 890000,
+            "EXP": 593334,
+            "COIN": 4
+          }
+        }
+      ]
+    },
+    {
+      "ID": 39,
+      "GROUP": 3,
+      "ACTION": 20,
+      "TARGETS": [
+        {
+          "POINT": 3,
+          "TROPHY": 6,
+          "REWARDS": {
+            "GOLD": 12000,
+            "EXP": 8000,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 12,
+          "TROPHY": 7,
+          "REWARDS": {
+            "GOLD": 30000,
+            "EXP": 20000,
+            "COIN": 3
+          }
+        },
+        {
+          "POINT": 30,
+          "TROPHY": 8,
+          "REWARDS": {
+            "GOLD": 240000,
+            "EXP": 160000,
+            "COIN": 4
+          }
+        }
+      ]
+    },
+    {
+      "ID": 40,
+      "GROUP": 4,
+      "ACTION": 5,
+      "TARGETS": [
+        {
+          "POINT": 500,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 4000,
+            "EXP": 2667,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 5000,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 10000,
+            "EXP": 6667,
+            "COIN": 3
+          }
+        },
+        {
+          "POINT": 10000,
+          "TROPHY": 5,
+          "REWARDS": {
+            "GOLD": 80000,
+            "EXP": 53334,
+            "COIN": 4
+          }
+        }
+      ]
+    },
+    {
+      "ID": 41,
+      "GROUP": 4,
+      "ACTION": 10,
+      "TARGETS": [
+        {
+          "POINT": 25,
+          "TROPHY": 2,
+          "REWARDS": {
+            "GOLD": 1200,
+            "EXP": 800,
+            "COIN": 1
+          }
+        },
+        {
+          "POINT": 250,
+          "TROPHY": 2,
+          "REWARDS": {
+            "GOLD": 3000,
+            "EXP": 2000,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 500,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 24000,
+            "EXP": 16000,
+            "COIN": 3
+          }
+        }
+      ]
+    },
+    {
+      "ID": 42,
+      "GROUP": 4,
+      "ACTION": 14,
+      "TARGETS": [
+        {
+          "POINT": 50,
+          "TROPHY": 2,
+          "REWARDS": {
+            "GOLD": 1200,
+            "EXP": 800,
+            "COIN": 1
+          }
+        },
+        {
+          "POINT": 500,
+          "TROPHY": 2,
+          "REWARDS": {
+            "GOLD": 3000,
+            "EXP": 2000,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 1000,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 24000,
+            "EXP": 16000,
+            "COIN": 3
+          }
+        }
+      ]
+    },
+    {
+      "ID": 43,
+      "GROUP": 4,
+      "ACTION": 15,
+      "TARGETS": [
+        {
+          "POINT": 500,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 2500,
+            "EXP": 1667,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 5000,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 6250,
+            "EXP": 4167,
+            "COIN": 3
+          }
+        },
+        {
+          "POINT": 10000,
+          "TROPHY": 5,
+          "REWARDS": {
+            "GOLD": 50000,
+            "EXP": 33334,
+            "COIN": 4
+          }
+        }
+      ]
+    },
+    {
+      "ID": 44,
+      "GROUP": 4,
+      "ACTION": 16,
+      "TARGETS": [
+        {
+          "POINT": 500,
+          "TROPHY": 1,
+          "REWARDS": {
+            "GOLD": 1200,
+            "EXP": 800,
+            "COIN": 1
+          }
+        },
+        {
+          "POINT": 5000,
+          "TROPHY": 2,
+          "REWARDS": {
+            "GOLD": 3000,
+            "EXP": 2000,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 10000,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 24000,
+            "EXP": 16000,
+            "COIN": 3
+          }
+        }
+      ]
+    },
+    {
+      "ID": 45,
+      "GROUP": 4,
+      "ACTION": 17,
+      "TARGETS": [
+        {
+          "POINT": 1000,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 3500,
+            "EXP": 2334,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 10000,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 8750,
+            "EXP": 5834,
+            "COIN": 3
+          }
+        },
+        {
+          "POINT": 20000,
+          "TROPHY": 5,
+          "REWARDS": {
+            "GOLD": 70000,
+            "EXP": 46667,
+            "COIN": 4
+          }
+        }
+      ]
+    },
+    {
+      "ID": 46,
+      "GROUP": 5,
+      "ACTION": 6,
+      "TARGETS": [
+        {
+          "POINT": 600,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 4000,
+            "EXP": 2667,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 6000,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 10000,
+            "EXP": 6667,
+            "COIN": 3
+          }
+        },
+        {
+          "POINT": 12000,
+          "TROPHY": 5,
+          "REWARDS": {
+            "GOLD": 80000,
+            "EXP": 53334,
+            "COIN": 4
+          }
+        }
+      ]
+    },
+    {
+      "ID": 47,
+      "GROUP": 5,
+      "ACTION": 12,
+      "TARGETS": [
+        {
+          "POINT": 125,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 6000,
+            "EXP": 4000,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 1250,
+          "TROPHY": 5,
+          "REWARDS": {
+            "GOLD": 15000,
+            "EXP": 10000,
+            "COIN": 3
+          }
+        },
+        {
+          "POINT": 2500,
+          "TROPHY": 6,
+          "REWARDS": {
+            "GOLD": 120000,
+            "EXP": 80000,
+            "COIN": 4
+          }
+        }
+      ]
+    },
+    {
+      "ID": 48,
+      "GROUP": 5,
+      "ACTION": 13,
+      "TARGETS": [
+        {
+          "POINT": 200,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 6000,
+            "EXP": 4000,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 2000,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 15000,
+            "EXP": 10000,
+            "COIN": 3
+          }
+        },
+        {
+          "POINT": 4000,
+          "TROPHY": 5,
+          "REWARDS": {
+            "GOLD": 120000,
+            "EXP": 80000,
+            "COIN": 4
+          }
+        }
+      ]
+    },
+    {
+      "ID": 49,
+      "GROUP": 5,
+      "ACTION": 18,
+      "TARGETS": [
+        {
+          "POINT": 150,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 5000,
+            "EXP": 3334,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 1500,
+          "TROPHY": 5,
+          "REWARDS": {
+            "GOLD": 12500,
+            "EXP": 8334,
+            "COIN": 3
+          }
+        },
+        {
+          "POINT": 3000,
+          "TROPHY": 6,
+          "REWARDS": {
+            "GOLD": 100000,
+            "EXP": 66667,
+            "COIN": 4
+          }
+        }
+      ]
+    },
+    {
+      "ID": 50,
+      "GROUP": 5,
+      "ACTION": 19,
+      "TARGETS": [
+        {
+          "POINT": 400,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 7000,
+            "EXP": 4667,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 4000,
+          "TROPHY": 5,
+          "REWARDS": {
+            "GOLD": 17500,
+            "EXP": 11667,
+            "COIN": 3
+          }
+        },
+        {
+          "POINT": 8000,
+          "TROPHY": 6,
+          "REWARDS": {
+            "GOLD": 140000,
+            "EXP": 93334,
+            "COIN": 4
+          }
+        }
+      ]
+    },
+    {
+      "ID": 51,
+      "GROUP": 5,
+      "ACTION": 21,
+      "TARGETS": [
+        {
+          "POINT": 325,
+          "TROPHY": 3,
+          "REWARDS": {
+            "GOLD": 5000,
+            "EXP": 3334,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 3250,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 12500,
+            "EXP": 8334,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 6500,
+          "TROPHY": 5,
+          "REWARDS": {
+            "GOLD": 100000,
+            "EXP": 66667,
+            "COIN": 3
+          }
+        }
+      ]
+    },
+    {
+      "ID": 52,
+      "GROUP": 5,
+      "ACTION": 22,
+      "TARGETS": [
+        {
+          "POINT": 9,
+          "TROPHY": 4,
+          "REWARDS": {
+            "GOLD": 5500,
+            "EXP": 3667,
+            "COIN": 2
+          }
+        },
+        {
+          "POINT": 90,
+          "TROPHY": 5,
+          "REWARDS": {
+            "GOLD": 13750,
+            "EXP": 9167,
+            "COIN": 3
+          }
+        },
+        {
+          "POINT": 180,
+          "TROPHY": 6,
+          "REWARDS": {
+            "GOLD": 110000,
+            "EXP": 73334,
+            "COIN": 4
+          }
+        }
+      ]
+    }
+  ],
+  "trophyRewards": {
+    "30": {
+      "P50": 1,
+      "COIN": 10
+    },
+    "60": {
+      "GOLD": 20000,
+      "P51": 1
+    },
+    "120": {
+      "P52": 1,
+      "EXP": 8000
+    },
+    "180": {
+      "D36": 1,
+      "COIN": 20,
+      "P53": 1
+    },
+    "240": {
+      "GOLD": 50000,
+      "D37": 1,
+      "P54": 1
+    },
+    "300": {
+      "P55": 1,
+      "D38": 1,
+      "EXP": 10000
+    },
+    "360": {
+      "P56": 1,
+      "D39": 1,
+      "COIN": 30
+    },
+    "420": {
+      "D40": 1,
+      "GOLD": 300000,
+      "P57": 1
+    },
+    "480": {
+      "D41": 1,
+      "P58": 1,
+      "EXP": 20000
+    },
+    "540": {
+      "D42": 1,
+      "P59": 1,
+      "COIN": 50
+    },
+    "600": {
+      "GOLD": 700000,
+      "D43": 1,
+      "P60": 1
+    },
+    "660": {
+      "D44": 1,
+      "P61": 1,
+      "EXP": 50000
+    },
+    "720": {
+      "D45": 1,
+      "P62": 1,
+      "COIN": 100
+    },
+    "780": {
+      "GOLD": 1000000,
+      "D46": 1,
+      "P63": 1
+    },
+    "840": {
+      "D47": 1,
+      "EXP": 100000,
+      "P64": 1
+    }
+  }
+}

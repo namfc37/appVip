@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>C:\code\trunk\client\raw\eventTemplate3Dummy</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>C:\code\trunk\client\raw\eventTemplate3Dummy\Resources</Resources>
+  <Name>eventTemplate3Dummy</Name>
+  <JsonFileName>eventTemplate3Dummy.json</JsonFileName>
+  <JsonFolder>C:\code\trunk\client\raw\eventTemplate3Dummy\Json</JsonFolder>
+  <JsonList>
+    <string>eventTemplate3Dummy.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>480</Width>
+    <Height>320</Height>
+  </CanvasSize>
+  <filePath>C:\code\trunk\client\raw\eventTemplate3Dummy\eventTemplate3Dummy.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList />
+  <imagePngList />
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>eventTemplate3Dummy.json</CurrentUIJson>
+</UIProject>

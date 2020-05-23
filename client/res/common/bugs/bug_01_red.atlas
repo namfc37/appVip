@@ -1,0 +1,76 @@
+
+bug_01_red.png
+size: 78,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bo_do_001
+  rotate: false
+  xy: 45, 63
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+bo_do_002
+  rotate: false
+  xy: 2, 2
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+bo_do_003
+  rotate: false
+  xy: 64, 63
+  size: 7, 3
+  orig: 7, 3
+  offset: 0, 0
+  index: -1
+bo_do_004
+  rotate: false
+  xy: 64, 68
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+bo_do_005
+  rotate: false
+  xy: 2, 36
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+bo_do_006
+  rotate: true
+  xy: 34, 26
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+bo_do_007
+  rotate: false
+  xy: 2, 10
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+bo_do_008
+  rotate: false
+  xy: 34, 3
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+bo_do_009
+  rotate: true
+  xy: 53, 35
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+bo_do_010
+  rotate: false
+  xy: 2, 62
+  size: 41, 14
+  orig: 41, 14
+  offset: 0, 0
+  index: -1

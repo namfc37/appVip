@@ -1,0 +1,188 @@
+
+npc_blacksmith.png
+size: 499,499
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 11
+  rotate: false
+  xy: 2, 315
+  size: 176, 182
+  orig: 176, 182
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: true
+  xy: 2, 5
+  size: 124, 190
+  orig: 124, 190
+  offset: 0, 0
+  index: -1
+Layer 128 copy
+  rotate: true
+  xy: 194, 68
+  size: 110, 86
+  orig: 110, 86
+  offset: 0, 0
+  index: -1
+Layer 13
+  rotate: true
+  xy: 2, 131
+  size: 182, 162
+  orig: 182, 162
+  offset: 0, 0
+  index: -1
+Layer 134
+  rotate: true
+  xy: 166, 143
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+Layer 140
+  rotate: true
+  xy: 440, 276
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+Layer 143
+  rotate: true
+  xy: 282, 64
+  size: 81, 70
+  orig: 81, 70
+  offset: 0, 0
+  index: -1
+Layer 143 copy
+  rotate: false
+  xy: 166, 180
+  size: 117, 102
+  orig: 117, 102
+  offset: 0, 0
+  index: -1
+Layer 15
+  rotate: false
+  xy: 194, 25
+  size: 83, 41
+  orig: 83, 41
+  offset: 0, 0
+  index: -1
+Layer 17
+  rotate: true
+  xy: 180, 284
+  size: 86, 147
+  orig: 89, 147
+  offset: 3, 0
+  index: -1
+Layer 18
+  rotate: false
+  xy: 386, 33
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+Layer 19
+  rotate: true
+  xy: 440, 322
+  size: 51, 57
+  orig: 56, 58
+  offset: 0, 1
+  index: -1
+Layer 20
+  rotate: true
+  xy: 386, 2
+  size: 29, 64
+  orig: 29, 64
+  offset: 0, 0
+  index: -1
+Layer 21
+  rotate: true
+  xy: 427, 118
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+Layer 22
+  rotate: true
+  xy: 430, 209
+  size: 26, 58
+  orig: 26, 58
+  offset: 0, 0
+  index: -1
+Layer 23
+  rotate: true
+  xy: 452, 180
+  size: 27, 45
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+Layer 24
+  rotate: true
+  xy: 285, 147
+  size: 135, 49
+  orig: 135, 49
+  offset: 0, 0
+  index: -1
+Layer 25
+  rotate: false
+  xy: 329, 286
+  size: 109, 84
+  orig: 109, 84
+  offset: 0, 0
+  index: -1
+Layer 26
+  rotate: true
+  xy: 279, 18
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+Layer 27
+  rotate: false
+  xy: 180, 372
+  size: 203, 125
+  orig: 203, 125
+  offset: 0, 0
+  index: -1
+Layer 27 copy
+  rotate: true
+  xy: 386, 91
+  size: 63, 39
+  orig: 63, 39
+  offset: 0, 0
+  index: -1
+Layer 32
+  rotate: false
+  xy: 430, 237
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+Layer 40
+  rotate: false
+  xy: 336, 156
+  size: 90, 44
+  orig: 90, 44
+  offset: 0, 0
+  index: -1
+bask
+  rotate: true
+  xy: 385, 375
+  size: 122, 110
+  orig: 122, 110
+  offset: 0, 0
+  index: -1
+kid_050
+  rotate: true
+  xy: 354, 8
+  size: 146, 30
+  orig: 146, 30
+  offset: 0, 0
+  index: -1
+pot_raw
+  rotate: false
+  xy: 336, 202
+  size: 92, 82
+  orig: 117, 94
+  offset: 13, 0
+  index: -1

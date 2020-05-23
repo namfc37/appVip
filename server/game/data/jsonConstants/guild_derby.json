@@ -1,0 +1,4877 @@
+{
+  "LEAGUES": {
+    "L1": {
+      "ID": "L1",
+      "NAME": "TXT_GUILD_LEAGUE_L1_NAME",
+      "ORDER": 1,
+      "MEMBER_TASK_LIMIT": 9,
+      "REWARDS_MILESTONE": 15,
+      "REWARDS_RANK": {
+        "1": {
+          "P48": 1
+        },
+        "2": {
+          "P47": 1
+        },
+        "3": {
+          "P41": 1
+        },
+        "5": {
+          "GOLD": 50000
+        }
+      }
+    },
+    "L2": {
+      "ID": "L2",
+      "NAME": "TXT_GUILD_LEAGUE_L2_NAME",
+      "ORDER": 2,
+      "MEMBER_TASK_LIMIT": 11,
+      "REWARDS_MILESTONE": 17,
+      "REWARDS_RANK": {
+        "1": {
+          "P49": 1
+        },
+        "2": {
+          "P48": 1
+        },
+        "3": {
+          "P47": 1
+        },
+        "5": {
+          "GOLD": 70000
+        }
+      }
+    },
+    "L3": {
+      "ID": "L3",
+      "NAME": "TXT_GUILD_LEAGUE_L3_NAME",
+      "ORDER": 3,
+      "MEMBER_TASK_LIMIT": 13,
+      "REWARDS_MILESTONE": 20,
+      "REWARDS_RANK": {
+        "1": {
+          "P50": 1
+        },
+        "2": {
+          "P49": 1
+        },
+        "3": {
+          "P48": 1
+        },
+        "5": {
+          "GOLD": 90000
+        }
+      }
+    },
+    "L4": {
+      "ID": "L4",
+      "NAME": "TXT_GUILD_LEAGUE_L4_NAME",
+      "ORDER": 4,
+      "MEMBER_TASK_LIMIT": 15,
+      "REWARDS_MILESTONE": 23,
+      "REWARDS_RANK": {
+        "1": {
+          "P53": 1
+        },
+        "2": {
+          "P50": 1
+        },
+        "3": {
+          "P49": 1
+        },
+        "5": {
+          "GOLD": 120000
+        }
+      }
+    },
+    "L5": {
+      "ID": "L5",
+      "NAME": "TXT_GUILD_LEAGUE_L5_NAME",
+      "ORDER": 5,
+      "MEMBER_TASK_LIMIT": 18,
+      "REWARDS_MILESTONE": 25,
+      "REWARDS_RANK": {
+        "1": {
+          "P54": 1
+        },
+        "2": {
+          "P53": 1
+        },
+        "3": {
+          "P50": 1
+        },
+        "5": {
+          "GOLD": 150000
+        }
+      }
+    }
+  },
+  "MEMBER_BONUS": {
+    "10": 0,
+    "11": 10,
+    "12": 20,
+    "13": 30,
+    "14": 40,
+    "15": 50,
+    "16": 60,
+    "17": 70,
+    "18": 80,
+    "19": 90,
+    "20": 100
+  },
+  "RANK_BONUS": {
+    "1": 50,
+    "2": 40,
+    "3": 30,
+    "4": 25,
+    "5": 20,
+    "6": 15,
+    "7": 10,
+    "8": 6,
+    "9": 3,
+    "15": 0
+  },
+  "MILESTONE": {
+    "500000": {
+      "ID": 0,
+      "POINT": 500000,
+      "REWARDS": [
+        {
+          "ID": 1,
+          "RATE": 10,
+          "REWARDS": {
+            "M1": 6
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 2,
+          "RATE": 15,
+          "REWARDS": {
+            "M7": 6
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 3,
+          "RATE": 15,
+          "REWARDS": {
+            "M4": 6
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 4,
+          "RATE": 15,
+          "REWARDS": {
+            "GOLD": 12000
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 5,
+          "RATE": 15,
+          "REWARDS": {
+            "EXP": 12000
+          },
+          "DEFAULT_RATE": 0
+        }
+      ]
+    },
+    "1000000": {
+      "ID": 1,
+      "POINT": 1000000,
+      "REWARDS": [
+        {
+          "ID": 6,
+          "RATE": 15,
+          "REWARDS": {
+            "M3": 7
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 7,
+          "RATE": 10,
+          "REWARDS": {
+            "M0": 7
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 8,
+          "RATE": 15,
+          "REWARDS": {
+            "M6": 7
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 9,
+          "RATE": 15,
+          "REWARDS": {
+            "M16": 1
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 10,
+          "RATE": 15,
+          "REWARDS": {
+            "GOLD": 15000
+          },
+          "DEFAULT_RATE": 100
+        }
+      ]
+    },
+    "1500000": {
+      "ID": 2,
+      "POINT": 1500000,
+      "REWARDS": [
+        {
+          "ID": 11,
+          "RATE": 10,
+          "REWARDS": {
+            "M12": 8
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 12,
+          "RATE": 10,
+          "REWARDS": {
+            "M13": 8
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 13,
+          "RATE": 10,
+          "REWARDS": {
+            "M17": 1
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 14,
+          "RATE": 15,
+          "REWARDS": {
+            "GOLD": 20000
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 15,
+          "RATE": 15,
+          "REWARDS": {
+            "EXP": 20000
+          },
+          "DEFAULT_RATE": 100
+        }
+      ]
+    },
+    "1800000": {
+      "ID": 3,
+      "POINT": 1800000,
+      "REWARDS": [
+        {
+          "ID": 16,
+          "RATE": 15,
+          "REWARDS": {
+            "M5": 9
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 17,
+          "RATE": 15,
+          "REWARDS": {
+            "M8": 9
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 18,
+          "RATE": 10,
+          "REWARDS": {
+            "M2": 9
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 19,
+          "RATE": 10,
+          "REWARDS": {
+            "SK1": 1
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 20,
+          "RATE": 10,
+          "REWARDS": {
+            "M18": 1
+          },
+          "DEFAULT_RATE": 0
+        }
+      ]
+    },
+    "2000000": {
+      "ID": 4,
+      "POINT": 2000000,
+      "REWARDS": [
+        {
+          "ID": 21,
+          "RATE": 15,
+          "REWARDS": {
+            "N0": 10
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 22,
+          "RATE": 10,
+          "REWARDS": {
+            "M19": 1
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 23,
+          "RATE": 10,
+          "REWARDS": {
+            "SK2": 1
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 24,
+          "RATE": 15,
+          "REWARDS": {
+            "GOLD": 25000
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 25,
+          "RATE": 15,
+          "REWARDS": {
+            "EXP": 25000
+          },
+          "DEFAULT_RATE": 100
+        }
+      ]
+    },
+    "2400000": {
+      "ID": 5,
+      "POINT": 2400000,
+      "REWARDS": [
+        {
+          "ID": 26,
+          "RATE": 15,
+          "REWARDS": {
+            "N1": 10
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 27,
+          "RATE": 10,
+          "REWARDS": {
+            "M19": 1
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 28,
+          "RATE": 10,
+          "REWARDS": {
+            "SK3": 1
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 29,
+          "RATE": 15,
+          "REWARDS": {
+            "GOLD": 30000
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 30,
+          "RATE": 15,
+          "REWARDS": {
+            "EXP": 30000
+          },
+          "DEFAULT_RATE": 100
+        }
+      ]
+    },
+    "2600000": {
+      "ID": 6,
+      "POINT": 2600000,
+      "REWARDS": [
+        {
+          "ID": 31,
+          "RATE": 15,
+          "REWARDS": {
+            "N2": 10
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 32,
+          "RATE": 10,
+          "REWARDS": {
+            "A3": 7
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 33,
+          "RATE": 10,
+          "REWARDS": {
+            "SK4": 1
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 34,
+          "RATE": 15,
+          "REWARDS": {
+            "GOLD": 35000
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 35,
+          "RATE": 15,
+          "REWARDS": {
+            "EXP": 35000
+          },
+          "DEFAULT_RATE": 0
+        }
+      ]
+    },
+    "3000000": {
+      "ID": 7,
+      "POINT": 3000000,
+      "REWARDS": [
+        {
+          "ID": 36,
+          "RATE": 10,
+          "REWARDS": {
+            "N3": 10
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 37,
+          "RATE": 15,
+          "REWARDS": {
+            "A4": 7
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 38,
+          "RATE": 10,
+          "REWARDS": {
+            "SK5": 1
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 39,
+          "RATE": 15,
+          "REWARDS": {
+            "GOLD": 40000
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 40,
+          "RATE": 15,
+          "REWARDS": {
+            "EXP": 40000
+          },
+          "DEFAULT_RATE": 0
+        }
+      ]
+    },
+    "3300000": {
+      "ID": 8,
+      "POINT": 3300000,
+      "REWARDS": [
+        {
+          "ID": 41,
+          "RATE": 15,
+          "REWARDS": {
+            "N0": 15
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 42,
+          "RATE": 10,
+          "REWARDS": {
+            "A5": 8
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 43,
+          "RATE": 10,
+          "REWARDS": {
+            "SK6": 1
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 44,
+          "RATE": 15,
+          "REWARDS": {
+            "GOLD": 50000
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 45,
+          "RATE": 15,
+          "REWARDS": {
+            "EXP": 50000
+          },
+          "DEFAULT_RATE": 100
+        }
+      ]
+    },
+    "3600000": {
+      "ID": 9,
+      "POINT": 3600000,
+      "REWARDS": [
+        {
+          "ID": 46,
+          "RATE": 10,
+          "REWARDS": {
+            "N1": 15
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 47,
+          "RATE": 15,
+          "REWARDS": {
+            "A3": 8
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 48,
+          "RATE": 10,
+          "REWARDS": {
+            "SK7": 1
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 49,
+          "RATE": 15,
+          "REWARDS": {
+            "GOLD": 60000
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 50,
+          "RATE": 15,
+          "REWARDS": {
+            "EXP": 60000
+          },
+          "DEFAULT_RATE": 0
+        }
+      ]
+    },
+    "4000000": {
+      "ID": 10,
+      "POINT": 4000000,
+      "REWARDS": [
+        {
+          "ID": 51,
+          "RATE": 15,
+          "REWARDS": {
+            "N2": 15
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 52,
+          "RATE": 10,
+          "REWARDS": {
+            "A4": 8
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 53,
+          "RATE": 10,
+          "REWARDS": {
+            "SK8": 1
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 54,
+          "RATE": 15,
+          "REWARDS": {
+            "GOLD": 70000
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 55,
+          "RATE": 15,
+          "REWARDS": {
+            "EXP": 70000
+          },
+          "DEFAULT_RATE": 100
+        }
+      ]
+    },
+    "4200000": {
+      "ID": 11,
+      "POINT": 4200000,
+      "REWARDS": [
+        {
+          "ID": 56,
+          "RATE": 10,
+          "REWARDS": {
+            "N3": 15
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 57,
+          "RATE": 15,
+          "REWARDS": {
+            "A5": 8
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 58,
+          "RATE": 10,
+          "REWARDS": {
+            "SK9": 1
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 59,
+          "RATE": 15,
+          "REWARDS": {
+            "GOLD": 80000
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 60,
+          "RATE": 15,
+          "REWARDS": {
+            "EXP": 80000
+          },
+          "DEFAULT_RATE": 0
+        }
+      ]
+    },
+    "4500000": {
+      "ID": 12,
+      "POINT": 4500000,
+      "REWARDS": [
+        {
+          "ID": 61,
+          "RATE": 10,
+          "REWARDS": {
+            "C4": 1
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 62,
+          "RATE": 15,
+          "REWARDS": {
+            "P42": 1
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 63,
+          "RATE": 10,
+          "REWARDS": {
+            "P41": 1
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 64,
+          "RATE": 15,
+          "REWARDS": {
+            "GOLD": 90000
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 65,
+          "RATE": 15,
+          "REWARDS": {
+            "EXP": 90000
+          },
+          "DEFAULT_RATE": 0
+        }
+      ]
+    },
+    "4700000": {
+      "ID": 13,
+      "POINT": 4700000,
+      "REWARDS": [
+        {
+          "ID": 66,
+          "RATE": 10,
+          "REWARDS": {
+            "C4": 1
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 67,
+          "RATE": 15,
+          "REWARDS": {
+            "P42": 1
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 68,
+          "RATE": 10,
+          "REWARDS": {
+            "P43": 1
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 69,
+          "RATE": 15,
+          "REWARDS": {
+            "GOLD": 100000
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 70,
+          "RATE": 15,
+          "REWARDS": {
+            "EXP": 100000
+          },
+          "DEFAULT_RATE": 0
+        }
+      ]
+    },
+    "5000000": {
+      "ID": 14,
+      "POINT": 5000000,
+      "REWARDS": [
+        {
+          "ID": 71,
+          "RATE": 15,
+          "REWARDS": {
+            "C4": 1
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 72,
+          "RATE": 10,
+          "REWARDS": {
+            "P47": 1
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 73,
+          "RATE": 10,
+          "REWARDS": {
+            "P48": 1
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 74,
+          "RATE": 15,
+          "REWARDS": {
+            "GOLD": 120000
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 75,
+          "RATE": 15,
+          "REWARDS": {
+            "EXP": 120000
+          },
+          "DEFAULT_RATE": 100
+        }
+      ]
+    },
+    "5500000": {
+      "ID": 15,
+      "POINT": 5500000,
+      "REWARDS": [
+        {
+          "ID": 76,
+          "RATE": 15,
+          "REWARDS": {
+            "C4": 1
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 77,
+          "RATE": 10,
+          "REWARDS": {
+            "P48": 1
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 78,
+          "RATE": 10,
+          "REWARDS": {
+            "P49": 1
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 79,
+          "RATE": 15,
+          "REWARDS": {
+            "GOLD": 140000
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 80,
+          "RATE": 15,
+          "REWARDS": {
+            "EXP": 140000
+          },
+          "DEFAULT_RATE": 0
+        }
+      ]
+    },
+    "6000000": {
+      "ID": 16,
+      "POINT": 6000000,
+      "REWARDS": [
+        {
+          "ID": 81,
+          "RATE": 15,
+          "REWARDS": {
+            "P48": 1
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 82,
+          "RATE": 10,
+          "REWARDS": {
+            "P49": 1
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 83,
+          "RATE": 10,
+          "REWARDS": {
+            "P50": 1
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 84,
+          "RATE": 15,
+          "REWARDS": {
+            "GOLD": 150000
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 85,
+          "RATE": 15,
+          "REWARDS": {
+            "EXP": 150000
+          },
+          "DEFAULT_RATE": 100
+        }
+      ]
+    },
+    "6500000": {
+      "ID": 17,
+      "POINT": 6500000,
+      "REWARDS": [
+        {
+          "ID": 86,
+          "RATE": 15,
+          "REWARDS": {
+            "P49": 1
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 87,
+          "RATE": 10,
+          "REWARDS": {
+            "P50": 1
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 88,
+          "RATE": 10,
+          "REWARDS": {
+            "P53": 1
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 89,
+          "RATE": 15,
+          "REWARDS": {
+            "GOLD": 160000
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 90,
+          "RATE": 15,
+          "REWARDS": {
+            "EXP": 160000
+          },
+          "DEFAULT_RATE": 100
+        }
+      ]
+    },
+    "7000000": {
+      "ID": 18,
+      "POINT": 7000000,
+      "REWARDS": [
+        {
+          "ID": 91,
+          "RATE": 15,
+          "REWARDS": {
+            "P50": 1
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 92,
+          "RATE": 10,
+          "REWARDS": {
+            "P53": 1
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 93,
+          "RATE": 10,
+          "REWARDS": {
+            "P54": 1
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 94,
+          "RATE": 15,
+          "REWARDS": {
+            "GOLD": 180000
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 95,
+          "RATE": 15,
+          "REWARDS": {
+            "EXP": 180000
+          },
+          "DEFAULT_RATE": 100
+        }
+      ]
+    },
+    "8000000": {
+      "ID": 19,
+      "POINT": 8000000,
+      "REWARDS": [
+        {
+          "ID": 96,
+          "RATE": 15,
+          "REWARDS": {
+            "P53": 1
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 97,
+          "RATE": 10,
+          "REWARDS": {
+            "P54": 1
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 98,
+          "RATE": 10,
+          "REWARDS": {
+            "P55": 1
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 99,
+          "RATE": 15,
+          "REWARDS": {
+            "GOLD": 200000
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 100,
+          "RATE": 15,
+          "REWARDS": {
+            "EXP": 200000
+          },
+          "DEFAULT_RATE": 100
+        }
+      ]
+    },
+    "8300000": {
+      "ID": 20,
+      "POINT": 8300000,
+      "REWARDS": [
+        {
+          "ID": 101,
+          "RATE": 15,
+          "REWARDS": {
+            "P53": 1
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 102,
+          "RATE": 10,
+          "REWARDS": {
+            "P54": 1
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 103,
+          "RATE": 10,
+          "REWARDS": {
+            "P55": 1
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 104,
+          "RATE": 15,
+          "REWARDS": {
+            "GOLD": 220000
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 105,
+          "RATE": 15,
+          "REWARDS": {
+            "EXP": 220000
+          },
+          "DEFAULT_RATE": 100
+        }
+      ]
+    },
+    "8600000": {
+      "ID": 21,
+      "POINT": 8600000,
+      "REWARDS": [
+        {
+          "ID": 106,
+          "RATE": 15,
+          "REWARDS": {
+            "C4": 1
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 107,
+          "RATE": 10,
+          "REWARDS": {
+            "P54": 1
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 108,
+          "RATE": 10,
+          "REWARDS": {
+            "P55": 1
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 109,
+          "RATE": 15,
+          "REWARDS": {
+            "GOLD": 250000
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 110,
+          "RATE": 15,
+          "REWARDS": {
+            "EXP": 250000
+          },
+          "DEFAULT_RATE": 100
+        }
+      ]
+    },
+    "9000000": {
+      "ID": 22,
+      "POINT": 9000000,
+      "REWARDS": [
+        {
+          "ID": 111,
+          "RATE": 10,
+          "REWARDS": {
+            "P55": 1
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 112,
+          "RATE": 10,
+          "REWARDS": {
+            "P56": 1
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 113,
+          "RATE": 15,
+          "REWARDS": {
+            "SK10": 2
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 114,
+          "RATE": 15,
+          "REWARDS": {
+            "GOLD": 300000
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 115,
+          "RATE": 15,
+          "REWARDS": {
+            "EXP": 300000
+          },
+          "DEFAULT_RATE": 0
+        }
+      ]
+    },
+    "9500000": {
+      "ID": 23,
+      "POINT": 9500000,
+      "REWARDS": [
+        {
+          "ID": 116,
+          "RATE": 10,
+          "REWARDS": {
+            "P55": 1
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 117,
+          "RATE": 10,
+          "REWARDS": {
+            "P56": 1
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 118,
+          "RATE": 15,
+          "REWARDS": {
+            "SK11": 2
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 119,
+          "RATE": 15,
+          "REWARDS": {
+            "GOLD": 350000
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 120,
+          "RATE": 15,
+          "REWARDS": {
+            "EXP": 350000
+          },
+          "DEFAULT_RATE": 100
+        }
+      ]
+    },
+    "10000000": {
+      "ID": 24,
+      "POINT": 10000000,
+      "REWARDS": [
+        {
+          "ID": 121,
+          "RATE": 10,
+          "REWARDS": {
+            "P56": 1
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 122,
+          "RATE": 10,
+          "REWARDS": {
+            "P59": 1
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 123,
+          "RATE": 15,
+          "REWARDS": {
+            "SK12": 2
+          },
+          "DEFAULT_RATE": 0
+        },
+        {
+          "ID": 124,
+          "RATE": 15,
+          "REWARDS": {
+            "GOLD": 400000
+          },
+          "DEFAULT_RATE": 100
+        },
+        {
+          "ID": 125,
+          "RATE": 15,
+          "REWARDS": {
+            "EXP": 400000
+          },
+          "DEFAULT_RATE": 100
+        }
+      ]
+    }
+  },
+  "TASKS": {
+    "ACTION_FLIPPING_CARD": {
+      "ACTION": "ACTION_FLIPPING_CARD",
+      "ACTION_ID": 51,
+      "LV": {
+        "20": {
+          "LV": 20,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 40,
+          "RATIO": 0.0
+        },
+        "50": {
+          "LV": 50,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 40,
+          "RATIO": 0.0
+        },
+        "80": {
+          "LV": 80,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 40,
+          "RATIO": 0.0
+        },
+        "2147483647": {
+          "LV": 2147483647,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 40,
+          "RATIO": 0.0
+        }
+      },
+      "MIN_LEVEL_REQUIRE": 27
+    },
+    "ACTION_GACHA_OPEN": {
+      "ACTION": "ACTION_GACHA_OPEN",
+      "ACTION_ID": 19,
+      "LV": {
+        "20": {
+          "LV": 20,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        },
+        "50": {
+          "LV": 50,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        },
+        "80": {
+          "LV": 80,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        },
+        "2147483647": {
+          "LV": 2147483647,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        }
+      },
+      "MIN_LEVEL_REQUIRE": 8
+    },
+    "ACTION_PRIVATE_SHOP_FRIEND_BUY": {
+      "ACTION": "ACTION_PRIVATE_SHOP_FRIEND_BUY",
+      "ACTION_ID": 31,
+      "LV": {
+        "20": {
+          "LV": 20,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 40,
+          "RATIO": 0.0
+        },
+        "50": {
+          "LV": 50,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 40,
+          "RATIO": 0.0
+        },
+        "80": {
+          "LV": 80,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 40,
+          "RATIO": 0.0
+        },
+        "2147483647": {
+          "LV": 2147483647,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 40,
+          "RATIO": 0.0
+        }
+      },
+      "MIN_LEVEL_REQUIRE": 8
+    },
+    "ACTION_FRIEND_REPAIR_MACHINE": {
+      "ACTION": "ACTION_FRIEND_REPAIR_MACHINE",
+      "ACTION_ID": 15,
+      "LV": {
+        "20": {
+          "LV": 20,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        },
+        "50": {
+          "LV": 50,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        },
+        "80": {
+          "LV": 80,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        },
+        "2147483647": {
+          "LV": 2147483647,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        }
+      },
+      "MIN_LEVEL_REQUIRE": 8
+    },
+    "ACTION_ORDER_NORMAL_DELIVERY": {
+      "ACTION": "ACTION_ORDER_NORMAL_DELIVERY",
+      "ACTION_ID": 26,
+      "LV": {
+        "20": {
+          "LV": 20,
+          "MIN": 1,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        },
+        "50": {
+          "LV": 50,
+          "MIN": 1,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        },
+        "80": {
+          "LV": 80,
+          "MIN": 1,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        },
+        "2147483647": {
+          "LV": 2147483647,
+          "MIN": 1,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        }
+      },
+      "MIN_LEVEL_REQUIRE": 3
+    },
+    "ACTION_POT_UPGRADE": {
+      "ACTION": "ACTION_POT_UPGRADE",
+      "ACTION_ID": 32,
+      "LV": {
+        "20": {
+          "LV": 20,
+          "MIN": 1,
+          "MAX": 1,
+          "RATE": 40,
+          "RATIO": 0.0
+        },
+        "50": {
+          "LV": 50,
+          "MIN": 1,
+          "MAX": 1,
+          "RATE": 40,
+          "RATIO": 0.0
+        },
+        "80": {
+          "LV": 80,
+          "MIN": 1,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        },
+        "2147483647": {
+          "LV": 2147483647,
+          "MIN": 1,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        }
+      },
+      "MIN_LEVEL_REQUIRE": 30
+    },
+    "ACTION_MACHINE_PRODUCE": {
+      "ACTION": "ACTION_MACHINE_PRODUCE",
+      "ACTION_ID": 24,
+      "LV": {
+        "20": {
+          "LV": 20,
+          "MIN": 1,
+          "MAX": 1,
+          "RATE": 40,
+          "RATIO": 0.0
+        },
+        "50": {
+          "LV": 50,
+          "MIN": 1,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        },
+        "80": {
+          "LV": 80,
+          "MIN": 1,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        },
+        "2147483647": {
+          "LV": 2147483647,
+          "MIN": 1,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        }
+      },
+      "MIN_LEVEL_REQUIRE": 2
+    },
+    "ACTION_COIN_CONSUME": {
+      "ACTION": "ACTION_COIN_CONSUME",
+      "ACTION_ID": 38,
+      "LV": {
+        "20": {
+          "LV": 20,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 30,
+          "RATIO": 0.0
+        },
+        "50": {
+          "LV": 50,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 35,
+          "RATIO": 0.0
+        },
+        "80": {
+          "LV": 80,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 40,
+          "RATIO": 0.0
+        },
+        "2147483647": {
+          "LV": 2147483647,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 40,
+          "RATIO": 0.0
+        }
+      },
+      "MIN_LEVEL_REQUIRE": 11
+    },
+    "ACTION_CLOUD_SKIN": {
+      "ACTION": "ACTION_CLOUD_SKIN",
+      "ACTION_ID": 52,
+      "LV": {
+        "20": {
+          "LV": 20,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 35,
+          "RATIO": 0.0
+        },
+        "50": {
+          "LV": 50,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 35,
+          "RATIO": 0.0
+        },
+        "80": {
+          "LV": 80,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 40,
+          "RATIO": 0.0
+        },
+        "2147483647": {
+          "LV": 2147483647,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 40,
+          "RATIO": 0.0
+        }
+      },
+      "MIN_LEVEL_REQUIRE": 23
+    },
+    "ACTION_DAILY_LOGIN": {
+      "ACTION": "ACTION_DAILY_LOGIN",
+      "ACTION_ID": 37,
+      "LV": {
+        "20": {
+          "LV": 20,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 0,
+          "RATIO": 0.0
+        },
+        "50": {
+          "LV": 50,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 0,
+          "RATIO": 0.0
+        },
+        "80": {
+          "LV": 80,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 0,
+          "RATIO": 0.0
+        },
+        "2147483647": {
+          "LV": 2147483647,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 0,
+          "RATIO": 0.0
+        }
+      },
+      "MIN_LEVEL_REQUIRE": 7
+    },
+    "ACTION_DICE_SPIN": {
+      "ACTION": "ACTION_DICE_SPIN",
+      "ACTION_ID": 12,
+      "LV": {
+        "20": {
+          "LV": 20,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 35,
+          "RATIO": 0.0
+        },
+        "50": {
+          "LV": 50,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 35,
+          "RATIO": 0.0
+        },
+        "80": {
+          "LV": 80,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 40,
+          "RATIO": 0.0
+        },
+        "2147483647": {
+          "LV": 2147483647,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 40,
+          "RATIO": 0.0
+        }
+      },
+      "MIN_LEVEL_REQUIRE": 17
+    },
+    "ACTION_FRIEND_VISIT": {
+      "ACTION": "ACTION_FRIEND_VISIT",
+      "ACTION_ID": 16,
+      "LV": {
+        "20": {
+          "LV": 20,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 0,
+          "RATIO": 0.0
+        },
+        "50": {
+          "LV": 50,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 0,
+          "RATIO": 0.0
+        },
+        "80": {
+          "LV": 80,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 0,
+          "RATIO": 0.0
+        },
+        "2147483647": {
+          "LV": 2147483647,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 0,
+          "RATIO": 0.0
+        }
+      },
+      "MIN_LEVEL_REQUIRE": 6
+    },
+    "ACTION_MACHINE_UPGRADE": {
+      "ACTION": "ACTION_MACHINE_UPGRADE",
+      "ACTION_ID": 33,
+      "LV": {
+        "20": {
+          "LV": 20,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 0,
+          "RATIO": 0.0
+        },
+        "50": {
+          "LV": 50,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 0,
+          "RATIO": 0.0
+        },
+        "80": {
+          "LV": 80,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 0,
+          "RATIO": 0.0
+        },
+        "2147483647": {
+          "LV": 2147483647,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 0,
+          "RATIO": 0.0
+        }
+      },
+      "MIN_LEVEL_REQUIRE": 10
+    },
+    "ACTION_MACHINE_REPAIR": {
+      "ACTION": "ACTION_MACHINE_REPAIR",
+      "ACTION_ID": 29,
+      "LV": {
+        "20": {
+          "LV": 20,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 35,
+          "RATIO": 0.0
+        },
+        "50": {
+          "LV": 50,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 35,
+          "RATIO": 0.0
+        },
+        "80": {
+          "LV": 80,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 35,
+          "RATIO": 0.0
+        },
+        "2147483647": {
+          "LV": 2147483647,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 35,
+          "RATIO": 0.0
+        }
+      },
+      "MIN_LEVEL_REQUIRE": 7
+    },
+    "ACTION_TRUCK_PACK": {
+      "ACTION": "ACTION_TRUCK_PACK",
+      "ACTION_ID": 49,
+      "LV": {
+        "20": {
+          "LV": 20,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 40,
+          "RATIO": 0.0
+        },
+        "50": {
+          "LV": 50,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 40,
+          "RATIO": 0.0
+        },
+        "80": {
+          "LV": 80,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        },
+        "2147483647": {
+          "LV": 2147483647,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        }
+      },
+      "MIN_LEVEL_REQUIRE": 9
+    },
+    "ACTION_PLANT": {
+      "ACTION": "ACTION_PLANT",
+      "ACTION_ID": 23,
+      "LV": {
+        "20": {
+          "LV": 20,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 35,
+          "RATIO": 0.0
+        },
+        "50": {
+          "LV": 50,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 35,
+          "RATIO": 0.0
+        },
+        "80": {
+          "LV": 80,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 30,
+          "RATIO": 0.0
+        },
+        "2147483647": {
+          "LV": 2147483647,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 30,
+          "RATIO": 0.0
+        }
+      },
+      "MIN_LEVEL_REQUIRE": 1
+    },
+    "ACTION_LUCKY_SPIN": {
+      "ACTION": "ACTION_LUCKY_SPIN",
+      "ACTION_ID": 13,
+      "LV": {
+        "20": {
+          "LV": 20,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 40,
+          "RATIO": 0.0
+        },
+        "50": {
+          "LV": 50,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 40,
+          "RATIO": 0.0
+        },
+        "80": {
+          "LV": 80,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 40,
+          "RATIO": 0.0
+        },
+        "2147483647": {
+          "LV": 2147483647,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 40,
+          "RATIO": 0.0
+        }
+      },
+      "MIN_LEVEL_REQUIRE": 14
+    },
+    "ACTION_FRIEND_SEND_REQUEST": {
+      "ACTION": "ACTION_FRIEND_SEND_REQUEST",
+      "ACTION_ID": 14,
+      "LV": {
+        "20": {
+          "LV": 20,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 0,
+          "RATIO": 0.0
+        },
+        "50": {
+          "LV": 50,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 0,
+          "RATIO": 0.0
+        },
+        "80": {
+          "LV": 80,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 0,
+          "RATIO": 0.0
+        },
+        "2147483647": {
+          "LV": 2147483647,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 0,
+          "RATIO": 0.0
+        }
+      },
+      "MIN_LEVEL_REQUIRE": 7
+    },
+    "ACTION_TOM_BUY": {
+      "ACTION": "ACTION_TOM_BUY",
+      "ACTION_ID": 21,
+      "LV": {
+        "20": {
+          "LV": 20,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 30,
+          "RATIO": 0.0
+        },
+        "50": {
+          "LV": 50,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 30,
+          "RATIO": 0.0
+        },
+        "80": {
+          "LV": 80,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 30,
+          "RATIO": 0.0
+        },
+        "2147483647": {
+          "LV": 2147483647,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 30,
+          "RATIO": 0.0
+        }
+      },
+      "MIN_LEVEL_REQUIRE": 12
+    },
+    "ACTION_FRIEND_ACCEPTED_REQUEST": {
+      "ACTION": "ACTION_FRIEND_ACCEPTED_REQUEST",
+      "ACTION_ID": 10,
+      "LV": {
+        "20": {
+          "LV": 20,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 0,
+          "RATIO": 0.0
+        },
+        "50": {
+          "LV": 50,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 0,
+          "RATIO": 0.0
+        },
+        "80": {
+          "LV": 80,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 0,
+          "RATIO": 0.0
+        },
+        "2147483647": {
+          "LV": 2147483647,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 0,
+          "RATIO": 0.0
+        }
+      },
+      "MIN_LEVEL_REQUIRE": 7
+    },
+    "ACTION_AIRSHIP_FRIEND_PACK": {
+      "ACTION": "ACTION_AIRSHIP_FRIEND_PACK",
+      "ACTION_ID": 17,
+      "LV": {
+        "20": {
+          "LV": 20,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        },
+        "50": {
+          "LV": 50,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        },
+        "80": {
+          "LV": 80,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        },
+        "2147483647": {
+          "LV": 2147483647,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        }
+      },
+      "MIN_LEVEL_REQUIRE": 10
+    },
+    "ACTION_TRUCK_DELIVERY": {
+      "ACTION": "ACTION_TRUCK_DELIVERY",
+      "ACTION_ID": 50,
+      "LV": {
+        "20": {
+          "LV": 20,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        },
+        "50": {
+          "LV": 50,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        },
+        "80": {
+          "LV": 80,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        },
+        "2147483647": {
+          "LV": 2147483647,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        }
+      },
+      "MIN_LEVEL_REQUIRE": 10
+    },
+    "ACTION_MAKE_POT": {
+      "ACTION": "ACTION_MAKE_POT",
+      "ACTION_ID": 36,
+      "LV": {
+        "20": {
+          "LV": 20,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 5,
+          "RATIO": 0.0
+        },
+        "50": {
+          "LV": 50,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 10,
+          "RATIO": 0.0
+        },
+        "80": {
+          "LV": 80,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 15,
+          "RATIO": 0.0
+        },
+        "2147483647": {
+          "LV": 2147483647,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 20,
+          "RATIO": 0.0
+        }
+      },
+      "MIN_LEVEL_REQUIRE": 80
+    },
+    "ACTION_PLANT_HARVEST": {
+      "ACTION": "ACTION_PLANT_HARVEST",
+      "ACTION_ID": 1,
+      "LV": {
+        "20": {
+          "LV": 20,
+          "MIN": 2,
+          "MAX": 2,
+          "RATE": 45,
+          "RATIO": 0.0
+        },
+        "50": {
+          "LV": 50,
+          "MIN": 1,
+          "MAX": 2,
+          "RATE": 45,
+          "RATIO": 0.0
+        },
+        "80": {
+          "LV": 80,
+          "MIN": 1,
+          "MAX": 2,
+          "RATE": 45,
+          "RATIO": 0.0
+        },
+        "2147483647": {
+          "LV": 2147483647,
+          "MIN": 1,
+          "MAX": 2,
+          "RATE": 45,
+          "RATIO": 0.0
+        }
+      },
+      "MIN_LEVEL_REQUIRE": 1
+    },
+    "ACTION_MINE_START": {
+      "ACTION": "ACTION_MINE_START",
+      "ACTION_ID": 18,
+      "LV": {
+        "20": {
+          "LV": 20,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 40,
+          "RATIO": 0.0
+        },
+        "50": {
+          "LV": 50,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 40,
+          "RATIO": 0.0
+        },
+        "80": {
+          "LV": 80,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 40,
+          "RATIO": 0.0
+        },
+        "2147483647": {
+          "LV": 2147483647,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 40,
+          "RATIO": 0.0
+        }
+      },
+      "MIN_LEVEL_REQUIRE": 30
+    },
+    "ACTION_AIRSHIP_PACK": {
+      "ACTION": "ACTION_AIRSHIP_PACK",
+      "ACTION_ID": 27,
+      "LV": {
+        "20": {
+          "LV": 20,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        },
+        "50": {
+          "LV": 50,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        },
+        "80": {
+          "LV": 80,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        },
+        "2147483647": {
+          "LV": 2147483647,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        }
+      },
+      "MIN_LEVEL_REQUIRE": 9
+    },
+    "ACTION_AIRSHIP_REQUEST_HELP": {
+      "ACTION": "ACTION_AIRSHIP_REQUEST_HELP",
+      "ACTION_ID": 28,
+      "LV": {
+        "20": {
+          "LV": 20,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 30,
+          "RATIO": 0.0
+        },
+        "50": {
+          "LV": 50,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 30,
+          "RATIO": 0.0
+        },
+        "80": {
+          "LV": 80,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 20,
+          "RATIO": 0.0
+        },
+        "2147483647": {
+          "LV": 2147483647,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 20,
+          "RATIO": 0.0
+        }
+      },
+      "MIN_LEVEL_REQUIRE": 9
+    },
+    "ACTION_STOCK_UPGRADE": {
+      "ACTION": "ACTION_STOCK_UPGRADE",
+      "ACTION_ID": 35,
+      "LV": {
+        "20": {
+          "LV": 20,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 30,
+          "RATIO": 0.0
+        },
+        "50": {
+          "LV": 50,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 30,
+          "RATIO": 0.0
+        },
+        "80": {
+          "LV": 80,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 35,
+          "RATIO": 0.0
+        },
+        "2147483647": {
+          "LV": 2147483647,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 40,
+          "RATIO": 0.0
+        }
+      },
+      "MIN_LEVEL_REQUIRE": 10
+    },
+    "ACTION_PRIVATE_SHOP_PUT": {
+      "ACTION": "ACTION_PRIVATE_SHOP_PUT",
+      "ACTION_ID": 30,
+      "LV": {
+        "20": {
+          "LV": 20,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 35,
+          "RATIO": 0.0
+        },
+        "50": {
+          "LV": 50,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 35,
+          "RATIO": 0.0
+        },
+        "80": {
+          "LV": 80,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 35,
+          "RATIO": 0.0
+        },
+        "2147483647": {
+          "LV": 2147483647,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 35,
+          "RATIO": 0.0
+        }
+      },
+      "MIN_LEVEL_REQUIRE": 6
+    },
+    "ACTION_PLANT_CATCH_BUG": {
+      "ACTION": "ACTION_PLANT_CATCH_BUG",
+      "ACTION_ID": 6,
+      "LV": {
+        "20": {
+          "LV": 20,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        },
+        "50": {
+          "LV": 50,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        },
+        "80": {
+          "LV": 80,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        },
+        "2147483647": {
+          "LV": 2147483647,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        }
+      },
+      "MIN_LEVEL_REQUIRE": 6
+    },
+    "ACTION_AIRSHIP_DELIVERY": {
+      "ACTION": "ACTION_AIRSHIP_DELIVERY",
+      "ACTION_ID": 11,
+      "LV": {
+        "20": {
+          "LV": 20,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 40,
+          "RATIO": 0.0
+        },
+        "50": {
+          "LV": 50,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 40,
+          "RATIO": 0.0
+        },
+        "80": {
+          "LV": 80,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        },
+        "2147483647": {
+          "LV": 2147483647,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        }
+      },
+      "MIN_LEVEL_REQUIRE": 10
+    },
+    "ACTION_ORDER_DAILY_DELIVERY": {
+      "ACTION": "ACTION_ORDER_DAILY_DELIVERY",
+      "ACTION_ID": 25,
+      "LV": {
+        "20": {
+          "LV": 20,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 40,
+          "RATIO": 0.0
+        },
+        "50": {
+          "LV": 50,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 40,
+          "RATIO": 0.0
+        },
+        "80": {
+          "LV": 80,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 40,
+          "RATIO": 0.0
+        },
+        "2147483647": {
+          "LV": 2147483647,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 40,
+          "RATIO": 0.0
+        }
+      },
+      "MIN_LEVEL_REQUIRE": 10
+    },
+    "ACTION_MACHINE_HARVEST": {
+      "ACTION": "ACTION_MACHINE_HARVEST",
+      "ACTION_ID": 2,
+      "LV": {
+        "20": {
+          "LV": 20,
+          "MIN": 1,
+          "MAX": 2,
+          "RATE": 45,
+          "RATIO": 0.0
+        },
+        "50": {
+          "LV": 50,
+          "MIN": 2,
+          "MAX": 2,
+          "RATE": 45,
+          "RATIO": 0.0
+        },
+        "80": {
+          "LV": 80,
+          "MIN": 2,
+          "MAX": 2,
+          "RATE": 45,
+          "RATIO": 0.0
+        },
+        "2147483647": {
+          "LV": 2147483647,
+          "MIN": 2,
+          "MAX": 2,
+          "RATE": 45,
+          "RATIO": 0.0
+        }
+      },
+      "MIN_LEVEL_REQUIRE": 2
+    },
+    "ACTION_TOM_FIND": {
+      "ACTION": "ACTION_TOM_FIND",
+      "ACTION_ID": 34,
+      "LV": {
+        "20": {
+          "LV": 20,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 0,
+          "RATIO": 0.0
+        },
+        "50": {
+          "LV": 50,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 0,
+          "RATIO": 0.0
+        },
+        "80": {
+          "LV": 80,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 0,
+          "RATIO": 0.0
+        },
+        "2147483647": {
+          "LV": 2147483647,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 0,
+          "RATIO": 0.0
+        }
+      },
+      "MIN_LEVEL_REQUIRE": 12
+    },
+    "ACTION_FRIEND_BUG_CATCH": {
+      "ACTION": "ACTION_FRIEND_BUG_CATCH",
+      "ACTION_ID": 5,
+      "LV": {
+        "20": {
+          "LV": 20,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 40,
+          "RATIO": 0.0
+        },
+        "50": {
+          "LV": 50,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 40,
+          "RATIO": 0.0
+        },
+        "80": {
+          "LV": 80,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        },
+        "2147483647": {
+          "LV": 2147483647,
+          "MIN": 0,
+          "MAX": 1,
+          "RATE": 45,
+          "RATIO": 0.0
+        }
+      },
+      "MIN_LEVEL_REQUIRE": 7
+    }
+  },
+  "TASK_DETAIL": {
+    "ACTION_FLIPPING_CARD": [
+      {
+        "LEVEL": 27,
+        "RATE": 100,
+        "REQUIRE_MIN": 18,
+        "REQUIRE_MAX": 22,
+        "DURATION": 259200,
+        "DERBY_POINT": 500
+      }
+    ],
+    "ACTION_GACHA_OPEN": [
+      {
+        "LEVEL": 8,
+        "RATE": 100,
+        "REQUIRE_MIN": 25,
+        "REQUIRE_MAX": 30,
+        "DURATION": 216000,
+        "DERBY_POINT": 2400
+      }
+    ],
+    "ACTION_PRIVATE_SHOP_FRIEND_BUY": [
+      {
+        "LEVEL": 8,
+        "RATE": 100,
+        "REQUIRE_MIN": 150,
+        "REQUIRE_MAX": 180,
+        "DURATION": 86400,
+        "DERBY_POINT": 150
+      }
+    ],
+    "ACTION_FRIEND_REPAIR_MACHINE": [
+      {
+        "LEVEL": 8,
+        "RATE": 100,
+        "REQUIRE_MIN": 40,
+        "REQUIRE_MAX": 48,
+        "DURATION": 86400,
+        "DERBY_POINT": 150
+      }
+    ],
+    "ACTION_ORDER_NORMAL_DELIVERY": [
+      {
+        "LEVEL": 3,
+        "RATE": 100,
+        "REQUIRE_MIN": 17,
+        "REQUIRE_MAX": 20,
+        "DURATION": 60479,
+        "DERBY_POINT": 600
+      }
+    ],
+    "ACTION_POT_UPGRADE": [
+      {
+        "TARGET": "P41",
+        "LEVEL": 30,
+        "RATE": 100,
+        "REQUIRE_MIN": 2,
+        "REQUIRE_MAX": 3,
+        "DURATION": 0,
+        "DERBY_POINT": 6000
+      },
+      {
+        "TARGET": "P42",
+        "LEVEL": 30,
+        "RATE": 100,
+        "REQUIRE_MIN": 2,
+        "REQUIRE_MAX": 3,
+        "DURATION": 0,
+        "DERBY_POINT": 7200
+      },
+      {
+        "TARGET": "P43",
+        "LEVEL": 30,
+        "RATE": 100,
+        "REQUIRE_MIN": 2,
+        "REQUIRE_MAX": 3,
+        "DURATION": 0,
+        "DERBY_POINT": 8650
+      },
+      {
+        "TARGET": "P44",
+        "LEVEL": 30,
+        "RATE": 100,
+        "REQUIRE_MIN": 2,
+        "REQUIRE_MAX": 3,
+        "DURATION": 0,
+        "DERBY_POINT": 10400
+      },
+      {
+        "TARGET": "P45",
+        "LEVEL": 30,
+        "RATE": 100,
+        "REQUIRE_MIN": 2,
+        "REQUIRE_MAX": 3,
+        "DURATION": 0,
+        "DERBY_POINT": 12500
+      },
+      {
+        "TARGET": "P46",
+        "LEVEL": 30,
+        "RATE": 100,
+        "REQUIRE_MIN": 2,
+        "REQUIRE_MAX": 3,
+        "DURATION": 0,
+        "DERBY_POINT": 15000
+      },
+      {
+        "TARGET": "P47",
+        "LEVEL": 40,
+        "RATE": 100,
+        "REQUIRE_MIN": 1,
+        "REQUIRE_MAX": 2,
+        "DURATION": 0,
+        "DERBY_POINT": 18000
+      },
+      {
+        "TARGET": "P48",
+        "LEVEL": 40,
+        "RATE": 100,
+        "REQUIRE_MIN": 1,
+        "REQUIRE_MAX": 2,
+        "DURATION": 0,
+        "DERBY_POINT": 21600
+      },
+      {
+        "TARGET": "P49",
+        "LEVEL": 40,
+        "RATE": 100,
+        "REQUIRE_MIN": 1,
+        "REQUIRE_MAX": 2,
+        "DURATION": 0,
+        "DERBY_POINT": 25900
+      },
+      {
+        "TARGET": "P50",
+        "LEVEL": 40,
+        "RATE": 100,
+        "REQUIRE_MIN": 1,
+        "REQUIRE_MAX": 2,
+        "DURATION": 0,
+        "DERBY_POINT": 31100
+      },
+      {
+        "TARGET": "P51",
+        "LEVEL": 40,
+        "RATE": 100,
+        "REQUIRE_MIN": 1,
+        "REQUIRE_MAX": 2,
+        "DURATION": 0,
+        "DERBY_POINT": 37300
+      },
+      {
+        "TARGET": "P52",
+        "LEVEL": 40,
+        "RATE": 100,
+        "REQUIRE_MIN": 1,
+        "REQUIRE_MAX": 2,
+        "DURATION": 0,
+        "DERBY_POINT": 44750
+      },
+      {
+        "TARGET": "P53",
+        "LEVEL": 50,
+        "RATE": 100,
+        "REQUIRE_MIN": 1,
+        "REQUIRE_MAX": 1,
+        "DURATION": 0,
+        "DERBY_POINT": 53700
+      },
+      {
+        "TARGET": "P54",
+        "LEVEL": 50,
+        "RATE": 100,
+        "REQUIRE_MIN": 1,
+        "REQUIRE_MAX": 1,
+        "DURATION": 0,
+        "DERBY_POINT": 64450
+      },
+      {
+        "TARGET": "P55",
+        "LEVEL": 50,
+        "RATE": 100,
+        "REQUIRE_MIN": 1,
+        "REQUIRE_MAX": 1,
+        "DURATION": 0,
+        "DERBY_POINT": 77350
+      },
+      {
+        "TARGET": "P56",
+        "LEVEL": 50,
+        "RATE": 100,
+        "REQUIRE_MIN": 1,
+        "REQUIRE_MAX": 1,
+        "DURATION": 0,
+        "DERBY_POINT": 92800
+      },
+      {
+        "TARGET": "P57",
+        "LEVEL": 50,
+        "RATE": 100,
+        "REQUIRE_MIN": 1,
+        "REQUIRE_MAX": 1,
+        "DURATION": 0,
+        "DERBY_POINT": 111350
+      },
+      {
+        "TARGET": "P58",
+        "LEVEL": 50,
+        "RATE": 100,
+        "REQUIRE_MIN": 1,
+        "REQUIRE_MAX": 1,
+        "DURATION": 0,
+        "DERBY_POINT": 133600
+      }
+    ],
+    "ACTION_MACHINE_PRODUCE": [
+      {
+        "TARGET": "R0",
+        "LEVEL": 2,
+        "RATE": 10,
+        "REQUIRE_MIN": 30,
+        "REQUIRE_MAX": 36,
+        "DURATION": 5400,
+        "DERBY_POINT": 40
+      },
+      {
+        "TARGET": "R1",
+        "LEVEL": 6,
+        "RATE": 10,
+        "REQUIRE_MIN": 20,
+        "REQUIRE_MAX": 24,
+        "DURATION": 5400,
+        "DERBY_POINT": 120
+      },
+      {
+        "TARGET": "R2",
+        "LEVEL": 8,
+        "RATE": 10,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 5400,
+        "DERBY_POINT": 160
+      },
+      {
+        "TARGET": "R3",
+        "LEVEL": 9,
+        "RATE": 10,
+        "REQUIRE_MIN": 8,
+        "REQUIRE_MAX": 10,
+        "DURATION": 7200,
+        "DERBY_POINT": 180
+      },
+      {
+        "TARGET": "R4",
+        "LEVEL": 13,
+        "RATE": 10,
+        "REQUIRE_MIN": 8,
+        "REQUIRE_MAX": 10,
+        "DURATION": 8100,
+        "DERBY_POINT": 260
+      },
+      {
+        "TARGET": "R5",
+        "LEVEL": 14,
+        "RATE": 20,
+        "REQUIRE_MIN": 9,
+        "REQUIRE_MAX": 11,
+        "DURATION": 12240,
+        "DERBY_POINT": 280
+      },
+      {
+        "TARGET": "R6",
+        "LEVEL": 16,
+        "RATE": 20,
+        "REQUIRE_MIN": 5,
+        "REQUIRE_MAX": 6,
+        "DURATION": 6750,
+        "DERBY_POINT": 320
+      },
+      {
+        "TARGET": "R7",
+        "LEVEL": 18,
+        "RATE": 20,
+        "REQUIRE_MIN": 9,
+        "REQUIRE_MAX": 11,
+        "DURATION": 12180,
+        "DERBY_POINT": 359
+      },
+      {
+        "TARGET": "R8",
+        "LEVEL": 19,
+        "RATE": 20,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 6750,
+        "DERBY_POINT": 380
+      },
+      {
+        "TARGET": "R9",
+        "LEVEL": 20,
+        "RATE": 20,
+        "REQUIRE_MIN": 9,
+        "REQUIRE_MAX": 11,
+        "DURATION": 20820,
+        "DERBY_POINT": 399
+      },
+      {
+        "TARGET": "A0",
+        "LEVEL": 23,
+        "RATE": 35,
+        "REQUIRE_MIN": 9,
+        "REQUIRE_MAX": 11,
+        "DURATION": 25200,
+        "DERBY_POINT": 459
+      },
+      {
+        "TARGET": "R10",
+        "LEVEL": 24,
+        "RATE": 20,
+        "REQUIRE_MIN": 9,
+        "REQUIRE_MAX": 11,
+        "DURATION": 18300,
+        "DERBY_POINT": 479
+      },
+      {
+        "TARGET": "A1",
+        "LEVEL": 25,
+        "RATE": 35,
+        "REQUIRE_MIN": 7,
+        "REQUIRE_MAX": 8,
+        "DURATION": 30240,
+        "DERBY_POINT": 499
+      },
+      {
+        "TARGET": "A2",
+        "LEVEL": 27,
+        "RATE": 35,
+        "REQUIRE_MIN": 7,
+        "REQUIRE_MAX": 8,
+        "DURATION": 36300,
+        "DERBY_POINT": 540
+      },
+      {
+        "TARGET": "R11",
+        "LEVEL": 28,
+        "RATE": 20,
+        "REQUIRE_MIN": 7,
+        "REQUIRE_MAX": 8,
+        "DURATION": 18300,
+        "DERBY_POINT": 559
+      },
+      {
+        "TARGET": "R12",
+        "LEVEL": 29,
+        "RATE": 20,
+        "REQUIRE_MIN": 5,
+        "REQUIRE_MAX": 6,
+        "DURATION": 35400,
+        "DERBY_POINT": 579
+      },
+      {
+        "TARGET": "R13",
+        "LEVEL": 30,
+        "RATE": 20,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 10140,
+        "DERBY_POINT": 599
+      },
+      {
+        "TARGET": "A3",
+        "LEVEL": 33,
+        "RATE": 35,
+        "REQUIRE_MIN": 5,
+        "REQUIRE_MAX": 6,
+        "DURATION": 43560,
+        "DERBY_POINT": 660
+      },
+      {
+        "TARGET": "R14",
+        "LEVEL": 34,
+        "RATE": 25,
+        "REQUIRE_MIN": 5,
+        "REQUIRE_MAX": 6,
+        "DURATION": 10140,
+        "DERBY_POINT": 680
+      },
+      {
+        "TARGET": "R15",
+        "LEVEL": 35,
+        "RATE": 25,
+        "REQUIRE_MIN": 5,
+        "REQUIRE_MAX": 6,
+        "DURATION": 12660,
+        "DERBY_POINT": 699
+      },
+      {
+        "TARGET": "R16",
+        "LEVEL": 35,
+        "RATE": 25,
+        "REQUIRE_MIN": 10,
+        "REQUIRE_MAX": 12,
+        "DURATION": 27480,
+        "DERBY_POINT": 699
+      },
+      {
+        "TARGET": "R17",
+        "LEVEL": 36,
+        "RATE": 25,
+        "REQUIRE_MIN": 8,
+        "REQUIRE_MAX": 10,
+        "DURATION": 16200,
+        "DERBY_POINT": 719
+      },
+      {
+        "TARGET": "R18",
+        "LEVEL": 37,
+        "RATE": 25,
+        "REQUIRE_MIN": 5,
+        "REQUIRE_MAX": 6,
+        "DURATION": 12660,
+        "DERBY_POINT": 739
+      },
+      {
+        "TARGET": "R19",
+        "LEVEL": 38,
+        "RATE": 25,
+        "REQUIRE_MIN": 9,
+        "REQUIRE_MAX": 11,
+        "DURATION": 27480,
+        "DERBY_POINT": 759
+      },
+      {
+        "TARGET": "R20",
+        "LEVEL": 40,
+        "RATE": 25,
+        "REQUIRE_MIN": 8,
+        "REQUIRE_MAX": 10,
+        "DURATION": 24300,
+        "DERBY_POINT": 799
+      },
+      {
+        "TARGET": "A4",
+        "LEVEL": 41,
+        "RATE": 35,
+        "REQUIRE_MIN": 5,
+        "REQUIRE_MAX": 6,
+        "DURATION": 52260,
+        "DERBY_POINT": 819
+      },
+      {
+        "TARGET": "R21",
+        "LEVEL": 42,
+        "RATE": 25,
+        "REQUIRE_MIN": 9,
+        "REQUIRE_MAX": 11,
+        "DURATION": 36480,
+        "DERBY_POINT": 839
+      },
+      {
+        "TARGET": "R22",
+        "LEVEL": 43,
+        "RATE": 25,
+        "REQUIRE_MIN": 5,
+        "REQUIRE_MAX": 6,
+        "DURATION": 15840,
+        "DERBY_POINT": 859
+      },
+      {
+        "TARGET": "R23",
+        "LEVEL": 44,
+        "RATE": 25,
+        "REQUIRE_MIN": 12,
+        "REQUIRE_MAX": 14,
+        "DURATION": 41220,
+        "DERBY_POINT": 879
+      },
+      {
+        "TARGET": "R24",
+        "LEVEL": 48,
+        "RATE": 25,
+        "REQUIRE_MIN": 11,
+        "REQUIRE_MAX": 13,
+        "DURATION": 41220,
+        "DERBY_POINT": 959
+      },
+      {
+        "TARGET": "R25",
+        "LEVEL": 49,
+        "RATE": 25,
+        "REQUIRE_MIN": 11,
+        "REQUIRE_MAX": 13,
+        "DURATION": 36480,
+        "DERBY_POINT": 979
+      },
+      {
+        "TARGET": "R26",
+        "LEVEL": 50,
+        "RATE": 25,
+        "REQUIRE_MIN": 5,
+        "REQUIRE_MAX": 6,
+        "DURATION": 15840,
+        "DERBY_POINT": 999
+      },
+      {
+        "TARGET": "R27",
+        "LEVEL": 51,
+        "RATE": 25,
+        "REQUIRE_MIN": 7,
+        "REQUIRE_MAX": 8,
+        "DURATION": 18000,
+        "DERBY_POINT": 1019
+      },
+      {
+        "TARGET": "R28",
+        "LEVEL": 52,
+        "RATE": 25,
+        "REQUIRE_MIN": 10,
+        "REQUIRE_MAX": 12,
+        "DURATION": 36000,
+        "DERBY_POINT": 1039
+      },
+      {
+        "TARGET": "A5",
+        "LEVEL": 53,
+        "RATE": 35,
+        "REQUIRE_MIN": 5,
+        "REQUIRE_MAX": 6,
+        "DURATION": 62700,
+        "DERBY_POINT": 1059
+      },
+      {
+        "TARGET": "R29",
+        "LEVEL": 54,
+        "RATE": 25,
+        "REQUIRE_MIN": 10,
+        "REQUIRE_MAX": 12,
+        "DURATION": 54000,
+        "DERBY_POINT": 1079
+      },
+      {
+        "TARGET": "A6",
+        "LEVEL": 55,
+        "RATE": 35,
+        "REQUIRE_MIN": 5,
+        "REQUIRE_MAX": 6,
+        "DURATION": 75240,
+        "DERBY_POINT": 1099
+      },
+      {
+        "TARGET": "R30",
+        "LEVEL": 56,
+        "RATE": 25,
+        "REQUIRE_MIN": 9,
+        "REQUIRE_MAX": 11,
+        "DURATION": 81000,
+        "DERBY_POINT": 1119
+      },
+      {
+        "TARGET": "R31",
+        "LEVEL": 59,
+        "RATE": 25,
+        "REQUIRE_MIN": 8,
+        "REQUIRE_MAX": 10,
+        "DURATION": 81000,
+        "DERBY_POINT": 1179
+      },
+      {
+        "TARGET": "R32",
+        "LEVEL": 60,
+        "RATE": 25,
+        "REQUIRE_MIN": 10,
+        "REQUIRE_MAX": 12,
+        "DURATION": 45600,
+        "DERBY_POINT": 1199
+      },
+      {
+        "TARGET": "R33",
+        "LEVEL": 61,
+        "RATE": 30,
+        "REQUIRE_MIN": 7,
+        "REQUIRE_MAX": 8,
+        "DURATION": 23760,
+        "DERBY_POINT": 1219
+      },
+      {
+        "TARGET": "R34",
+        "LEVEL": 63,
+        "RATE": 30,
+        "REQUIRE_MIN": 8,
+        "REQUIRE_MAX": 10,
+        "DURATION": 43200,
+        "DERBY_POINT": 1259
+      },
+      {
+        "TARGET": "R35",
+        "LEVEL": 65,
+        "RATE": 30,
+        "REQUIRE_MIN": 7,
+        "REQUIRE_MAX": 8,
+        "DURATION": 60180,
+        "DERBY_POINT": 1299
+      },
+      {
+        "TARGET": "R36",
+        "LEVEL": 66,
+        "RATE": 30,
+        "REQUIRE_MIN": 7,
+        "REQUIRE_MAX": 8,
+        "DURATION": 54000,
+        "DERBY_POINT": 1319
+      },
+      {
+        "TARGET": "R37",
+        "LEVEL": 69,
+        "RATE": 30,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 67500,
+        "DERBY_POINT": 1379
+      },
+      {
+        "TARGET": "R38",
+        "LEVEL": 70,
+        "RATE": 30,
+        "REQUIRE_MIN": 8,
+        "REQUIRE_MAX": 10,
+        "DURATION": 97200,
+        "DERBY_POINT": 1399
+      },
+      {
+        "TARGET": "R39",
+        "LEVEL": 73,
+        "RATE": 30,
+        "REQUIRE_MIN": 9,
+        "REQUIRE_MAX": 11,
+        "DURATION": 36000,
+        "DERBY_POINT": 1459
+      },
+      {
+        "TARGET": "R40",
+        "LEVEL": 74,
+        "RATE": 30,
+        "REQUIRE_MIN": 8,
+        "REQUIRE_MAX": 10,
+        "DURATION": 57000,
+        "DERBY_POINT": 1479
+      },
+      {
+        "TARGET": "R41",
+        "LEVEL": 76,
+        "RATE": 30,
+        "REQUIRE_MIN": 7,
+        "REQUIRE_MAX": 8,
+        "DURATION": 29700,
+        "DERBY_POINT": 1519
+      },
+      {
+        "TARGET": "R42",
+        "LEVEL": 77,
+        "RATE": 30,
+        "REQUIRE_MIN": 8,
+        "REQUIRE_MAX": 10,
+        "DURATION": 45000,
+        "DERBY_POINT": 1539
+      },
+      {
+        "TARGET": "R43",
+        "LEVEL": 80,
+        "RATE": 30,
+        "REQUIRE_MIN": 9,
+        "REQUIRE_MAX": 11,
+        "DURATION": 116640,
+        "DERBY_POINT": 1599
+      },
+      {
+        "TARGET": "R44",
+        "LEVEL": 81,
+        "RATE": 30,
+        "REQUIRE_MIN": 7,
+        "REQUIRE_MAX": 8,
+        "DURATION": 56280,
+        "DERBY_POINT": 1619
+      },
+      {
+        "TARGET": "R45",
+        "LEVEL": 82,
+        "RATE": 30,
+        "REQUIRE_MIN": 8,
+        "REQUIRE_MAX": 10,
+        "DURATION": 37140,
+        "DERBY_POINT": 1639
+      },
+      {
+        "TARGET": "R46",
+        "LEVEL": 84,
+        "RATE": 30,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 84360,
+        "DERBY_POINT": 1679
+      },
+      {
+        "TARGET": "R47",
+        "LEVEL": 85,
+        "RATE": 30,
+        "REQUIRE_MIN": 5,
+        "REQUIRE_MAX": 6,
+        "DURATION": 57600,
+        "DERBY_POINT": 1699
+      },
+      {
+        "TARGET": "R48",
+        "LEVEL": 87,
+        "RATE": 30,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 72000,
+        "DERBY_POINT": 1739
+      },
+      {
+        "TARGET": "R49",
+        "LEVEL": 88,
+        "RATE": 30,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 60180,
+        "DERBY_POINT": 1759
+      },
+      {
+        "TARGET": "R50",
+        "LEVEL": 89,
+        "RATE": 30,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 105480,
+        "DERBY_POINT": 1779
+      },
+      {
+        "TARGET": "R51",
+        "LEVEL": 90,
+        "RATE": 30,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 72240,
+        "DERBY_POINT": 1799
+      },
+      {
+        "TARGET": "R52",
+        "LEVEL": 90,
+        "RATE": 30,
+        "REQUIRE_MIN": 9,
+        "REQUIRE_MAX": 11,
+        "DURATION": 139980,
+        "DERBY_POINT": 1799
+      },
+      {
+        "TARGET": "R53",
+        "LEVEL": 91,
+        "RATE": 30,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 37140,
+        "DERBY_POINT": 1819
+      },
+      {
+        "TARGET": "R54",
+        "LEVEL": 94,
+        "RATE": 30,
+        "REQUIRE_MIN": 8,
+        "REQUIRE_MAX": 10,
+        "DURATION": 70380,
+        "DERBY_POINT": 1879
+      },
+      {
+        "TARGET": "R55",
+        "LEVEL": 97,
+        "RATE": 30,
+        "REQUIRE_MIN": 12,
+        "REQUIRE_MAX": 14,
+        "DURATION": 61860,
+        "DERBY_POINT": 1939
+      },
+      {
+        "TARGET": "R56",
+        "LEVEL": 98,
+        "RATE": 30,
+        "REQUIRE_MIN": 8,
+        "REQUIRE_MAX": 10,
+        "DURATION": 71280,
+        "DERBY_POINT": 1959
+      },
+      {
+        "TARGET": "R57",
+        "LEVEL": 98,
+        "RATE": 30,
+        "REQUIRE_MIN": 5,
+        "REQUIRE_MAX": 6,
+        "DURATION": 72240,
+        "DERBY_POINT": 1959
+      },
+      {
+        "TARGET": "R58",
+        "LEVEL": 100,
+        "RATE": 30,
+        "REQUIRE_MIN": 9,
+        "REQUIRE_MAX": 11,
+        "DURATION": 168000,
+        "DERBY_POINT": 1999
+      },
+      {
+        "TARGET": "R59",
+        "LEVEL": 101,
+        "RATE": 30,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 90000,
+        "DERBY_POINT": 2019
+      },
+      {
+        "TARGET": "R60",
+        "LEVEL": 102,
+        "RATE": 30,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 87960,
+        "DERBY_POINT": 2039
+      },
+      {
+        "TARGET": "R61",
+        "LEVEL": 103,
+        "RATE": 30,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 46440,
+        "DERBY_POINT": 2059
+      },
+      {
+        "TARGET": "R62",
+        "LEVEL": 104,
+        "RATE": 30,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 112500,
+        "DERBY_POINT": 2079
+      },
+      {
+        "TARGET": "R63",
+        "LEVEL": 105,
+        "RATE": 30,
+        "REQUIRE_MIN": 5,
+        "REQUIRE_MAX": 6,
+        "DURATION": 57600,
+        "DERBY_POINT": 2099
+      },
+      {
+        "TARGET": "R64",
+        "LEVEL": 106,
+        "RATE": 35,
+        "REQUIRE_MIN": 11,
+        "REQUIRE_MAX": 13,
+        "DURATION": 92820,
+        "DERBY_POINT": 2119
+      },
+      {
+        "TARGET": "R65",
+        "LEVEL": 107,
+        "RATE": 35,
+        "REQUIRE_MIN": 8,
+        "REQUIRE_MAX": 10,
+        "DURATION": 140640,
+        "DERBY_POINT": 2139
+      },
+      {
+        "TARGET": "R66",
+        "LEVEL": 109,
+        "RATE": 35,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 69120,
+        "DERBY_POINT": 2179
+      },
+      {
+        "TARGET": "R67",
+        "LEVEL": 111,
+        "RATE": 35,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 82920,
+        "DERBY_POINT": 2219
+      },
+      {
+        "TARGET": "R68",
+        "LEVEL": 113,
+        "RATE": 35,
+        "REQUIRE_MIN": 10,
+        "REQUIRE_MAX": 12,
+        "DURATION": 89100,
+        "DERBY_POINT": 2259
+      },
+      {
+        "TARGET": "R69",
+        "LEVEL": 114,
+        "RATE": 35,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 109980,
+        "DERBY_POINT": 2279
+      },
+      {
+        "TARGET": "R70",
+        "LEVEL": 115,
+        "RATE": 35,
+        "REQUIRE_MIN": 7,
+        "REQUIRE_MAX": 8,
+        "DURATION": 99480,
+        "DERBY_POINT": 2299
+      },
+      {
+        "TARGET": "R71",
+        "LEVEL": 117,
+        "RATE": 35,
+        "REQUIRE_MIN": 8,
+        "REQUIRE_MAX": 10,
+        "DURATION": 175800,
+        "DERBY_POINT": 2339
+      },
+      {
+        "TARGET": "R72",
+        "LEVEL": 120,
+        "RATE": 35,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 119400,
+        "DERBY_POINT": 2399
+      },
+      {
+        "TARGET": "R73",
+        "LEVEL": 122,
+        "RATE": 35,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 131880,
+        "DERBY_POINT": 2439
+      },
+      {
+        "TARGET": "R74",
+        "LEVEL": 124,
+        "RATE": 35,
+        "REQUIRE_MIN": 9,
+        "REQUIRE_MAX": 11,
+        "DURATION": 149280,
+        "DERBY_POINT": 2479
+      },
+      {
+        "TARGET": "R75",
+        "LEVEL": 126,
+        "RATE": 35,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 137460,
+        "DERBY_POINT": 2519
+      },
+      {
+        "TARGET": "R76",
+        "LEVEL": 128,
+        "RATE": 35,
+        "REQUIRE_MIN": 9,
+        "REQUIRE_MAX": 11,
+        "DURATION": 186600,
+        "DERBY_POINT": 2559
+      },
+      {
+        "TARGET": "R77",
+        "LEVEL": 135,
+        "RATE": 35,
+        "REQUIRE_MIN": 10,
+        "REQUIRE_MAX": 12,
+        "DURATION": 233280,
+        "DERBY_POINT": 2699
+      }
+    ],
+    "ACTION_COIN_CONSUME": [
+      {
+        "LEVEL": 11,
+        "RATE": 100,
+        "REQUIRE_MIN": 1800,
+        "REQUIRE_MAX": 2160,
+        "DURATION": 518400,
+        "DERBY_POINT": 50
+      }
+    ],
+    "ACTION_CLOUD_SKIN": [
+      {
+        "LEVEL": 23,
+        "RATE": 100,
+        "REQUIRE_MIN": 5,
+        "REQUIRE_MAX": 6,
+        "DURATION": 129600,
+        "DERBY_POINT": 4000
+      }
+    ],
+    "ACTION_DAILY_LOGIN": [
+      {
+        "LEVEL": 7,
+        "RATE": 100,
+        "REQUIRE_MIN": 3,
+        "REQUIRE_MAX": 5,
+        "DURATION": 0,
+        "DERBY_POINT": 2650
+      }
+    ],
+    "ACTION_DICE_SPIN": [
+      {
+        "LEVEL": 17,
+        "RATE": 100,
+        "REQUIRE_MIN": 11,
+        "REQUIRE_MAX": 13,
+        "DURATION": 302400,
+        "DERBY_POINT": 1600
+      }
+    ],
+    "ACTION_FRIEND_VISIT": [
+      {
+        "LEVEL": 6,
+        "RATE": 100,
+        "REQUIRE_MIN": 0,
+        "REQUIRE_MAX": 0,
+        "DURATION": 0,
+        "DERBY_POINT": 0
+      }
+    ],
+    "ACTION_MACHINE_UPGRADE": [
+      {
+        "LEVEL": 10,
+        "RATE": 100,
+        "REQUIRE_MIN": 2,
+        "REQUIRE_MAX": 3,
+        "DURATION": 0,
+        "DERBY_POINT": 60000
+      }
+    ],
+    "ACTION_MACHINE_REPAIR": [
+      {
+        "LEVEL": 7,
+        "RATE": 100,
+        "REQUIRE_MIN": 30,
+        "REQUIRE_MAX": 36,
+        "DURATION": 129600,
+        "DERBY_POINT": 150
+      }
+    ],
+    "ACTION_TRUCK_PACK": [
+      {
+        "LEVEL": 9,
+        "RATE": 100,
+        "REQUIRE_MIN": 75,
+        "REQUIRE_MAX": 90,
+        "DURATION": 216000,
+        "DERBY_POINT": 350
+      }
+    ],
+    "ACTION_PLANT": [
+      {
+        "TARGET": "T1",
+        "LEVEL": 1,
+        "RATE": 10,
+        "REQUIRE_MIN": 720,
+        "REQUIRE_MAX": 1080,
+        "DURATION": 7200,
+        "DERBY_POINT": 5
+      },
+      {
+        "TARGET": "T2",
+        "LEVEL": 6,
+        "RATE": 10,
+        "REQUIRE_MIN": 528,
+        "REQUIRE_MAX": 792,
+        "DURATION": 7920,
+        "DERBY_POINT": 30
+      },
+      {
+        "TARGET": "T3",
+        "LEVEL": 9,
+        "RATE": 10,
+        "REQUIRE_MIN": 175,
+        "REQUIRE_MAX": 263,
+        "DURATION": 8760,
+        "DERBY_POINT": 45
+      },
+      {
+        "TARGET": "T4",
+        "LEVEL": 12,
+        "RATE": 10,
+        "REQUIRE_MIN": 128,
+        "REQUIRE_MAX": 160,
+        "DURATION": 9600,
+        "DERBY_POINT": 60
+      },
+      {
+        "TARGET": "T5",
+        "LEVEL": 15,
+        "RATE": 15,
+        "REQUIRE_MIN": 106,
+        "REQUIRE_MAX": 133,
+        "DURATION": 10560,
+        "DERBY_POINT": 75
+      },
+      {
+        "TARGET": "T6",
+        "LEVEL": 17,
+        "RATE": 15,
+        "REQUIRE_MIN": 93,
+        "REQUIRE_MAX": 116,
+        "DURATION": 11640,
+        "DERBY_POINT": 85
+      },
+      {
+        "TARGET": "T7",
+        "LEVEL": 20,
+        "RATE": 15,
+        "REQUIRE_MIN": 73,
+        "REQUIRE_MAX": 91,
+        "DURATION": 12840,
+        "DERBY_POINT": 100
+      },
+      {
+        "TARGET": "T8",
+        "LEVEL": 25,
+        "RATE": 15,
+        "REQUIRE_MIN": 63,
+        "REQUIRE_MAX": 79,
+        "DURATION": 14160,
+        "DERBY_POINT": 125
+      },
+      {
+        "TARGET": "T9",
+        "LEVEL": 33,
+        "RATE": 20,
+        "REQUIRE_MIN": 52,
+        "REQUIRE_MAX": 65,
+        "DURATION": 15600,
+        "DERBY_POINT": 165
+      },
+      {
+        "TARGET": "T10",
+        "LEVEL": 35,
+        "RATE": 20,
+        "REQUIRE_MIN": 49,
+        "REQUIRE_MAX": 61,
+        "DURATION": 17160,
+        "DERBY_POINT": 175
+      },
+      {
+        "TARGET": "T11",
+        "LEVEL": 37,
+        "RATE": 20,
+        "REQUIRE_MIN": 47,
+        "REQUIRE_MAX": 59,
+        "DURATION": 18840,
+        "DERBY_POINT": 185
+      },
+      {
+        "TARGET": "T12",
+        "LEVEL": 40,
+        "RATE": 20,
+        "REQUIRE_MIN": 49,
+        "REQUIRE_MAX": 61,
+        "DURATION": 20760,
+        "DERBY_POINT": 200
+      },
+      {
+        "TARGET": "T13",
+        "LEVEL": 46,
+        "RATE": 25,
+        "REQUIRE_MIN": 51,
+        "REQUIRE_MAX": 64,
+        "DURATION": 22800,
+        "DERBY_POINT": 230
+      },
+      {
+        "TARGET": "T14",
+        "LEVEL": 49,
+        "RATE": 25,
+        "REQUIRE_MIN": 48,
+        "REQUIRE_MAX": 60,
+        "DURATION": 25080,
+        "DERBY_POINT": 245
+      },
+      {
+        "TARGET": "T15",
+        "LEVEL": 58,
+        "RATE": 25,
+        "REQUIRE_MIN": 46,
+        "REQUIRE_MAX": 58,
+        "DURATION": 27600,
+        "DERBY_POINT": 290
+      },
+      {
+        "TARGET": "T16",
+        "LEVEL": 62,
+        "RATE": 25,
+        "REQUIRE_MIN": 40,
+        "REQUIRE_MAX": 50,
+        "DURATION": 30360,
+        "DERBY_POINT": 310
+      },
+      {
+        "TARGET": "T17",
+        "LEVEL": 74,
+        "RATE": 30,
+        "REQUIRE_MIN": 37,
+        "REQUIRE_MAX": 46,
+        "DURATION": 33360,
+        "DERBY_POINT": 370
+      },
+      {
+        "TARGET": "T18",
+        "LEVEL": 83,
+        "RATE": 30,
+        "REQUIRE_MIN": 35,
+        "REQUIRE_MAX": 44,
+        "DURATION": 36720,
+        "DERBY_POINT": 415
+      },
+      {
+        "TARGET": "T19",
+        "LEVEL": 95,
+        "RATE": 30,
+        "REQUIRE_MIN": 34,
+        "REQUIRE_MAX": 43,
+        "DURATION": 40440,
+        "DERBY_POINT": 475
+      },
+      {
+        "TARGET": "T20",
+        "LEVEL": 106,
+        "RATE": 30,
+        "REQUIRE_MIN": 33,
+        "REQUIRE_MAX": 41,
+        "DURATION": 44520,
+        "DERBY_POINT": 530
+      }
+    ],
+    "ACTION_LUCKY_SPIN": [
+      {
+        "LEVEL": 14,
+        "RATE": 100,
+        "REQUIRE_MIN": 18,
+        "REQUIRE_MAX": 22,
+        "DURATION": 259200,
+        "DERBY_POINT": 1600
+      }
+    ],
+    "ACTION_FRIEND_SEND_REQUEST": [
+      {
+        "LEVEL": 7,
+        "RATE": 100,
+        "REQUIRE_MIN": 0,
+        "REQUIRE_MAX": 0,
+        "DURATION": 0,
+        "DERBY_POINT": 0
+      }
+    ],
+    "ACTION_TOM_BUY": [
+      {
+        "LEVEL": 12,
+        "RATE": 100,
+        "REQUIRE_MIN": 1,
+        "REQUIRE_MAX": 2,
+        "DURATION": 0,
+        "DERBY_POINT": 16000
+      }
+    ],
+    "ACTION_FRIEND_ACCEPTED_REQUEST": [
+      {
+        "LEVEL": 7,
+        "RATE": 100,
+        "REQUIRE_MIN": 0,
+        "REQUIRE_MAX": 0,
+        "DURATION": 0,
+        "DERBY_POINT": 0
+      }
+    ],
+    "ACTION_AIRSHIP_FRIEND_PACK": [
+      {
+        "LEVEL": 10,
+        "RATE": 100,
+        "REQUIRE_MIN": 69,
+        "REQUIRE_MAX": 83,
+        "DURATION": 216000,
+        "DERBY_POINT": 400
+      }
+    ],
+    "ACTION_TRUCK_DELIVERY": [
+      {
+        "LEVEL": 10,
+        "RATE": 100,
+        "REQUIRE_MIN": 10,
+        "REQUIRE_MAX": 12,
+        "DURATION": 172800,
+        "DERBY_POINT": 1600
+      }
+    ],
+    "ACTION_MAKE_POT": [
+      {
+        "LEVEL": 80,
+        "RATE": 100,
+        "REQUIRE_MIN": 1,
+        "REQUIRE_MAX": 1,
+        "DURATION": 0,
+        "DERBY_POINT": 600000
+      }
+    ],
+    "ACTION_PLANT_HARVEST": [
+      {
+        "TARGET": "T1",
+        "LEVEL": 1,
+        "RATE": 10,
+        "REQUIRE_MIN": 720,
+        "REQUIRE_MAX": 1080,
+        "DURATION": 7200,
+        "DERBY_POINT": 5
+      },
+      {
+        "TARGET": "T2",
+        "LEVEL": 6,
+        "RATE": 10,
+        "REQUIRE_MIN": 528,
+        "REQUIRE_MAX": 792,
+        "DURATION": 7920,
+        "DERBY_POINT": 30
+      },
+      {
+        "TARGET": "T3",
+        "LEVEL": 9,
+        "RATE": 10,
+        "REQUIRE_MIN": 175,
+        "REQUIRE_MAX": 263,
+        "DURATION": 8760,
+        "DERBY_POINT": 45
+      },
+      {
+        "TARGET": "T4",
+        "LEVEL": 12,
+        "RATE": 10,
+        "REQUIRE_MIN": 128,
+        "REQUIRE_MAX": 160,
+        "DURATION": 9600,
+        "DERBY_POINT": 60
+      },
+      {
+        "TARGET": "T5",
+        "LEVEL": 15,
+        "RATE": 15,
+        "REQUIRE_MIN": 106,
+        "REQUIRE_MAX": 133,
+        "DURATION": 10560,
+        "DERBY_POINT": 75
+      },
+      {
+        "TARGET": "T6",
+        "LEVEL": 17,
+        "RATE": 15,
+        "REQUIRE_MIN": 93,
+        "REQUIRE_MAX": 116,
+        "DURATION": 11640,
+        "DERBY_POINT": 85
+      },
+      {
+        "TARGET": "T7",
+        "LEVEL": 20,
+        "RATE": 15,
+        "REQUIRE_MIN": 73,
+        "REQUIRE_MAX": 91,
+        "DURATION": 12840,
+        "DERBY_POINT": 100
+      },
+      {
+        "TARGET": "T8",
+        "LEVEL": 25,
+        "RATE": 15,
+        "REQUIRE_MIN": 63,
+        "REQUIRE_MAX": 79,
+        "DURATION": 14160,
+        "DERBY_POINT": 125
+      },
+      {
+        "TARGET": "T9",
+        "LEVEL": 33,
+        "RATE": 20,
+        "REQUIRE_MIN": 52,
+        "REQUIRE_MAX": 65,
+        "DURATION": 15600,
+        "DERBY_POINT": 165
+      },
+      {
+        "TARGET": "T10",
+        "LEVEL": 35,
+        "RATE": 20,
+        "REQUIRE_MIN": 49,
+        "REQUIRE_MAX": 61,
+        "DURATION": 17160,
+        "DERBY_POINT": 175
+      },
+      {
+        "TARGET": "T11",
+        "LEVEL": 37,
+        "RATE": 20,
+        "REQUIRE_MIN": 47,
+        "REQUIRE_MAX": 59,
+        "DURATION": 18840,
+        "DERBY_POINT": 185
+      },
+      {
+        "TARGET": "T12",
+        "LEVEL": 40,
+        "RATE": 20,
+        "REQUIRE_MIN": 49,
+        "REQUIRE_MAX": 61,
+        "DURATION": 20760,
+        "DERBY_POINT": 200
+      },
+      {
+        "TARGET": "T13",
+        "LEVEL": 46,
+        "RATE": 25,
+        "REQUIRE_MIN": 51,
+        "REQUIRE_MAX": 64,
+        "DURATION": 22800,
+        "DERBY_POINT": 230
+      },
+      {
+        "TARGET": "T14",
+        "LEVEL": 49,
+        "RATE": 25,
+        "REQUIRE_MIN": 48,
+        "REQUIRE_MAX": 60,
+        "DURATION": 25080,
+        "DERBY_POINT": 245
+      },
+      {
+        "TARGET": "T15",
+        "LEVEL": 58,
+        "RATE": 25,
+        "REQUIRE_MIN": 46,
+        "REQUIRE_MAX": 58,
+        "DURATION": 27600,
+        "DERBY_POINT": 290
+      },
+      {
+        "TARGET": "T16",
+        "LEVEL": 62,
+        "RATE": 25,
+        "REQUIRE_MIN": 40,
+        "REQUIRE_MAX": 50,
+        "DURATION": 30360,
+        "DERBY_POINT": 310
+      },
+      {
+        "TARGET": "T17",
+        "LEVEL": 74,
+        "RATE": 30,
+        "REQUIRE_MIN": 37,
+        "REQUIRE_MAX": 46,
+        "DURATION": 33360,
+        "DERBY_POINT": 370
+      },
+      {
+        "TARGET": "T18",
+        "LEVEL": 83,
+        "RATE": 30,
+        "REQUIRE_MIN": 35,
+        "REQUIRE_MAX": 44,
+        "DURATION": 36720,
+        "DERBY_POINT": 415
+      },
+      {
+        "TARGET": "T19",
+        "LEVEL": 95,
+        "RATE": 30,
+        "REQUIRE_MIN": 34,
+        "REQUIRE_MAX": 43,
+        "DURATION": 40440,
+        "DERBY_POINT": 475
+      },
+      {
+        "TARGET": "T20",
+        "LEVEL": 106,
+        "RATE": 30,
+        "REQUIRE_MIN": 33,
+        "REQUIRE_MAX": 41,
+        "DURATION": 44520,
+        "DERBY_POINT": 530
+      }
+    ],
+    "ACTION_MINE_START": [
+      {
+        "LEVEL": 30,
+        "RATE": 100,
+        "REQUIRE_MIN": 12,
+        "REQUIRE_MAX": 14,
+        "DURATION": 172800,
+        "DERBY_POINT": 600
+      }
+    ],
+    "ACTION_AIRSHIP_PACK": [
+      {
+        "LEVEL": 9,
+        "RATE": 100,
+        "REQUIRE_MIN": 82,
+        "REQUIRE_MAX": 98,
+        "DURATION": 259200,
+        "DERBY_POINT": 400
+      }
+    ],
+    "ACTION_AIRSHIP_REQUEST_HELP": [
+      {
+        "LEVEL": 9,
+        "RATE": 100,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 60479,
+        "DERBY_POINT": 350
+      }
+    ],
+    "ACTION_STOCK_UPGRADE": [
+      {
+        "LEVEL": 10,
+        "RATE": 100,
+        "REQUIRE_MIN": 1,
+        "REQUIRE_MAX": 2,
+        "DURATION": 0,
+        "DERBY_POINT": 16000
+      }
+    ],
+    "ACTION_PRIVATE_SHOP_PUT": [
+      {
+        "LEVEL": 6,
+        "RATE": 100,
+        "REQUIRE_MIN": 100,
+        "REQUIRE_MAX": 120,
+        "DURATION": 86400,
+        "DERBY_POINT": 150
+      }
+    ],
+    "ACTION_PLANT_CATCH_BUG": [
+      {
+        "LEVEL": 6,
+        "RATE": 100,
+        "REQUIRE_MIN": 60,
+        "REQUIRE_MAX": 72,
+        "DURATION": 216000,
+        "DERBY_POINT": 200
+      }
+    ],
+    "ACTION_AIRSHIP_DELIVERY": [
+      {
+        "LEVEL": 10,
+        "RATE": 100,
+        "REQUIRE_MIN": 7,
+        "REQUIRE_MAX": 8,
+        "DURATION": 259200,
+        "DERBY_POINT": 3200
+      }
+    ],
+    "ACTION_ORDER_DAILY_DELIVERY": [
+      {
+        "LEVEL": 10,
+        "RATE": 100,
+        "REQUIRE_MIN": 18,
+        "REQUIRE_MAX": 27,
+        "DURATION": 0,
+        "DERBY_POINT": 400
+      }
+    ],
+    "ACTION_MACHINE_HARVEST": [
+      {
+        "TARGET": "R0",
+        "LEVEL": 2,
+        "RATE": 10,
+        "REQUIRE_MIN": 30,
+        "REQUIRE_MAX": 36,
+        "DURATION": 5400,
+        "DERBY_POINT": 40
+      },
+      {
+        "TARGET": "R1",
+        "LEVEL": 6,
+        "RATE": 10,
+        "REQUIRE_MIN": 20,
+        "REQUIRE_MAX": 24,
+        "DURATION": 5400,
+        "DERBY_POINT": 120
+      },
+      {
+        "TARGET": "R2",
+        "LEVEL": 8,
+        "RATE": 10,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 5400,
+        "DERBY_POINT": 160
+      },
+      {
+        "TARGET": "R3",
+        "LEVEL": 9,
+        "RATE": 10,
+        "REQUIRE_MIN": 8,
+        "REQUIRE_MAX": 10,
+        "DURATION": 7200,
+        "DERBY_POINT": 180
+      },
+      {
+        "TARGET": "R4",
+        "LEVEL": 13,
+        "RATE": 10,
+        "REQUIRE_MIN": 8,
+        "REQUIRE_MAX": 10,
+        "DURATION": 8100,
+        "DERBY_POINT": 260
+      },
+      {
+        "TARGET": "R5",
+        "LEVEL": 14,
+        "RATE": 20,
+        "REQUIRE_MIN": 9,
+        "REQUIRE_MAX": 11,
+        "DURATION": 12240,
+        "DERBY_POINT": 280
+      },
+      {
+        "TARGET": "R6",
+        "LEVEL": 16,
+        "RATE": 20,
+        "REQUIRE_MIN": 5,
+        "REQUIRE_MAX": 6,
+        "DURATION": 6750,
+        "DERBY_POINT": 320
+      },
+      {
+        "TARGET": "R7",
+        "LEVEL": 18,
+        "RATE": 20,
+        "REQUIRE_MIN": 9,
+        "REQUIRE_MAX": 11,
+        "DURATION": 12180,
+        "DERBY_POINT": 359
+      },
+      {
+        "TARGET": "R8",
+        "LEVEL": 19,
+        "RATE": 20,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 6750,
+        "DERBY_POINT": 380
+      },
+      {
+        "TARGET": "R9",
+        "LEVEL": 20,
+        "RATE": 20,
+        "REQUIRE_MIN": 9,
+        "REQUIRE_MAX": 11,
+        "DURATION": 20820,
+        "DERBY_POINT": 399
+      },
+      {
+        "TARGET": "A0",
+        "LEVEL": 23,
+        "RATE": 35,
+        "REQUIRE_MIN": 9,
+        "REQUIRE_MAX": 11,
+        "DURATION": 25200,
+        "DERBY_POINT": 459
+      },
+      {
+        "TARGET": "R10",
+        "LEVEL": 24,
+        "RATE": 20,
+        "REQUIRE_MIN": 9,
+        "REQUIRE_MAX": 11,
+        "DURATION": 18300,
+        "DERBY_POINT": 479
+      },
+      {
+        "TARGET": "A1",
+        "LEVEL": 25,
+        "RATE": 35,
+        "REQUIRE_MIN": 7,
+        "REQUIRE_MAX": 8,
+        "DURATION": 30240,
+        "DERBY_POINT": 499
+      },
+      {
+        "TARGET": "A2",
+        "LEVEL": 27,
+        "RATE": 35,
+        "REQUIRE_MIN": 7,
+        "REQUIRE_MAX": 8,
+        "DURATION": 36300,
+        "DERBY_POINT": 540
+      },
+      {
+        "TARGET": "R11",
+        "LEVEL": 28,
+        "RATE": 20,
+        "REQUIRE_MIN": 7,
+        "REQUIRE_MAX": 8,
+        "DURATION": 18300,
+        "DERBY_POINT": 559
+      },
+      {
+        "TARGET": "R12",
+        "LEVEL": 29,
+        "RATE": 20,
+        "REQUIRE_MIN": 5,
+        "REQUIRE_MAX": 6,
+        "DURATION": 35400,
+        "DERBY_POINT": 579
+      },
+      {
+        "TARGET": "R13",
+        "LEVEL": 30,
+        "RATE": 20,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 10140,
+        "DERBY_POINT": 599
+      },
+      {
+        "TARGET": "A3",
+        "LEVEL": 33,
+        "RATE": 35,
+        "REQUIRE_MIN": 5,
+        "REQUIRE_MAX": 6,
+        "DURATION": 43560,
+        "DERBY_POINT": 660
+      },
+      {
+        "TARGET": "R14",
+        "LEVEL": 34,
+        "RATE": 25,
+        "REQUIRE_MIN": 5,
+        "REQUIRE_MAX": 6,
+        "DURATION": 10140,
+        "DERBY_POINT": 680
+      },
+      {
+        "TARGET": "R15",
+        "LEVEL": 35,
+        "RATE": 25,
+        "REQUIRE_MIN": 5,
+        "REQUIRE_MAX": 6,
+        "DURATION": 12660,
+        "DERBY_POINT": 699
+      },
+      {
+        "TARGET": "R16",
+        "LEVEL": 35,
+        "RATE": 25,
+        "REQUIRE_MIN": 10,
+        "REQUIRE_MAX": 12,
+        "DURATION": 27480,
+        "DERBY_POINT": 699
+      },
+      {
+        "TARGET": "R17",
+        "LEVEL": 36,
+        "RATE": 25,
+        "REQUIRE_MIN": 8,
+        "REQUIRE_MAX": 10,
+        "DURATION": 16200,
+        "DERBY_POINT": 719
+      },
+      {
+        "TARGET": "R18",
+        "LEVEL": 37,
+        "RATE": 25,
+        "REQUIRE_MIN": 5,
+        "REQUIRE_MAX": 6,
+        "DURATION": 12660,
+        "DERBY_POINT": 739
+      },
+      {
+        "TARGET": "R19",
+        "LEVEL": 38,
+        "RATE": 25,
+        "REQUIRE_MIN": 9,
+        "REQUIRE_MAX": 11,
+        "DURATION": 27480,
+        "DERBY_POINT": 759
+      },
+      {
+        "TARGET": "R20",
+        "LEVEL": 40,
+        "RATE": 25,
+        "REQUIRE_MIN": 8,
+        "REQUIRE_MAX": 10,
+        "DURATION": 24300,
+        "DERBY_POINT": 799
+      },
+      {
+        "TARGET": "A4",
+        "LEVEL": 41,
+        "RATE": 35,
+        "REQUIRE_MIN": 5,
+        "REQUIRE_MAX": 6,
+        "DURATION": 52260,
+        "DERBY_POINT": 819
+      },
+      {
+        "TARGET": "R21",
+        "LEVEL": 42,
+        "RATE": 25,
+        "REQUIRE_MIN": 9,
+        "REQUIRE_MAX": 11,
+        "DURATION": 36480,
+        "DERBY_POINT": 839
+      },
+      {
+        "TARGET": "R22",
+        "LEVEL": 43,
+        "RATE": 25,
+        "REQUIRE_MIN": 5,
+        "REQUIRE_MAX": 6,
+        "DURATION": 15840,
+        "DERBY_POINT": 859
+      },
+      {
+        "TARGET": "R23",
+        "LEVEL": 44,
+        "RATE": 25,
+        "REQUIRE_MIN": 12,
+        "REQUIRE_MAX": 14,
+        "DURATION": 41220,
+        "DERBY_POINT": 879
+      },
+      {
+        "TARGET": "R24",
+        "LEVEL": 48,
+        "RATE": 25,
+        "REQUIRE_MIN": 11,
+        "REQUIRE_MAX": 13,
+        "DURATION": 41220,
+        "DERBY_POINT": 959
+      },
+      {
+        "TARGET": "R25",
+        "LEVEL": 49,
+        "RATE": 25,
+        "REQUIRE_MIN": 11,
+        "REQUIRE_MAX": 13,
+        "DURATION": 36480,
+        "DERBY_POINT": 979
+      },
+      {
+        "TARGET": "R26",
+        "LEVEL": 50,
+        "RATE": 25,
+        "REQUIRE_MIN": 5,
+        "REQUIRE_MAX": 6,
+        "DURATION": 15840,
+        "DERBY_POINT": 999
+      },
+      {
+        "TARGET": "R27",
+        "LEVEL": 51,
+        "RATE": 25,
+        "REQUIRE_MIN": 7,
+        "REQUIRE_MAX": 8,
+        "DURATION": 18000,
+        "DERBY_POINT": 1019
+      },
+      {
+        "TARGET": "R28",
+        "LEVEL": 52,
+        "RATE": 25,
+        "REQUIRE_MIN": 10,
+        "REQUIRE_MAX": 12,
+        "DURATION": 36000,
+        "DERBY_POINT": 1039
+      },
+      {
+        "TARGET": "A5",
+        "LEVEL": 53,
+        "RATE": 35,
+        "REQUIRE_MIN": 5,
+        "REQUIRE_MAX": 6,
+        "DURATION": 62700,
+        "DERBY_POINT": 1059
+      },
+      {
+        "TARGET": "R29",
+        "LEVEL": 54,
+        "RATE": 25,
+        "REQUIRE_MIN": 10,
+        "REQUIRE_MAX": 12,
+        "DURATION": 54000,
+        "DERBY_POINT": 1079
+      },
+      {
+        "TARGET": "A6",
+        "LEVEL": 55,
+        "RATE": 35,
+        "REQUIRE_MIN": 5,
+        "REQUIRE_MAX": 6,
+        "DURATION": 75240,
+        "DERBY_POINT": 1099
+      },
+      {
+        "TARGET": "R30",
+        "LEVEL": 56,
+        "RATE": 25,
+        "REQUIRE_MIN": 9,
+        "REQUIRE_MAX": 11,
+        "DURATION": 81000,
+        "DERBY_POINT": 1119
+      },
+      {
+        "TARGET": "R31",
+        "LEVEL": 59,
+        "RATE": 25,
+        "REQUIRE_MIN": 8,
+        "REQUIRE_MAX": 10,
+        "DURATION": 81000,
+        "DERBY_POINT": 1179
+      },
+      {
+        "TARGET": "R32",
+        "LEVEL": 60,
+        "RATE": 25,
+        "REQUIRE_MIN": 10,
+        "REQUIRE_MAX": 12,
+        "DURATION": 45600,
+        "DERBY_POINT": 1199
+      },
+      {
+        "TARGET": "R33",
+        "LEVEL": 61,
+        "RATE": 30,
+        "REQUIRE_MIN": 7,
+        "REQUIRE_MAX": 8,
+        "DURATION": 23760,
+        "DERBY_POINT": 1219
+      },
+      {
+        "TARGET": "R34",
+        "LEVEL": 63,
+        "RATE": 30,
+        "REQUIRE_MIN": 8,
+        "REQUIRE_MAX": 10,
+        "DURATION": 43200,
+        "DERBY_POINT": 1259
+      },
+      {
+        "TARGET": "R35",
+        "LEVEL": 65,
+        "RATE": 30,
+        "REQUIRE_MIN": 7,
+        "REQUIRE_MAX": 8,
+        "DURATION": 60180,
+        "DERBY_POINT": 1299
+      },
+      {
+        "TARGET": "R36",
+        "LEVEL": 66,
+        "RATE": 30,
+        "REQUIRE_MIN": 7,
+        "REQUIRE_MAX": 8,
+        "DURATION": 54000,
+        "DERBY_POINT": 1319
+      },
+      {
+        "TARGET": "R37",
+        "LEVEL": 69,
+        "RATE": 30,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 67500,
+        "DERBY_POINT": 1379
+      },
+      {
+        "TARGET": "R38",
+        "LEVEL": 70,
+        "RATE": 30,
+        "REQUIRE_MIN": 8,
+        "REQUIRE_MAX": 10,
+        "DURATION": 97200,
+        "DERBY_POINT": 1399
+      },
+      {
+        "TARGET": "R39",
+        "LEVEL": 73,
+        "RATE": 30,
+        "REQUIRE_MIN": 9,
+        "REQUIRE_MAX": 11,
+        "DURATION": 36000,
+        "DERBY_POINT": 1459
+      },
+      {
+        "TARGET": "R40",
+        "LEVEL": 74,
+        "RATE": 30,
+        "REQUIRE_MIN": 8,
+        "REQUIRE_MAX": 10,
+        "DURATION": 57000,
+        "DERBY_POINT": 1479
+      },
+      {
+        "TARGET": "R41",
+        "LEVEL": 76,
+        "RATE": 30,
+        "REQUIRE_MIN": 7,
+        "REQUIRE_MAX": 8,
+        "DURATION": 29700,
+        "DERBY_POINT": 1519
+      },
+      {
+        "TARGET": "R42",
+        "LEVEL": 77,
+        "RATE": 30,
+        "REQUIRE_MIN": 8,
+        "REQUIRE_MAX": 10,
+        "DURATION": 45000,
+        "DERBY_POINT": 1539
+      },
+      {
+        "TARGET": "R43",
+        "LEVEL": 80,
+        "RATE": 30,
+        "REQUIRE_MIN": 9,
+        "REQUIRE_MAX": 11,
+        "DURATION": 116640,
+        "DERBY_POINT": 1599
+      },
+      {
+        "TARGET": "R44",
+        "LEVEL": 81,
+        "RATE": 30,
+        "REQUIRE_MIN": 7,
+        "REQUIRE_MAX": 8,
+        "DURATION": 56280,
+        "DERBY_POINT": 1619
+      },
+      {
+        "TARGET": "R45",
+        "LEVEL": 82,
+        "RATE": 30,
+        "REQUIRE_MIN": 8,
+        "REQUIRE_MAX": 10,
+        "DURATION": 37140,
+        "DERBY_POINT": 1639
+      },
+      {
+        "TARGET": "R46",
+        "LEVEL": 84,
+        "RATE": 30,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 84360,
+        "DERBY_POINT": 1679
+      },
+      {
+        "TARGET": "R47",
+        "LEVEL": 85,
+        "RATE": 30,
+        "REQUIRE_MIN": 5,
+        "REQUIRE_MAX": 6,
+        "DURATION": 57600,
+        "DERBY_POINT": 1699
+      },
+      {
+        "TARGET": "R48",
+        "LEVEL": 87,
+        "RATE": 30,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 72000,
+        "DERBY_POINT": 1739
+      },
+      {
+        "TARGET": "R49",
+        "LEVEL": 88,
+        "RATE": 30,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 60180,
+        "DERBY_POINT": 1759
+      },
+      {
+        "TARGET": "R50",
+        "LEVEL": 89,
+        "RATE": 30,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 105480,
+        "DERBY_POINT": 1779
+      },
+      {
+        "TARGET": "R51",
+        "LEVEL": 90,
+        "RATE": 30,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 72240,
+        "DERBY_POINT": 1799
+      },
+      {
+        "TARGET": "R52",
+        "LEVEL": 90,
+        "RATE": 30,
+        "REQUIRE_MIN": 9,
+        "REQUIRE_MAX": 11,
+        "DURATION": 139980,
+        "DERBY_POINT": 1799
+      },
+      {
+        "TARGET": "R53",
+        "LEVEL": 91,
+        "RATE": 30,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 37140,
+        "DERBY_POINT": 1819
+      },
+      {
+        "TARGET": "R54",
+        "LEVEL": 94,
+        "RATE": 30,
+        "REQUIRE_MIN": 8,
+        "REQUIRE_MAX": 10,
+        "DURATION": 70380,
+        "DERBY_POINT": 1879
+      },
+      {
+        "TARGET": "R55",
+        "LEVEL": 97,
+        "RATE": 30,
+        "REQUIRE_MIN": 12,
+        "REQUIRE_MAX": 14,
+        "DURATION": 61860,
+        "DERBY_POINT": 1939
+      },
+      {
+        "TARGET": "R56",
+        "LEVEL": 98,
+        "RATE": 30,
+        "REQUIRE_MIN": 8,
+        "REQUIRE_MAX": 10,
+        "DURATION": 71280,
+        "DERBY_POINT": 1959
+      },
+      {
+        "TARGET": "R57",
+        "LEVEL": 98,
+        "RATE": 30,
+        "REQUIRE_MIN": 5,
+        "REQUIRE_MAX": 6,
+        "DURATION": 72240,
+        "DERBY_POINT": 1959
+      },
+      {
+        "TARGET": "R58",
+        "LEVEL": 100,
+        "RATE": 30,
+        "REQUIRE_MIN": 9,
+        "REQUIRE_MAX": 11,
+        "DURATION": 168000,
+        "DERBY_POINT": 1999
+      },
+      {
+        "TARGET": "R59",
+        "LEVEL": 101,
+        "RATE": 30,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 90000,
+        "DERBY_POINT": 2019
+      },
+      {
+        "TARGET": "R60",
+        "LEVEL": 102,
+        "RATE": 30,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 87960,
+        "DERBY_POINT": 2039
+      },
+      {
+        "TARGET": "R61",
+        "LEVEL": 103,
+        "RATE": 30,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 46440,
+        "DERBY_POINT": 2059
+      },
+      {
+        "TARGET": "R62",
+        "LEVEL": 104,
+        "RATE": 30,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 112500,
+        "DERBY_POINT": 2079
+      },
+      {
+        "TARGET": "R63",
+        "LEVEL": 105,
+        "RATE": 30,
+        "REQUIRE_MIN": 5,
+        "REQUIRE_MAX": 6,
+        "DURATION": 57600,
+        "DERBY_POINT": 2099
+      },
+      {
+        "TARGET": "R64",
+        "LEVEL": 106,
+        "RATE": 35,
+        "REQUIRE_MIN": 11,
+        "REQUIRE_MAX": 13,
+        "DURATION": 92820,
+        "DERBY_POINT": 2119
+      },
+      {
+        "TARGET": "R65",
+        "LEVEL": 107,
+        "RATE": 35,
+        "REQUIRE_MIN": 8,
+        "REQUIRE_MAX": 10,
+        "DURATION": 140640,
+        "DERBY_POINT": 2139
+      },
+      {
+        "TARGET": "R66",
+        "LEVEL": 109,
+        "RATE": 35,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 69120,
+        "DERBY_POINT": 2179
+      },
+      {
+        "TARGET": "R67",
+        "LEVEL": 111,
+        "RATE": 35,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 82920,
+        "DERBY_POINT": 2219
+      },
+      {
+        "TARGET": "R68",
+        "LEVEL": 113,
+        "RATE": 35,
+        "REQUIRE_MIN": 10,
+        "REQUIRE_MAX": 12,
+        "DURATION": 89100,
+        "DERBY_POINT": 2259
+      },
+      {
+        "TARGET": "R69",
+        "LEVEL": 114,
+        "RATE": 35,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 109980,
+        "DERBY_POINT": 2279
+      },
+      {
+        "TARGET": "R70",
+        "LEVEL": 115,
+        "RATE": 35,
+        "REQUIRE_MIN": 7,
+        "REQUIRE_MAX": 8,
+        "DURATION": 99480,
+        "DERBY_POINT": 2299
+      },
+      {
+        "TARGET": "R71",
+        "LEVEL": 117,
+        "RATE": 35,
+        "REQUIRE_MIN": 8,
+        "REQUIRE_MAX": 10,
+        "DURATION": 175800,
+        "DERBY_POINT": 2339
+      },
+      {
+        "TARGET": "R72",
+        "LEVEL": 120,
+        "RATE": 35,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 119400,
+        "DERBY_POINT": 2399
+      },
+      {
+        "TARGET": "R73",
+        "LEVEL": 122,
+        "RATE": 35,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 131880,
+        "DERBY_POINT": 2439
+      },
+      {
+        "TARGET": "R74",
+        "LEVEL": 124,
+        "RATE": 35,
+        "REQUIRE_MIN": 9,
+        "REQUIRE_MAX": 11,
+        "DURATION": 149280,
+        "DERBY_POINT": 2479
+      },
+      {
+        "TARGET": "R75",
+        "LEVEL": 126,
+        "RATE": 35,
+        "REQUIRE_MIN": 6,
+        "REQUIRE_MAX": 7,
+        "DURATION": 137460,
+        "DERBY_POINT": 2519
+      },
+      {
+        "TARGET": "R76",
+        "LEVEL": 128,
+        "RATE": 35,
+        "REQUIRE_MIN": 9,
+        "REQUIRE_MAX": 11,
+        "DURATION": 186600,
+        "DERBY_POINT": 2559
+      },
+      {
+        "TARGET": "R77",
+        "LEVEL": 135,
+        "RATE": 35,
+        "REQUIRE_MIN": 10,
+        "REQUIRE_MAX": 12,
+        "DURATION": 233280,
+        "DERBY_POINT": 2699
+      }
+    ],
+    "ACTION_TOM_FIND": [
+      {
+        "LEVEL": 12,
+        "RATE": 100,
+        "REQUIRE_MIN": 10,
+        "REQUIRE_MAX": 12,
+        "DURATION": 172800,
+        "DERBY_POINT": 550
+      }
+    ],
+    "ACTION_FRIEND_BUG_CATCH": [
+      {
+        "LEVEL": 7,
+        "RATE": 100,
+        "REQUIRE_MIN": 60,
+        "REQUIRE_MAX": 72,
+        "DURATION": 216000,
+        "DERBY_POINT": 250
+      }
+    ]
+  }
+}

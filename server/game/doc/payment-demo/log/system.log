@@ -1,0 +1,5 @@
+ INFO [main] 2016-09-07 16:16:09,362 PaymentInfo.java (line 54) getHMacString 7|Android_1473239769145|pmqc|1473239769145|it002.Color 50K.50000.1|hGDzoaHutx6mUjy3UMps_A
+ INFO [main] 2016-09-07 16:16:11,724 RegSms.java (line 44) {"smsServicePhones":{"servicePhone":"9029","smsSyntax":"VNG DPAY NAP15 201609070000058","amount":15000},"zmpTransID":160907000002005,"returnCode":1,"returnMessage":"Giao dịch đang xử lý!"}
+ INFO [main] 2016-09-07 16:16:11,728 RegSms.java (line 54) Giao dịch đang xử lý!
+ INFO [main] 2016-09-07 16:16:11,728 RegSms.java (line 55) 9029
+ INFO [main] 2016-09-07 16:16:11,728 RegSms.java (line 56) VNG DPAY NAP15 201609070000058

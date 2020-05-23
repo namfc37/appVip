@@ -1,0 +1,22 @@
+{
+    "build": "dev",
+    "balancer": {
+        "http": "http://127.0.0.1:8000/getWorker?env=dev",
+        "https": "https://localhost:8300/getWorker?env=dev"
+    },
+    "useTestVerifyGoogle": true,
+    "chatInfo": {
+        "ip": "127.0.0.1",
+        "port": 8003,
+        "domain": "localhost",
+        "portWebSocket": 8303
+    },
+    "gameInfo": [
+        {
+            "ip": "127.0.0.1",
+            "port": 8001,
+            "domain": "localhost",
+            "portWebSocket": 8301
+        }
+    ]
+}

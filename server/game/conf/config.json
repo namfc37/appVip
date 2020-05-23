@@ -1,0 +1,98 @@
+{
+    "zone": "vn",    
+    "environment": "LOCAL",        
+    "extendMemcached": "conf/couchbase.json",
+    "extendRedis": "conf/redis.json",
+    "logAddNewLine": false,
+    "minClientCode": 776,
+    "user": {
+        "portRange": 8000,
+        "portWebSocketRange": 8300,
+        "portAdminRange": 9000,
+        "useLoginPortal": false,
+        "useJsonPretty": true,
+        "periodSave": 120,
+        "groups": [1, 2]
+    },
+    "udp": {
+        "portRange": 8200,
+        "sndBuf": 8388608,
+        "rcvBuf": 8388608
+    },
+    "admin": {
+        "portRange": 8100,
+        "group": 11
+    },
+    "newsBoard": {
+        "host": "127.0.0.1",
+        "group": 12,
+        "periodSave": 20,
+        "itemPerKey": 5000
+    },
+	"friend": {
+        "host": "127.0.0.1",
+        "group": 13,
+        "periodSave": 300,
+        "itemPerKey": 5000,
+        "itemPerLevel": 5000
+    },
+    "balance": {
+        "host": "127.0.0.1",
+        "group": 0,
+        "period": 1000,
+        "timeout": 1500
+    },
+    "chat": {
+        "host": "127.0.0.1",
+        "group": 3,
+        "useLoginPortal": false,
+        "periodSave": 120
+    },
+    "payment": {
+		"useServiceCheckLocalPayment": false,
+        "directMobile": {
+            "id": 181,
+            "key1": "NCwenhd7wJLm6PHP",		
+            "urlSubmitCard": "http://127.0.0.1/billing/test/fakePayment/vnSubmitCard.php",
+            "urlRegSms": "http://127.0.0.1/billing/test/fakePayment/vnRegSms.php",
+            "urlRegAtm": "http://127.0.0.1/billing/test/fakePayment/vnRegAtm.php",
+            "urlRedirect": "https://kvtm.vn",		
+            "connectTimeout": 5,
+            "idleTime": 30
+        },
+        "iap": {		
+            "urlValidate": "http://127.0.0.1/billing/test/fakePayment/vnVerifyGoogle.php",		
+            "serviceName": "verify_receipt_google",
+            "expireDay": 7,
+            "connectTimeout": 5,
+            "idleTime": 30
+        },
+        "brazil": {
+			"productId": 50048,
+			"key": "GsnPokerSea&$1",
+			"urlCreate": "http://35.247.248.165:8080/payment/createpwtransaction",
+			"urlProcess": "http://35.247.248.165:8080/payment/processpwpayment/",
+            "urlGetPaymentFlow": "http://118.102.3.28:10099/payment/getpaymentflow/",
+            "urlGetTransaction": "http://118.102.3.28:10099/payment/gettransaction/",
+			"connectTimeout": 5,
+            "idleTime": 30,
+			"percentNetGross": 70
+		},
+        "sea": {
+			"productId": 50020,
+			"key": "GsnPokerSea&$1",
+			"urlGetPhone": "http://118.102.3.28:10099/payment/getphonenumberlist",
+			"urlCreate": "http://118.102.3.28:10099/payment/getTransaction",
+			"urlProcess": "http://118.102.3.28:10099/payment/verifyOtp",
+			"connectTimeout": 5,
+            "idleTime": 30,
+			"percentNetGross": 70
+		}
+    },
+    "mapIP": {
+        "": {
+            "ip": "127.0.0.1",
+            "domain": "localhost"        
+        }
+    }
+}

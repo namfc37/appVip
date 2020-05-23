@@ -1,0 +1,28 @@
+{
+	"build": "release",
+    "balancer": {
+        "http": "http://49.213.101.66:8000/getWorker?env=live",
+        "https": "https://kvtm-1-game.service.zingplay.com:8300/getWorker?env=live"
+    },
+    "useTestVerifyGoogle": false,
+    "chatInfo": {
+        "ip": "49.213.101.67",
+        "port": 8003,
+        "domain": "kvtm-2-game.service.zingplay.com",
+        "portWebSocket": 8303
+    },
+    "gameInfo": [
+        {
+            "ip": "49.213.101.66",
+            "port": 8001,
+            "domain": "kvtm-1-game.service.zingplay.com",
+            "portWebSocket": 8301
+        },
+        {
+            "ip": "49.213.101.67",
+            "port": 8001,
+            "domain": "kvtm-2-game.service.zingplay.com",
+            "portWebSocket": 8301
+        }
+    ]
+}

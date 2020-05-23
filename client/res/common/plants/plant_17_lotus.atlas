@@ -1,0 +1,125 @@
+
+plant_17_lotus.png
+size: 205,203
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cuc_new_021
+  rotate: false
+  xy: 89, 18
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+marker
+  rotate: false
+  xy: 173, 112
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+sen_000
+  rotate: true
+  xy: 68, 45
+  size: 67, 23
+  orig: 67, 23
+  offset: 0, 0
+  index: -1
+sen_002
+  rotate: false
+  xy: 2, 114
+  size: 103, 87
+  orig: 103, 87
+  offset: 0, 0
+  index: -1
+sen_003
+  rotate: false
+  xy: 116, 91
+  size: 55, 23
+  orig: 55, 23
+  offset: 0, 0
+  index: -1
+sen_004
+  rotate: false
+  xy: 89, 30
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+sen_005
+  rotate: false
+  xy: 116, 66
+  size: 55, 23
+  orig: 55, 23
+  offset: 0, 0
+  index: -1
+sen_006
+  rotate: true
+  xy: 93, 44
+  size: 68, 21
+  orig: 68, 21
+  offset: 0, 0
+  index: -1
+sen_007
+  rotate: false
+  xy: 2, 9
+  size: 64, 29
+  orig: 64, 29
+  offset: 0, 0
+  index: -1
+sen_008
+  rotate: true
+  xy: 178, 112
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+sen_009
+  rotate: false
+  xy: 107, 160
+  size: 85, 41
+  orig: 85, 41
+  offset: 0, 0
+  index: -1
+sen_010
+  rotate: false
+  xy: 2, 40
+  size: 64, 72
+  orig: 64, 72
+  offset: 0, 0
+  index: -1
+sen_011
+  rotate: false
+  xy: 68, 11
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+sen_012
+  rotate: true
+  xy: 116, 24
+  size: 21, 46
+  orig: 21, 46
+  offset: 0, 0
+  index: -1
+sen_013
+  rotate: true
+  xy: 116, 47
+  size: 17, 52
+  orig: 17, 52
+  offset: 0, 0
+  index: -1
+sen_014
+  rotate: false
+  xy: 107, 116
+  size: 69, 42
+  orig: 69, 42
+  offset: 0, 0
+  index: -1
+sen_015
+  rotate: false
+  xy: 173, 70
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
